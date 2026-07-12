@@ -4,6 +4,7 @@ import { Command } from 'commander';
 import { join } from 'path';
 import { KeyManager } from './core/KeyManager.js';
 import { Registry } from './core/Registry.js';
+import { ProgressTracker } from './core/ProgressTracker.js';
 import { runInventory } from './scanners/Inventory.js';
 import { runSuperHard } from './scanners/SuperHard.js';
 import { SINGLE_TYPES } from './types/dadata.js';
@@ -21,7 +22,7 @@ program
 // ── harvest ──────────────────────────────────────────────────
 program
   .command('harvest')
-  .description('Полный сбор с нуля: инвентаризация + SuperHard для MS/RS + остальные типы')
+  .description('Полный сбор с нуля: инвентаризация + SuperHard + одиночные типы')
   .action(async () => {
     const km = new KeyManager();
     try {
@@ -31,61 +32,74 @@ program
       process.exit(1);
     }
 
+    const tracker = new ProgressTracker(km);
     const registry = new Registry(DATA_DIR);
 
-    // Фаза 0: RRTT-инвентаризация
-    const trackReq = () => km.trackRequest();
-    await runInventory(km.getClient(), registry, trackReq);
-    const invStats = registry.getStats();
-    console.log(`   → known: ${invStats.known}, empty: ${invStats.empty}, courts: ${invStats.totalCourts}`);
+    console.log(`🌾 CourtHarvest2 · ${new Date().toLocaleString('ru-RU')}\n`);
 
-    // Фаза 1: SuperHard для MS/RS
-    console.log('\n📦 Фаза 1: SuperHard для MS/RS');
+    // ── Фаза 0: RRTT-инвентаризация ──────────────────────────
+    const invTimer = Date.now();
+    await runInventory(tracker, registry);
+    const invStats = registry.getStats();
+    console.log(`   known: ${invStats.known}, empty: ${invStats.empty}, courts: ${invStats.totalCourts}\n`);
+
+    // ── Фаза 1: SuperHard MS/RS ──────────────────────────────
     await runSuperHard({ dataDir: DATA_DIR, keyManager: km, registry });
 
-    // Продолжаем той же сессией ключей
-    console.log('\n📦 Фаза 2: Одиночные типы (OS, AS, GV, …)');
+    // ── Фаза 2: Одиночные типы ──────────────────────────────
     const singlePrefixes = Object.keys(registry.known).filter(p => {
       const type = p.slice(2, 4);
       return SINGLE_TYPES.includes(type as any);
     });
 
-    for (const prefix of singlePrefixes) {
-      try {
-        const client = km.getClient();
-        console.log(`  ${prefix}: запрос 1 суда`);
-        const resp = await client.suggestCourt(`${prefix}0000`, { count: 1 });
-        if (resp.suggestions.length > 0) {
-          const court = resp.suggestions[0].data;
-          registry.updateMeta(prefix, {
-            count: 1, min: 0, max: 0, scanned: true,
-          });
-          console.log(`    ✅ ${court.code}: ${court.name}`);
+    if (singlePrefixes.length > 0) {
+      tracker.begin('Фаза 2: одиночные типы', singlePrefixes.length);
+
+      for (const prefix of singlePrefixes) {
+        try {
+          const client = tracker.getClient();
+          const resp = await client.suggestCourt(`${prefix}0000`, { count: 1 });
+          if (resp.suggestions.length > 0) {
+            const court = resp.suggestions[0].data;
+            registry.updateMeta(prefix, {
+              count: 1, min: 0, max: 0, scanned: true,
+            });
+            tracker.addFound(1);
+            console.log(`   ✅ ${court.code}: ${court.name}`);
+          }
+          await tracker.trackRequest();
+        } catch (e: any) {
+          console.log(`   ⚠️  ${prefix}: ${e.message} — остальные пропущены`);
+          break;
         }
-        await km.trackRequest();
-      } catch (e: any) {
-        console.log(`    ⚠️  Нет доступа к API для ${prefix}: ${e.message}`);
-        break;
+        tracker.tick();
       }
+
+      tracker.end();
     }
 
+    // ── Итоги ────────────────────────────────────────────────
     await km.shutdown();
 
-    const stats = registry.getStats();
-    console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-    console.log('📊 Итоги harvest:');
-    console.log(`   Префиксов known:  ${stats.known}`);
-    console.log(`   Префиксов empty:  ${stats.empty}`);
-    console.log(`   Всего судов:      ${stats.totalCourts}`);
-    console.log(`   Отсканировано:    ${stats.scanned}/${stats.known}`);
-    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+    const final = registry.getStats();
+    const totalTime = ((Date.now() - invTimer) / 1000 / 60).toFixed(1);
+
+    console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+    console.log('📊 ИТОГИ HARVEST');
+    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+    console.log(`   ⏱  Общее время:         ${totalTime} мин`);
+    console.log(`   🏛  Всего судов:          ${final.totalCourts}`);
+    console.log(`   📋 Префиксов known:      ${final.known}`);
+    console.log(`   🔳 Префиксов empty:      ${final.empty}`);
+    console.log(`   ✅ Отсканировано:        ${final.scanned}/${final.known}`);
+    console.log(`   💳 ${tracker.statusLine()}`);
+    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
   });
 
 // ── superhard ────────────────────────────────────────────────
 program
   .command('superhard')
   .description('Тотальное сканирование MS/RS по 100 блокам')
-  .option('-t, --types <types>', 'Типы через запятую (по умолчанию MS,RS)', 'MS,RS')
   .action(async () => {
     const km = new KeyManager();
     try {
@@ -103,8 +117,7 @@ program
 
     await runSuperHard({ dataDir: DATA_DIR, keyManager: km, registry });
     await km.shutdown();
-
-    console.log(`\n💾 Данные сохранены в ${DATA_DIR}`);
+    console.log(`💾 Данные сохранены в ${DATA_DIR}\n`);
   });
 
 // ── stats ────────────────────────────────────────────────────
@@ -118,8 +131,7 @@ program
     console.log(`   Known prefixes:  ${stats.known}`);
     console.log(`   Empty prefixes:  ${stats.empty}`);
     console.log(`   Total courts:    ${stats.totalCourts}`);
-    console.log(`   Scanned:         ${stats.scanned}/${stats.known}`);
-    console.log('');
+    console.log(`   Scanned:         ${stats.scanned}/${stats.known}\n`);
 
     if (stats.known > 0) {
       console.log('📋 Known prefixes:');

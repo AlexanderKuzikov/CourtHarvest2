@@ -1,130 +1,87 @@
 import { writeFileSync, mkdirSync } from 'fs';
 import { join } from 'path';
-import { ApiClient } from '../core/ApiClient.js';
-import { Registry, PrefixMeta } from '../core/Registry.js';
+import { ProgressTracker } from '../core/ProgressTracker.js';
 import { CourtData } from '../types/dadata.js';
 
 export interface ScanResult {
-  prefix: string;
-  knownBefore: number;
-  found: number;
-  requests: number;
+  prefix: string; knownBefore: number; found: number; requests: number;
 }
-
-/**
- * Блочный перебор префикса RRTT.
- *
- * Делит диапазон [0000–9999] на 100 блоков (RRTT00–RRTT99).
- * Каждый блок = 100 кодов, DaData возвращает до 20 подсказок.
- * Блоки, вернувшие ровно 20, углубляются до 10 блоков второго уровня.
- */
 
 const BLOCKS = Array.from({ length: 100 }, (_, i) => String(i).padStart(2, '0'));
 
-export interface BlockScanOptions {
-  dataDir: string;
-  onProgress?: (prefix: string, block: number, total: number) => void;
-  trackRequest?: () => Promise<boolean>;
-}
-
+/**
+ * Блочный перебор префикса RRTT.
+ * 100 блоков (RRTT00–RRTT99) + углубление горячих.
+ */
 export async function scanPrefix(
-  getClient: () => ApiClient,
-  registry: Registry,
+  tracker: ProgressTracker,
   prefix: string,
-  options: BlockScanOptions,
+  dataDir: string,
 ): Promise<ScanResult> {
-  const knownBefore = registry.known[prefix]?.count ?? 0;
-  let totalFound = 0;
-  let totalRequests = 0;
   const courts: CourtData[] = [];
-
-  console.log(`\n📋 ${prefix}: сканирование 100 блоков`);
+  let totalRequests = 0;
+  let barBlock = 0;
+  let bar = '';
 
   for (let bi = 0; bi < BLOCKS.length; bi++) {
     const block = BLOCKS[bi];
-    const query = prefix + block; // RRTT00 … RRTT99
-    options.onProgress?.(prefix, bi + 1, BLOCKS.length);
+    const query = prefix + block;
 
     totalRequests++;
-    if (options.trackRequest) await options.trackRequest();
-    const client = getClient();
+    await tracker.trackRequest();
+    const client = tracker.getClient();
     const resp = await client.suggestCourt(query, { count: 20 });
     const results = resp.suggestions.map(s => s.data);
-    const added = addNewCourts(courts, results);
-    totalFound += added;
+    addNewCourts(courts, results);
 
-    // Если блок «горячий» (ровно 20) — углубляемся до 3 цифр
     if (results.length === 20) {
-      const deepened = await deepenBlock(getClient, prefix, block, courts, options.trackRequest);
-      totalFound += deepened.added;
+      const deepened = await deepenBlock(tracker, prefix, block, courts);
       totalRequests += deepened.requests;
     }
 
-    if (results.length > 0 || added > 0) {
-      process.stdout.write('█');
-    } else {
-      process.stdout.write('·');
-    }
+    bar += results.length > 0 ? '█' : '·';
+    barBlock++;
 
-    if ((bi + 1) % 25 === 0) process.stdout.write(` ${bi + 1}/100\n`);
+    if (barBlock % 25 === 0 || bi === BLOCKS.length - 1) {
+      console.log(`   ${bar} ${bi + 1}/100`);
+      bar = '';
+    }
   }
 
-  // Обновляем registry
-  const nums = courts.map(c => parseInt(c.code.slice(4), 10));
-  const meta: PrefixMeta = {
-    min: nums.length > 0 ? Math.min(...nums) : 0,
-    max: nums.length > 0 ? Math.max(...nums) : 0,
-    count: courts.length,
-    scanned: true,
-    updated: new Date().toISOString(),
-  };
-  registry.markKnown(prefix, meta);
+  // Сохраняем в файл
+  savePrefixData(dataDir, prefix, courts);
 
-  // Сохраняем данные префикса
-  savePrefixData(options.dataDir, prefix, courts);
+  tracker.addFound(courts.length);
 
-  console.log(`\n✅ ${prefix}: было ${knownBefore}, найдено ${courts.length}, запросов ${totalRequests}`);
-
-  return { prefix, knownBefore, found: courts.length, requests: totalRequests };
+  return { prefix, knownBefore: 0, found: courts.length, requests: totalRequests };
 }
 
-/**
- * Углубление горячего блока: RRTTAB → RRTTAB0 … RRTTAB9.
- */
 async function deepenBlock(
-  getClient: () => ApiClient,
+  tracker: ProgressTracker,
   prefix: string,
   block: string,
   courts: CourtData[],
-  trackRequest?: () => Promise<boolean>,
-): Promise<{ added: number; requests: number }> {
-  let added = 0;
+): Promise<{ requests: number }> {
   let requests = 0;
-
   for (let d = 0; d <= 9; d++) {
-    const query = prefix + block + d; // RRTTAB0 … RRTTAB9
+    const query = prefix + block + d;
     requests++;
-    if (trackRequest) await trackRequest();
-    const client = getClient();
+    await tracker.trackRequest();
+    const client = tracker.getClient();
     const resp = await client.suggestCourt(query, { count: 20 });
-    const results = resp.suggestions.map(s => s.data);
-    added += addNewCourts(courts, results);
+    addNewCourts(courts, resp.suggestions.map(s => s.data));
   }
-
-  return { added, requests };
+  return { requests };
 }
 
-function addNewCourts(storage: CourtData[], candidates: CourtData[]): number {
-  let added = 0;
+function addNewCourts(storage: CourtData[], candidates: CourtData[]): void {
   const codes = new Set(storage.map(c => c.code));
   for (const c of candidates) {
     if (c.code && !codes.has(c.code)) {
       storage.push(c);
       codes.add(c.code);
-      added++;
     }
   }
-  return added;
 }
 
 function savePrefixData(dataDir: string, prefix: string, courts: CourtData[]): void {

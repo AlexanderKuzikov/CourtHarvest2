@@ -1,78 +1,77 @@
-import { ApiClient } from '../core/ApiClient.js';
 import { Registry } from '../core/Registry.js';
+import { ProgressTracker } from '../core/ProgressTracker.js';
 import { ALL_COURT_TYPES } from '../types/dadata.js';
 
 const REGIONS = Array.from({ length: 99 }, (_, i) => String(i + 1).padStart(2, '0'));
 
+const TOTAL = REGIONS.length * ALL_COURT_TYPES.length; // 1 386
+
 export interface InventoryResult {
-  total: number;
-  found: number;
-  empty: number;
-  requests: number;
+  total: number; found: number; empty: number; requests: number;
 }
 
 /**
  * Фаза 0: RRTT-инвентаризация.
  * Проверяет все 99×14 = 1 386 комбинаций регион+тип.
- * Каждый существующий префикс заносится в registry.known,
- * каждый пустой — в registry.empty.
  */
 export async function runInventory(
-  client: ApiClient,
+  tracker: ProgressTracker,
   registry: Registry,
-  trackRequest?: () => Promise<boolean>,
 ): Promise<InventoryResult> {
-  console.log('\n🔍 Фаза 0: RRTT-инвентаризация\n');
+  tracker.begin('Фаза 0: RRTT-инвентаризация', TOTAL);
 
   let found = 0;
   let empty = 0;
   let requests = 0;
+  let bar = '';
 
   for (const region of REGIONS) {
     for (const type of ALL_COURT_TYPES) {
       const prefix = region + type;
 
-      // Уже известен
       if (registry.hasPrefix(prefix)) {
         if (registry.isKnown(prefix)) found++;
         else empty++;
+        tracker.tick();
         continue;
       }
 
-      // Probe: запрос RRTT (без номера) — если есть хоть 1 suggestion, префикс существует
       requests++;
-      if (trackRequest) await trackRequest();
+      await tracker.trackRequest();
+      const client = tracker.getClient();
       const resp = await client.suggestCourt(prefix, { count: 1 });
 
       if (resp.suggestions.length > 0) {
-        // Собираем начальную информацию из первого же результата
         const court = resp.suggestions[0].data;
         const code = court.code;
         const num = code.length >= 8 ? parseInt(code.slice(4), 10) : 0;
         registry.markKnown(prefix, {
-          min: num,
-          max: num,
-          count: 1,
-          scanned: false,
+          min: num, max: num, count: 1, scanned: false,
           updated: new Date().toISOString(),
         });
         found++;
-        process.stdout.write('📌');
+        bar += '📌';
       } else {
         registry.markEmpty(prefix);
         empty++;
-        process.stdout.write('·');
+        bar += '·';
       }
 
-      if ((found + empty) % 50 === 0) {
-        process.stdout.write(` ${found + empty}/${REGIONS.length * ALL_COURT_TYPES.length}\n`);
+      const done = found + empty;
+      if (done % 50 === 0) {
+        console.log(`   ${bar}  ${done}/${TOTAL}`);
+        bar = '';
       }
+
+      tracker.tick(1, undefined);
     }
   }
 
-  const total = REGIONS.length * ALL_COURT_TYPES.length;
-  console.log(`\n\n✅ Инвентаризация: ${total} комбинаций`);
-  console.log(`   Существует: ${found}, пусто: ${empty}, запросов: ${requests}`);
+  if (bar) console.log(`   ${bar}  ${TOTAL}/${TOTAL}`);
 
-  return { total, found, empty, requests };
+  tracker.end();
+  console.log(`   📊 known: ${found}, empty: ${empty}, запросов: ${requests}`);
+  console.log(`   ${tracker.statusLine()}\n`);
+
+  return { total: TOTAL, found, empty, requests };
 }
