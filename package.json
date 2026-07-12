@@ -1,0 +1,30 @@
+{
+  "name": "courtharvest2",
+  "version": "0.1.0",
+  "description": "🌾 Сбор и поддержание эталонного справочника судов РФ через DaData API",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "harvest": "tsx src/index.ts harvest",
+    "superhard": "tsx src/index.ts superhard"
+  },
+  "keywords": ["dadata", "courts", "russia", "harvester"],
+  "author": "AlexanderKuzikov",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "axios-retry": "^4.5.0",
+    "bottleneck": "^2.19.5",
+    "commander": "^15.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "prettier": "^3.9.5",
+    "tsx": "^4.23.0",
+    "typescript": "^7.0.2"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}
