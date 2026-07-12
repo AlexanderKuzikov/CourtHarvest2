@@ -1,0 +1,202 @@
+[
+  {
+    "code": "39RS0007",
+    "name": "Багратионовский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238420, Калининградская обл, г Багратионовск, ул Утина, д 6",
+    "legal_address": null,
+    "website": "http://bagrationovsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0006",
+    "name": "Балтийский городской суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238520, Калининградская обл, г Балтийск, ул Садовая, д 55",
+    "legal_address": null,
+    "website": "http://baltiysky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0009",
+    "name": "Гвардейский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238210, Калининградская обл, г Гвардейск, пер Центральный, д 3",
+    "legal_address": null,
+    "website": "http://gvardeysky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0010",
+    "name": "Гурьевский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238300, Калининградская обл, г Гурьевск, ул Ленина, зд 11",
+    "legal_address": null,
+    "website": "http://gurievsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0008",
+    "name": "Гусевский городской суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238050, Калининградская обл, г Гусев, ул Московская, д 27",
+    "legal_address": null,
+    "website": "http://gusevsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0011",
+    "name": "Зеленоградский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238326, Калининградская обл, г Зеленоградск, ул Пограничная, д 5А",
+    "legal_address": null,
+    "website": "http://zelenogradsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0012",
+    "name": "Краснознаменский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238730, Калининградская обл, г Краснознаменск, ул Советская, д 34А",
+    "legal_address": null,
+    "website": "http://krasnoznamensky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0001",
+    "name": "Ленинградский районный суд г. Калининграда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "236041, г Калининград, ул А.Невского, д 29",
+    "legal_address": null,
+    "website": "http://leningradsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0004",
+    "name": "Московский районный суд г. Калининграда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "236004, г Калининград, ул Дюнная, д 18А",
+    "legal_address": null,
+    "website": "http://moskovsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0016",
+    "name": "Неманский городской суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238710, Калининградская обл, г Неман, ул Красноармейская, д 7",
+    "legal_address": null,
+    "website": "http://nemansky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0017",
+    "name": "Нестеровский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238010, Калининградская обл, г Нестеров, ул Московская, д 7",
+    "legal_address": null,
+    "website": "http://nesterovsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0013",
+    "name": "Озерский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238120, Калининградская обл, г Озерск, ул Советская, д 30",
+    "legal_address": null,
+    "website": "http://ozersky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0014",
+    "name": "Полесский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238630, Калининградская обл, г Полесск, ул Пионерская, д 4",
+    "legal_address": null,
+    "website": "http://polessky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0015",
+    "name": "Правдинский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238400, Калининградская обл, г Правдинск, ул Торговая, зд 16",
+    "legal_address": null,
+    "website": "http://pravdinsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0021",
+    "name": "Светловский городской суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238340, Калининградская обл, г Светлый, ул Ленина, д 2",
+    "legal_address": null,
+    "website": "http://svetlovsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0020",
+    "name": "Светлогорский городской суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238563, Калининградская обл, г Светлогорск, ул Вокзальная, д 1А",
+    "legal_address": null,
+    "website": "http://svetlogorsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0018",
+    "name": "Славский районный суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238600, Калининградская обл, г Славск, ул Строителей, д 12",
+    "legal_address": null,
+    "website": "http://slavsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0019",
+    "name": "Советский городской суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238750, Калининградская обл, г Советск, ул Алексея Толстого, д 21В",
+    "legal_address": null,
+    "website": "http://sovetsky.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0002",
+    "name": "Центральный районный суд г. Калининграда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "236022, г Калининград, ул Космонавта Леонова, д 24",
+    "legal_address": null,
+    "website": "http://centralny.kln.sudrf.ru"
+  },
+  {
+    "code": "39RS0022",
+    "name": "Черняховский городской суд Калининградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "238150, Калининградская обл, г Черняховск, ул Калинина, д 1",
+    "legal_address": null,
+    "website": "http://cherniahovsky.kln.sudrf.ru"
+  }
+]

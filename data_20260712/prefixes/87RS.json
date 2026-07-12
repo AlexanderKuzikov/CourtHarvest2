@@ -1,0 +1,72 @@
+[
+  {
+    "code": "87RS0001",
+    "name": "Анадырский городской суд Чукотского автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "689000, г Анадырь, ул Отке, д 32А",
+    "legal_address": null,
+    "website": "http://anadyrgor.chao.sudrf.ru"
+  },
+  {
+    "code": "87RS0002",
+    "name": "Анадырский районный суд Чукотского автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "689500, Чукотский АО, пгт Угольные Копи, ул Школьная, д 13",
+    "legal_address": null,
+    "website": "http://anadyr.chao.sudrf.ru"
+  },
+  {
+    "code": "87RS0004",
+    "name": "Билибинский районный суд Чукотского автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "689450, Чукотский АО, г Билибино, ул Ленина, д 24А",
+    "legal_address": null,
+    "website": "http://bilibinsky.chao.sudrf.ru"
+  },
+  {
+    "code": "87RS0005",
+    "name": "Иультинский районный суд Чукотского автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "689202, Чукотский АО, пгт Эгвекинот, ул Комсомольская, стр 4",
+    "legal_address": null,
+    "website": "http://iultinsky.chao.sudrf.ru"
+  },
+  {
+    "code": "87RS0006",
+    "name": "Провиденский районный суд Чукотского автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "689251, Чукотский АО, пгт Провидения, ул Набережная Дежнева, д 49",
+    "legal_address": null,
+    "website": "http://providensky.chao.sudrf.ru"
+  },
+  {
+    "code": "87RS0007",
+    "name": "Чаунский районный суд Чукотского автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "689400, Чукотский АО, г Певек, ул Обручева, д 16/2",
+    "legal_address": null,
+    "website": "http://chaunsky.chao.sudrf.ru"
+  },
+  {
+    "code": "87RS0008",
+    "name": "Чукотский районный суд Чукотского автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "689300, Чукотский АО, с Лаврентия, ул Дежнева, д 44А",
+    "legal_address": null,
+    "website": "http://chukotsky.chao.sudrf.ru"
+  }
+]

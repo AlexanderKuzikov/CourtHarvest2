@@ -1,0 +1,332 @@
+[
+  {
+    "code": "65MS0001",
+    "name": "Судебный участок № 1 Александровск-Сахалинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694420, Сахалинская обл, г Александровск-Сахалинский, ул Комсомольская, д 20",
+    "legal_address": null,
+    "website": "http://1.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0002",
+    "name": "Судебный участок № 2 городского округа Анивского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694030, Сахалинская обл, г Анива, ул Ленина, д 41",
+    "legal_address": null,
+    "website": "http://2.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0003",
+    "name": "Судебный участок № 3 Долинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694051, Сахалинская обл, г Долинск, ул Владивостокская, д 25",
+    "legal_address": null,
+    "website": "http://3.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0004",
+    "name": "Судебный участок № 4 Долинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694051, Сахалинская обл, г Долинск, ул Владивостокская, д 25",
+    "legal_address": null,
+    "website": "http://4.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0005",
+    "name": "Судебный участок № 5 Корсаковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694020, Сахалинская обл, г Корсаков, ул Нагорная, д 57/12",
+    "legal_address": null,
+    "website": "http://5.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0006",
+    "name": "Судебный участок № 6 Корсаковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694020, Сахалинская обл, г Корсаков, ул Нагорная, д 57/12",
+    "legal_address": null,
+    "website": "http://6.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0007",
+    "name": "Судебный участок № 7 Макаровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694140, Сахалинская обл, г Макаров, ул 50 лет Октября, д 17, помещ 33",
+    "legal_address": null,
+    "website": "http://7.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0008",
+    "name": "Судебный участок № 8 Невельского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694740, Сахалинская обл, г Невельск, ул Советская, д 55",
+    "legal_address": null,
+    "website": "http://8.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0009",
+    "name": "Судебный участок № 9 Ногликского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694450, Сахалинская обл, пгт Ноглики, ул Советская, д 42А",
+    "legal_address": null,
+    "website": "http://9.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0010",
+    "name": "Судебный участок № 10 Охинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694496, Сахалинская обл, г Оха, ул Советская, д 31 к 1",
+    "legal_address": null,
+    "website": "http://10.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0011",
+    "name": "Судебный участок № 11 Охинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694496, Сахалинская обл, г Оха, ул Советская, д 31 к 1",
+    "legal_address": null,
+    "website": "http://11.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0012",
+    "name": "Судебный участок № 12 Поронайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694240, Сахалинская обл, г Поронайск, ул Октябрьская, д 77",
+    "legal_address": null,
+    "website": "http://12.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0013",
+    "name": "Судебный участок № 13 Поронайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694240, Сахалинская обл, г Поронайск, ул Октябрьская, д 77",
+    "legal_address": null,
+    "website": "http://13.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0014",
+    "name": "Судебный участок № 14 Смирныховского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694350, Сахалинская обл, пгт Смирных, ул Пирогова, зд 4В",
+    "legal_address": null,
+    "website": "http://14.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0015",
+    "name": "Судебный участок № 15 Тымовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694400, Сахалинская обл, пгт Тымовское, ул Криворучко, д 12",
+    "legal_address": null,
+    "website": "http://15.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0016",
+    "name": "Судебный участок № 16 Томаринского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694820, Сахалинская обл, г Томари, ул Новая, д 5",
+    "legal_address": null,
+    "website": "http://16.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0017",
+    "name": "Судебный участок № 17 Углегорского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694920, Сахалинская обл, г Углегорск, ул Победы, д 144",
+    "legal_address": null,
+    "website": "http://17.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0018",
+    "name": "Судебный участок № 18 Углегорского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694920, Сахалинская обл, г Углегорск, ул Победы, д 144",
+    "legal_address": null,
+    "website": "http://18.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0019",
+    "name": "Судебный участок № 19 Холмского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694620, Сахалинская обл, г Холмск, ул Школьная, д 29",
+    "legal_address": null,
+    "website": "http://19.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0020",
+    "name": "Судебный участок № 20 Холмского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694620, Сахалинская обл, г Холмск, ул Школьная, д 29",
+    "legal_address": null,
+    "website": "http://20.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0021",
+    "name": "Судебный участок № 21 Курильского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694530, Сахалинская обл, г Курильск, ул Сахалинская, д 1 к а",
+    "legal_address": null,
+    "website": "http://21.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0022",
+    "name": "Судебный участок № 22 Северо-Курильского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694550, Сахалинская обл, г Северо-Курильск, ул Парковая, влд 5",
+    "legal_address": null,
+    "website": "http://22.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0023",
+    "name": "Судебный участок № 23 Южно-Курильского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694500, Сахалинская обл, пгт Южно-Курильск, ул 60 лет ВЛКСМ, зд 27",
+    "legal_address": null,
+    "website": "http://23.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0024",
+    "name": "Судебный участок № 24 планировочного района Ново-Александровск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 56А/3",
+    "legal_address": null,
+    "website": "http://24.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0025",
+    "name": "Судебный участок № 25 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 43А",
+    "legal_address": null,
+    "website": "http://25.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0026",
+    "name": "Судебный участок № 26 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 43А",
+    "legal_address": null,
+    "website": "http://26.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0027",
+    "name": "Судебный участок № 27 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 43А",
+    "legal_address": null,
+    "website": "http://27.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0028",
+    "name": "Судебный участок № 28 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 43А",
+    "legal_address": null,
+    "website": "http://28.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0029",
+    "name": "Судебный участок № 29 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 43А",
+    "legal_address": null,
+    "website": "http://29.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0030",
+    "name": "Судебный участок № 30 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693023, г Южно-Сахалинск, ул Комсомольская, д 253",
+    "legal_address": null,
+    "website": "http://30.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0031",
+    "name": "Судебный участок № 31 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 43А",
+    "legal_address": null,
+    "website": "http://31.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0032",
+    "name": "Судебный участок № 32 города Южно-Сахалинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "693020, г Южно-Сахалинск, пр-кт Мира, д 43А",
+    "legal_address": null,
+    "website": "http://32.sah.msudrf.ru"
+  },
+  {
+    "code": "65MS0033",
+    "name": "Судебный участок № 33 Холмского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "694620, Сахалинская обл, г Холмск, ул Школьная, д 29",
+    "legal_address": null,
+    "website": "http://33.sah.msudrf.ru"
+  }
+]

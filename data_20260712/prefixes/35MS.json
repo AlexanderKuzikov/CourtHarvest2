@@ -1,0 +1,682 @@
+[
+  {
+    "code": "35MS0001",
+    "name": "Судебный участок № 1 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://1.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0002",
+    "name": "Судебный участок № 2 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://2.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0003",
+    "name": "Судебный участок № 3 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://3.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0004",
+    "name": "Судебный участок № 4 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://4.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0005",
+    "name": "Судебный участок № 5 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://5.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0006",
+    "name": "Судебный участок № 6 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://6.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0007",
+    "name": "Судебный участок № 7 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://7.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0008",
+    "name": "Судебный участок № 8 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://8.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0009",
+    "name": "Судебный участок № 9 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://9.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0010",
+    "name": "Судебный участок № 10 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://10.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0011",
+    "name": "Судебный участок № 11 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://11.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0012",
+    "name": "Судебный участок № 12 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://12.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0013",
+    "name": "Судебный участок № 13 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://13.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0014",
+    "name": "Судебный участок № 14 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://14.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0015",
+    "name": "Судебный участок № 15 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://15.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0016",
+    "name": "Судебный участок № 16 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://16.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0017",
+    "name": "Судебный участок № 17 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://17.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0018",
+    "name": "Судебный участок № 18 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://18.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0019",
+    "name": "Судебный участок № 19 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://19.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0020",
+    "name": "Судебный участок № 20 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://20.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0021",
+    "name": "Судебный участок № 21 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://21.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0022",
+    "name": "Судебный участок № 22 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://22.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0023",
+    "name": "Судебный участок № 23 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://23.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0024",
+    "name": "Судебный участок № 24 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://24.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0025",
+    "name": "Судебный участок № 25 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://25.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0026",
+    "name": "Судебный участок № 26 Великоустюгского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162391, Вологодская обл, г Великий Устюг, ул Щелкунова, д 35",
+    "legal_address": null,
+    "website": "http://26.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0027",
+    "name": "Судебный участок № 27 Великоустюгского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162391, Вологодская обл, г Великий Устюг, ул Щелкунова, д 35",
+    "legal_address": null,
+    "website": "http://27.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0028",
+    "name": "Судебный участок № 28 Великоустюгского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162391, Вологодская обл, г Великий Устюг, ул Щелкунова, д 35",
+    "legal_address": null,
+    "website": "http://28.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0029",
+    "name": "Судебный участок № 29 Вологодского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://29.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0030",
+    "name": "Судебный участок № 30 Вологодского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://30.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0031",
+    "name": "Судебный участок № 31 Вытегорского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162900, Вологодская обл, г Вытегра, пр-кт Ленина, д 78",
+    "legal_address": null,
+    "website": "http://31.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0032",
+    "name": "Судебный участок № 32 Вытегорского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162900, Вологодская обл, г Вытегра, пр-кт Ленина, д 78",
+    "legal_address": null,
+    "website": "http://32.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0033",
+    "name": "Судебный участок № 33 Грязовецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162000, Вологодская обл, г Грязовец, ул Соколовская, д 34",
+    "legal_address": null,
+    "website": "http://33.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0034",
+    "name": "Судебный участок № 34 Грязовецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162000, Вологодская обл, г Грязовец, ул Соколовская, д 34",
+    "legal_address": null,
+    "website": "http://34.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0035",
+    "name": "Судебный участок № 35 Сокольского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162130, Вологодская обл, г Сокол, ул Советская, д 81",
+    "legal_address": null,
+    "website": "http://35.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0036",
+    "name": "Судебный участок № 36 Сокольского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162130, Вологодская обл, г Сокол, ул Советская, д 81",
+    "legal_address": null,
+    "website": "http://36.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0037",
+    "name": "Судебный участок № 37 Сокольского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162130, Вологодская обл, г Сокол, ул Советская, д 81",
+    "legal_address": null,
+    "website": "http://37.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0038",
+    "name": "Судебный участок № 38 Череповецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://38.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0039",
+    "name": "Судебный участок № 39 Череповецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://39.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0040",
+    "name": "Судебный участок № 40 Шекснинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162562, Вологодская обл, рп Шексна, ул Шлюзовая, д 1",
+    "legal_address": null,
+    "website": "http://40.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0041",
+    "name": "Судебный участок № 41 Шекснинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162562, Вологодская обл, рп Шексна, ул Шлюзовая, д 1",
+    "legal_address": null,
+    "website": "http://41.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0042",
+    "name": "Судебный участок № 42 Бабаевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162482, Вологодская обл, г Бабаево, ул Свердлова, д 54Б",
+    "legal_address": null,
+    "website": "http://42.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0043",
+    "name": "Судебный участок № 43 Бабушкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161350, Вологодская обл, Бабушкинский р-н, с им. Бабушкина, ул Бабушкина, д 48",
+    "legal_address": null,
+    "website": "http://43.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0044",
+    "name": "Судебный участок № 44 Белозерского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161200, Вологодская обл, г Белозерск, пр-кт Советский, д 7",
+    "legal_address": null,
+    "website": "http://44.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0045",
+    "name": "Судебный участок № 45 Вашкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161250, Вологодская обл, с Липин Бор, ул Первомайская, д 10",
+    "legal_address": null,
+    "website": "http://45.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0046",
+    "name": "Судебный участок № 46 Верховажского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162300, Вологодская обл, с Верховажье, ул Стебенева, д 26",
+    "legal_address": null,
+    "website": "http://46.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0047",
+    "name": "Судебный участок № 47 Вожегодского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162160, Вологодская обл, рп Вожега, ул Октябрьская, д 42А",
+    "legal_address": null,
+    "website": "http://47.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0048",
+    "name": "Судебный участок № 48 Кадуйского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162511, Вологодская обл, Кадуйский р-н, рп Кадуй, ул Октябрьская, д 22",
+    "legal_address": null,
+    "website": "http://48.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0049",
+    "name": "Судебный участок № 49 Кирилловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161100, Вологодская обл, г Кириллов, ул Победы, д 22",
+    "legal_address": null,
+    "website": "http://49.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0050",
+    "name": "Судебный участок № 50 Кич-Городецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161400, Вологодская обл, с Кичменгский Городок, ул Первомайская, д 20",
+    "legal_address": null,
+    "website": "http://50.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0051",
+    "name": "Судебный участок № 51 Междуреченского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161050, Вологодская обл, с Шуйское, ул Советская, д 23А",
+    "legal_address": null,
+    "website": "http://51.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0052",
+    "name": "Судебный участок № 52 Никольского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161440, Вологодская обл, г Никольск, пер Заводской, д 1В",
+    "legal_address": null,
+    "website": "http://52.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0053",
+    "name": "Судебный участок № 53 Нюксенского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161380, Вологодская обл, с Нюксеница, ул Советская, д 2",
+    "legal_address": null,
+    "website": "http://53.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0054",
+    "name": "Судебный участок № 54 Сямженского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162220, Вологодская обл, с Сямжа, ул Западная, д 4",
+    "legal_address": null,
+    "website": "http://54.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0055",
+    "name": "Судебный участок № 55 Тарногского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161560, Вологодская обл, с Тарногский Городок, ул Советская, д 3",
+    "legal_address": null,
+    "website": "http://55.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0056",
+    "name": "Судебный участок № 56 Тотемского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161300, Вологодская обл, г Тотьма, ул Садовая, д 45",
+    "legal_address": null,
+    "website": "http://56.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0057",
+    "name": "Судебный участок № 57 Устюженского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162840, Вологодская обл, г Устюжна, пер Терешковой, д 5А",
+    "legal_address": null,
+    "website": "http://57.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0058",
+    "name": "Судебный участок № 58 Усть-Кубинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "161140, Вологодская обл, с Устье, ул Октябрьская, зд 56",
+    "legal_address": null,
+    "website": "http://58.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0059",
+    "name": "Судебный участок № 59 Харовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162250, Вологодская обл, г Харовск, ул Ленинградская, д 41",
+    "legal_address": null,
+    "website": "http://59.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0060",
+    "name": "Судебный участок № 60 Чагодощенского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162400, Вологодская обл, рп Чагода, ул Стекольщиков, д 7А",
+    "legal_address": null,
+    "website": "http://60.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0061",
+    "name": "Судебный участок № 61 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://61.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0062",
+    "name": "Судебный участок № 62 Вологодского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://62.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0063",
+    "name": "Судебный участок № 63 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://63.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0064",
+    "name": "Судебный участок № 64 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://64.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0065",
+    "name": "Судебный участок № 65 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://65.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0066",
+    "name": "Судебный участок № 66 г. Череповца",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "162608, Вологодская обл, г Череповец, ул Металлургов, д 42",
+    "legal_address": null,
+    "website": "http://66.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0067",
+    "name": "Судебный участок № 67 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://67.vld.msudrf.ru"
+  },
+  {
+    "code": "35MS0068",
+    "name": "Судебный участок № 68 г. Вологды",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "160017, г Вологда, ул Ленинградская, д 71Б",
+    "legal_address": null,
+    "website": "http://68.vld.msudrf.ru"
+  }
+]

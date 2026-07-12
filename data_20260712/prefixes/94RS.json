@@ -1,0 +1,312 @@
+[
+  {
+    "code": "94RS0005",
+    "name": "Алчевский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://alchevskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0006",
+    "name": "Антрацитовский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "294613, Респ Луганская Народная, г Антрацит, ул Менжинского, д 8",
+    "legal_address": null,
+    "website": "http://antratsitovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0001",
+    "name": "Артемовский районный суд города Луганска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://artemovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0007",
+    "name": "Беловодский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://belovodskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0008",
+    "name": "Белокуракинский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://belokurakinskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0009",
+    "name": "Брянковский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://bryankovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0002",
+    "name": "Жовтневый районный суд города Луганска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://zhovtnevyy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0003",
+    "name": "Каменнобродский районный суд города Луганска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://kamennobrodsky.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0010",
+    "name": "Кировский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://kirovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0011",
+    "name": "Краснодонский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://krasnodonsky.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0012",
+    "name": "Краснолучский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://krasnoluchskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0013",
+    "name": "Кременской районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://kremenskoy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0004",
+    "name": "Ленинский районный суд города Луганска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://leninskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0014",
+    "name": "Лисичанский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://lisichanskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0015",
+    "name": "Лутугинский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://lutuginskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0016",
+    "name": "Марковский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "292400, Респ Луганская Народная, Марковский р-н, пгт Марковка, пл Октябрьская, д 31",
+    "legal_address": null,
+    "website": "http://markovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0017",
+    "name": "Меловский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://melovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0018",
+    "name": "Новоайдарский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://novoaydarskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0019",
+    "name": "Новопсковский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://novopskovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0020",
+    "name": "Первомайский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://pervomayskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0021",
+    "name": "Перевальский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://perevalskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0023",
+    "name": "Ровеньковский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://rovenkovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0024",
+    "name": "Рубежанский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://rubezhanskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0025",
+    "name": "Сватовский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://svatovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0026",
+    "name": "Свердловский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://sverdlovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0027",
+    "name": "Северодонецкий городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://severodonetskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0028",
+    "name": "Славяносербский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://slavyanoserbskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0029",
+    "name": "Станично-Луганский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stanichno-luganskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0030",
+    "name": "Старобельский районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://starobelskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0031",
+    "name": "Стахановский городской суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stakhanovskiy.lnr.sudrf.ru"
+  },
+  {
+    "code": "94RS0032",
+    "name": "Троицкий районный суд Луганской Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://troitskiy.lnr.sudrf.ru"
+  }
+]

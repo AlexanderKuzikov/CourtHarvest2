@@ -1,0 +1,1672 @@
+[
+  {
+    "code": "24MS0001",
+    "name": "Судебный участок N 1 в Абанском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663740, Красноярский край, п Абан, ул Советская, д 56",
+    "legal_address": null,
+    "website": "https://ms1.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0002",
+    "name": "Судебный участок N 2 в г. Ачинске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662161, Красноярский край, Ачинский р-н, г Ачинск, мкр 5-й, д 3",
+    "legal_address": null,
+    "website": "https://ms2.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0003",
+    "name": "Судебный участок N 3 в г. Ачинске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662161, Красноярский край, Ачинский р-н, г Ачинск, мкр 5-й, д 3",
+    "legal_address": null,
+    "website": "https://ms3.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0004",
+    "name": "Судебный участок N 4 в г. Ачинске и Ачинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662161, Красноярский край, Ачинский р-н, г Ачинск, мкр 5-й, д 3",
+    "legal_address": null,
+    "website": "https://ms4.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0005",
+    "name": "Судебный участок N 5 в г. Ачинске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662161, Красноярский край, Ачинский р-н, г Ачинск, мкр 5-й, д 3",
+    "legal_address": null,
+    "website": "https://ms5.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0006",
+    "name": "Судебный участок N 6 в г. Ачинске и Ачинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662161, Красноярский край, Ачинский р-н, г Ачинск, мкр 5-й, д 3",
+    "legal_address": null,
+    "website": "https://ms6.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0007",
+    "name": "Судебный участок N 7 в Балахтинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662340, пгт. Балахта, ул. Заречная, 34, строение 1",
+    "legal_address": null,
+    "website": "https://ms7.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0008",
+    "name": "Судебный участок N 8 в Березовском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662520, Красноярский край, г Красноярск, гп Березовка, ул Чкалова, зд 19А",
+    "legal_address": null,
+    "website": "https://ms8.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0009",
+    "name": "Судебный участок N 9 в Березовском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662520, Красноярский край, г Красноярск, гп Березовка, ул Чкалова, зд 19А",
+    "legal_address": null,
+    "website": "https://ms9.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0010",
+    "name": "Судебный участок N 10 в Бирилюсском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662120, Красноярский край, с Новобирилюссы, ул Школьная, д 2",
+    "legal_address": null,
+    "website": "https://ms10.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0011",
+    "name": "Судебный участок N 11 в г. Боготоле и Боготольском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662060, Красноярский край, Боготольский р-н, г Боготол, ул Советская, д 55А, помещ 3",
+    "legal_address": null,
+    "website": "https://ms11.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0012",
+    "name": "Судебный участок N 12 в г. Боготоле и Боготольском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662060, Красноярский край, Боготольский р-н, г Боготол, ул Советская, д 55А, помещ 3",
+    "legal_address": null,
+    "website": "https://ms12.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0013",
+    "name": "Судебный участок N 13 в Богучанском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663430, с. Богучаны, ул. Ленина, 127, помещение 1",
+    "legal_address": null,
+    "website": "https://ms13.mirsud24.ru"
+  },
+  {
+    "code": "24MS0014",
+    "name": "Судебный участок N 14 в Богучанском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663430, с. Богучаны, ул. Ленина, 127, помещение 1",
+    "legal_address": null,
+    "website": "https://ms14.mirsud24.ru"
+  },
+  {
+    "code": "24MS0015",
+    "name": "Судебный участок N 15 в Большемуртинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663060, п. Б. Мурта, ул. Партизанская, 100",
+    "legal_address": null,
+    "website": "https://ms15.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0016",
+    "name": "Судебный участок N 16 в Большеулуйском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662110, Красноярский край, с Большой Улуй, ул Просвещения, зд 20",
+    "legal_address": null,
+    "website": "https://ms16.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0017",
+    "name": "Судебный участок N 17 в г. Бородино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663981, Красноярский край, Рыбинский р-н, г Бородино, ул Ленина, д 6",
+    "legal_address": null,
+    "website": "https://ms17.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0018",
+    "name": "Судебный участок N 18 в Дзержинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663700, Красноярский край, с Дзержинское, ул Кирова, зд 3А",
+    "legal_address": null,
+    "website": "https://ms18.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0019",
+    "name": "Судебный участок N 19 в г. Дивногорске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663090, Красноярский край, г Дивногорск, ул Комсомольская, зд 2",
+    "legal_address": null,
+    "website": "https://ms19.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0020",
+    "name": "Судебный участок N 20 в г. Дивногорске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663090, Красноярский край, г Дивногорск, ул Комсомольская, зд 2",
+    "legal_address": null,
+    "website": "https://ms20.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0021",
+    "name": "Судебный участок N 21 в Емельяновском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663020, пгт. Емельяново, ул. Посадская, д. 23А",
+    "legal_address": null,
+    "website": "https://ms21.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0022",
+    "name": "Судебный участок N 22 в Емельяновском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663020, пгт. Емельяново, ул. Посадская, д. 23А",
+    "legal_address": null,
+    "website": "https://ms22.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0023",
+    "name": "Судебный участок N 23 в г. Енисейске и Енисейском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663180, Красноярский край, Енисейский р-н, г Енисейск, ул Кирова, зд 68",
+    "legal_address": null,
+    "website": "https://ms23.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0024",
+    "name": "Судебный участок N 24 в г. Енисейске и Енисейском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663180, Красноярский край, Енисейский р-н, г Енисейск, ул Кирова, зд 68",
+    "legal_address": null,
+    "website": "https://ms24.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0025",
+    "name": "Судебный участок N 25 в Ермаковском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662821, с. Ермаковское, ул. Карла Маркса, 118 В",
+    "legal_address": null,
+    "website": "https://ms25.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0026",
+    "name": "Судебный участок N 26 в ЗАТО г. Железногорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662971, Красноярский край, г Железногорск, ул Ленина, д 8А",
+    "legal_address": null,
+    "website": "https://ms26.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0027",
+    "name": "Судебный участок N 27 в ЗАТО г. Железногорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662971, Красноярский край, г Железногорск, ул Ленина, д 8А",
+    "legal_address": null,
+    "website": "https://ms27.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0028",
+    "name": "Судебный участок N 28 в ЗАТО г. Железногорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662971, Красноярский край, г Железногорск, ул Ленина, д 8А",
+    "legal_address": null,
+    "website": "https://ms28.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0029",
+    "name": "Судебный участок N 29 в ЗАТО г. Железногорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662971, Красноярский край, г Железногорск, ул Ленина, д 8А",
+    "legal_address": null,
+    "website": "https://ms29.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0030",
+    "name": "Судебный участок N 30 в ЗАТО г. Зеленогорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663690, Красноярский край, г Зеленогорск, ул Мира, д 52",
+    "legal_address": null,
+    "website": "https://ms30.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0031",
+    "name": "Судебный участок N 31 в ЗАТО г. Зеленогорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663690, Красноярский край, г Зеленогорск, ул Мира, д 52",
+    "legal_address": null,
+    "website": "https://ms31.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0032",
+    "name": "Судебный участок N 32 в г. Игарке",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663200, Красноярский край, Туруханский р-н, г Игарка, мкр 2-й, д 8",
+    "legal_address": null,
+    "website": "https://ms32.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0033",
+    "name": "Судебный участок N 33 в Идринском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662680, Красноярский край, с Идринское, ул Мира, д 14",
+    "legal_address": null,
+    "website": "https://ms33.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0034",
+    "name": "Судебный участок N 34 в Иланском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663800, Красноярский край, г Иланский, ул Коммунистическая, зд 42",
+    "legal_address": null,
+    "website": "https://ms34.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0035",
+    "name": "Судебный участок N 35 в Ирбейском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663650, Красноярский край, с Ирбейское, пл Ленинская, д 8",
+    "legal_address": null,
+    "website": "https://ms35.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0036",
+    "name": "Судебный участок N 36 в Казачинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663100, Красноярский край, с Казачинское, ул Красноармейская, зд 3",
+    "legal_address": null,
+    "website": "https://ms36.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0037",
+    "name": "Судебный участок N 37 в г. Канске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Краснопартизанская, д 57",
+    "legal_address": null,
+    "website": "https://ms37.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0038",
+    "name": "Судебный участок N 38 в г. Канске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Краснопартизанская, д 57",
+    "legal_address": null,
+    "website": "https://ms38.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0039",
+    "name": "Судебный участок N 39 в г. Канске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Краснопартизанская, д 57",
+    "legal_address": null,
+    "website": "https://ms39.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0040",
+    "name": "Судебный участок N 40 в г. Канске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Краснопартизанская, д 57",
+    "legal_address": null,
+    "website": "https://ms40.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0041",
+    "name": "Судебный участок N 41 в Канском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Краснопартизанская, д 57",
+    "legal_address": null,
+    "website": "https://ms41.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0042",
+    "name": "Судебный участок N 42 в Каратузском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662850, Красноярский край, с Каратузское, ул Щетинкина, д 2Б, помещ 4",
+    "legal_address": null,
+    "website": "https://ms42.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0043",
+    "name": "Судебный участок N 43 в Кежемском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663491, Красноярский край, г Кодинск, ул Маяковского, д 8",
+    "legal_address": null,
+    "website": "https://ms43.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0044",
+    "name": "Судебный участок N 44 в Козульском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662050, пгт. Козулька, ул. Зеленая роща, 6",
+    "legal_address": null,
+    "website": "https://ms44.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0045",
+    "name": "Судебный участок N 45 в Краснотуранском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662660, Красноярский край, Краснотуранский р-н, с Краснотуранск, ул Ленина, д 63",
+    "legal_address": null,
+    "website": "https://ms45.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0046",
+    "name": "Судебный участок N 46 в Железнодорожном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Бограда, д 116",
+    "legal_address": null,
+    "website": "https://ms46.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0047",
+    "name": "Судебный участок N 47 в Железнодорожном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Бограда, д 116",
+    "legal_address": null,
+    "website": "https://ms47.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0048",
+    "name": "Судебный участок N 48 в Железнодорожном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Бограда, д 116",
+    "legal_address": null,
+    "website": "http://ms48.mirsud24.ru/ms"
+  },
+  {
+    "code": "24MS0049",
+    "name": "Судебный участок N 49 в Железнодорожном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Бограда, д 116",
+    "legal_address": null,
+    "website": "https://ms49.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0050",
+    "name": "Судебный участок N 50 в Железнодорожном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Бограда, д 116",
+    "legal_address": null,
+    "website": "https://ms50.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0051",
+    "name": "Судебный участок N 51 в Кировском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660025, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 124",
+    "legal_address": null,
+    "website": "https://ms51.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0052",
+    "name": "Судебный участок N 52 в Кировском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660025, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 124",
+    "legal_address": null,
+    "website": "https://ms52.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0053",
+    "name": "Судебный участок N 53 в Кировском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660025, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 124",
+    "legal_address": null,
+    "website": "https://ms53.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0054",
+    "name": "Судебный участок N 54 в Кировском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660025, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 124",
+    "legal_address": null,
+    "website": "https://ms54.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0055",
+    "name": "Судебный участок N 55 в Кировском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660025, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 124",
+    "legal_address": null,
+    "website": "https://ms55.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0056",
+    "name": "Судебный участок N 56 в Кировском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660025, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 124",
+    "legal_address": null,
+    "website": "https://ms56.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0057",
+    "name": "Судебный участок N 57 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms57.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0058",
+    "name": "Судебный участок N 58 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms58.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0059",
+    "name": "Судебный участок N 59 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms59.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0060",
+    "name": "Судебный участок N 60 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms60.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0061",
+    "name": "Судебный участок N 61 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms61.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0062",
+    "name": "Судебный участок N 62 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms62.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0063",
+    "name": "Судебный участок N 63 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms63.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0064",
+    "name": "Судебный участок N 64 в Октябрьском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660062, г Красноярск, ул Вильского, д 22",
+    "legal_address": null,
+    "website": "https://ms64.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0065",
+    "name": "Судебный участок N 65 в Октябрьском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660062, г Красноярск, ул Вильского, д 22",
+    "legal_address": null,
+    "website": "https://ms65.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0066",
+    "name": "Судебный участок N 66 в Октябрьском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660062, г Красноярск, ул Вильского, д 22",
+    "legal_address": null,
+    "website": "https://ms66.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0067",
+    "name": "Судебный участок N 67 в Октябрьском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660062, г Красноярск, ул Вильского, д 22",
+    "legal_address": null,
+    "website": "https://ms67.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0068",
+    "name": "Судебный участок N 68 в Октябрьском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660062, г Красноярск, ул Вильского, д 22",
+    "legal_address": null,
+    "website": "https://ms68.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0069",
+    "name": "Судебный участок N 69 в Октябрьском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660062, г Красноярск, ул Вильского, д 22",
+    "legal_address": null,
+    "website": "https://ms69.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0070",
+    "name": "Судебный участок N 70 в Октябрьском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660062, г Красноярск, ул Вильского, д 22",
+    "legal_address": null,
+    "website": "https://ms70.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0071",
+    "name": "Судебный участок N 71 в Свердловском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660064, г Красноярск, ул Академика Вавилова, д 1",
+    "legal_address": null,
+    "website": "https://ms71.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0072",
+    "name": "Судебный участок N 72 в Свердловском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660064, г Красноярск, ул Академика Вавилова, д 1",
+    "legal_address": null,
+    "website": "https://ms72.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0073",
+    "name": "Судебный участок N 73 в Свердловском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660064, г Красноярск, ул Академика Вавилова, д 1",
+    "legal_address": null,
+    "website": "https://ms73.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0074",
+    "name": "Судебный участок N 74 в Свердловском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660064, г Красноярск, ул Академика Вавилова, д 1",
+    "legal_address": null,
+    "website": "https://ms74.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0075",
+    "name": "Судебный участок N 75 в Свердловском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660064, г Красноярск, ул Академика Вавилова, д 1",
+    "legal_address": null,
+    "website": "https://ms75.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0076",
+    "name": "Судебный участок N 76 в Свердловском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660064, г Красноярск, ул Академика Вавилова, д 1",
+    "legal_address": null,
+    "website": "https://ms76.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0077",
+    "name": "Судебный участок N 77 в Свердловском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660064, г Красноярск, ул Академика Вавилова, д 1",
+    "legal_address": null,
+    "website": "https://ms77.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0078",
+    "name": "Судебный участок N 78 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660125, г Красноярск, пр-кт Комсомольский, д 22, помещ 94",
+    "legal_address": null,
+    "website": "https://ms78.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0079",
+    "name": "Судебный участок N 79 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660112, г Красноярск, пр-кт Металлургов, д 14",
+    "legal_address": null,
+    "website": "https://ms79.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0080",
+    "name": "Судебный участок N 80 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660112, г Красноярск, пр-кт Металлургов, д 14",
+    "legal_address": null,
+    "website": "https://ms80.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0081",
+    "name": "Судебный участок N 81 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660112, г Красноярск, пр-кт Металлургов, д 14",
+    "legal_address": null,
+    "website": "https://ms81.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0082",
+    "name": "Судебный участок N 82 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660125, г Красноярск, пр-кт Комсомольский, д 22, помещ 94",
+    "legal_address": null,
+    "website": "https://ms82.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0083",
+    "name": "Судебный участок N 83 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660125, г Красноярск, пр-кт Комсомольский, д 22, помещ 94",
+    "legal_address": null,
+    "website": "https://ms83.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0084",
+    "name": "Судебный участок N 84 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660112, г Красноярск, пр-кт Металлургов, д 14",
+    "legal_address": null,
+    "website": "https://ms84.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0085",
+    "name": "Судебный участок N 85 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660112, г Красноярск, пр-кт Металлургов, д 14",
+    "legal_address": null,
+    "website": "https://ms85.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0086",
+    "name": "Судебный участок N 86 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud24.ru"
+  },
+  {
+    "code": "24MS0087",
+    "name": "Судебный участок N 87 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660125, г Красноярск, пр-кт Комсомольский, д 22, помещ 94",
+    "legal_address": null,
+    "website": "https://ms87.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0088",
+    "name": "Судебный участок N 88 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660112, г Красноярск, пр-кт Металлургов, д 14",
+    "legal_address": null,
+    "website": "https://ms88.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0089",
+    "name": "Судебный участок N 89 в Центральном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Ленина, д 143",
+    "legal_address": null,
+    "website": "https://ms89.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0091",
+    "name": "Судебный участок N 91 в Центральном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Ленина, д 143",
+    "legal_address": null,
+    "website": "https://ms91.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0092",
+    "name": "Судебный участок N 92 в Центральном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Ленина, д 143",
+    "legal_address": null,
+    "website": "https://ms92.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0093",
+    "name": "Судебный участок N 93 в Курагинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662910, пгт. Курагино, ул. Партизанская, 144",
+    "legal_address": null,
+    "website": "https://ms93.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0094",
+    "name": "Судебный участок N 94 в Курагинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662955, пгт. Краснокаменск, ул. Центральная, 8",
+    "legal_address": null,
+    "website": "https://ms94.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0095",
+    "name": "Судебный участок N 95 в г. Лесосибирске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662547, Красноярский край, Енисейский р-н, г Лесосибирск, ул Горького, д 114",
+    "legal_address": null,
+    "website": "https://ms95.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0096",
+    "name": "Судебный участок N 96 в г. Лесосибирске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662547, Красноярский край, Енисейский р-н, г Лесосибирск, ул Горького, д 114",
+    "legal_address": null,
+    "website": "https://ms96.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0097",
+    "name": "Судебный участок N 97 в г. Лесосибирске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662547, Красноярский край, Енисейский р-н, г Лесосибирск, ул Горького, д 114",
+    "legal_address": null,
+    "website": "https://ms97.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0098",
+    "name": "Судебный участок N 98 в Манском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663510, с. Шалинское, ул. Ленина, 18, пом. 2,3",
+    "legal_address": null,
+    "website": "https://ms98.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0099",
+    "name": "Судебный участок N 99 в г. Минусинске и Минусинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662608, Красноярский край, Минусинский р-н, г Минусинск, ул Михайлова, зд 13",
+    "legal_address": null,
+    "website": "https://ms99.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0090",
+    "name": "Судебный участок № 90 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660125, г Красноярск, пр-кт Комсомольский, д 22, помещ 94",
+    "legal_address": null,
+    "website": "https://ms90.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0100",
+    "name": "Судебный участок N 100 в г. Минусинске и Минусинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662608, Красноярский край, Минусинский р-н, г Минусинск, ул Михайлова, зд 13",
+    "legal_address": null,
+    "website": "https://ms100.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0101",
+    "name": "Судебный участок N 101 в Мотыгинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663400, пгт. Мотыгино, ул. Комсомольская, 21",
+    "legal_address": null,
+    "website": "https://ms101.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0102",
+    "name": "Судебный участок N 102 в г. Назарово и Назаровском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662200, Красноярский край, Назаровский р-н, г Назарово, ул К.Маркса, д 27А",
+    "legal_address": null,
+    "website": "https://ms102.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0103",
+    "name": "Судебный участок N 103 в г. Назарово и Назаровском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662200, Красноярский край, Назаровский р-н, г Назарово, ул К.Маркса, д 27А",
+    "legal_address": null,
+    "website": "https://ms103.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0104",
+    "name": "Судебный участок N 104 в г. Назарово и Назаровском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662201, Красноярский край, Назаровский р-н, г Назарово, ул Арбузова, д 118В",
+    "legal_address": null,
+    "website": "https://ms104.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0105",
+    "name": "Судебный участок N 105 в Нижнеингашском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663850, пгт. Нижний Ингаш, ул. Ленина, 160",
+    "legal_address": null,
+    "website": "https://ms105.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0106",
+    "name": "Судебный участок N 106 в Новоселовском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662430, Красноярский край, с Новоселово, ул Ленина, зд 19",
+    "legal_address": null,
+    "website": "https://ms106.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0107",
+    "name": "Судебный участок N 107 в Центральном районе г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663302, Красноярский край, г Норильск, ул Завенягина, д 7",
+    "legal_address": null,
+    "website": "https://ms107.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0108",
+    "name": "Судебный участок N 108 в Центральном районе г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663302, Красноярский край, г Норильск, ул Завенягина, д 7",
+    "legal_address": null,
+    "website": "https://ms108.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0109",
+    "name": "Судебный участок N 109 в Центральном районе г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663302, Красноярский край, г Норильск, ул Завенягина, д 7",
+    "legal_address": null,
+    "website": "https://ms109.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0110",
+    "name": "Судебный участок N 110 в Центральном районе г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663302, Красноярский край, г Норильск, ул Завенягина, д 7",
+    "legal_address": null,
+    "website": "https://ms110.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0111",
+    "name": "Судебный участок N 111 в Центральном районе г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663302, Красноярский край, г Норильск, ул Завенягина, д 7",
+    "legal_address": null,
+    "website": "https://ms111.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0112",
+    "name": "Судебный участок N 112 в Центральном районе г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663302, Красноярский край, г Норильск, ул Завенягина, д 7",
+    "legal_address": null,
+    "website": "https://ms112.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0113",
+    "name": "Судебный участок N 113 в Центральном районе г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663302, Красноярский край, г Норильск, ул Завенягина, д 7",
+    "legal_address": null,
+    "website": "https://ms113.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0114",
+    "name": "Судебный участок N 114 в районе Талнах г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663330, Красноярский край, г Норильск, ул Таймырская, д 16",
+    "legal_address": null,
+    "website": "https://ms114.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0115",
+    "name": "Судебный участок N 115 в районе Талнах г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663330, Красноярский край, г Норильск, ул Таймырская, д 16",
+    "legal_address": null,
+    "website": "https://ms115.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0116",
+    "name": "Судебный участок N 116 в районе Кайеркан г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663340, Красноярский край, г Норильск, ул Шахтерская, д 11Б",
+    "legal_address": null,
+    "website": "https://ms116.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0117",
+    "name": "Судебный участок N 117 в Партизанском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663540, Красноярский край, с Партизанское, ул Гагарина, д 29",
+    "legal_address": null,
+    "website": "https://ms117.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0118",
+    "name": "Судебный участок N 118 в Пировском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663120, Красноярский край, с Пировское, ул Ленина, стр 27",
+    "legal_address": null,
+    "website": "https://ms118.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0119",
+    "name": "Судебный участок N 119 в Рыбинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663960, Красноярский край, Рыбинский р-н, г Заозерный, ул Мира, зд 3А",
+    "legal_address": null,
+    "website": "https://ms119.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0120",
+    "name": "Судебный участок N 120 в Рыбинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663960, Красноярский край, Рыбинский р-н, г Заозерный, ул Мира, зд 3А",
+    "legal_address": null,
+    "website": "https://ms120.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0121",
+    "name": "Судебный участок N 121 в Саянском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663580, Красноярский край, с Агинское, ул Советская, д 99",
+    "legal_address": null,
+    "website": "https://ms121.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0122",
+    "name": "Судебный участок N 122 в Северо-Енисейском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663282, пгт. Северо-Енисейский, ул. Ленина, 14, помещение 4",
+    "legal_address": null,
+    "website": "https://ms122.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0123",
+    "name": "Судебный участок N 123 в г. Сосновоборске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662500, Красноярский край, г Сосновоборск, ул Энтузиастов, д 13",
+    "legal_address": null,
+    "website": "https://ms123.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0124",
+    "name": "Судебный участок N 124 в Сухобузимском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663040, Красноярский край, с Сухобузимское, ул Портнягина, д 13",
+    "legal_address": null,
+    "website": "https://ms124.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0125",
+    "name": "Судебный участок N 125 в Тасеевском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663770, Красноярский край, с Тасеево, ул Луначарского, зд 35",
+    "legal_address": null,
+    "website": "https://ms125.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0126",
+    "name": "Судебный участок N 126 в Туруханском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663230, Красноярский край, с Туруханск, ул Шадрина А.Е., д 8",
+    "legal_address": null,
+    "website": "https://ms126.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0127",
+    "name": "Судебный участок N 127 в Тюхтетском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662010, Красноярский край, с Тюхтет, ул Кирова, д 53",
+    "legal_address": null,
+    "website": "https://ms127.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0128",
+    "name": "Судебный участок N 128 в Ужурском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662252, Красноярский край, г Ужур, ул Кирова, д 71",
+    "legal_address": null,
+    "website": "https://ms128.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0129",
+    "name": "Судебный участок N 129 в Уярском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663920, Красноярский край, г Уяр, ул Сургуладзе, д 71/4",
+    "legal_address": null,
+    "website": "https://ms129.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0130",
+    "name": "Судебный участок N 130 в г. Шарыпово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662311, Красноярский край, Шарыповский р-н, г Шарыпово, мкр Пионерный, д 13/14",
+    "legal_address": null,
+    "website": "https://ms130.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0131",
+    "name": "Судебный участок N 131 в Шарыповском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662311, Красноярский край, Шарыповский р-н, г Шарыпово, мкр Пионерный, д 13/14",
+    "legal_address": null,
+    "website": "https://ms131.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0132",
+    "name": "Судебный участок N 132 в г. Шарыпово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662311, Красноярский край, Шарыповский р-н, г Шарыпово, мкр Пионерный, д 13/14",
+    "legal_address": null,
+    "website": "https://ms132.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0133",
+    "name": "Судебный участок N 133 в Шушенском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662713, пгт. Шушенское, ул. Ленина, д. 67",
+    "legal_address": null,
+    "website": "https://ms133.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0134",
+    "name": "Судебный участок N 134 в г. Ачинске и Ачинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662161, Красноярский край, Ачинский р-н, г Ачинск, мкр 5-й, д 3",
+    "legal_address": null,
+    "website": "https://ms134.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0135",
+    "name": "Судебный участок N 135 в Емельяновском районе и п. Кедровом",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663020, пгт. Емельяново, ул. Посадская, д. 23А",
+    "legal_address": null,
+    "website": "https://ms135.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0136",
+    "name": "Судебный участок N 136 в ЗАТО г. Зеленогорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663690, Красноярский край, г Зеленогорск, ул Мира, д 52",
+    "legal_address": null,
+    "website": "https://ms136.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0137",
+    "name": "Судебный участок N 137 в Канском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Краснопартизанская, д 57",
+    "legal_address": null,
+    "website": "https://ms137.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0138",
+    "name": "Судебный участок N 138 в Железнодорожном районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Бограда, д 116",
+    "legal_address": null,
+    "website": "https://ms138.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0139",
+    "name": "Судебный участок N 139 в Центральном районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Ленина, д 143",
+    "legal_address": null,
+    "website": "https://ms139.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0140",
+    "name": "Судебный участок N 140 в г. Минусинске и Минусинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662608, Красноярский край, Минусинский р-н, г Минусинск, ул Михайлова, зд 13",
+    "legal_address": null,
+    "website": "https://ms140.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0141",
+    "name": "Судебный участок N 141 в Нижнеингашском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663840, пгт. Нижняя Пойма, ул. Дзержинского, 12",
+    "legal_address": null,
+    "website": "https://ms141.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0142",
+    "name": "Судебный участок N 142 в Ужурском районе и ЗАТО п. Солнечный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662252, Красноярский край, г Ужур, ул Кирова, д 71",
+    "legal_address": null,
+    "website": "https://ms142.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0143",
+    "name": "Судебный участок N 143 в Шушенском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662713, пгт. Шушенское, ул. Ленина, д. 67",
+    "legal_address": null,
+    "website": "https://ms143.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0145",
+    "name": "Судебный участок N 145 в г. Ачинске и Ачинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662161, Красноярский край, Ачинский р-н, г Ачинск, мкр 5-й, д 3",
+    "legal_address": null,
+    "website": "https://ms145.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0146",
+    "name": "Судебный участок N 146 в ЗАТО г. Железногорск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662971, Красноярский край, г Железногорск, ул Ленина, д 8А",
+    "legal_address": null,
+    "website": "https://ms146.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0147",
+    "name": "Судебный участок N 147 в г. Канске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Краснопартизанская, д 57",
+    "legal_address": null,
+    "website": "https://ms147.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0148",
+    "name": "Судебный участок N 148 в Кежемском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663491, Красноярский край, г Кодинск, ул Маяковского, д 8",
+    "legal_address": null,
+    "website": "https://ms148.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0149",
+    "name": "Судебный участок N 149 в Кировском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660025, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 124",
+    "legal_address": null,
+    "website": "https://ms149.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0144",
+    "name": "Судебный участок № 144 в Советском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660112, г Красноярск, пр-кт Металлургов, д 14",
+    "legal_address": null,
+    "website": "https://ms144.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0150",
+    "name": "Судебный участок N 150 в Курагинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662910, пгт. Курагино, ул. Партизанская, 144",
+    "legal_address": null,
+    "website": "https://ms150.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0151",
+    "name": "Судебный участок N 151 в г. Лесосибирске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662547, Красноярский край, Енисейский р-н, г Лесосибирск, ул Горького, д 114",
+    "legal_address": null,
+    "website": "https://ms151.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0152",
+    "name": "Судебный участок N 152 в г. Минусинске и Минусинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662608, Красноярский край, Минусинский р-н, г Минусинск, ул Михайлова, зд 13",
+    "legal_address": null,
+    "website": "https://ms152.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0153",
+    "name": "Судебный участок N 153 в г. Минусинске и Минусинском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662608, Красноярский край, Минусинский р-н, г Минусинск, ул Михайлова, зд 13",
+    "legal_address": null,
+    "website": "https://ms153.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0154",
+    "name": "Судебный участок N 154 в г. Назарово и Назаровском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662201, Красноярский край, Назаровский р-н, г Назарово, ул Арбузова, д 118В",
+    "legal_address": null,
+    "website": "https://ms154.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0155",
+    "name": "Судебный участок N 155 в районе Кайеркан г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663340, Красноярский край, г Норильск, ул Строительная, д 5",
+    "legal_address": null,
+    "website": "https://ms155.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0156",
+    "name": "Судебный участок N 156 в районе Талнах г. Норильска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663330, Красноярский край, г Норильск, ул Таймырская, д 16",
+    "legal_address": null,
+    "website": "https://ms156.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0157",
+    "name": "Судебный участок N 157 в г. Сосновоборске",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662500, Красноярский край, г Сосновоборск, ул Солнечная, д 3",
+    "legal_address": null,
+    "website": "https://ms157.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0159",
+    "name": "Судебный участок N 159 в Таймырском Долгано-Ненецком районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "647000, Красноярский край, г Дудинка, ул Спортивная, д 17А",
+    "legal_address": null,
+    "website": "https://ms159.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0158",
+    "name": "Судебный участок № 158 в Ленинском районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660094, г Красноярск, ул Щербакова, д 12",
+    "legal_address": null,
+    "website": "https://ms158.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0160",
+    "name": "Судебный участок N 160 в Таймырском Долгано-Ненецком районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "647000, Красноярский край, г Дудинка, ул Спортивная, д 17А",
+    "legal_address": null,
+    "website": "https://ms160.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0161",
+    "name": "Судебный участок N 161 в Центральном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Ленина, д 143",
+    "legal_address": null,
+    "website": "https://ms161.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0162",
+    "name": "Судебный участок N 162 в Таймырском Долгано-Ненецком районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "647460, Красноярский край, Таймырский Долгано-Ненецкий р-н, с Хатанга, ул Советская, д 25",
+    "legal_address": null,
+    "website": "https://ms162.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0163",
+    "name": "Судебный участок N 163 в Центральном районе г. Красноярска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "660021, г Красноярск, ул Ленина, д 143",
+    "legal_address": null,
+    "website": "https://ms163.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0164",
+    "name": "Судебный участок N 164 в г. Шарыпово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "662311, Красноярский край, Шарыповский р-н, г Шарыпово, мкр Пионерный, д 13/14",
+    "legal_address": null,
+    "website": "https://ms164.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0165",
+    "name": "Судебный участок N 165 в Эвенкийском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "648000, Красноярский край, п Тура, ул Кочечумская, д 18",
+    "legal_address": null,
+    "website": "https://ms165.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0166",
+    "name": "Судебный участок N 166 в Эвенкийском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "648490, Красноярский край, Эвенкийский р-н, с Ванавара, ул Нефтеразведочная, д 5А",
+    "legal_address": null,
+    "website": "https://ms166.mirsud24.ru/ms/"
+  },
+  {
+    "code": "24MS0167",
+    "name": "Судебный участок N 167 в Эвенкийском районе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://aodms.mirsud24.ru"
+  }
+]

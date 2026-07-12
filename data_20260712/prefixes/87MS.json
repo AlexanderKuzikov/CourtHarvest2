@@ -1,0 +1,42 @@
+[
+  {
+    "code": "87MS0002",
+    "name": "Судебный участок мирового судьи Анадырского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "689501, Чукотский АО, пгт Угольные Копи, ул Первомайская, д 9",
+    "legal_address": null,
+    "website": "http://anadyr-r.chao.msudrf.ru"
+  },
+  {
+    "code": "87MS0003",
+    "name": "Судебный участок мирового судьи Билибинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "689450, Чукотский АО, г Билибино, мкр Восточный, д 1 к 7",
+    "legal_address": null,
+    "website": "http://bilibinsky-r.chao.msudrf.ru"
+  },
+  {
+    "code": "87MS0001",
+    "name": "Судебный участок мирового судьи г. Анадырь",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "689000, г Анадырь, ул Отке, д 37",
+    "legal_address": null,
+    "website": "http://anadyr.chao.msudrf.ru"
+  },
+  {
+    "code": "87MS0004",
+    "name": "Судебный участок мирового судьи Чаунского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "689400, Чукотский АО, г Певек, ул Обручева, д 17",
+    "legal_address": null,
+    "website": "http://chaunsky-r.chao.msudrf.ru"
+  }
+]

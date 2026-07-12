@@ -1,0 +1,62 @@
+[
+  {
+    "code": "85RS0005",
+    "name": "Аларский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "669452, Иркутская обл, п Кутулик, ул Советская, зд 105",
+    "legal_address": null,
+    "website": "http://alarsky.uso.sudrf.ru"
+  },
+  {
+    "code": "85RS0001",
+    "name": "Баяндаевский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "669120, Иркутская обл, с Баяндай, ул 60 лет Октября, д 1",
+    "legal_address": null,
+    "website": "http://bayandaevsky.uso.sudrf.ru"
+  },
+  {
+    "code": "85RS0002",
+    "name": "Боханский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "669311, Иркутская обл, п Бохан, ул Советская, д 7",
+    "legal_address": null,
+    "website": "http://bohalinsky.uso.sudrf.ru"
+  },
+  {
+    "code": "85RS0003",
+    "name": "Нукутский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "669401, Иркутская обл, п Новонукутский, ул Ленина, зд 34",
+    "legal_address": null,
+    "website": "http://nukutinsky.uso.sudrf.ru"
+  },
+  {
+    "code": "85RS0004",
+    "name": "Осинский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "669200, Иркутская обл, с Оса, ул Свердлова, зд 61",
+    "legal_address": null,
+    "website": "http://osinsky.uso.sudrf.ru"
+  },
+  {
+    "code": "85RS0006",
+    "name": "Эхирит-Булагатский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "669001, Иркутская обл, п Усть-Ордынский, ул Ленина, зд 18А",
+    "legal_address": null,
+    "website": "http://ehirit.uso.sudrf.ru"
+  }
+]

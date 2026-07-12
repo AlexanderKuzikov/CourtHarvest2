@@ -1,0 +1,152 @@
+[
+  {
+    "code": "17RS0001",
+    "name": "Бай-Тайгинский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668010, Респ Тыва, с Тээли, ул Комсомольская, д 20",
+    "legal_address": null,
+    "website": "http://bai-taiginskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0002",
+    "name": "Барун-Хемчикский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668040, Респ Тыва, с Кызыл-Мажалык, ул Буян-Бадыргы ноян, зд 67",
+    "legal_address": null,
+    "website": "http://barun-hemchikskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0003",
+    "name": "Дзун-Хемчикский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668111, Респ Тыва, г Чадан, ул Чурмет-Дажы, д 152",
+    "legal_address": null,
+    "website": "http://dzun-hemchikskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0004",
+    "name": "Каа-Хемский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668400, Респ Тыва, с Сарыг-Сеп, ул Енисейская, д 153",
+    "legal_address": null,
+    "website": "http://kaa-hemskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0017",
+    "name": "Кызылский городской суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "667000, г Кызыл, ул Бай-Хаакская, зд 5",
+    "legal_address": null,
+    "website": "http://kizilskiy-g.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0005",
+    "name": "Кызылский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "667901, Респ Тыва, пгт Каа-Хем, ул Кирова, зд 1А",
+    "legal_address": null,
+    "website": "http://kizilskiy-r.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0007",
+    "name": "Овюрский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668130, Респ Тыва, с Хандагайты, ул Почтовая, д 19",
+    "legal_address": null,
+    "website": "http://ovjurskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0008",
+    "name": "Пий-Хемский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668510, Респ Тыва, г Туран, ул Щетинкина, д 47",
+    "legal_address": null,
+    "website": "http://piy-hemskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0009",
+    "name": "Сут-Хольский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668150, Респ Тыва, с Суг-Аксы, ул Алдан-Маадырская, д 36",
+    "legal_address": null,
+    "website": "http://sut-holskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0010",
+    "name": "Тандинский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668311, Респ Тыва, с Бай-Хаак, ул Советская, д 85",
+    "legal_address": null,
+    "website": "http://tandinskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0011",
+    "name": "Тес-Хемский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668360, Респ Тыва, с Самагалтай, ул Шумовых, д 32",
+    "legal_address": null,
+    "website": "http://tes-hemskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0013",
+    "name": "Улуг-Хемский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668210, Респ Тыва, г Шагонар, ул Октябрьская, д 3",
+    "legal_address": null,
+    "website": "http://ulug-hemskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0014",
+    "name": "Чаа-Хольский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668221, Респ Тыва, с Чаа-Холь, ул Сундуй Андрей, д 2",
+    "legal_address": null,
+    "website": "http://chaa-holskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0015",
+    "name": "Чеди-Хольский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668330, Респ Тыва, с Хову-Аксы, ул Гагарина, д 15",
+    "legal_address": null,
+    "website": "http://chedi-holskiy.tva.sudrf.ru"
+  },
+  {
+    "code": "17RS0016",
+    "name": "Эрзинский районный суд Республики Тыва",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "668380, Респ Тыва, с Эрзин, ул Комсомольская, д 15",
+    "legal_address": null,
+    "website": "http://erzinskiy.tva.sudrf.ru"
+  }
+]

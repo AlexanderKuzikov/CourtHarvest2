@@ -1,0 +1,52 @@
+[
+  {
+    "code": "90RS0001",
+    "name": "Бердянский межрайонный суд Запорожской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://berdyanskiy.zpr.sudrf.ru"
+  },
+  {
+    "code": "90RS0002",
+    "name": "Васильевский межрайонный суд Запорожской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://vasilyevsky.zpr.sudrf.ru"
+  },
+  {
+    "code": "90RS0003",
+    "name": "Мелитопольский межрайонный суд Запорожской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://melitopol.zpr.sudrf.ru"
+  },
+  {
+    "code": "90RS0004",
+    "name": "Пологовский межрайонный суд Запорожской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://pologovsky.zpr.sudrf.ru"
+  },
+  {
+    "code": "90RS0005",
+    "name": "Энергодарский городской суд Запорожской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://energodarskiy.zpr.sudrf.ru"
+  }
+]

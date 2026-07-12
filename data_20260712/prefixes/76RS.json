@@ -1,0 +1,222 @@
+[
+  {
+    "code": "76RS0018",
+    "name": "Большесельский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152360, Ярославская обл, с Большое Село, ул Челюскинцев, д 10",
+    "legal_address": null,
+    "website": "http://bolsheselsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0002",
+    "name": "Брейтовский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152760, Ярославская обл, с Брейтово, ул Советская, д 1",
+    "legal_address": null,
+    "website": "http://breytovsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0003",
+    "name": "Гаврилов-Ямский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152241, Ярославская обл, г Гаврилов-Ям, ул Менжинского, д 66",
+    "legal_address": null,
+    "website": "http://gavrilov-yamsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0004",
+    "name": "Даниловский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152072, Ярославская обл, г Данилов, ул Ленина, д 28",
+    "legal_address": null,
+    "website": "http://danilovsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0016",
+    "name": "Дзержинский районный суд г. Ярославля",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "150060, г Ярославль, ул Труфанова, д 26",
+    "legal_address": null,
+    "website": "http://dzerzhinsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0022",
+    "name": "Заволжский районный суд г. Ярославля",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "150055, г Ярославль, ул Красноборская, д 5 к 1",
+    "legal_address": null,
+    "website": "http://zavolzhsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0014",
+    "name": "Кировский районный суд г. Ярославля",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "150000, г Ярославль, ул Собинова, д 39",
+    "legal_address": null,
+    "website": "http://kirovsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0023",
+    "name": "Красноперекопский районный суд г. Ярославля",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "150001, г Ярославль, ул Малая Пролетарская, д 31Б",
+    "legal_address": null,
+    "website": "http://krasnoperekopsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0015",
+    "name": "Ленинский районный суд г. Ярославля",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "150040, г Ярославль, ул Некрасова, д 71",
+    "legal_address": null,
+    "website": "http://leninsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0001",
+    "name": "Любимский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152470, Ярославская обл, г Любим, ул Карла Маркса, д 59",
+    "legal_address": null,
+    "website": "http://lubimsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0020",
+    "name": "Мышкинский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152830, Ярославская обл, г Мышкин, ул Никольская, д 10",
+    "legal_address": null,
+    "website": "http://myshkinsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0006",
+    "name": "Некоузский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152730, Ярославская обл, с Новый Некоуз, ул Советская, д 17",
+    "legal_address": null,
+    "website": "http://nekouzsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0005",
+    "name": "Некрасовский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152260, Ярославская обл, Некрасовский р-н, рп Некрасовское, ул Некрасова, д 30",
+    "legal_address": null,
+    "website": "http://nekrasovsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0009",
+    "name": "Первомайский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152430, Ярославская обл, рп Пречистое, ул Вологодская, д 39",
+    "legal_address": null,
+    "website": "http://pervomaysky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0008",
+    "name": "Переславский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152020, Ярославская обл, г Переславль-Залесский, ул Конная, д 6",
+    "legal_address": null,
+    "website": "http://pereslavsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0007",
+    "name": "Пошехонский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152850, Ярославская обл, г Пошехонье, ул Любимская, д 9",
+    "legal_address": null,
+    "website": "http://poshehonsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0010",
+    "name": "Ростовский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152151, Ярославская обл, г Ростов Великий, ул Луначарского, д 58",
+    "legal_address": null,
+    "website": "http://rostovsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0013",
+    "name": "Рыбинский городской суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152934, Ярославская обл, г Рыбинск, ул Пушкина, д 11",
+    "legal_address": null,
+    "website": "http://rybinskygor.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0021",
+    "name": "Тутаевский городской суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152303, Ярославская обл, г Тутаев, ул Советская, д 7",
+    "legal_address": null,
+    "website": "http://tutaevsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0011",
+    "name": "Угличский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "152615, Ярославская обл, г Углич, ул Ленина, д 16",
+    "legal_address": null,
+    "website": "http://uglichsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0017",
+    "name": "Ярославский районный суд Ярославской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "150014, г Ярославль, ул Победы, д 47",
+    "legal_address": null,
+    "website": "http://yaroslavsky.jrs.sudrf.ru"
+  },
+  {
+    "code": "76RS0024",
+    "name": "Фрунзенский районный суд г. Ярославля",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "150030, г Ярославль, пр-кт Фрунзе, д 2 к 2",
+    "legal_address": null,
+    "website": "http://frunzensky.jrs.sudrf.ru"
+  }
+]

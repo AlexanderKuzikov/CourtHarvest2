@@ -1,0 +1,282 @@
+[
+  {
+    "code": "68RS0005",
+    "name": "Бондарский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393230, Тамбовская обл, с Бондари, ул Советская, д 21",
+    "legal_address": null,
+    "website": "http://bondarsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0006",
+    "name": "Гавриловский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393160, Тамбовская обл, с Гавриловка 2-я, ул Мира, д 35",
+    "legal_address": null,
+    "website": "http://gavrilovsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0007",
+    "name": "Жердевский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393670, Тамбовская обл, г Жердевка, ул Советская, д 48",
+    "legal_address": null,
+    "website": "http://zherdevsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0008",
+    "name": "Знаменский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393400, Тамбовская обл, рп Знаменка, ул Красная площадь, д 4",
+    "legal_address": null,
+    "website": "http://sud4.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0009",
+    "name": "Инжавинский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393310, Тамбовская обл, рп Инжавино, ул Советская, д 44",
+    "legal_address": null,
+    "website": "http://inzhavinsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0010",
+    "name": "Кирсановский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393364, Тамбовская обл, г Кирсанов, ул Интернациональная, д 14",
+    "legal_address": null,
+    "website": "http://kirsanovsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0011",
+    "name": "Котовский городской суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393190, Тамбовская обл, г Котовск, ул Кирова, д 3",
+    "legal_address": null,
+    "website": "http://kotovsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0002",
+    "name": "Ленинский районный суд г. Тамбова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "392036, г Тамбов, ул Интернациональная, д 63",
+    "legal_address": null,
+    "website": "http://sud24.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0013",
+    "name": "Мичуринский городской суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393761, Тамбовская обл, г Мичуринск, ш Липецкое, д 55",
+    "legal_address": null,
+    "website": "http://michurinskygs.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0012",
+    "name": "Мичуринский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393761, Тамбовская обл, г Мичуринск, ул Красная, д 75",
+    "legal_address": null,
+    "website": "http://michurinskyrs.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0014",
+    "name": "Мордовский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393600, Тамбовская обл, рп Мордово, ул Коммунальная, д 37",
+    "legal_address": null,
+    "website": "http://mordovsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0015",
+    "name": "Моршанский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393950, Тамбовская обл, г Моршанск, ул Ленина, д 44",
+    "legal_address": null,
+    "website": "http://morshansky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0016",
+    "name": "Мучкапский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393570, Тамбовская обл, рп Мучкапский, ул Советская, д 6",
+    "legal_address": null,
+    "website": "http://muchkapsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0017",
+    "name": "Никифоровский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393000, Тамбовская обл, рп Дмитриевка, ул 1-я Дачная, д 24",
+    "legal_address": null,
+    "website": "http://nikiforovsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0001",
+    "name": "Октябрьский районный суд г. Тамбова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "392000, г Тамбов, ул Карла Маркса, д 406",
+    "legal_address": null,
+    "website": "http://sud23.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0018",
+    "name": "Первомайский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393700, Тамбовская обл, рп Первомайский, пл Ленина, д 9",
+    "legal_address": null,
+    "website": "http://pervomaisky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0019",
+    "name": "Петровский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393070, Тамбовская обл, с Петровское, ул Интернациональная, д 29",
+    "legal_address": null,
+    "website": "http://petrovsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0020",
+    "name": "Пичаевский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393970, Тамбовская обл, с Пичаево, ул Пролетарская, д 22",
+    "legal_address": null,
+    "website": "http://pichaevsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0021",
+    "name": "Рассказовский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393250, Тамбовская обл, г Рассказово, ул Куйбышева, д 51",
+    "legal_address": null,
+    "website": "http://sud2468.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0022",
+    "name": "Ржаксинский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393520, Тамбовская обл, рп Ржакса, ул Коммунальная, д 11",
+    "legal_address": null,
+    "website": "http://rzhaksinsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0003",
+    "name": "Советский районный суд г. Тамбова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "392036, г Тамбов, ул Интернациональная, д 63",
+    "legal_address": null,
+    "website": "http://sud25.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0004",
+    "name": "Тамбовский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "392028, г Тамбов, ул Полынковская, д 64А",
+    "legal_address": null,
+    "website": "http://sud22.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0023",
+    "name": "Сампурский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393430, Тамбовская обл, п Сатинка, ул Советская, д 35",
+    "legal_address": null,
+    "website": "http://sampursky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0024",
+    "name": "Сосновский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393840, Тамбовская обл, рп Сосновка, ул Вокзальная, д 13",
+    "legal_address": null,
+    "website": "http://sud20.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0025",
+    "name": "Староюрьевский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393800, Тамбовская обл, с Староюрьево, ул Космонавтов, д 5А",
+    "legal_address": null,
+    "website": "http://starourievsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0026",
+    "name": "Токаревский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393550, Тамбовская обл, рп Токарёвка, ул Маяковского, д 1",
+    "legal_address": null,
+    "website": "http://tokarevsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0027",
+    "name": "Уваровский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393460, Тамбовская обл, г Уварово, ул Гагарина, д 3",
+    "legal_address": null,
+    "website": "http://uvarovsky.tmb.sudrf.ru"
+  },
+  {
+    "code": "68RS0028",
+    "name": "Уметский районный суд Тамбовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "393130, Тамбовская обл, рп Умет, ул Советская, д 76",
+    "legal_address": null,
+    "website": "http://umetsky.tmb.sudrf.ru"
+  }
+]

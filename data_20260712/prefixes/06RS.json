@@ -1,0 +1,62 @@
+[
+  {
+    "code": "06RS0004",
+    "name": "Джейрахский районный суд Республики Ингушетия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "386430, Респ Ингушетия, с Джейрах, ул Д.Льянова, д 47",
+    "legal_address": null,
+    "website": "http://djeirah.ing.sudrf.ru"
+  },
+  {
+    "code": "06RS0003",
+    "name": "Карабулакский районный суд Республики Ингушетия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "386230, Респ Ингушетия, г Карабулак, ул Лейлы Албогачиевой, зд 10",
+    "legal_address": null,
+    "website": "http://karabulak.ing.sudrf.ru"
+  },
+  {
+    "code": "06RS0006",
+    "name": "Магасский районный суд Республики Ингушетия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "386001, г Магас, ул М.Б.Базоркина, зд 22",
+    "legal_address": null,
+    "website": "http://magassky.ing.sudrf.ru"
+  },
+  {
+    "code": "06RS0002",
+    "name": "Малгобекский городской суд Республики Ингушетия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "386302, Респ Ингушетия, г Малгобек, ул Осканова, д 21",
+    "legal_address": null,
+    "website": "http://malgobek.ing.sudrf.ru"
+  },
+  {
+    "code": "06RS0001",
+    "name": "Назрановский районный суд Республики Ингушетия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "386101, Респ Ингушетия, г Назрань, тер Альтиевский административный округ, ул Московская, д 33",
+    "legal_address": null,
+    "website": "http://nazran.ing.sudrf.ru"
+  },
+  {
+    "code": "06RS0005",
+    "name": "Сунженский районный суд Республики Ингушетия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "386203, Респ Ингушетия, г Сунжа, ул Комсомольская, д 79",
+    "legal_address": null,
+    "website": "http://sunja.ing.sudrf.ru"
+  }
+]

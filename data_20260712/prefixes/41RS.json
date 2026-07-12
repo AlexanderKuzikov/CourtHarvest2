@@ -1,0 +1,62 @@
+[
+  {
+    "code": "41RS0003",
+    "name": "Вилючинский городской суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "684090, Камчатский край, г Вилючинск, ул Спортивная, д 5А",
+    "legal_address": null,
+    "website": "http://viluchinsky.kam.sudrf.ru"
+  },
+  {
+    "code": "41RS0002",
+    "name": "Елизовский районный суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "684000, Камчатский край, г Елизово, ул 40 лет Октября, д 7А",
+    "legal_address": null,
+    "website": "http://elizovsky.kam.sudrf.ru"
+  },
+  {
+    "code": "41RS0006",
+    "name": "Мильковский районный суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "684300, Камчатский край, с Мильково, ул Октябрьская, д 14",
+    "legal_address": null,
+    "website": "http://milkovsky.kam.sudrf.ru"
+  },
+  {
+    "code": "41RS0001",
+    "name": "Петропавловск-Камчатский городской суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "683009, г Петропавловск-Камчатский, ул Академика Курчатова, д 6",
+    "legal_address": null,
+    "website": "http://p-kamchatsky.kam.sudrf.ru"
+  },
+  {
+    "code": "41RS0008",
+    "name": "Усть-Большерецкий районный суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "684100, Камчатский край, с Усть-Большерецк, ул Калининская, д 19",
+    "legal_address": null,
+    "website": "http://ust-bolsherecky.kam.sudrf.ru"
+  },
+  {
+    "code": "41RS0009",
+    "name": "Усть-Камчатский районный суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "684414, Камчатский край, п Усть-Камчатск, ул Кооперативная, д 4",
+    "legal_address": null,
+    "website": "http://ust-kamchatsky.kam.sudrf.ru"
+  }
+]

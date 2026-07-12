@@ -1,0 +1,762 @@
+[
+  {
+    "code": "58MS0026",
+    "name": "Судебный участок в границах Башмаковского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442060, Пензенская обл, рп Башмаково, ул 8 Марта, д 10",
+    "legal_address": null,
+    "website": "http://bashmakovo.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0027",
+    "name": "Судебный участок в границах Бековского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442940, Пензенская обл, рп Беково, ул Почтовая, зд 55А",
+    "legal_address": null,
+    "website": "http://bekovo.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0032",
+    "name": "Судебный участок в границах Вадинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442170, Пензенская обл, с Вадинск, ул Площадь Ленина, стр 30",
+    "legal_address": null,
+    "website": "http://vadinsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0040",
+    "name": "Судебный участок в границах Иссинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442710, Пензенская обл, рп Исса, ул Ленинская, д 52",
+    "legal_address": null,
+    "website": "http://issinsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0044",
+    "name": "Судебный участок в границах Камешкирского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442450, Пензенская обл, с Русский Камешкир, ул Автодорожная, д 3А",
+    "legal_address": null,
+    "website": "http://kameshkirsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0054",
+    "name": "Судебный участок в границах Лопатинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442550, Пензенская обл, с Лопатино, пл Гагарина, стр 18",
+    "legal_address": null,
+    "website": "http://lopatinsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0053",
+    "name": "Судебный участок в границах Лунинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442730, Пензенская обл, рп Лунино, ул Мясникова, д 46",
+    "legal_address": null,
+    "website": "http://luninsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0055",
+    "name": "Судебный участок в границах Малосердобинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442800, Пензенская обл, с Малая Сердоба, ул Ленинская, д 41",
+    "legal_address": null,
+    "website": "http://maloserdodinsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0076",
+    "name": "Судебный участок в границах Наровчатского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442630, Пензенская обл, с Наровчат, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://narovchatsky.pnz.msudrf.ru/"
+  },
+  {
+    "code": "58MS0058",
+    "name": "Судебный участок в границах Неверкинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442480, Пензенская обл, с Неверкино, ул Куйбышева, влд 18",
+    "legal_address": null,
+    "website": "http://neverkinsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0064",
+    "name": "Судебный участок в границах Пачелмского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442100, Пензенская обл, рп Пачелма, ул Кирова, д 30",
+    "legal_address": null,
+    "website": "http://pachelmsky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0074",
+    "name": "Судебный участок в границах Сосновоборского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442570, Пензенская обл, рп Сосновоборск, пер Ленинский, д 6А",
+    "legal_address": null,
+    "website": "http://sosnovoborsky.pnz.msudrf.ru/"
+  },
+  {
+    "code": "58MS0071",
+    "name": "Судебный участок в границах Спасского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442600, Пензенская обл, г Спасск, ул Пролетарская, влд 77",
+    "legal_address": null,
+    "website": "http://spassky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0072",
+    "name": "Судебный участок в границах Тамалинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442900, Пензенская обл, рп Тамала, ул Советская, стр 2",
+    "legal_address": null,
+    "website": "http://tamalinsky.pnz.msudrf.ru/"
+  },
+  {
+    "code": "58MS0073",
+    "name": "Судебный участок в границах Шемышейского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442430, Пензенская обл, рп Шемышейка, ул Ленина, влд 27",
+    "legal_address": null,
+    "website": "http://shemisheisky.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0028",
+    "name": "Судебный участок № 1 Белинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442250, Пензенская обл, г Белинский, пл Комсомольская, зд 6",
+    "legal_address": null,
+    "website": "http://belinsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0030",
+    "name": "Судебный участок № 1 Бессоновского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442780, Пензенская обл, с Бессоновка, ул Комсомольская, д 1/1В",
+    "legal_address": null,
+    "website": "http://bessonovsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0035",
+    "name": "Судебный участок № 1 г. Заречного Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442961, Пензенская обл, г Заречный, ул Литке, стр 29",
+    "legal_address": null,
+    "website": "http://zarech1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0047",
+    "name": "Судебный участок № 1 г. Кузнецка Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442530, Пензенская обл, г Кузнецк, ул Стекловская, зд 89",
+    "legal_address": null,
+    "website": "http://kuznetskgs1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0033",
+    "name": "Судебный участок № 1 Городищенского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442310, Пензенская обл, г Городище, ул Александра Матросова, зд 128Г",
+    "legal_address": null,
+    "website": "http://gorodishensky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0007",
+    "name": "Судебный участок № 1 Железнодорожного района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://zhelezn1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0001",
+    "name": "Судебный участок № 1 Ленинского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://leninsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0008",
+    "name": "Судебный участок № 2 Железнодорожного района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://zhelezn2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0002",
+    "name": "Судебный участок № 2 Ленинского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://leninsky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0009",
+    "name": "Судебный участок № 3 Железнодорожного района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://zhelezn3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0003",
+    "name": "Судебный участок № 3 Ленинского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://leninsky3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0004",
+    "name": "Судебный участок № 4 Ленинского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://leninsky4.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0005",
+    "name": "Судебный участок № 5 Ленинского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://leninsky5.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0006",
+    "name": "Судебный участок № 6 Ленинского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://leninsky6.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0012",
+    "name": "Судебный участок № 1 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0013",
+    "name": "Судебный участок № 2 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0014",
+    "name": "Судебный участок № 3 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0010",
+    "name": "Судебный участок № 4 Железнодорожного района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://zhelezn4.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0015",
+    "name": "Судебный участок № 4 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky4.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0011",
+    "name": "Судебный участок № 5 Железнодорожного района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://zhelezn5.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0016",
+    "name": "Судебный участок № 5 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky5.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0017",
+    "name": "Судебный участок № 6 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky6.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0018",
+    "name": "Судебный участок № 7 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky7.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0019",
+    "name": "Судебный участок № 8 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky8.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0020",
+    "name": "Судебный участок № 1 Первомайского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://pervomaisky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0021",
+    "name": "Судебный участок № 2 Первомайского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://pervomaisky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0022",
+    "name": "Судебный участок № 3 Первомайского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://pervomaisky3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0023",
+    "name": "Судебный участок № 4 Первомайского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://pervomaisky4.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0024",
+    "name": "Судебный участок № 5 Первомайского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://pervomaisky5.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0025",
+    "name": "Судебный участок № 6 Первомайского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://pervomaisky6.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0038",
+    "name": "Судебный участок № 1 Земетчинского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442000, Пензенская обл, рп Земетчино, ул Ленина, влд 139",
+    "legal_address": null,
+    "website": "http://zemetchinsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0031",
+    "name": "Судебный участок № 2 Бессоновского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442780, Пензенская обл, с Бессоновка, ул Комсомольская, д 1/1В",
+    "legal_address": null,
+    "website": "http://bessonovsky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0036",
+    "name": "Судебный участок № 2 г. Заречного Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442961, Пензенская обл, г Заречный, ул Литке, стр 29",
+    "legal_address": null,
+    "website": "http://zarech2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0034",
+    "name": "Судебный участок № 2 Городищенского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442310, Пензенская обл, г Городище, ул Александра Матросова, зд 128Г",
+    "legal_address": null,
+    "website": "http://gorodishensky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0037",
+    "name": "Судебный участок № 3 г. Заречного Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442961, Пензенская обл, г Заречный, ул Литке, стр 29",
+    "legal_address": null,
+    "website": "http://zarech3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0041",
+    "name": "Судебный участок № 1 Каменского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442240, Пензенская обл, г Каменка, ул Центральная, зд 14",
+    "legal_address": null,
+    "website": "http://kamensky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0045",
+    "name": "Судебный участок № 1 Колышлейского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442830, Пензенская обл, рп Колышлей, ул Советская, стр 22",
+    "legal_address": null,
+    "website": "http://kolishleisky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0048",
+    "name": "Судебный участок № 2 г. Кузнецка Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442530, Пензенская обл, г Кузнецк, ул Стекловская, зд 89",
+    "legal_address": null,
+    "website": "http://kuznetskgs2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0042",
+    "name": "Судебный участок № 2 Каменского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442240, Пензенская обл, г Каменка, ул Центральная, зд 14",
+    "legal_address": null,
+    "website": "http://kamensky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0049",
+    "name": "Судебный участок № 3 г. Кузнецка Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442530, Пензенская обл, г Кузнецк, ул Стекловская, зд 89",
+    "legal_address": null,
+    "website": "http://kuznetskgs3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0043",
+    "name": "Судебный участок № 3 Каменского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442240, Пензенская обл, г Каменка, ул Центральная, зд 14",
+    "legal_address": null,
+    "website": "http://kamensky3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0051",
+    "name": "Судебный участок № 1 Кузнецкого района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442530, Пензенская обл, г Кузнецк, ул Рабочая, д 236",
+    "legal_address": null,
+    "website": "http://kuznetsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0056",
+    "name": "Судебный участок № 1 Мокшанского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442370, Пензенская обл, рп Мокшан, ул Пензенская, зд 7",
+    "legal_address": null,
+    "website": "http://mokshansky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0059",
+    "name": "Судебный участок № 1 Никольского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442680, Пензенская обл, г Никольск, ул Чайковского, д 1",
+    "legal_address": null,
+    "website": "http://nikolsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0052",
+    "name": "Судебный участок № 2 Кузнецкого района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442530, Пензенская обл, г Кузнецк, ул Рабочая, д 236",
+    "legal_address": null,
+    "website": "http://kuznetsky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0057",
+    "name": "Судебный участок № 2 Мокшанского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442370, Пензенская обл, рп Мокшан, ул Пензенская, зд 7",
+    "legal_address": null,
+    "website": "http://mokshansky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0050",
+    "name": "Судебный участок № 4 г. Кузнецка Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442530, Пензенская обл, г Кузнецк, ул Стекловская, зд 89",
+    "legal_address": null,
+    "website": "http://kuznetskgs4.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0061",
+    "name": "Судебный участок № 1 Нижнеломовского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442150, Пензенская обл, г Нижний Ломов, ул Урицкого, д 56",
+    "legal_address": null,
+    "website": "http://nizhnelomovsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0065",
+    "name": "Судебный участок № 1 Пензенского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://penzensky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0068",
+    "name": "Судебный участок № 1 Сердобского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442895, Пензенская обл, г Сердобск, ул Чайковского, зд 96А",
+    "legal_address": null,
+    "website": "http://serdobsky1.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0062",
+    "name": "Судебный участок № 2 Нижнеломовского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442150, Пензенская обл, г Нижний Ломов, ул Урицкого, д 56",
+    "legal_address": null,
+    "website": "http://nizhnelomovsky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0060",
+    "name": "Судебный участок № 2 Никольского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442680, Пензенская обл, г Никольск, ул Чайковского, д 1",
+    "legal_address": null,
+    "website": "http://nikolsky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0066",
+    "name": "Судебный участок № 2 Пензенского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://penzensky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0069",
+    "name": "Судебный участок № 2 Сердобского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442895, Пензенская обл, г Сердобск, ул Чайковского, зд 96А",
+    "legal_address": null,
+    "website": "http://serdobsky2.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0063",
+    "name": "Судебный участок № 3 Нижнеломовского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442150, Пензенская обл, г Нижний Ломов, ул Урицкого, д 56",
+    "legal_address": null,
+    "website": "http://nizhnelomovsky3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0067",
+    "name": "Судебный участок № 3 Пензенского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442400, Пензенская обл, с Кондоль, ул Нагорная, д 17",
+    "legal_address": null,
+    "website": "http://penzensky3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0070",
+    "name": "Судебный участок № 3 Сердобского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "442895, Пензенская обл, г Сердобск, ул Чайковского, зд 96А",
+    "legal_address": null,
+    "website": "http://serdobsky3.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0079",
+    "name": "Судебный участок № 4 Пензенского района Пензенской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://penzensky4.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0077",
+    "name": "Судебный участок № 6 Железнодорожного района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://zhelezn6.pnz.msudrf.ru"
+  },
+  {
+    "code": "58MS0075",
+    "name": "Судебный участок № 7 Ленинского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://leninsky7.pnz.msudrf.ru/"
+  },
+  {
+    "code": "58MS0078",
+    "name": "Судебный участок № 9 Октябрьского района г. Пензы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "440052, г Пенза, ул Куйбышева, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsky9.pnz.msudrf.ru"
+  }
+]

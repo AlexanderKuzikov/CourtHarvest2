@@ -1,0 +1,1342 @@
+[
+  {
+    "code": "64MS0001",
+    "name": "Судебный участок № 1 Александрово-Гайского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413370, Саратовская обл, с Александров Гай, ул Советская, д 15",
+    "legal_address": null,
+    "website": "http://1.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0002",
+    "name": "Судебный участок № 1 Аркадакского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412210, Саратовская обл, г Аркадак, ул Чапаева, д 5",
+    "legal_address": null,
+    "website": "http://2.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0004",
+    "name": "Судебный участок № 1 Аткарского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412420, Саратовская обл, г Аткарск, ул Советская, д 94",
+    "legal_address": null,
+    "website": "http://4.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0006",
+    "name": "Судебный участок № 1 Базарно-Карабулакского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412602, Саратовская обл, рп Базарный Карабулак, ул Ленина, д 108",
+    "legal_address": null,
+    "website": "http://6.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0008",
+    "name": "Судебный участок № 1 Балаковского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://8.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0018",
+    "name": "Судебный участок № 1 Балашовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412309, Саратовская обл, г Балашов, ул Луначарского, д 33А",
+    "legal_address": null,
+    "website": "http://18.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0024",
+    "name": "Судебный участок № 1 Балтайского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412630, Саратовская обл, с Балтай, ул В.И.Ленина, д 63",
+    "legal_address": null,
+    "website": "http://24.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0025",
+    "name": "Судебный участок № 1 Волжского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://25.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0030",
+    "name": "Судебный участок № 1 Вольского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412904, Саратовская обл, г Вольск, ул Комсомольская, д 249 к 2",
+    "legal_address": null,
+    "website": "http://30.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0035",
+    "name": "Судебный участок № 1 Воскресенского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413030, Саратовская обл, с Воскресенское, ул Докучаева, д 2",
+    "legal_address": null,
+    "website": "http://35.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0009",
+    "name": "Судебный участок № 1 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://9.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0020",
+    "name": "Судебный участок № 1 города Балашова Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412305, Саратовская обл, г Балашов, ул Орджоникидзе, д 68",
+    "legal_address": null,
+    "website": "http://20.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0036",
+    "name": "Судебный участок № 1 Дергачевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413440, Саратовская обл, рп Дергачи, ул Октябрьская, д 88",
+    "legal_address": null,
+    "website": "http://36.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0037",
+    "name": "Судебный участок № 1 Духовницкого района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413900, Саратовская обл, рп Духовницкое, ул Ленина, д 33",
+    "legal_address": null,
+    "website": "http://37.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0038",
+    "name": "Судебный участок № 1 Екатериновского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412120, Саратовская обл, рп Екатериновка, ул Первомайская, стр 7",
+    "legal_address": null,
+    "website": "http://38.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0039",
+    "name": "Судебный участок № 1 Ершовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413503, Саратовская обл, г Ершов, ул Интернациональная, зд 16",
+    "legal_address": null,
+    "website": "http://39.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0042",
+    "name": "Судебный участок № 1 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410036, г Саратов, ул Огородная, д 193Б",
+    "legal_address": null,
+    "website": "http://42.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0051",
+    "name": "Судебный участок № 1 Ивантеевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413950, Саратовская обл, с Ивантеевка, ул Мелиораторов, зд 11Б",
+    "legal_address": null,
+    "website": "http://51.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0052",
+    "name": "Судебный участок № 1 Калининского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412483, Саратовская обл, г Калининск, ул Мира, д 2",
+    "legal_address": null,
+    "website": "http://52.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0054",
+    "name": "Судебный участок № 1 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://54.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0003",
+    "name": "Судебный участок № 2 Аркадакского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412210, Саратовская обл, г Аркадак, ул Чапаева, д 5",
+    "legal_address": null,
+    "website": "http://3.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0005",
+    "name": "Судебный участок № 2 Аткарского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412420, Саратовская обл, г Аткарск, ул Советская, д 94",
+    "legal_address": null,
+    "website": "http://5.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0007",
+    "name": "Судебный участок № 2 Базарно-Карабулакского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412602, Саратовская обл, рп Базарный Карабулак, ул Ленина, д 108",
+    "legal_address": null,
+    "website": "http://7.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0019",
+    "name": "Судебный участок № 2 Балашовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412309, Саратовская обл, г Балашов, ул Луначарского, д 33А",
+    "legal_address": null,
+    "website": "http://19.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0010",
+    "name": "Судебный участок № 2 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://10.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0011",
+    "name": "Судебный участок № 3 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://11.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0012",
+    "name": "Судебный участок № 4 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://12.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0013",
+    "name": "Судебный участок № 5 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://13.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0014",
+    "name": "Судебный участок № 6 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://14.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0015",
+    "name": "Судебный участок № 7 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://15.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0016",
+    "name": "Судебный участок № 8 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://16.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0017",
+    "name": "Судебный участок № 9 города Балаково Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413841, Саратовская обл, г Балаково, ул Комарова, д 132А",
+    "legal_address": null,
+    "website": "http://17.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0026",
+    "name": "Судебный участок № 2 Волжского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410038, г Саратов, ул Большая Сеченская, зд 6В",
+    "legal_address": null,
+    "website": "http://26.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0021",
+    "name": "Судебный участок № 2 города Балашова Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412305, Саратовская обл, г Балашов, ул Орджоникидзе, д 6",
+    "legal_address": null,
+    "website": "http://21.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0027",
+    "name": "Судебный участок № 3 Волжского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410038, г Саратов, ул Большая Сеченская, зд 6В",
+    "legal_address": null,
+    "website": "http://27.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0022",
+    "name": "Судебный участок № 3 города Балашова Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412305, Саратовская обл, г Балашов, ул Орджоникидзе, д 68",
+    "legal_address": null,
+    "website": "http://22.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0028",
+    "name": "Судебный участок № 4 Волжского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410038, г Саратов, ул Большая Сеченская, зд 6В",
+    "legal_address": null,
+    "website": "http://28.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0023",
+    "name": "Судебный участок № 4 города Балашова Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412305, Саратовская обл, г Балашов, ул Орджоникидзе, д 68",
+    "legal_address": null,
+    "website": "http://23.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0029",
+    "name": "Судебный участок № 5 Волжского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410038, г Саратов, ул Большая Сеченская, зд 6В",
+    "legal_address": null,
+    "website": "http://29.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0031",
+    "name": "Судебный участок № 2 Вольского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412904, Саратовская обл, г Вольск, ул Комсомольская, д 249 к 2",
+    "legal_address": null,
+    "website": "http://31.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0032",
+    "name": "Судебный участок № 3 Вольского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412904, Саратовская обл, г Вольск, ул Комсомольская, д 249 к 2",
+    "legal_address": null,
+    "website": "http://32.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0033",
+    "name": "Судебный участок № 4 Вольского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412904, Саратовская обл, г Вольск, ул Комсомольская, д 249 к 2",
+    "legal_address": null,
+    "website": "http://33.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0041",
+    "name": "Судебный участок № 2 Ершовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413503, Саратовская обл, г Ершов, ул Интернациональная, зд 16",
+    "legal_address": null,
+    "website": "http://41.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0043",
+    "name": "Судебный участок № 2 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410036, г Саратов, ул Огородная, д 193Б",
+    "legal_address": null,
+    "website": "http://43.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0044",
+    "name": "Судебный участок № 3 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410049,г. Саратов, ул. Пономарёва 19/1, 2й этаж",
+    "legal_address": null,
+    "website": "http://44.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0045",
+    "name": "Судебный участок № 4 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410001, г Саратов, ул Огородная, д 31А",
+    "legal_address": null,
+    "website": "http://45.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0046",
+    "name": "Судебный участок № 5 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410049,г. Саратов, ул. Пономарёва 19/1, 2й этаж",
+    "legal_address": null,
+    "website": "http://46.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0047",
+    "name": "Судебный участок № 6 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410049,г. Саратов, ул. Пономарёва, д. 19/1, 2й этаж",
+    "legal_address": null,
+    "website": "http://47.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0048",
+    "name": "Судебный участок № 7 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410036, г Саратов, ул Огородная, д 193Б",
+    "legal_address": null,
+    "website": "http://48.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0049",
+    "name": "Судебный участок № 8 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410001, г Саратов, ул Огородная, д 31А",
+    "legal_address": null,
+    "website": "http://49.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0053",
+    "name": "Судебный участок № 2 Калининского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412483, Саратовская обл, г Калининск, ул Мира, д 2",
+    "legal_address": null,
+    "website": "http://53.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0055",
+    "name": "Судебный участок № 2 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://55.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0056",
+    "name": "Судебный участок № 3 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://56.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0057",
+    "name": "Судебный участок № 4 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://57.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0058",
+    "name": "Судебный участок № 5 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://58.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0059",
+    "name": "Судебный участок № 6 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://59.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0050",
+    "name": "Судебный участок № 9 Заводского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410036, г Саратов, ул Огородная, д 193Б",
+    "legal_address": null,
+    "website": "http://50.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0062",
+    "name": "Судебный участок № 1 Красноармейского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412800, Саратовская обл, г Красноармейск, ул им. Сергея Кирова, д 70",
+    "legal_address": null,
+    "website": "http://62.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0065",
+    "name": "Судебный участок № 1 Краснокутского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413235, Саратовская обл, г Красный Кут, ул Армейская, д 33",
+    "legal_address": null,
+    "website": "http://65.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0067",
+    "name": "Судебный участок № 1 Краснопартизанского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413540, Саратовская обл, рп Горный, ул Советская, д 2А",
+    "legal_address": null,
+    "website": "http://67.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0068",
+    "name": "Судебный участок № 1 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://68.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0063",
+    "name": "Судебный участок № 2 Красноармейского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412800, Саратовская обл, г Красноармейск, ул им. Сергея Кирова, д 70",
+    "legal_address": null,
+    "website": "http://63.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0066",
+    "name": "Судебный участок № 2 Краснокутского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413235, Саратовская обл, г Красный Кут, ул Армейская, д 33",
+    "legal_address": null,
+    "website": "http://66.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0069",
+    "name": "Судебный участок № 2 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://69.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0060",
+    "name": "Судебный участок № 7 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://60.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0061",
+    "name": "Судебный участок № 8 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://61.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0079",
+    "name": "Судебный участок № 1 Лысогорского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412860, Саратовская обл, рп Лысые Горы, пл 50 лет Октября, д 5",
+    "legal_address": null,
+    "website": "http://79.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0070",
+    "name": "Судебный участок № 3 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://70.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0071",
+    "name": "Судебный участок № 4 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://71.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0072",
+    "name": "Судебный участок № 5 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://72.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0073",
+    "name": "Судебный участок № 6 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://73.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0074",
+    "name": "Судебный участок № 7 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://74.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0075",
+    "name": "Судебный участок № 8 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://75.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0076",
+    "name": "Судебный участок № 9 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://76.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0077",
+    "name": "Судебный участок № 10 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://77.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0078",
+    "name": "Судебный участок № 11 Ленинского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "http://78.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0080",
+    "name": "Судебный участок № 1 Марксовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413090, Саратовская обл, г Маркс, ул 4-я линия, д 2А",
+    "legal_address": null,
+    "website": "http://80.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0084",
+    "name": "Судебный участок № 1 Новобурасского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412580, Саратовская обл, рп Новые Бурасы, ул Почтовая, д 4А",
+    "legal_address": null,
+    "website": "http://84.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0085",
+    "name": "Судебный участок № 1 Новоузенского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413360, Саратовская обл, г Новоузенск, ул Революции, д 29",
+    "legal_address": null,
+    "website": "http://85.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0087",
+    "name": "Судебный участок № 1 Озинского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413620, Саратовская обл, рп Озинки, ул Пионерская, д 11",
+    "legal_address": null,
+    "website": "http://87.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0088",
+    "name": "Судебный участок № 1 Октябрьского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://88.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0081",
+    "name": "Судебный участок № 2 Марксовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413090, Саратовская обл, г Маркс, ул Кирова, д 35/1",
+    "legal_address": null,
+    "website": "http://81.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0086",
+    "name": "Судебный участок № 2 Новоузенского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413360, Саратовская обл, г Новоузенск, ул Революции, д 29",
+    "legal_address": null,
+    "website": "http://86.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0089",
+    "name": "Судебный участок № 2 Октябрьского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://89.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0082",
+    "name": "Судебный участок № 3 Марксовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413090, Саратовская обл, г Маркс, ул Кирова, д 35/1",
+    "legal_address": null,
+    "website": "http://82.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0083",
+    "name": "Судебный участок № 4 Марксовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413090, Саратовская обл, г Маркс, ул 4-я линия, д 2А",
+    "legal_address": null,
+    "website": "http://83.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0094",
+    "name": "Судебный участок № 1 Перелюбского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413750, Саратовская обл, с Перелюб, ул Ленина, д 96А",
+    "legal_address": null,
+    "website": "http://94.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0095",
+    "name": "Судебный участок № 1 Петровского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412540, Саратовская обл, г Петровск, пл Ленина, д 5",
+    "legal_address": null,
+    "website": "http://95.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0097",
+    "name": "Судебный участок № 1 Питерского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413320, Саратовская обл, с Питерка, ул Им Ленина, зд 127",
+    "legal_address": null,
+    "website": "http://97.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0098",
+    "name": "Судебный участок № 1 Пугачевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413720, Саратовская обл, г Пугачев, ул Топорковская, д 67",
+    "legal_address": null,
+    "website": "http://98.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0096",
+    "name": "Судебный участок № 2 Петровского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412540, Саратовская обл, г Петровск, пл Ленина, д 5",
+    "legal_address": null,
+    "website": "http://96.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0099",
+    "name": "Судебный участок № 2 Пугачевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413720, Саратовская обл, г Пугачев, ул Топорковская, д 67",
+    "legal_address": null,
+    "website": "http://99.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0090",
+    "name": "Судебный участок № 3 Октябрьского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://90.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0091",
+    "name": "Судебный участок № 4 Октябрьского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://91.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0092",
+    "name": "Судебный участок № 5 Октябрьского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://92.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0093",
+    "name": "Судебный участок № 6 Октябрьского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://93.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0120",
+    "name": "Судебный участок № 1 административного округа Шиханы Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412950, Саратовская обл, г Шиханы, ул Школьная, стр 2",
+    "legal_address": null,
+    "website": "http://120.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0108",
+    "name": "Судебный участок № 1 Гагаринского административного района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://108.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0123",
+    "name": "Судебный участок № 1 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Льва Кассиля, д 14А",
+    "legal_address": null,
+    "website": "http://123.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0102",
+    "name": "Судебный участок № 1 Ровенского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413270, Саратовская обл, рп Ровное, ул Советская, д 40",
+    "legal_address": null,
+    "website": "http://102.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0103",
+    "name": "Судебный участок № 1 Романовского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412270, Саратовская обл, рп Романовка, ул Советская, д 128Б",
+    "legal_address": null,
+    "website": "http://103.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0104",
+    "name": "Судебный участок № 1 Ртищевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412031, Саратовская обл, г Ртищево, ул 60 лет Октября, д 14",
+    "legal_address": null,
+    "website": "http://104.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0107",
+    "name": "Судебный участок № 1 Самойловского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412370, Саратовская обл, рп Самойловка, ул 30 лет Победы, д 2",
+    "legal_address": null,
+    "website": "http://107.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0110",
+    "name": "Судебный участок № 1 Советского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413210, Саратовская обл, рп Степное, ул Октябрьская, д 25",
+    "legal_address": null,
+    "website": "http://110.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0112",
+    "name": "Судебный участок № 1 Татищевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412170, Саратовская обл, рп Татищево, ул Красноармейская, д 32",
+    "legal_address": null,
+    "website": "http://112.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0114",
+    "name": "Судебный участок № 1 Турковского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412070, Саратовская обл, рп Турки, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://114.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0115",
+    "name": "Судебный участок № 1 Федоровского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413410, Саратовская обл, рп Мокроус, ул Центральная, д 63",
+    "legal_address": null,
+    "website": "http://115.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0116",
+    "name": "Судебный участок № 1 Фрунзенского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://116.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0119",
+    "name": "Судебный участок № 1 Хвалынского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412780, Саратовская обл, г Хвалынск, ул Революционная, д 110",
+    "legal_address": null,
+    "website": "http://119.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0121",
+    "name": "Судебный участок № 1 Энгельсского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Льва Кассиля, д 14А",
+    "legal_address": null,
+    "website": "http://121.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0109",
+    "name": "Судебный участок № 2 Гагаринского административного района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://109.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0124",
+    "name": "Судебный участок № 2 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Льва Кассиля, д 14А",
+    "legal_address": null,
+    "website": "http://124.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0105",
+    "name": "Судебный участок № 2 Ртищевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412031, Саратовская обл, г Ртищево, ул 60 лет Октября, д 14",
+    "legal_address": null,
+    "website": "http://105.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0111",
+    "name": "Судебный участок № 2 Советского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413210, Саратовская обл, рп Степное, ул Октябрьская, д 25",
+    "legal_address": null,
+    "website": "http://111.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0113",
+    "name": "Судебный участок № 2 Татищевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412170, Саратовская обл, рп Татищево, ул Красноармейская, д 32",
+    "legal_address": null,
+    "website": "http://113.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0117",
+    "name": "Судебный участок № 2 Фрунзенского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://117.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0100",
+    "name": "Судебный участок № 3 Пугачевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413720, Саратовская обл, г Пугачев, ул Топорковская, д 67",
+    "legal_address": null,
+    "website": "http://100.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0106",
+    "name": "Судебный участок № 3 Ртищевского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "412031, Саратовская обл, г Ртищево, ул Малая Московская, д 21",
+    "legal_address": null,
+    "website": "http://106.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0118",
+    "name": "Судебный участок № 3 Фрунзенского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "http://118.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0122",
+    "name": "Судебный участок № 2 Энгельсского района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Льва Кассиля, д 14А",
+    "legal_address": null,
+    "website": "http://122.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0125",
+    "name": "Судебный участок № 3 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Революционная, д 6",
+    "legal_address": null,
+    "website": "http://125.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0126",
+    "name": "Судебный участок № 4 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Революционная, д 6",
+    "legal_address": null,
+    "website": "http://126.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0127",
+    "name": "Судебный участок № 5 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413105, Саратовская обл, г Энгельс, ул Одесская, д 39",
+    "legal_address": null,
+    "website": "http://127.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0128",
+    "name": "Судебный участок № 6 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Революционная, д 6",
+    "legal_address": null,
+    "website": "http://128.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0129",
+    "name": "Судебный участок № 7 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Революционная, д 6",
+    "legal_address": null,
+    "website": "http://129.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0136",
+    "name": "Судебный участок № 6 Волжского района г. Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410038, г Саратов, ул Большая Сеченская, д 6В",
+    "legal_address": null,
+    "website": "http://136.sar.msudrf.ru/"
+  },
+  {
+    "code": "64MS0130",
+    "name": "Судебный участок № 8 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413105, Саратовская обл, г Энгельс, ул Одесская, д 39",
+    "legal_address": null,
+    "website": "http://130.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0131",
+    "name": "Судебный участок № 9 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413105, Саратовская обл, г Энгельс, ул Одесская, д 39",
+    "legal_address": null,
+    "website": "http://131.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0134",
+    "name": "Судебный участок № 9 Кировского района города Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410009, г Саратов, ул Дачная, зд 30Б",
+    "legal_address": null,
+    "website": "http://134.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0132",
+    "name": "Судебный участок № 10 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Революционная, д 6",
+    "legal_address": null,
+    "website": "http://132.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0133",
+    "name": "Судебный участок № 11 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Революционная, д 6",
+    "legal_address": null,
+    "website": "http://133.sar.msudrf.ru"
+  },
+  {
+    "code": "64MS0135",
+    "name": "Судебный участок № 12 города Энгельса Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Революционная, д 6",
+    "legal_address": null,
+    "website": "http://135.sar.msudrf.ru/"
+  },
+  {
+    "code": "64MS0137",
+    "name": "Судебный участок № 12 Ленинского района г. Саратова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410044, г Саратов, пр-кт Строителей, д 1",
+    "legal_address": null,
+    "website": "https://137.sar.msudrf.ru/"
+  },
+  {
+    "code": "64MS0138",
+    "name": "Судебный участок №3 Гагаринского административного района Саратовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "410012, г Саратов, ул им Емлютина Д.В., д 39/45",
+    "legal_address": null,
+    "website": "https://138.sar.msudrf.ru/"
+  }
+]

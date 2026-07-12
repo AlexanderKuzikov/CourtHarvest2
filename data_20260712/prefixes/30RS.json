@@ -1,0 +1,152 @@
+[
+  {
+    "code": "30RS0005",
+    "name": "Ахтубинский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416500, Астраханская обл, г Ахтубинск, ул Ватутина, зд 18А",
+    "legal_address": null,
+    "website": "http://ahtubinsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0006",
+    "name": "Володарский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416170, Астраханская обл, Володарский р-н, п Володарский, ул Советская, зд 4",
+    "legal_address": null,
+    "website": "http://volodarsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0007",
+    "name": "Енотаевский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416200, Астраханская обл., с. Енотаевка, ул. Чернышевского/Кирова, д. 21/57",
+    "legal_address": null,
+    "website": "http://enotaevsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0008",
+    "name": "Икрянинский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416370, Астраханская обл, с Икряное, ул Мира, д 37Б",
+    "legal_address": null,
+    "website": "http://ikryaninsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0009",
+    "name": "Камызякский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416340, Астраханская обл, г Камызяк, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "http://kamizyaksky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0001",
+    "name": "Кировский районный суд г. Астрахани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "414000, г Астрахань, ул Набережная 1 Мая, зд 43",
+    "legal_address": null,
+    "website": "http://kirovsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0010",
+    "name": "Красноярский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416150, Астраханская обл, с Красный Яр, ул Советская, зд 2",
+    "legal_address": null,
+    "website": "http://krasnoyarsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0002",
+    "name": "Ленинский районный суд г. Астрахани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "414056, г Астрахань, ул Савушкина, д 3/1",
+    "legal_address": null,
+    "website": "http://leninsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0011",
+    "name": "Лиманский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416410, Астраханская обл, рп Лиман, ул Ленина, д 56",
+    "legal_address": null,
+    "website": "http://limansky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0012",
+    "name": "Наримановский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "414050, г Астрахань, ул Щепкина, стр 2А",
+    "legal_address": null,
+    "website": "http://narimanovsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0013",
+    "name": "Приволжский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416450, Астраханская обл, с Началово, ул Ленина, д 78",
+    "legal_address": null,
+    "website": "http://privolzhsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0003",
+    "name": "Советский районный суд г. Астрахани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "414024, г Астрахань, ул Набережная Приволжского затона, д 13Б",
+    "legal_address": null,
+    "website": "http://sovetsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0004",
+    "name": "Трусовский районный суд г. Астрахани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "414006, г Астрахань, ул Дзержинского, д 34",
+    "legal_address": null,
+    "website": "http://trusovsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0014",
+    "name": "Харабалинский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416010, Астраханская обл, г Харабали, ул Богдана Хмельницкого, зд 19",
+    "legal_address": null,
+    "website": "http://harabalinsky.ast.sudrf.ru"
+  },
+  {
+    "code": "30RS0015",
+    "name": "Черноярский районный суд Астраханской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "416230, Астраханская обл, с Черный Яр, пл Ленина, влд 16",
+    "legal_address": null,
+    "website": "http://chernoyarsky.ast.sudrf.ru"
+  }
+]

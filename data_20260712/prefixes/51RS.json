@@ -1,0 +1,152 @@
+[
+  {
+    "code": "51RS0007",
+    "name": "Апатитский городской суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184209, Мурманская обл, г Апатиты, ул Ферсмана, влд 44",
+    "legal_address": null,
+    "website": "http://apa.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0009",
+    "name": "Кандалакшский районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184042, Мурманская обл, г Кандалакша, ул Курасова, д 8",
+    "legal_address": null,
+    "website": "http://kan.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0016",
+    "name": "Кировский городской суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184250, Мурманская обл, г Кировск, пр-кт Ленина, д 16 литера а",
+    "legal_address": null,
+    "website": "http://kir.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0018",
+    "name": "Ковдорский районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184143, Мурманская обл, г Ковдор, ул Баштыркова, д 3 к 4",
+    "legal_address": null,
+    "website": "http://kovd.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0008",
+    "name": "Кольский районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184381, Мурманская обл, г Кола, пр-кт Миронова, д 30",
+    "legal_address": null,
+    "website": "http://kola.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0003",
+    "name": "Ленинский районный суд г. Мурманска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "183038, г Мурманск, проезд Ивана Халатина, д 5",
+    "legal_address": null,
+    "website": "http://len.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0015",
+    "name": "Ловозерский районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184592, Мурманская обл, с Ловозеро, ул Советская, д 15",
+    "legal_address": null,
+    "website": "http://lov.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0006",
+    "name": "Мончегорский городской суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184511, Мурманская обл, г Мончегорск, наб Комсомольская, д 56",
+    "legal_address": null,
+    "website": "http://mon.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0001",
+    "name": "Октябрьский районный суд г. Мурманска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "183038, г Мурманск, пр-кт Ленина, д 54",
+    "legal_address": null,
+    "website": "http://okt.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0011",
+    "name": "Оленегорский городской суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184536, Мурманская обл, г Оленегорск, ул Нагорная, д 6А",
+    "legal_address": null,
+    "website": "http://ole.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0002",
+    "name": "Первомайский районный суд г. Мурманска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "183038, г Мурманск, пр-кт Ленина, д 2",
+    "legal_address": null,
+    "website": "http://perv.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0017",
+    "name": "Печенгский районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184430, Мурманская обл, Печенгский р-н, г Заполярный, ул Стрельцова, зд 3А",
+    "legal_address": null,
+    "website": "http://pech.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0019",
+    "name": "Полярнозоринский районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184230, Мурманская обл, г Полярные Зори, ул Пушкина, д 12А",
+    "legal_address": null,
+    "website": "http://polzori.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0020",
+    "name": "Полярный районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184650, Мурманская обл, г Полярный, ул Сивко, д 2",
+    "legal_address": null,
+    "website": "http://pol.mrm.sudrf.ru"
+  },
+  {
+    "code": "51RS0021",
+    "name": "Североморский районный суд Мурманской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "184604, Мурманская обл, г Североморск, ул Душенова, д 12А",
+    "legal_address": null,
+    "website": "http://sevrs.mrm.sudrf.ru"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "79RS0002",
+    "name": "Биробиджанский районный суд Еврейской автономной области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "679016, г Биробиджан, ул Пионерская, д 32",
+    "legal_address": null,
+    "website": "http://birobidzhansky.brb.sudrf.ru"
+  },
+  {
+    "code": "79RS0003",
+    "name": "Ленинский районный суд Еврейской автономной области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "679370, Еврейская Аобл, с Ленинское, ул Ленина, стр 18",
+    "legal_address": null,
+    "website": "http://leninsky.brb.sudrf.ru"
+  },
+  {
+    "code": "79RS0004",
+    "name": "Облученский районный суд Еврейской автономной области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "679100, Еврейская Аобл, г Облучье, ул 60 лет Октября, д 14",
+    "legal_address": null,
+    "website": "http://obluchensky.brb.sudrf.ru"
+  },
+  {
+    "code": "79RS0006",
+    "name": "Смидовичский районный суд Еврейской автономной области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "679150, Еврейская Аобл, п Смидович, ул Советская, д 45",
+    "legal_address": null,
+    "website": "http://smidovichsky.brb.sudrf.ru"
+  }
+]

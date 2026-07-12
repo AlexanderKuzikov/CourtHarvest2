@@ -1,0 +1,252 @@
+[
+  {
+    "code": "43RS0011",
+    "name": "Верхнекамский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612820, Кировская обл, г Кирс, ул Милицейская, д 6",
+    "legal_address": null,
+    "website": "http://verhnekamsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0010",
+    "name": "Вятскополянский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612961, Кировская обл, г Вятские Поляны, ул Советская, д 26А",
+    "legal_address": null,
+    "website": "http://vyatskopolyansky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0013",
+    "name": "Зуевский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612412, Кировская обл, г Зуевка, ул Восточная, д 9",
+    "legal_address": null,
+    "website": "http://zuevsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0017",
+    "name": "Кирово-Чепецкий районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613050, Кировская обл, г Кирово-Чепецк, пр-кт Россия, д 30/2",
+    "legal_address": null,
+    "website": "http://kirovochepetcky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0018",
+    "name": "Котельничский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612601, Кировская обл, г Котельнич, ул Советская, д 27",
+    "legal_address": null,
+    "website": "http://kotelnichesky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0016",
+    "name": "Куменский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613400, Кировская обл, пгт Кумены, ул Кирова, д 8",
+    "legal_address": null,
+    "website": "http://kumensky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0001",
+    "name": "Ленинский районный суд г. Кирова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "610000, г Киров, ул Спасская, д 20",
+    "legal_address": null,
+    "website": "http://leninsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0020",
+    "name": "Лузский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613980, Кировская обл, г Луза, пер Набережный 1-й, д 22А",
+    "legal_address": null,
+    "website": "http://luzsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0021",
+    "name": "Малмыжский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612920, Кировская обл, г Малмыж, ул Комсомольская, д 67",
+    "legal_address": null,
+    "website": "http://malmizhsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0022",
+    "name": "Мурашинский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613710, Кировская обл, г Мураши, ул Кирова, д 31",
+    "legal_address": null,
+    "website": "http://murashinsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0004",
+    "name": "Нововятский районный суд г. Кирова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "610008, г Киров, ул Красноармейская (Нововятский), д 10",
+    "legal_address": null,
+    "website": "http://novovyatsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0025",
+    "name": "Нолинский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613440, Кировская обл, г Нолинск, ул Фрунзе, д 5",
+    "legal_address": null,
+    "website": "http://nolinsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0002",
+    "name": "Октябрьский районный суд г. Кирова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "610046, г Киров, ул Московская, д 70",
+    "legal_address": null,
+    "website": "http://oktyabrsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0026",
+    "name": "Омутнинский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612740, Кировская обл, г Омутнинск, ул Коковихина, д 40",
+    "legal_address": null,
+    "website": "http://omutninsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0028",
+    "name": "Оричевский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612080, Кировская обл, пгт Оричи, ул Карла Маркса, д 16",
+    "legal_address": null,
+    "website": "http://orichevsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0003",
+    "name": "Первомайский районный суд г. Кирова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "610035, г Киров, ул Калинина, д 57",
+    "legal_address": null,
+    "website": "http://pervomaysky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0031",
+    "name": "Подосиновский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613930, Кировская обл, пгт Подосиновец, ул Полярная, д 2",
+    "legal_address": null,
+    "website": "http://podosinovsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0032",
+    "name": "Санчурский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612370, Кировская обл, пгт Санчурск, ул Ленина, д 1",
+    "legal_address": null,
+    "website": "http://sanchursky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0034",
+    "name": "Слободской районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613152, Кировская обл, г Слободской, ул Октябрьская, д 1",
+    "legal_address": null,
+    "website": "http://slobodskoy.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0035",
+    "name": "Советский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613340, Кировская обл, г Советск, ул Энгельса, д 50",
+    "legal_address": null,
+    "website": "http://sovetsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0038",
+    "name": "Унинский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612540, Кировская обл, пгт Уни, тракт Уни-Порез, д 4",
+    "legal_address": null,
+    "website": "http://uninsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0039",
+    "name": "Уржумский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613530, Кировская обл, г Уржум, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://urzhumsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0041",
+    "name": "Шабалинский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612020, Кировская обл, пгт Ленинское, ул Гагарина, д 76",
+    "legal_address": null,
+    "website": "http://shabalinsky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0042",
+    "name": "Юрьянский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "613600, Кировская обл, пгт Юрья, ул Большевиков, д 41",
+    "legal_address": null,
+    "website": "http://yuryansky.kir.sudrf.ru"
+  },
+  {
+    "code": "43RS0043",
+    "name": "Яранский районный суд Кировской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "612260, Кировская обл, г Яранск, ул Карла Маркса, д 14",
+    "legal_address": null,
+    "website": "http://yaransky.kir.sudrf.ru"
+  }
+]

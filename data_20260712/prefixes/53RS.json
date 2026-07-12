@@ -1,0 +1,82 @@
+[
+  {
+    "code": "53RS0002",
+    "name": "Боровичский районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "174401, Новгородская обл, г Боровичи, ул Софьи Перовской, д 72А",
+    "legal_address": null,
+    "website": "http://borovichsky.nvg.sudrf.ru"
+  },
+  {
+    "code": "53RS0003",
+    "name": "Валдайский районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "175400, Новгородская обл, г Валдай, ул Кирова, д 3А",
+    "legal_address": null,
+    "website": "http://valdaisky.nvg.sudrf.ru"
+  },
+  {
+    "code": "53RS0022",
+    "name": "Новгородский районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "173002, г Великий Новгород, ул Октябрьская, д 15",
+    "legal_address": null,
+    "website": "http://novgorodski.nvg.sudrf.ru"
+  },
+  {
+    "code": "53RS0011",
+    "name": "Окуловский районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "174350, Новгородская обл, г Окуловка, ул Миклухо-Маклая, д 30",
+    "legal_address": null,
+    "website": "http://okulovsky.nvg.sudrf.ru"
+  },
+  {
+    "code": "53RS0012",
+    "name": "Пестовский районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "174510, Новгородская обл, г Пестово, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://pestovsky.nvg.sudrf.ru"
+  },
+  {
+    "code": "53RS0015",
+    "name": "Солецкий районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "175040, Новгородская обл, г Сольцы, ул Почтовая, д 14",
+    "legal_address": null,
+    "website": "http://solecky.nvg.sudrf.ru"
+  },
+  {
+    "code": "53RS0016",
+    "name": "Старорусский районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "175202, Новгородская обл, г Старая Русса, ул Трибуны, зд 4",
+    "legal_address": null,
+    "website": "http://starorussky.nvg.sudrf.ru"
+  },
+  {
+    "code": "53RS0019",
+    "name": "Чудовский районный суд Новгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "174210, Новгородская обл, г Чудово, ул Некрасова, д 32",
+    "legal_address": null,
+    "website": "http://chudovsky.nvg.sudrf.ru"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "code": "43MS0001",
+    "name": "Судебный участок № 1 Яранского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612180, Кировская обл, пгт Арбаж, ул Свободы, д 16",
+    "legal_address": null,
+    "website": "http://1.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0002",
+    "name": "Судебный участок № 2 Омутнинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613060, Кировская обл, пгт Афанасьево, ул Красных Партизан, д 5",
+    "legal_address": null,
+    "website": "http://2.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0003",
+    "name": "Судебный участок № 3 Слободского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613200, Кировская обл, г Белая Холуница, ул Чапаева, д 1",
+    "legal_address": null,
+    "website": "http://3.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0004",
+    "name": "Судебный участок № 4 Унинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612470, Кировская обл, пгт Богородское, ул Коммуны, д 9",
+    "legal_address": null,
+    "website": "http://4.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0005",
+    "name": "Судебный участок № 5 Верхнекамского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612820, Кировская обл, г Кирс, ул Слободская, д 16",
+    "legal_address": null,
+    "website": "http://5.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0006",
+    "name": "Судебный участок № 6 Верхнекамского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612830, Кировская обл, Верхнекамский р-н, пгт Рудничный, ул Орджоникидзе, д 26",
+    "legal_address": null,
+    "website": "http://6.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0007",
+    "name": "Судебный участок № 7 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613310, Кировская обл, пгт Верхошижемье, ул Школьная, д 9А",
+    "legal_address": null,
+    "website": "http://7.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0008",
+    "name": "Судебный участок № 8 Вятскополянского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612964, Кировская обл, г Вятские Поляны, ул Мира, д 45",
+    "legal_address": null,
+    "website": "http://8.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0082",
+    "name": "Судебный участок № 9 Первомайского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610004, г Киров, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "https://9.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0010",
+    "name": "Судебный участок № 10 Вятскополянского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612990, Кировская обл, Вятскополянский р-н, г Сосновка, ул Гоголя, д 34",
+    "legal_address": null,
+    "website": "http://10.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0012",
+    "name": "Судебный участок № 11 Котельничского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612140, Кировская обл, пгт Даровской, ул Набережная, д 7",
+    "legal_address": null,
+    "website": "http://11.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0013",
+    "name": "Судебный участок № 12 Зуевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612412, Кировская обл, г Зуевка, ул Опалева, д 55",
+    "legal_address": null,
+    "website": "http://12.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0014",
+    "name": "Судебный участок № 13 Санчурского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612300, Кировская обл, пгт Кикнур, ул Советская, д 34",
+    "legal_address": null,
+    "website": "http://13.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0015",
+    "name": "Судебный участок № 14 Малмыжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613570, Кировская обл, пгт Кильмезь, ул Горького, д 9",
+    "legal_address": null,
+    "website": "http://14.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0016",
+    "name": "Судебный участок № 15 Кирово-Чепецкого судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613043, Кировская обл, г Кирово-Чепецк, ул Речная, д 4 к 3",
+    "legal_address": null,
+    "website": "http://15.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0017",
+    "name": "Судебный участок № 16 Кирово-Чепецкого судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613043, Кировская обл, г Кирово-Чепецк, ул Речная, д 4 к 3",
+    "legal_address": null,
+    "website": "http://16.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0018",
+    "name": "Судебный участок № 17 Кирово-Чепецкого судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613043, Кировская обл, г Кирово-Чепецк, ул Речная, д 4 к 3",
+    "legal_address": null,
+    "website": "http://17.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0019",
+    "name": "Судебный участок № 18 Кирово-Чепецкого судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613043, Кировская обл, г Кирово-Чепецк, ул Речная, д 4 к 3",
+    "legal_address": null,
+    "website": "http://18.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0021",
+    "name": "Судебный участок № 19 Котельничского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612601, Кировская обл, г Котельнич, ул Советская, д 27",
+    "legal_address": null,
+    "website": "http://19.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0022",
+    "name": "Судебный участок № 20 Котельничского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612601, Кировская обл, г Котельнич, ул Советская, д 27",
+    "legal_address": null,
+    "website": "http://20.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0011",
+    "name": "Судебный участок № 73 Вятскополянского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612964, Кировская обл, г Вятские Поляны, ул Мира, д 45",
+    "legal_address": null,
+    "website": "http://73.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0024",
+    "name": "Судебный участок № 21 Куменского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613400, Кировская обл, пгт Кумены, ул Лесная, д 7",
+    "legal_address": null,
+    "website": "http://21.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0025",
+    "name": "Судебный участок № 22 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613500, Кировская обл, пгт Лебяжье, ул Комарова, д 16",
+    "legal_address": null,
+    "website": "http://22.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0026",
+    "name": "Судебный участок № 23 Лузского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613982, Кировская обл, г Луза, ул Чапаева, д 2",
+    "legal_address": null,
+    "website": "http://23.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0027",
+    "name": "Судебный участок № 24 Малмыжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612920, Кировская обл, г Малмыж, ул Пушкаревская, д 4",
+    "legal_address": null,
+    "website": "http://24.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0028",
+    "name": "Судебный участок № 25 Мурашинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613710, Кировская обл, г Мураши, ул Володарского, д 5",
+    "legal_address": null,
+    "website": "http://25.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0029",
+    "name": "Судебный участок № 26 Слободского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613260, Кировская обл, пгт Нагорск, ул Советская, д 149",
+    "legal_address": null,
+    "website": "http://26.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0020",
+    "name": "Судебный участок № 74 Кирово-Чепецкого судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613043, Кировская обл, г Кирово-Чепецк, ул Речная, д 4 к 3",
+    "legal_address": null,
+    "website": "http://74.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0023",
+    "name": "Судебный участок № 75 Котельничского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612601, Кировская обл, г Котельнич, ул Советская, д 27",
+    "legal_address": null,
+    "website": "http://75.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0030",
+    "name": "Судебный участок № 27 Нолинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613470, Кировская обл, пгт Нема, ул Советская, д 9",
+    "legal_address": null,
+    "website": "http://27.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0031",
+    "name": "Судебный участок № 28 Нолинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613440, Кировская обл, г Нолинск, ул Пригородная, д 28",
+    "legal_address": null,
+    "website": "http://28.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0032",
+    "name": "Судебный участок № 29 Омутнинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612740, Кировская обл, г Омутнинск, ул Герцена, д 23",
+    "legal_address": null,
+    "website": "http://29.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0033",
+    "name": "Судебный участок № 30 Омутнинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612740, Кировская обл, г Омутнинск, ул Герцена, д 23",
+    "legal_address": null,
+    "website": "http://30.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0035",
+    "name": "Судебный участок № 31 Мурашинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613810, Кировская обл, пгт Опарино, ул Октябрьская, д 32",
+    "legal_address": null,
+    "website": "http://31.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0036",
+    "name": "Судебный участок № 32 Котельничского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612270, Кировская обл, г Орлов, ул Строителей, д 20",
+    "legal_address": null,
+    "website": "http://32.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0037",
+    "name": "Судебный участок № 33 Оричевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612080, Кировская обл, пгт Оричи, ул Комсомольская, д 42",
+    "legal_address": null,
+    "website": "http://33.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0038",
+    "name": "Судебный участок № 34 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613380, Кировская обл, пгт Пижанка, ул Труда, д 8А",
+    "legal_address": null,
+    "website": "http://34.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0039",
+    "name": "Судебный участок № 35 Подосиновского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613911, Кировская обл, Подосиновский р-н, пгт Демьяново, ул Советская, д 27",
+    "legal_address": null,
+    "website": "http://35.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0034",
+    "name": "Судебный участок № 76 Омутнинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612740, Кировская обл, г Омутнинск, ул Герцена, д 23",
+    "legal_address": null,
+    "website": "http://76.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0040",
+    "name": "Судебный участок № 36 Санчурского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612370, Кировская обл, пгт Санчурск, ул Зевахина, д 2",
+    "legal_address": null,
+    "website": "http://36.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0041",
+    "name": "Судебный участок № 37 Шабалинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612040, Кировская обл, пгт Свеча, ул Свободы, д 16",
+    "legal_address": null,
+    "website": "http://37.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0042",
+    "name": "Судебный участок № 38 Слободского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613112, Кировская обл, Слободской р-н, д Стулово, ул Трактовая, д 42",
+    "legal_address": null,
+    "website": "http://38.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0043",
+    "name": "Судебный участок № 39 Слободского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613112, Кировская обл, Слободской р-н, д Стулово, ул Трактовая, д 42",
+    "legal_address": null,
+    "website": "http://39.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0044",
+    "name": "Судебный участок № 40 Слободского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613112, Кировская обл, Слободской р-н, д Стулово, ул Трактовая, д 42",
+    "legal_address": null,
+    "website": "http://40.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0046",
+    "name": "Судебный участок № 41 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613340, Кировская обл, г Советск, ул Октябрьская, д 87",
+    "legal_address": null,
+    "website": "http://41.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0048",
+    "name": "Судебный участок № 43 Нолинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612450, Кировская обл, пгт Суна, ул Большевиков, д 5А",
+    "legal_address": null,
+    "website": "http://43.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0049",
+    "name": "Судебный участок № 44 Яранского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612200, Кировская обл, пгт Тужа, ул Горького, д 16",
+    "legal_address": null,
+    "website": "http://44.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0045",
+    "name": "Судебный участок № 77 Слободского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613112, Кировская обл, Слободской р-н, д Стулово, ул Трактовая, д 42",
+    "legal_address": null,
+    "website": "http://77.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0050",
+    "name": "Судебный участок № 45 Унинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612540, Кировская обл, пгт Уни, ул Труда, д 54",
+    "legal_address": null,
+    "website": "http://45.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0051",
+    "name": "Судебный участок № 46 Уржумского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613530, Кировская обл, г Уржум, ул Советская, д 5",
+    "legal_address": null,
+    "website": "http://46.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0052",
+    "name": "Судебный участок № 47 Зуевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612500, Кировская обл, пгт Фаленки, ул Свободы, д 81",
+    "legal_address": null,
+    "website": "http://47.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0053",
+    "name": "Судебный участок № 48 Шабалинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612020, Кировская обл, пгт Ленинское, ул Фрунзе, д 21Б",
+    "legal_address": null,
+    "website": "http://48.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0054",
+    "name": "Судебный участок № 49 Юрьянского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613600, Кировская обл, пгт Юрья, ул Ленина, д 2",
+    "legal_address": null,
+    "website": "http://49.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0055",
+    "name": "Судебный участок № 50 Юрьянского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "613600, Кировская обл, пгт Юрья, ул Ленина, д 2",
+    "legal_address": null,
+    "website": "http://50.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0056",
+    "name": "Судебный участок № 51 Яранского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "612260, Кировская обл, г Яранск, ул Карла Маркса, д 14",
+    "legal_address": null,
+    "website": "http://51.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0058",
+    "name": "Судебный участок № 52 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://52.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0059",
+    "name": "Судебный участок № 53 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://53.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0060",
+    "name": "Судебный участок № 54 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://54.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0061",
+    "name": "Судебный участок № 55 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://55.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0062",
+    "name": "Судебный участок № 56 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://56.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0063",
+    "name": "Судебный участок № 57 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://57.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0064",
+    "name": "Судебный участок № 58 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://58.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0067",
+    "name": "Судебный участок № 59 Нововятского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610008, г Киров, ул Опарина, д 8",
+    "legal_address": null,
+    "website": "http://59.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0068",
+    "name": "Судебный участок № 60 Нововятского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610008, г Киров, ул Опарина, д 8",
+    "legal_address": null,
+    "website": "http://60.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0069",
+    "name": "Судебный участок № 61 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610047, г Киров, ул Луганская, д 2",
+    "legal_address": null,
+    "website": "http://61.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0065",
+    "name": "Судебный участок № 70 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://70.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0066",
+    "name": "Судебный участок № 79 Ленинского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "http://79.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0070",
+    "name": "Судебный участок № 62 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610000, г Киров, ул Преображенская, д 71",
+    "legal_address": null,
+    "website": "http://62.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0071",
+    "name": "Судебный участок № 63 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610000, г Киров, ул Преображенская, д 71",
+    "legal_address": null,
+    "website": "http://63.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0072",
+    "name": "Судебный участок № 64 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610000, г Киров, ул Преображенская, д 71",
+    "legal_address": null,
+    "website": "http://64.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0073",
+    "name": "Судебный участок № 65 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610047, г Киров, ул Луганская, д 4",
+    "legal_address": null,
+    "website": "http://65.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0074",
+    "name": "Судебный участок № 66 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610000, г Киров, ул Преображенская, д 71",
+    "legal_address": null,
+    "website": "http://66.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0076",
+    "name": "Судебный участок № 67 Первомайского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610004, г Киров, ул Советская, д 29",
+    "legal_address": null,
+    "website": "http://67.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0077",
+    "name": "Судебный участок № 68 Первомайского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610004, г Киров, ул Профсоюзная, д 4/9",
+    "legal_address": null,
+    "website": "http://68.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0078",
+    "name": "Судебный участок № 69 Первомайского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610004, г Киров, ул Профсоюзная, д 4/9",
+    "legal_address": null,
+    "website": "http://69.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0079",
+    "name": "Судебный участок № 71 Первомайского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610004, г Киров, ул Советская, д 29",
+    "legal_address": null,
+    "website": "http://71.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0075",
+    "name": "Судебный участок № 80 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610047, г Киров, ул Луганская, д 4",
+    "legal_address": null,
+    "website": "http://80.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0081",
+    "name": "Судебный участок № 42 Ленинского судебного района г. Кирова.",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610033, г Киров, ул Московская, д 103",
+    "legal_address": null,
+    "website": "https://42len.kir.msudrf.ru/"
+  },
+  {
+    "code": "43MS0080",
+    "name": "Судебный участок № 72 Первомайского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610004, г Киров, ул Советская, д 29",
+    "legal_address": null,
+    "website": "http://72.kir.msudrf.ru"
+  },
+  {
+    "code": "43MS0083",
+    "name": "Судебный участок № 78 Октябрьского судебного района г. Кирова",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "610004, г Киров, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "https://78.kir.msudrf.ru"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "code": "70RS0011",
+    "name": "Александровский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636760, Томская обл, с Александровское, ул Мира, д 2В",
+    "legal_address": null,
+    "website": "http://aleksandrovsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0006",
+    "name": "Асиновский городской суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636840, Томская обл, г Асино, ул Советская, д 54",
+    "legal_address": null,
+    "website": "http://asinovsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0012",
+    "name": "Бакчарский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636200, Томская обл, с Бакчар, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://bakcharsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0013",
+    "name": "Верхнекетский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636500, Томская обл, рп Белый Яр, ул Гагарина, д 51",
+    "legal_address": null,
+    "website": "http://verhneketsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0014",
+    "name": "Зырянский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636850, Томская обл, с Зырянское, ул Советская, д 9",
+    "legal_address": null,
+    "website": "http://zyriansky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0016",
+    "name": "Каргасокский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636700, Томская обл, с Каргасок, ул Голещихина, зд 32",
+    "legal_address": null,
+    "website": "http://kargosoksky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0007",
+    "name": "Кедровский городской суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636615, Томская обл, г Кедровый, мкр 1-й, д 29",
+    "legal_address": null,
+    "website": "http://kedrovsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0001",
+    "name": "Кировский районный суд г. Томска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "634041, г Томск, ул Дзержинского, д 58",
+    "legal_address": null,
+    "website": "http://kirovsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0015",
+    "name": "Кожевниковский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636160, Томская обл, с Кожевниково, пер Северный, зд 1",
+    "legal_address": null,
+    "website": "http://kozhevnikovsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0008",
+    "name": "Колпашевский городской суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636460, Томская обл, г Колпашево, ул Коммунистическая, д 5",
+    "legal_address": null,
+    "website": "http://kolpashevsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0017",
+    "name": "Кривошеинский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636300, Томская обл, с Кривошеино, пер Кооперативный, д 12",
+    "legal_address": null,
+    "website": "http://krivosheinsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0002",
+    "name": "Ленинский районный суд г. Томска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "634050, г Томск, пер Батенькова, д 6",
+    "legal_address": null,
+    "website": "http://leninsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0018",
+    "name": "Молчановский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636330, Томская обл, с Молчаново, ул Димитрова, д 55",
+    "legal_address": null,
+    "website": "http://molchanovsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0003",
+    "name": "Октябрьский районный суд г. Томска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "634034, г Томск, пр-кт Ленина, д 21",
+    "legal_address": null,
+    "website": "http://oktiabrsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0019",
+    "name": "Парабельский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636600, Томская обл, с Парабель, ул Советская, д 26",
+    "legal_address": null,
+    "website": "http://parabelsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0020",
+    "name": "Первомайский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636930, Томская обл, с Первомайское, пер Молодежный, д 9",
+    "legal_address": null,
+    "website": "http://pervomaysky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0009",
+    "name": "Северский городской суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636000, Томская обл, г Северск, ул Комсомольская, д 2",
+    "legal_address": null,
+    "website": "http://seversky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0004",
+    "name": "Советский районный суд г. Томска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "634050, г Томск, ул Карташова, д 45",
+    "legal_address": null,
+    "website": "http://sovetsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0010",
+    "name": "Стрежевской городской суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636785, Томская обл, г Стрежевой, мкр 4-й, д 430",
+    "legal_address": null,
+    "website": "http://strezhevskoy.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0021",
+    "name": "Тегульдетский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636900, Томская обл, с Тегульдет, ул Парковая, д 11",
+    "legal_address": null,
+    "website": "http://teguldetsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0005",
+    "name": "Томский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "634050, г Томск, ул Обруб, д 8",
+    "legal_address": null,
+    "website": "http://tomsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0022",
+    "name": "Чаинский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636400, Томская обл, с Подгорное, ул Трактовая, д 4",
+    "legal_address": null,
+    "website": "http://chainsky.tms.sudrf.ru"
+  },
+  {
+    "code": "70RS0023",
+    "name": "Шегарский районный суд Томской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "636130, Томская обл, с Мельниково, ул Коммунистическая, д 6",
+    "legal_address": null,
+    "website": "http://shegarsky.tms.sudrf.ru"
+  }
+]

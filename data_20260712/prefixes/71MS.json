@@ -1,0 +1,832 @@
+[
+  {
+    "code": "71MS0001",
+    "name": "Судебный участок № 1 Алексинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301360, Тульская обл, г Алексин, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://1.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0002",
+    "name": "Судебный участок № 2 Алексинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301360, Тульская обл, г Алексин, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://2.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0003",
+    "name": "Судебный участок № 3 Алексинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301360, Тульская обл, г Алексин, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://3.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0004",
+    "name": "Судебный участок № 4 Алексинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301360, Тульская обл, г Алексин, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://4.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0005",
+    "name": "Судебный участок № 5 Одоевского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301510, Тульская обл, рп Арсеньево, ул Хорева, д 24",
+    "legal_address": null,
+    "website": "http://5.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0006",
+    "name": "Судебный участок № 6 Суворовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301530, Тульская обл, г Белев, ул Пушкина, д 35",
+    "legal_address": null,
+    "website": "http://6.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0007",
+    "name": "Судебный участок № 7 Богородицкого судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301835, Тульская обл, г Богородицк, ул Пролетарская, д 47",
+    "legal_address": null,
+    "website": "http://7.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0008",
+    "name": "Судебный участок № 8 Богородицкого судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301835, Тульская обл, г Богородицк, ул Пролетарская, д 47",
+    "legal_address": null,
+    "website": "http://8.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0009",
+    "name": "Судебный участок № 9 Веневского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301320, Тульская обл, г Венев, ул Декабристов, зд 15",
+    "legal_address": null,
+    "website": "http://9.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0010",
+    "name": "Судебный участок № 10 Веневского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301320, Тульская обл, г Венев, ул Декабристов, зд 15",
+    "legal_address": null,
+    "website": "http://10.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0011",
+    "name": "Судебный участок № 11 Богородицкого судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301570, Тульская обл, рп Волово, ул Зеленый бульвар, д 1А",
+    "legal_address": null,
+    "website": "http://11.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0012",
+    "name": "Судебный участок № 12 Донского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301760, Тульская обл, г Донской, мкр Центральный, ул Советская, д 12",
+    "legal_address": null,
+    "website": "http://12.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0013",
+    "name": "Судебный участок № 13 Донского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301760, Тульская обл, г Донской, мкр Центральный, ул Советская, д 12",
+    "legal_address": null,
+    "website": "http://13.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0014",
+    "name": "Судебный участок № 14 Донского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301760, Тульская обл, г Донской, мкр Центральный, ул Советская, д 12",
+    "legal_address": null,
+    "website": "http://14.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0015",
+    "name": "Судебный участок № 15 Одоевского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301160, Тульская обл, рп Дубна, ул Первомайская, д 37А",
+    "legal_address": null,
+    "website": "http://15.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0016",
+    "name": "Судебный участок № 16 Ефремовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301848, Тульская обл, г Ефремов, ул Словацкого Восстания, д 6",
+    "legal_address": null,
+    "website": "http://16.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0017",
+    "name": "Судебный участок № 17 Ефремовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301848, Тульская обл, г Ефремов, ул Словацкого Восстания, д 6",
+    "legal_address": null,
+    "website": "http://17.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0018",
+    "name": "Судебный участок № 18 Ефремовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301848, Тульская обл, г Ефремов, ул Словацкого Восстания, д 6",
+    "legal_address": null,
+    "website": "http://18.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0019",
+    "name": "Судебный участок № 19 Алексинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301000, Тульская обл, рп Заокский, ш Нечаевское, д 2",
+    "legal_address": null,
+    "website": "http://19.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0020",
+    "name": "Судебный участок № 20 Ефремовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301990, Тульская обл, с Архангельское, ул Тихомирова, д 26",
+    "legal_address": null,
+    "website": "http://20.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0021",
+    "name": "Судебный участок № 21 Кимовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301721, Тульская обл, г Кимовск, ул Павлова, д 19",
+    "legal_address": null,
+    "website": "http://21.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0023",
+    "name": "Судебный участок № 23 Киреевского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301261, Тульская обл, г Киреевск, ул Октябрьская, д 37А",
+    "legal_address": null,
+    "website": "http://23.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0024",
+    "name": "Судебный участок № 24 Киреевского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301261, Тульская обл, г Киреевск, ул Октябрьская, д 37А",
+    "legal_address": null,
+    "website": "http://24.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0025",
+    "name": "Судебный участок № 25 Киреевского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301261, Тульская обл, г Киреевск, ул Октябрьская, д 37А",
+    "legal_address": null,
+    "website": "http://25.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0026",
+    "name": "Судебный участок № 26 Богородицкого судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301940, Тульская обл, рп Куркино, ул Парковая, д 2",
+    "legal_address": null,
+    "website": "http://26.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0027",
+    "name": "Судебный участок № 27 Ленинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301130, Тульская обл, сп Ленинский, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://27.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0028",
+    "name": "Судебный участок № 28 Ленинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301130, Тульская обл, сп Ленинский, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://28.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0029",
+    "name": "Судебный участок № 29 Ленинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301130, Тульская обл, сп Ленинский, ул Ленина, зд 12",
+    "legal_address": null,
+    "website": "http://29.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0030",
+    "name": "Судебный участок № 30 Новомосковского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301680, Тульская обл, г Новомосковск, мкр Сокольники, ул Шахтерская, д 16А",
+    "legal_address": null,
+    "website": "http://30.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0031",
+    "name": "Судебный участок № 31 Новомосковского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301650, Тульская обл, г Новомосковск, ул Октябрьская, зд 23",
+    "legal_address": null,
+    "website": "http://31.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0032",
+    "name": "Судебный участок № 32 Новомосковского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301650, Тульская обл, г Новомосковск, ул Октябрьская, зд 23",
+    "legal_address": null,
+    "website": "http://32.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0033",
+    "name": "Судебный участок № 33 Новомосковского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301650, Тульская обл, г Новомосковск, ул Октябрьская, зд 23",
+    "legal_address": null,
+    "website": "http://33.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0034",
+    "name": "Судебный участок № 34 Новомосковского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301650, Тульская обл, г Новомосковск, ул Октябрьская, зд 23",
+    "legal_address": null,
+    "website": "http://34.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0035",
+    "name": "Судебный участок № 35 Новомосковского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301650, Тульская обл, г Новомосковск, ул Октябрьская, зд 23",
+    "legal_address": null,
+    "website": "http://35.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0036",
+    "name": "Судебный участок № 36 Новомосковского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301650, Тульская обл, г Новомосковск, ул Октябрьская, зд 23",
+    "legal_address": null,
+    "website": "http://36.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0037",
+    "name": "Судебный участок № 37 Одоевского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301440, Тульская обл, рп Одоев, ул Карла Маркса, д 41",
+    "legal_address": null,
+    "website": "http://37.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0038",
+    "name": "Судебный участок № 38 Плавского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301470, Тульская обл, г Плавск, ул Коммунаров, д 39",
+    "legal_address": null,
+    "website": "http://38.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0039",
+    "name": "Судебный участок № 39 Суворовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301430, Тульская обл, г Суворов, ул Энергетиков, д 10",
+    "legal_address": null,
+    "website": "http://39.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0040",
+    "name": "Судебный участок № 40 Суворовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301430, Тульская обл, г Суворов, ул Энергетиков, д 10",
+    "legal_address": null,
+    "website": "http://40.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0041",
+    "name": "Судебный участок № 41 Щекинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301900, Тульская обл, рп Теплое, пер Коммунальный, зд 8",
+    "legal_address": null,
+    "website": "http://41.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0042",
+    "name": "Судебный участок № 42 Узловского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301600, Тульская обл, г Узловая, пл Ленина, д 3",
+    "legal_address": null,
+    "website": "http://42.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0043",
+    "name": "Судебный участок № 43 Узловского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301600, Тульская обл, г Узловая, пл Ленина, д 3",
+    "legal_address": null,
+    "website": "http://43.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0044",
+    "name": "Судебный участок № 44 Узловского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301600, Тульская обл, г Узловая, пл Ленина, д 3",
+    "legal_address": null,
+    "website": "http://44.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0045",
+    "name": "Судебный участок № 45 Узловского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301600, Тульская обл, г Узловая, пл Ленина, д 3",
+    "legal_address": null,
+    "website": "http://45.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0046",
+    "name": "Судебный участок № 46 Плавского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301090, Тульская обл, рп Чернь, ул К.Маркса, д 31",
+    "legal_address": null,
+    "website": "http://46.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0047",
+    "name": "Судебный участок № 47 Щекинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301205, Тульская обл, Щекинский р-н, г Советск, ул Октябрьская, д 35",
+    "legal_address": null,
+    "website": "http://47.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0048",
+    "name": "Судебный участок № 48 Щекинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301212, Тульская обл, Щекинский р-н, рп Первомайский, пр-кт Улитина, д 16",
+    "legal_address": null,
+    "website": "http://48.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0049",
+    "name": "Судебный участок № 49 Щекинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301241, Тульская обл, г Щекино, ул Южная, д 62",
+    "legal_address": null,
+    "website": "http://49.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0050",
+    "name": "Судебный участок № 50 Щекинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301241, Тульская обл, г Щекино, ул Южная, д 62",
+    "legal_address": null,
+    "website": "http://50.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0051",
+    "name": "Судебный участок № 51 Щекинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301241, Тульская обл, г Щекино, ул Южная, д 62",
+    "legal_address": null,
+    "website": "http://51.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0052",
+    "name": "Судебный участок № 52 Ясногорского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301031, Тульская обл, г Ясногорск, ул Машиностроителей, д 7",
+    "legal_address": null,
+    "website": "http://52.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0053",
+    "name": "Судебный участок № 53 Ясногорского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301031, Тульская обл, г Ясногорск, ул Машиностроителей, д 7",
+    "legal_address": null,
+    "website": "http://53.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0054",
+    "name": "Судебный участок № 54 Зареченского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300062, г Тула, ул Максимовского, д 3",
+    "legal_address": null,
+    "website": "http://54.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0055",
+    "name": "Судебный участок № 55 Зареченского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300044, г Тула, ул Пузакова, д 78",
+    "legal_address": null,
+    "website": "http://55.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0056",
+    "name": "Судебный участок № 56 Зареченского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300062, г Тула, ул Максимовского, д 3",
+    "legal_address": null,
+    "website": "http://56.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0057",
+    "name": "Судебный участок № 57 Зареченского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300044, г Тула, ул Пузакова, д 78",
+    "legal_address": null,
+    "website": "http://57.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0058",
+    "name": "Судебный участок № 58 Зареченского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300062, г Тула, ул Максимовского, д 3",
+    "legal_address": null,
+    "website": "http://58.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0059",
+    "name": "Судебный участок № 59 Привокзального судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Гоголевская, д 71",
+    "legal_address": null,
+    "website": "http://59.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0060",
+    "name": "Судебный участок № 60 Привокзального судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Гоголевская, д 71",
+    "legal_address": null,
+    "website": "http://60.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0061",
+    "name": "Судебный участок № 61 Привокзального судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Гоголевская, д 71",
+    "legal_address": null,
+    "website": "http://61.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0062",
+    "name": "Судебный участок № 62 Привокзального судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Гоголевская, д 71",
+    "legal_address": null,
+    "website": "http://62.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0063",
+    "name": "Судебный участок № 63 Пролетарского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300016, г. Тула, ул. Металлургов, д. 29/ ул. Аносова, д. 11",
+    "legal_address": null,
+    "website": "http://63.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0064",
+    "name": "Судебный участок № 64 Пролетарского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300001, г Тула, ул Чапаева, д 49",
+    "legal_address": null,
+    "website": "http://64.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0065",
+    "name": "Судебный участок № 65 Пролетарского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300001, г Тула, ул Чапаева, д 49",
+    "legal_address": null,
+    "website": "http://65.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0066",
+    "name": "Судебный участок № 66 Пролетарского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300001, г Тула, ул Чапаева, д 49",
+    "legal_address": null,
+    "website": "http://66.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0067",
+    "name": "Судебный участок № 67 Пролетарского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300001, г Тула, ул Чапаева, д 49",
+    "legal_address": null,
+    "website": "http://67.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0068",
+    "name": "Судебный участок № 68 Пролетарского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300016, г. Тула, ул. Металлургов, д. 29/ ул. Аносова, д. 11",
+    "legal_address": null,
+    "website": "http://68.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0069",
+    "name": "Судебный участок № 69 Пролетарского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300001, г Тула, ул Чапаева, д 49",
+    "legal_address": null,
+    "website": "http://69.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0070",
+    "name": "Судебный участок № 70 Советского судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Демонстрации, д 52А",
+    "legal_address": null,
+    "website": "http://70.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0071",
+    "name": "Судебный участок № 71 Советского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Демонстрации, д 52А",
+    "legal_address": null,
+    "website": "http://71.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0072",
+    "name": "Судебный участок № 72 Советского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Демонстрации, д 52А",
+    "legal_address": null,
+    "website": "http://72.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0073",
+    "name": "Судебный участок № 73 Советского судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300034, г Тула, ул Демонстрации, д 52А",
+    "legal_address": null,
+    "website": "http://73.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0074",
+    "name": "Судебный участок № 74 Центрального судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300012, г Тула, ул Кауля, д 49 к 1",
+    "legal_address": null,
+    "website": "http://74.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0075",
+    "name": "Судебный участок № 75 Центрального судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300012, г Тула, ул Кауля, д 49 к 1",
+    "legal_address": null,
+    "website": "http://75.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0076",
+    "name": "Судебный участок № 76 Центрального судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300045, г Тула, ул Кауля, д 20",
+    "legal_address": null,
+    "website": "http://76.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0077",
+    "name": "Судебный участок № 77 Центрального судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300045, г Тула, ул Кауля, д 20",
+    "legal_address": null,
+    "website": "http://77.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0078",
+    "name": "Судебный участок № 78 Центрального судебного района г. Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300000, г Тула, пл Хлебная, д 7",
+    "legal_address": null,
+    "website": "http://78.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0079",
+    "name": "Судебный участок № 79 Центрального судебного района г.Тулы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "300000, г Тула, пл Хлебная, д 7",
+    "legal_address": null,
+    "website": "http://79.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0084",
+    "name": "Судебный участок № 22 Ленинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301130, Тульская обл, сп Ленинский, ул Ленина, зд 12",
+    "legal_address": null,
+    "website": "http://84.tula.msudrf.ru/"
+  },
+  {
+    "code": "71MS0080",
+    "name": "Судебный участок № 80 Богородицкого судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301835, Тульская обл, г Богородицк, ул Пролетарская, д 47",
+    "legal_address": null,
+    "website": "http://80.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0081",
+    "name": "Судебный участок № 81 Кимовского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301721, Тульская обл, г Кимовск, ул Павлова, д 19",
+    "legal_address": null,
+    "website": "http://81.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0082",
+    "name": "Судебный участок № 82 Плавского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301470, Тульская обл, г Плавск, ул Коммунаров, д 39",
+    "legal_address": null,
+    "website": "http://82.tula.msudrf.ru"
+  },
+  {
+    "code": "71MS0083",
+    "name": "Судебный участок № 83 Щекинского судебного района Тульской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "301241, Тульская обл, г Щекино, ул Южная, д 62",
+    "legal_address": null,
+    "website": "http://83.tula.msudrf.ru"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "code": "45RS0001",
+    "name": "Альменевский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641130, Курганская обл, с Альменево, ул Советская, д 2",
+    "legal_address": null,
+    "website": "http://almenevsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0002",
+    "name": "Белозерский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641360, Курганская обл, с Белозерское, ул Карла Маркса, д 17",
+    "legal_address": null,
+    "website": "http://belozersky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0003",
+    "name": "Варгашинский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641230, Курганская обл, рп Варгаши, ул Культурная, д 3",
+    "legal_address": null,
+    "website": "http://vargashinsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0004",
+    "name": "Далматовский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641730, Курганская обл, г Далматово, ул Ленина, д 62",
+    "legal_address": null,
+    "website": "http://dalmatovsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0005",
+    "name": "Звериноголовский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641480, Курганская обл, с Звериноголовское, ул Ленина, д 39",
+    "legal_address": null,
+    "website": "http://zverinogolovsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0006",
+    "name": "Каргапольский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641920, Курганская обл, Каргапольский р-н, рп Каргаполье, ул Калинина, зд 41",
+    "legal_address": null,
+    "website": "http://kargapolsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0007",
+    "name": "Катайский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641700, Курганская обл, г Катайск, ул Советская, д 31",
+    "legal_address": null,
+    "website": "http://kataysky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0008",
+    "name": "Кетовский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641310, Курганская обл, с Кетово, ул М.Горького, стр 42",
+    "legal_address": null,
+    "website": "http://ketovsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0026",
+    "name": "Курганский городской суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "640027, г Курган, ул Дзержинского, д 35",
+    "legal_address": null,
+    "website": "http://kurgansky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0009",
+    "name": "Куртамышский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641430, Курганская обл, г Куртамыш, пр-кт Ленина, д 18",
+    "legal_address": null,
+    "website": "http://kurtamyshsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0010",
+    "name": "Лебяжьевский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641500, Курганская обл, рп Лебяжье, ул Пушкина, д 16",
+    "legal_address": null,
+    "website": "http://lebiazhevsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0011",
+    "name": "Макушинский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641600, Курганская обл, г Макушино, ул Красная Площадь, д 13А",
+    "legal_address": null,
+    "website": "http://makushinsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0012",
+    "name": "Мишкинский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641040, Курганская обл, рп Мишкино, ул Почтовая, д 8",
+    "legal_address": null,
+    "website": "http://mishkinsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0013",
+    "name": "Мокроусовский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641530, Курганская обл, с Мокроусово, ул Пушкина, д 2",
+    "legal_address": null,
+    "website": "http://mokrousovsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0015",
+    "name": "Петуховский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641640, Курганская обл, г Петухово, ул К.Маркса, д 31",
+    "legal_address": null,
+    "website": "http://petuhovsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0016",
+    "name": "Половинский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641780, Курганская обл, с Половинное, ул Победы, зд 15",
+    "legal_address": null,
+    "website": "http://polovinsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0014",
+    "name": "Притобольный районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641400, Курганская обл, с Глядянское, ул Ленина, зд 84А",
+    "legal_address": null,
+    "website": "http://pritobolny.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0017",
+    "name": "Сафакулевский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641080, Курганская обл, с Сафакулево, ул Советская, д 2",
+    "legal_address": null,
+    "website": "http://safakulevsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0018",
+    "name": "Целинный районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641150, Курганская обл, с Целинное, ул Советская, зд 63",
+    "legal_address": null,
+    "website": "http://celinny.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0021",
+    "name": "Шадринский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641870, Курганская обл, г Шадринск, ул Луначарского, д 10",
+    "legal_address": null,
+    "website": "http://shadrinsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0022",
+    "name": "Шатровский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641960, Курганская обл, с Шатрово, ул Мира, д 2",
+    "legal_address": null,
+    "website": "http://shatrovsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0023",
+    "name": "Шумихинский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641100, Курганская обл, г Шумиха, ул Гагарина, д 8",
+    "legal_address": null,
+    "website": "http://shumihinsky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0024",
+    "name": "Щучанский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641010, Курганская обл, г Щучье, ул Советская, д 11",
+    "legal_address": null,
+    "website": "http://schuchansky.krg.sudrf.ru"
+  },
+  {
+    "code": "45RS0025",
+    "name": "Юргамышский районный суд Курганской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "641200, Курганская обл, рп Юргамыш, ул Ленина, д 39",
+    "legal_address": null,
+    "website": "http://yurgamyshsky.krg.sudrf.ru"
+  }
+]

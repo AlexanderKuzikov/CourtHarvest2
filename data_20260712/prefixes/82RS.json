@@ -1,0 +1,22 @@
+[
+  {
+    "code": "82RS0001",
+    "name": "Олюторский районный суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "688800, Камчатский край, с Тиличики, пер Печатный, зд 2",
+    "legal_address": null,
+    "website": "http://olyutorsky.kor.sudrf.ru"
+  },
+  {
+    "code": "82RS0002",
+    "name": "Тигильский районный суд Камчатского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "688600, Камчатский край, с Тигиль, ул Юшина, зд 2",
+    "legal_address": null,
+    "website": "http://tigilsky.kor.sudrf.ru"
+  }
+]

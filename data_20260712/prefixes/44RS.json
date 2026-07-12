@@ -1,0 +1,172 @@
+[
+  {
+    "code": "44RS0005",
+    "name": "Буйский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157000, Костромская обл, г Буй, пл Революции, д 13",
+    "legal_address": null,
+    "website": "http://buisky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0015",
+    "name": "Вохомский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157760, Костромская обл, п Вохма, ул Советская, д 39А",
+    "legal_address": null,
+    "website": "http://vohomsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0006",
+    "name": "Галичский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157201, Костромская обл, г Галич, пл Революции, д 27А",
+    "legal_address": null,
+    "website": "http://galichsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0026",
+    "name": "Димитровский районный суд г. Костромы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "156001, г Кострома, пер Инженерный, д 1А",
+    "legal_address": null,
+    "website": "http://dimitrovsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0024",
+    "name": "Кологривский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157440, Костромская обл, г Кологрив, ул Кирова, д 28",
+    "legal_address": null,
+    "website": "http://kologrivsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0028",
+    "name": "Костромской районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "156000, г Кострома, ул Шагова, д 1",
+    "legal_address": null,
+    "website": "http://kostromskoy.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0013",
+    "name": "Красносельский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157940, Костромская обл, пгт Красное-на-Волге, ул Луначарского, д 12",
+    "legal_address": null,
+    "website": "http://krasnoselsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0002",
+    "name": "Ленинский районный суд г. Костромы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "156013, г Кострома, пр-кт Мира, д 51",
+    "legal_address": null,
+    "website": "http://leninsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0023",
+    "name": "Макарьевский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157460, Костромская обл, г Макарьев, пл Революции, д 3",
+    "legal_address": null,
+    "website": "http://makarievsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0004",
+    "name": "Мантуровский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157300, Костромская обл, г Мантурово, ул Советская, д 27А",
+    "legal_address": null,
+    "website": "http://manturovsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0011",
+    "name": "Нейский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157330, Костромская обл, г Нея, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://neisky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0027",
+    "name": "Нерехтский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157800, Костромская обл, г Нерехта, ул Красноармейская, д 6",
+    "legal_address": null,
+    "website": "http://nerehtsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0014",
+    "name": "Островский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157900, Костромская обл, п Островское, ул Советская, д 41",
+    "legal_address": null,
+    "website": "http://ostrovsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0009",
+    "name": "Павинский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157650, Костромская обл, с Павино, ул Механизаторов, стр 11",
+    "legal_address": null,
+    "website": "http://pavinsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0001",
+    "name": "Свердловский районный суд г. Костромы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "156000, г Кострома, ул Долматова, д 14",
+    "legal_address": null,
+    "website": "http://sverdlovsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0019",
+    "name": "Чухломский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157130, Костромская обл, г Чухлома, ул Ленина, д 1А",
+    "legal_address": null,
+    "website": "http://chuhlomsky.kst.sudrf.ru"
+  },
+  {
+    "code": "44RS0003",
+    "name": "Шарьинский районный суд Костромской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "157500, Костромская обл, г Шарья, ул Ольги Степановой, д 66",
+    "legal_address": null,
+    "website": "http://sharinsky.kst.sudrf.ru"
+  }
+]

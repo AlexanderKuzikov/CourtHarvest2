@@ -1,0 +1,302 @@
+[
+  {
+    "code": "32RS0001",
+    "name": "Бежицкий районный суд г. Брянска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "241035, г Брянск, ул Майской Стачки, д 9",
+    "legal_address": null,
+    "website": "http://bezhitsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0002",
+    "name": "Брасовский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242300, Брянская обл, рп Локоть, пр-кт Ленина, д 9",
+    "legal_address": null,
+    "website": "http://brasovsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0003",
+    "name": "Брянский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "241037, г Брянск, проезд 2-й Станке Димитрова, д 11",
+    "legal_address": null,
+    "website": "http://briansky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0004",
+    "name": "Володарский районный суд г. Брянска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "241022, г Брянск, ул Володарского, стр 72А",
+    "legal_address": null,
+    "website": "http://volodarsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0005",
+    "name": "Выгоничский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243361, Брянская обл, п Выгоничи, ул Ленина, д 51",
+    "legal_address": null,
+    "website": "http://vigonichsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0007",
+    "name": "Дубровский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242750, Брянская обл, рп Дубровка, ул Ленина, д 144",
+    "legal_address": null,
+    "website": "http://dubrovsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0008",
+    "name": "Дятьковский городской суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242600, Брянская обл, г Дятьково, ул Ленина, д 115",
+    "legal_address": null,
+    "website": "http://diatkovsky.brj.sudrf.ru/"
+  },
+  {
+    "code": "32RS0010",
+    "name": "Жуковский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242700, Брянская обл, г Жуковка, ул Калинина, д 24",
+    "legal_address": null,
+    "website": "http://zhukovsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0011",
+    "name": "Злынковский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243600, Брянская обл, г Злынка, ул Коммунальная, д 19",
+    "legal_address": null,
+    "website": "http://zlinkovsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0012",
+    "name": "Карачевский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242500, Брянская обл, г Карачев, ул Ленина, д 30",
+    "legal_address": null,
+    "website": "http://karachevsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0013",
+    "name": "Клетнянский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242820, Брянская обл, п Клетня, ул Ленина, д 85А",
+    "legal_address": null,
+    "website": "http://kletniansky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0014",
+    "name": "Климовский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243040, Брянская обл, рп Климово, ул Калинина, д 2",
+    "legal_address": null,
+    "website": "http://klimovsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0015",
+    "name": "Клинцовский городской суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243140, Брянская обл, г Клинцы, ул Гагарина, д 55",
+    "legal_address": null,
+    "website": "http://klyncovsky.brj.sudrf.ru/"
+  },
+  {
+    "code": "32RS0016",
+    "name": "Клинцовский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243140, Брянская обл, г Клинцы, ул Дзержинского, д 7",
+    "legal_address": null,
+    "website": "http://klincovsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0017",
+    "name": "Комаричский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242400, Брянская обл, рп Комаричи, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "http://komarichsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0018",
+    "name": "Красногорский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243160, Брянская обл, пгт Красная Гора, ул Советская, д 3",
+    "legal_address": null,
+    "website": "http://krasnogorsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0019",
+    "name": "Мглинский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243220, Брянская обл, г Мглин, пл Советская, стр 15",
+    "legal_address": null,
+    "website": "http://mglinsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0020",
+    "name": "Навлинский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242130, Брянская обл, рп Навля, ул Розы Люксембург, д 6",
+    "legal_address": null,
+    "website": "http://navlinsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0021",
+    "name": "Новозыбковский городской суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243020, Брянская обл, г Новозыбков, ул Советская, д 2А",
+    "legal_address": null,
+    "website": "http://novozibkovsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0022",
+    "name": "Погарский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243550, Брянская обл, пгт Погар, пл Советская, д 2",
+    "legal_address": null,
+    "website": "http://pogarsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0023",
+    "name": "Почепский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243400, Брянская обл, г Почеп, ул Ново-Затинская, д 4",
+    "legal_address": null,
+    "website": "http://pochepsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0025",
+    "name": "Севский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242440, Брянская обл, г Севск, ул Советская, д 3",
+    "legal_address": null,
+    "website": "http://sevsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0026",
+    "name": "Сельцовский городской суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "241550, Брянская обл, г Сельцо, ул Лягина, д 1",
+    "legal_address": null,
+    "website": "http://selcovsky.brj.sudrf.ru/"
+  },
+  {
+    "code": "32RS0027",
+    "name": "Советский районный суд г. Брянска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "241050, г Брянск, ул Фокина, д 45",
+    "legal_address": null,
+    "website": "http://sovetsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0028",
+    "name": "Стародубский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243240, Брянская обл, г Стародуб, пл Советская, д 4",
+    "legal_address": null,
+    "website": "http://starodubsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0029",
+    "name": "Суземский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242190, Брянская обл, п Суземка, ул Ленина, д 32",
+    "legal_address": null,
+    "website": "http://suzemsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0030",
+    "name": "Суражский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243500, Брянская обл, г Сураж, ул Ленина, д 45",
+    "legal_address": null,
+    "website": "http://surazhsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0031",
+    "name": "Трубчевский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "242220, Брянская обл, г Трубчевск, ул Брянская, д 56",
+    "legal_address": null,
+    "website": "http://trubchevsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0032",
+    "name": "Унечский районный суд Брянской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "243300, Брянская обл, г Унеча, ул Иванова, д 9",
+    "legal_address": null,
+    "website": "http://unechsky.brj.sudrf.ru"
+  },
+  {
+    "code": "32RS0033",
+    "name": "Фокинский районный суд г. Брянска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "241020, г Брянск, пр-кт Московский, д 62",
+    "legal_address": null,
+    "website": "http://fokinsky.brj.sudrf.ru"
+  }
+]

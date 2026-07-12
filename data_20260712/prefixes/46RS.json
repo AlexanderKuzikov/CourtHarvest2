@@ -1,0 +1,312 @@
+[
+  {
+    "code": "46RS0001",
+    "name": "Беловский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305022, г Курск, ул 2-я Агрегатная, д 3А",
+    "legal_address": null,
+    "website": "http://belovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0002",
+    "name": "Большесолдатский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305000, г Курск, ул Горького, зд 55А",
+    "legal_address": null,
+    "website": "http://bolshesoldatsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0003",
+    "name": "Глушковский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305022, г Курск, ул 2-я Агрегатная, д 3А",
+    "legal_address": null,
+    "website": "http://glushkovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0004",
+    "name": "Горшеченский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306710, Курская обл, рп Горшечное, ул Кирова, д 38",
+    "legal_address": null,
+    "website": "http://gorshechensky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0005",
+    "name": "Дмитриевский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307500, Курская обл, Дмитриевский р-н, г Дмитриев, ул Ленина, д 54",
+    "legal_address": null,
+    "website": "http://dmitrievsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0006",
+    "name": "Железногорский городской суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307170, Курская обл, г Железногорск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://zheleznogorsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0007",
+    "name": "Золотухинский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306020, Курская обл, рп Золотухино, ул Железнодорожная, д 84",
+    "legal_address": null,
+    "website": "http://zolotuhinsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0008",
+    "name": "Касторенский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306700, Курская обл, рп Касторное, ул 50 лет Октября, д 15",
+    "legal_address": null,
+    "website": "http://kastorensky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0029",
+    "name": "Кировский районный суд г. Курска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305022, г Курск, ул Республиканская, зд 42В",
+    "legal_address": null,
+    "website": "http://kirovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0009",
+    "name": "Конышевский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307620, Курская обл, рп Конышевка, ул 50 лет Советской Власти, д 4",
+    "legal_address": null,
+    "website": "http://konyshevsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0010",
+    "name": "Кореневский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305018, г Курск, ул Энергетиков 2, д 19",
+    "legal_address": null,
+    "website": "http://korenevsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0011",
+    "name": "Курский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305000, г Курск, ул Горького, зд 55А",
+    "legal_address": null,
+    "website": "http://kursky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0012",
+    "name": "Курчатовский городской суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307251, Курская обл, г Курчатов, ул Космонавтов, зд 1",
+    "legal_address": null,
+    "website": "http://kurchatovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0030",
+    "name": "Ленинский районный суд г. Курска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305001, г Курск, ул Александра Невского, зд 7А",
+    "legal_address": null,
+    "website": "http://lensud.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0013",
+    "name": "Льговский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307750, Курская обл, г Льгов, ул Кирова, д 48",
+    "legal_address": null,
+    "website": "http://lgovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0014",
+    "name": "Мантуровский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307000, Курская обл, с Мантурово, ул Ленина, д 23",
+    "legal_address": null,
+    "website": "http://manturovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0015",
+    "name": "Медвенский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307030, Курская обл, пгт Медвенка, ул Советская, д 36",
+    "legal_address": null,
+    "website": "http://medvensky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0016",
+    "name": "Обоянский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306230, Курская обл, г Обоянь, ул Шмидта, д 23",
+    "legal_address": null,
+    "website": "http://oboyansky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0017",
+    "name": "Октябрьский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307200, Курская обл, пгт Прямицыно, ул Сеймская, влд 56",
+    "legal_address": null,
+    "website": "http://oktiabrsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0018",
+    "name": "Поныровский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306000, Курская обл, рп Поныри, ул Веселая, влд 1",
+    "legal_address": null,
+    "website": "http://ponyrovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0019",
+    "name": "Пристенский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306200, Курская обл, рп Пристень, ул Советская, зд 61А",
+    "legal_address": null,
+    "website": "http://pristensky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0020",
+    "name": "Рыльский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305022, г Курск, ул 2-я Агрегатная, д 3А",
+    "legal_address": null,
+    "website": "http://rylsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0021",
+    "name": "Советский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306600, Курская обл, рп Кшенский, ул Чапаева, д 5",
+    "legal_address": null,
+    "website": "http://sovetsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0022",
+    "name": "Солнцевский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306120, Курская обл, рп Солнцево, ул Ленина, д 25",
+    "legal_address": null,
+    "website": "http://solncevsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0023",
+    "name": "Суджанский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305022, г Курск, ул 2-я Агрегатная, д 3А",
+    "legal_address": null,
+    "website": "http://sudzhansky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0024",
+    "name": "Тимский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307060, Курская обл, рп Тим, ул Кирова, д 55",
+    "legal_address": null,
+    "website": "http://timsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0025",
+    "name": "Фатежский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "307100, Курская обл, г Фатеж, ул Веселая, влд 22",
+    "legal_address": null,
+    "website": "http://fatezhsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0026",
+    "name": "Хомутовский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305018, г Курск, ул Энергетиков 2, д 19",
+    "legal_address": null,
+    "website": "http://homutovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0027",
+    "name": "Черемисиновский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306440, Курская обл, пгт Черемисиново, ул Вокзальная, д 27",
+    "legal_address": null,
+    "website": "http://cheremisinovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0028",
+    "name": "Щигровский районный суд Курской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "306530, Курская обл, г Щигры, ул Черняховского, д 3",
+    "legal_address": null,
+    "website": "http://shigrovsky.krs.sudrf.ru/"
+  },
+  {
+    "code": "46RS0031",
+    "name": "Промышленный районный суд г. Курска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "305018, г Курск, ул Энергетиков 2, д 19",
+    "legal_address": null,
+    "website": "http://promyshleny.krs.sudrf.ru/"
+  }
+]

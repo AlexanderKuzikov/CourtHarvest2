@@ -1,0 +1,2152 @@
+[
+  {
+    "code": "03MS0070",
+    "name": "Судебный участок № 1 по Баймакскому району и городу Баймаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453630, Респ Башкортостан, г Баймак, ул Салавата Юлаева, д 9",
+    "legal_address": null,
+    "website": "http://70.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0081",
+    "name": "Судебный участок № 1 по Бирскому району и городу Бирску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452455, Респ Башкортостан, г Бирск, ул Калинина, д 20",
+    "legal_address": null,
+    "website": "http://81.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0084",
+    "name": "Судебный участок № 1 по Благовещенскому району и городу Благовещенску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453430, Респ Башкортостан, г Благовещенск, ул Коммунистическая, д 12",
+    "legal_address": null,
+    "website": "http://84.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0068",
+    "name": "Судебный участок № 1 по городу Агидель Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452920, Респ Башкортостан, г Агидель, ул Академика Курчатова, зд 15",
+    "legal_address": null,
+    "website": "http://68.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0073",
+    "name": "Судебный участок № 1 по городу Белебею Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452005, Респ Башкортостан, г Белебей, ул Пионерская, д 44",
+    "legal_address": null,
+    "website": "http://73.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0077",
+    "name": "Судебный участок № 1 по городу Белорецк Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453509, Респ Башкортостан, г Белорецк, ул Точисского, д 23",
+    "legal_address": null,
+    "website": "http://77.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0097",
+    "name": "Судебный участок № 1 по городу Кумертау Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453300, Респ Башкортостан, г Кумертау, ул Карла Маркса, зд 4А",
+    "legal_address": null,
+    "website": "http://97.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0087",
+    "name": "Судебный участок № 1 по Давлекановскому району и городу Давлеканово Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453405, Респ Башкортостан, г Давлеканово, ул Степана Разина, д 58",
+    "legal_address": null,
+    "website": "http://87.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0001",
+    "name": "Судебный участок № 1 по Демскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450024, г Уфа, ул Таллинская, д 23",
+    "legal_address": null,
+    "website": "http://1.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0089",
+    "name": "Судебный участок № 1 по Дюртюлинскому району и городу Дюртюли Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452320, Респ Башкортостан, г Дюртюли, пер Марии Якутовой, зд 9",
+    "legal_address": null,
+    "website": "http://89.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0092",
+    "name": "Судебный участок № 1 по Ишимбайскому району и городу Ишимбаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453204, Респ Башкортостан, г Ишимбай, ул Советская, д 57",
+    "legal_address": null,
+    "website": "http://92.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0005",
+    "name": "Судебный участок № 1 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://5.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0017",
+    "name": "Судебный участок № 1 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Рабкоров, д 7 к 1",
+    "legal_address": null,
+    "website": "http://17.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0027",
+    "name": "Судебный участок № 1 по Ленинскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450006, г Уфа, ул Цюрупы, д 149",
+    "legal_address": null,
+    "website": "http://27.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0034",
+    "name": "Судебный участок № 1 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450083, г Уфа, ул Парковая, д 18/2",
+    "legal_address": null,
+    "website": "http://34.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0046",
+    "name": "Судебный участок № 1 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://46.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0057",
+    "name": "Судебный участок № 1 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://57.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0071",
+    "name": "Судебный участок № 2 по Баймакскому району и городу Баймаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453630, Респ Башкортостан, г Баймак, ул Салавата Юлаева, д 9",
+    "legal_address": null,
+    "website": "http://71.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0082",
+    "name": "Судебный участок № 2 по Бирскому району и городу Бирску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452455, Респ Башкортостан, г Бирск, ул Калинина, д 20",
+    "legal_address": null,
+    "website": "http://82.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0085",
+    "name": "Судебный участок № 2 по Благовещенскому району и городу Благовещенску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453430, Респ Башкортостан, г Благовещенск, ул Коммунистическая, д 12",
+    "legal_address": null,
+    "website": "http://85.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0002",
+    "name": "Судебный участок № 2 по Демскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450095, г Уфа, ул Левитана, д 14/4",
+    "legal_address": null,
+    "website": "http://2.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0006",
+    "name": "Судебный участок № 2 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://6.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0003",
+    "name": "Судебный участок № 3 по Демскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450024, г Уфа, ул Таллинская, д 23",
+    "legal_address": null,
+    "website": "http://3.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0007",
+    "name": "Судебный участок № 3 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://7.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0004",
+    "name": "Судебный участок № 4 по Демскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450024, г Уфа, ул Таллинская, д 23",
+    "legal_address": null,
+    "website": "http://4.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0008",
+    "name": "Судебный участок № 4 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450028, г Уфа, ул Сельская, д 8/2",
+    "legal_address": null,
+    "website": "http://8.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0009",
+    "name": "Судебный участок № 5 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://9.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0018",
+    "name": "Судебный участок № 2 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Менделеева, д 116 к 1",
+    "legal_address": null,
+    "website": "http://18.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0019",
+    "name": "Судебный участок № 3 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Менделеева, д 116 к 1",
+    "legal_address": null,
+    "website": "http://19.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0010",
+    "name": "Судебный участок № 6 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://10.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0011",
+    "name": "Судебный участок № 7 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://11.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0012",
+    "name": "Судебный участок № 8 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://12.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0013",
+    "name": "Судебный участок № 9 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://13.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0014",
+    "name": "Судебный участок № 10 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://14.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0015",
+    "name": "Судебный участок № 11 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450028, г Уфа, ул Сельская, д 8/2",
+    "legal_address": null,
+    "website": "http://15.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0016",
+    "name": "Судебный участок № 12 по Калининскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450068, г Уфа, ул Вологодская, д 20/1",
+    "legal_address": null,
+    "website": "http://16.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0028",
+    "name": "Судебный участок № 2 по Ленинскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450006, г Уфа, ул Цюрупы, д 149",
+    "legal_address": null,
+    "website": "http://28.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0029",
+    "name": "Судебный участок № 3 по Ленинскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450006, г Уфа, ул Цюрупы, д 149",
+    "legal_address": null,
+    "website": "http://29.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0020",
+    "name": "Судебный участок № 4 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Менделеева, д 116 к 1",
+    "legal_address": null,
+    "website": "http://20.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0021",
+    "name": "Судебный участок № 5 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Менделеева, д 116 к 1",
+    "legal_address": null,
+    "website": "http://21.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0022",
+    "name": "Судебный участок № 6 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Рабкоров, д 7 к 1",
+    "legal_address": null,
+    "website": "http://22.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0023",
+    "name": "Судебный участок № 7 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Менделеева, д 116 к 1",
+    "legal_address": null,
+    "website": "http://23.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0024",
+    "name": "Судебный участок № 8 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Менделеева, д 116 к 1",
+    "legal_address": null,
+    "website": "http://24.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0025",
+    "name": "Судебный участок № 9 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Рабкоров, д 7 к 1",
+    "legal_address": null,
+    "website": "http://25.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0026",
+    "name": "Судебный участок № 10 по Кировскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450092, г Уфа, ул Рабкоров, д 7 к 1",
+    "legal_address": null,
+    "website": "http://26.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0035",
+    "name": "Судебный участок № 2 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Шафиева, д 39/1",
+    "legal_address": null,
+    "website": "http://35.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0036",
+    "name": "Судебный участок № 3 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Энтузиастов, д 2",
+    "legal_address": null,
+    "website": "http://36.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0037",
+    "name": "Судебный участок № 4 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Шафиева, д 39/1",
+    "legal_address": null,
+    "website": "http://37.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0031",
+    "name": "Судебный участок № 5 по Ленинскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450006, г Уфа, ул Цюрупы, д 149",
+    "legal_address": null,
+    "website": "http://31.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0038",
+    "name": "Судебный участок № 5 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450100, г Уфа, ул Маршала Жукова, д 17Д",
+    "legal_address": null,
+    "website": "http://38.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0032",
+    "name": "Судебный участок № 6 по Ленинскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450006, г Уфа, ул Цюрупы, д 149",
+    "legal_address": null,
+    "website": "http://32.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0039",
+    "name": "Судебный участок № 6 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Шафиева, д 39/1",
+    "legal_address": null,
+    "website": "http://39.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0033",
+    "name": "Судебный участок № 7 по Ленинскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450006, г Уфа, ул Цюрупы, д 149",
+    "legal_address": null,
+    "website": "http://33.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0047",
+    "name": "Судебный участок № 2 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 23",
+    "legal_address": null,
+    "website": "http://47.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0048",
+    "name": "Судебный участок № 3 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://48.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0049",
+    "name": "Судебный участок № 4 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://49.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0040",
+    "name": "Судебный участок № 7 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Шафиева, д 27 к 2",
+    "legal_address": null,
+    "website": "http://40.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0041",
+    "name": "Судебный участок № 8 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Шафиева, д 27 к 2",
+    "legal_address": null,
+    "website": "http://41.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0042",
+    "name": "Судебный участок № 9 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Шафиева, д 39/1",
+    "legal_address": null,
+    "website": "http://42.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0043",
+    "name": "Судебный участок № 10 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450100, г Уфа, ул Маршала Жукова, д 17Д",
+    "legal_address": null,
+    "website": "http://43.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0044",
+    "name": "Судебный участок № 11 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Шафиева, д 39/1",
+    "legal_address": null,
+    "website": "http://44.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0045",
+    "name": "Судебный участок № 12 по Октябрьскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450096, г Уфа, ул Энтузиастов, д 2",
+    "legal_address": null,
+    "website": "http://45.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0058",
+    "name": "Судебный участок № 2 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://58.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0059",
+    "name": "Судебный участок № 3 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://59.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0050",
+    "name": "Судебный участок № 5 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://50.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0052",
+    "name": "Судебный участок № 7 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Ульяновых, д 56А",
+    "legal_address": null,
+    "website": "http://52.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0053",
+    "name": "Судебный участок № 8 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://53.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0054",
+    "name": "Судебный участок № 9 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://54.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0055",
+    "name": "Судебный участок № 10 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Ульяновых, д 56А",
+    "legal_address": null,
+    "website": "http://55.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0056",
+    "name": "Судебный участок № 11 по Орджоникидзевскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450112, г Уфа, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://56.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0060",
+    "name": "Судебный участок № 4 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://60.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0061",
+    "name": "Судебный участок № 5 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://61.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0062",
+    "name": "Судебный участок № 6 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://62.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0063",
+    "name": "Судебный участок № 7 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://63.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0064",
+    "name": "Судебный участок № 8 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://64.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0065",
+    "name": "Судебный участок № 9 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://65.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0066",
+    "name": "Судебный участок № 10 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://66.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0067",
+    "name": "Судебный участок № 11 по Советскому району города Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450015, г Уфа, ул Карла Маркса, д 52 к 1",
+    "legal_address": null,
+    "website": "http://67.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0074",
+    "name": "Судебный участок № 2 по городу Белебею Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452005, Респ Башкортостан, г Белебей, ул Пионерская, д 44",
+    "legal_address": null,
+    "website": "http://74.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0078",
+    "name": "Судебный участок № 2 по городу Белорецк Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453509, Респ Башкортостан, г Белорецк, ул Точисского, д 23",
+    "legal_address": null,
+    "website": "http://78.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0072",
+    "name": "Судебный участок № 3 по Баймакскому району и городу Баймаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453630, Респ Башкортостан, г Баймак, ул Салавата Юлаева, д 9",
+    "legal_address": null,
+    "website": "http://72.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0075",
+    "name": "Судебный участок № 3 по городу Белебею Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452017, Респ Башкортостан, Белебеевский р-н, рп Приютово, ул Вокзальная, д 2А",
+    "legal_address": null,
+    "website": "http://75.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0079",
+    "name": "Судебный участок № 3 по городу Белорецк Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453509, Респ Башкортостан, г Белорецк, ул Точисского, д 23",
+    "legal_address": null,
+    "website": "http://79.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0076",
+    "name": "Судебный участок № 4 по городу Белебею Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452005, Респ Башкортостан, г Белебей, ул Пионерская, д 44",
+    "legal_address": null,
+    "website": "http://76.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0088",
+    "name": "Судебный участок № 2 по Давлекановскому району и городу Давлеканово Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453405, Респ Башкортостан, г Давлеканово, ул Степана Разина, д 58",
+    "legal_address": null,
+    "website": "http://88.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0083",
+    "name": "Судебный участок № 3 по Бирскому району и городу Бирску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452455, Респ Башкортостан, г Бирск, ул Калинина, д 20",
+    "legal_address": null,
+    "website": "http://83.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0086",
+    "name": "Судебный участок № 3 по Благовещенскому району и городу Благовещенску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453430, Респ Башкортостан, г Благовещенск, ул Коммунистическая, д 12",
+    "legal_address": null,
+    "website": "http://86.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0080",
+    "name": "Судебный участок № 4 по городу Белорецк Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453509, Респ Башкортостан, г Белорецк, ул Точисского, д 23",
+    "legal_address": null,
+    "website": "http://80.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0098",
+    "name": "Судебный участок № 2 по городу Кумертау Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453300, Респ Башкортостан, г Кумертау, ул Карла Маркса, зд 4А",
+    "legal_address": null,
+    "website": "http://98.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0090",
+    "name": "Судебный участок № 2 по Дюртюлинскому району и городу Дюртюли Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452320, Респ Башкортостан, г Дюртюли, пер Марии Якутовой, зд 9",
+    "legal_address": null,
+    "website": "http://90.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0093",
+    "name": "Судебный участок № 2 по Ишимбайскому району и городу Ишимбаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453204, Респ Башкортостан, г Ишимбай, ул Советская, д 57",
+    "legal_address": null,
+    "website": "http://93.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0099",
+    "name": "Судебный участок № 3 по городу Кумертау Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453300, Респ Башкортостан, г Кумертау, ул Карла Маркса, зд 4А",
+    "legal_address": null,
+    "website": "http://99.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0091",
+    "name": "Судебный участок № 3 по Дюртюлинскому району и городу Дюртюли Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452320, Респ Башкортостан, г Дюртюли, пер Марии Якутовой, зд 9",
+    "legal_address": null,
+    "website": "http://91.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0094",
+    "name": "Судебный участок № 3 по Ишимбайскому району и городу Ишимбаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453204, Респ Башкортостан, г Ишимбай, ул Советская, д 57",
+    "legal_address": null,
+    "website": "http://94.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0095",
+    "name": "Судебный участок № 4 по Ишимбайскому району и городу Ишимбаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453204, Респ Башкортостан, г Ишимбай, ул Советская, д 57",
+    "legal_address": null,
+    "website": "http://95.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0096",
+    "name": "Судебный участок № 5 по Ишимбайскому району и городу Ишимбаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453204, Респ Башкортостан, г Ишимбай, ул Советская, д 57",
+    "legal_address": null,
+    "website": "http://96.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0157",
+    "name": "Судебный участок по Архангельскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453030, Респ Башкортостан, с Архангельское, ул Советская, зд 55",
+    "legal_address": null,
+    "website": "http://157.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0158",
+    "name": "Судебный участок по Аскинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452880, Респ Башкортостан, с Аскино, ул М.Горького, д 3",
+    "legal_address": null,
+    "website": "http://158.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0163",
+    "name": "Судебный участок по Балтачевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452980, Респ Башкортостан, с Старобалтачево, ул Комсомольская, зд 47",
+    "legal_address": null,
+    "website": "http://163.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0164",
+    "name": "Судебный участок по Белебеевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452005, Респ Башкортостан, г Белебей, ул Интернациональная, д 61",
+    "legal_address": null,
+    "website": "http://164.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0165",
+    "name": "Судебный участок по Белокатайскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452580, Респ Башкортостан, с Новобелокатай, ул Школьная, д 16",
+    "legal_address": null,
+    "website": "http://165.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0168",
+    "name": "Судебный участок по Бижбулякскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452040, Респ Башкортостан, с Бижбуляк, ул Советская, д 31",
+    "legal_address": null,
+    "website": "http://168.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0169",
+    "name": "Судебный участок по Благоварскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452740, Респ Башкортостан, с Языково, ул Чапаева, д 8",
+    "legal_address": null,
+    "website": "http://169.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0170",
+    "name": "Судебный участок по Буздякскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452710, Респ Башкортостан, с Буздяк, ул Красная Площадь, д 15",
+    "legal_address": null,
+    "website": "http://170.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0171",
+    "name": "Судебный участок по Бураевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452960, Респ Башкортостан, с Бураево, ул Ленина, зд 102",
+    "legal_address": null,
+    "website": "http://171.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0172",
+    "name": "Судебный участок по Бурзянскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453580, Респ Башкортостан, с Старосубхангулово, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://172.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0105",
+    "name": "Судебный участок по городу Межгорье Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453571, Респ Башкортостан, г Межгорье, ул 40 лет Победы, зд 11",
+    "legal_address": null,
+    "website": "http://105.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0177",
+    "name": "Судебный участок по Ермекеевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452190, Респ Башкортостан, с Ермекеево, ул Школьная, зд 12",
+    "legal_address": null,
+    "website": "http://177.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0178",
+    "name": "Судебный участок по Зианчуринскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453380, Респ Башкортостан, с Исянгулово, ул Советская, зд 18",
+    "legal_address": null,
+    "website": "http://178.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0179",
+    "name": "Судебный участок по Зилаирскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453680, Респ Башкортостан, с Зилаир, ул Ленина, д 87",
+    "legal_address": null,
+    "website": "http://179.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0184",
+    "name": "Судебный участок по Калтасинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452860, Респ Башкортостан, с Калтасы, ул К.Маркса, д 63",
+    "legal_address": null,
+    "website": "http://184.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0185",
+    "name": "Судебный участок по Караидельскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452360, Респ Башкортостан, с Караидель, ул Мира, д 11",
+    "legal_address": null,
+    "website": "http://185.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0188",
+    "name": "Судебный участок по Кигинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452500, Респ Башкортостан, с Верхние Киги, ул Советская, зд 9",
+    "legal_address": null,
+    "website": "http://188.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0189",
+    "name": "Судебный участок по Краснокамскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452930, Респ Башкортостан, с Николо-Березовка, ул Дорожная, д 21",
+    "legal_address": null,
+    "website": "http://189.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0192",
+    "name": "Судебный участок по Кушнаренковскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452230, Респ Башкортостан, с Кушнаренково, ул Октябрьская, зд 39",
+    "legal_address": null,
+    "website": "http://192.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0193",
+    "name": "Судебный участок по Куюргазинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453361, Респ Башкортостан, с Ермолаево, ул Чапаева, д 2",
+    "legal_address": null,
+    "website": "http://193.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0106",
+    "name": "Судебный участок № 1 по городу Нефтекамску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452685, Респ Башкортостан, г Нефтекамск, ул Победы, д 10Б",
+    "legal_address": null,
+    "website": "http://106.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0101",
+    "name": "Судебный участок № 1 по Мелеузовскому району и городу Мелеузу Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453856, Респ Башкортостан, г Мелеуз, пл ЗСМ, д 8",
+    "legal_address": null,
+    "website": "http://101.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0107",
+    "name": "Судебный участок № 2 по городу Нефтекамску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452685, Респ Башкортостан, г Нефтекамск, ул Победы, д 10Б",
+    "legal_address": null,
+    "website": "http://107.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0102",
+    "name": "Судебный участок № 2 по Мелеузовскому району и городу Мелеузу Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453856, Респ Башкортостан, г Мелеуз, пл ЗСМ, д 8",
+    "legal_address": null,
+    "website": "http://102.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0108",
+    "name": "Судебный участок № 3 по городу Нефтекамску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452685, Респ Башкортостан, г Нефтекамск, ул Победы, д 10Б",
+    "legal_address": null,
+    "website": "http://108.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0103",
+    "name": "Судебный участок № 3 по Мелеузовскому району и городу Мелеузу Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453856, Респ Башкортостан, г Мелеуз, пл ЗСМ, д 8",
+    "legal_address": null,
+    "website": "http://103.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0100",
+    "name": "Судебный участок № 4 по городу Кумертау Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453300, Респ Башкортостан, г Кумертау, ул Карла Маркса, зд 4А",
+    "legal_address": null,
+    "website": "http://100.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0109",
+    "name": "Судебный участок № 4 по городу Нефтекамску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452685, Респ Башкортостан, г Нефтекамск, ул Победы, д 10Б",
+    "legal_address": null,
+    "website": "http://109.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0104",
+    "name": "Судебный участок № 4 по Мелеузовскому району и городу Мелеузу Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453856, Респ Башкортостан, г Мелеуз, пл ЗСМ, д 8",
+    "legal_address": null,
+    "website": "http://104.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0113",
+    "name": "Судебный участок № 1 по городу Октябрьскому Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452614, Респ Башкортостан, г Октябрьский, ул Герцена, д 2А",
+    "legal_address": null,
+    "website": "http://113.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0119",
+    "name": "Судебный участок № 1 по городу Салавату Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453261, Респ Башкортостан, г Салават, ул Ключевая, д 16А",
+    "legal_address": null,
+    "website": "http://119.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0114",
+    "name": "Судебный участок № 2 по городу Октябрьскому Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452614, Респ Башкортостан, г Октябрьский, ул Герцена, д 2А",
+    "legal_address": null,
+    "website": "http://114.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0115",
+    "name": "Судебный участок № 3 по городу Октябрьскому Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452614, Респ Башкортостан, г Октябрьский, ул Герцена, д 2А",
+    "legal_address": null,
+    "website": "http://115.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0116",
+    "name": "Судебный участок № 4 по городу Октябрьскому Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452614, Респ Башкортостан, г Октябрьский, ул Герцена, д 2А",
+    "legal_address": null,
+    "website": "http://116.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0110",
+    "name": "Судебный участок № 5 по городу Нефтекамску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452685, Респ Башкортостан, г Нефтекамск, ул Победы, д 10Б",
+    "legal_address": null,
+    "website": "http://110.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0117",
+    "name": "Судебный участок № 5 по городу Октябрьскому Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452614, Респ Башкортостан, г Октябрьский, ул Герцена, д 2А",
+    "legal_address": null,
+    "website": "http://117.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0111",
+    "name": "Судебный участок № 6 по городу Нефтекамску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452685, Респ Башкортостан, г Нефтекамск, ул Победы, д 10Б",
+    "legal_address": null,
+    "website": "http://111.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0118",
+    "name": "Судебный участок № 6 по городу Октябрьскому Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452614, Респ Башкортостан, г Октябрьский, ул Герцена, д 2А",
+    "legal_address": null,
+    "website": "http://118.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0112",
+    "name": "Судебный участок № 7 по городу Нефтекамску Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452685, Респ Башкортостан, г Нефтекамск, ул Победы, д 10Б",
+    "legal_address": null,
+    "website": "http://112.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0125",
+    "name": "Судебный участок № 1 по городу Сибаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453830, Респ Башкортостан, г Сибай, ул Цеткин, д 2",
+    "legal_address": null,
+    "website": "http://125.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0129",
+    "name": "Судебный участок № 1 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, ул Курчатова, д 16",
+    "legal_address": null,
+    "website": "http://129.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0120",
+    "name": "Судебный участок № 2 по городу Салавату Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453261, Респ Башкортостан, г Салават, ул Ключевая, д 16А",
+    "legal_address": null,
+    "website": "http://120.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0126",
+    "name": "Судебный участок № 2 по городу Сибаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453830, Респ Башкортостан, г Сибай, ул Цеткин, д 2",
+    "legal_address": null,
+    "website": "http://126.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0121",
+    "name": "Судебный участок № 3 по городу Салавату Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453261, Респ Башкортостан, г Салават, ул Ключевая, д 16А",
+    "legal_address": null,
+    "website": "http://121.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0127",
+    "name": "Судебный участок № 3 по городу Сибаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453830, Респ Башкортостан, г Сибай, ул Цеткин, д 2",
+    "legal_address": null,
+    "website": "http://127.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0122",
+    "name": "Судебный участок № 4 по городу Салавату Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453261, Респ Башкортостан, г Салават, ул Ключевая, д 16А",
+    "legal_address": null,
+    "website": "http://122.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0128",
+    "name": "Судебный участок № 4 по городу Сибаю Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453830, Респ Башкортостан, г Сибай, ул Цеткин, д 2",
+    "legal_address": null,
+    "website": "http://128.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0123",
+    "name": "Судебный участок № 5 по городу Салавату Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453261, Респ Башкортостан, г Салават, ул Ключевая, д 16А",
+    "legal_address": null,
+    "website": "http://123.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0124",
+    "name": "Судебный участок № 6 по городу Салавату Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453261, Респ Башкортостан, г Салават, ул Ключевая, д 16А",
+    "legal_address": null,
+    "website": "http://124.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0130",
+    "name": "Судебный участок № 2 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, ул Курчатова, д 16",
+    "legal_address": null,
+    "website": "http://130.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0131",
+    "name": "Судебный участок № 3 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, ул Курчатова, д 16",
+    "legal_address": null,
+    "website": "http://131.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0132",
+    "name": "Судебный участок № 4 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, ул Курчатова, д 16",
+    "legal_address": null,
+    "website": "http://132.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0133",
+    "name": "Судебный участок № 5 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, ул Курчатова, д 16",
+    "legal_address": null,
+    "website": "http://133.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0134",
+    "name": "Судебный участок № 6 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453118, Респ Башкортостан, г Стерлитамак, ул Худайбердина, д 152",
+    "legal_address": null,
+    "website": "http://134.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0135",
+    "name": "Судебный участок № 7 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453118, Респ Башкортостан, г Стерлитамак, ул Худайбердина, д 152",
+    "legal_address": null,
+    "website": "http://135.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0136",
+    "name": "Судебный участок № 8 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453118, Респ Башкортостан, г Стерлитамак, ул Худайбердина, д 152",
+    "legal_address": null,
+    "website": "http://136.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0137",
+    "name": "Судебный участок № 9 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, ул Курчатова, д 16",
+    "legal_address": null,
+    "website": "http://137.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0138",
+    "name": "Судебный участок № 10 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, ул Курчатова, д 16",
+    "legal_address": null,
+    "website": "http://138.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0139",
+    "name": "Судебный участок № 11 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453118, Респ Башкортостан, г Стерлитамак, ул Худайбердина, д 152",
+    "legal_address": null,
+    "website": "http://139.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0141",
+    "name": "Судебный участок № 1 по Туймазинскому району и городу Туймазы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 16",
+    "legal_address": null,
+    "website": "http://141.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0148",
+    "name": "Судебный участок № 1 по Учалинскому району и городу Учалы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453700, Респ Башкортостан, г Учалы, ул Ленина, д 4А",
+    "legal_address": null,
+    "website": "http://148.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0142",
+    "name": "Судебный участок № 2 по Туймазинскому району и городу Туймазы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 16",
+    "legal_address": null,
+    "website": "http://142.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0149",
+    "name": "Судебный участок № 2 по Учалинскому району и городу Учалы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453700, Респ Башкортостан, г Учалы, ул Ленина, д 4А",
+    "legal_address": null,
+    "website": "http://149.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0143",
+    "name": "Судебный участок № 3 по Туймазинскому району и городу Туймазы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 16",
+    "legal_address": null,
+    "website": "http://143.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0144",
+    "name": "Судебный участок № 4 по Туймазинскому району и городу Туймазы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 16",
+    "legal_address": null,
+    "website": "http://144.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0145",
+    "name": "Судебный участок № 5 по Туймазинскому району и городу Туймазы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 16",
+    "legal_address": null,
+    "website": "http://145.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0146",
+    "name": "Судебный участок № 6 по Туймазинскому району и городу Туймазы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 16",
+    "legal_address": null,
+    "website": "http://146.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0147",
+    "name": "Судебный участок № 7 по Туймазинскому району и городу Туймазы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 16",
+    "legal_address": null,
+    "website": "http://147.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0140",
+    "name": "Судебный участок № 12 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453118, Респ Башкортостан, г Стерлитамак, ул Худайбердина, д 152",
+    "legal_address": null,
+    "website": "http://140.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0153",
+    "name": "Судебный участок № 1 по Абзелиловскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453620, Респ Башкортостан, с Аскарово, ул Ленина, д 31",
+    "legal_address": null,
+    "website": "http://153.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0155",
+    "name": "Судебный участок № 1 по Альшеевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452122, Респ Башкортостан, с Раевский, ул Кирова, д 3",
+    "legal_address": null,
+    "website": "http://155.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0159",
+    "name": "Судебный участок № 1 по Аургазинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453480, Респ Башкортостан, с Толбазы, ул Химиков, д 3",
+    "legal_address": null,
+    "website": "http://159.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0151",
+    "name": "Судебный участок № 1 по Янаульскому району и городу Янаулу Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452800, Респ Башкортостан, г Янаул, ул Советская, д 21",
+    "legal_address": null,
+    "website": "http://151.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0154",
+    "name": "Судебный участок № 2 по Абзелиловскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453620, Респ Башкортостан, с Аскарово, ул Ленина, д 31",
+    "legal_address": null,
+    "website": "http://154.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0156",
+    "name": "Судебный участок № 2 по Альшеевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452122, Респ Башкортостан, с Раевский, ул Кирова, д 3",
+    "legal_address": null,
+    "website": "http://156.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0152",
+    "name": "Судебный участок № 2 по Янаульскому району и городу Янаулу Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452800, Респ Башкортостан, г Янаул, ул Советская, д 21",
+    "legal_address": null,
+    "website": "http://152.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0150",
+    "name": "Судебный участок № 3 по Учалинскому району и городу Учалы Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453700, Респ Башкортостан, г Учалы, ул Ленина, д 4А",
+    "legal_address": null,
+    "website": "http://150.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0161",
+    "name": "Судебный участок № 1 по Бакалинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452650, Респ Башкортостан, с Бакалы, ул Ленина, д 117",
+    "legal_address": null,
+    "website": "http://161.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0166",
+    "name": "Судебный участок № 1 по Белорецкому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453509, Респ Башкортостан, г Белорецк, ул Точисского, д 23",
+    "legal_address": null,
+    "website": "http://166.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0160",
+    "name": "Судебный участок № 2 по Аургазинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453480, Респ Башкортостан, с Толбазы, ул Химиков, д 3",
+    "legal_address": null,
+    "website": "http://160.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0162",
+    "name": "Судебный участок № 2 по Бакалинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452650, Респ Башкортостан, с Бакалы, ул Ленина, д 117",
+    "legal_address": null,
+    "website": "http://162.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0167",
+    "name": "Судебный участок № 2 по Белорецкому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453509, Респ Башкортостан, г Белорецк, ул Точисского, д 23",
+    "legal_address": null,
+    "website": "http://167.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0173",
+    "name": "Судебный участок № 1 по Гафурийскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453050, Респ Башкортостан, с Красноусольский, ул К.Маркса, д 14",
+    "legal_address": null,
+    "website": "http://173.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0175",
+    "name": "Судебный участок № 1 по Дуванскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452530, Респ Башкортостан, с Месягутово, ул Сафонова, д 1 к а",
+    "legal_address": null,
+    "website": "http://175.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0174",
+    "name": "Судебный участок № 2 по Гафурийскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453050, Респ Башкортостан, с Красноусольский, ул К.Маркса, д 14",
+    "legal_address": null,
+    "website": "http://174.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0176",
+    "name": "Судебный участок № 2 по Дуванскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452530, Респ Башкортостан, с Месягутово, ул Сафонова, д 1 к а",
+    "legal_address": null,
+    "website": "http://176.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0180",
+    "name": "Судебный участок № 1 по Иглинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452410, Респ Башкортостан, с Иглино, ул Ленина, д 79",
+    "legal_address": null,
+    "website": "http://180.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0183",
+    "name": "Судебный участок № 1 по Илишевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452260, Респ Башкортостан, с Верхнеяркеево, ул Коммунистическая, зд 17",
+    "legal_address": null,
+    "website": "http://183.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0186",
+    "name": "Судебный участок № 1 по Кармаскалинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453020, Респ Башкортостан, с Кармаскалы, ул Худайбердина, д 10",
+    "legal_address": null,
+    "website": "http://186.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0181",
+    "name": "Судебный участок № 2 по Иглинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452410, Респ Башкортостан, с Иглино, ул Ленина, д 79",
+    "legal_address": null,
+    "website": "http://181.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0187",
+    "name": "Судебный участок № 2 по Кармаскалинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453020, Респ Башкортостан, с Кармаскалы, ул Худайбердина, д 10",
+    "legal_address": null,
+    "website": "http://187.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0182",
+    "name": "Судебный участок № 3 по Иглинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452410, Респ Башкортостан, с Иглино, ул Ленина, д 79",
+    "legal_address": null,
+    "website": "http://182.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0194",
+    "name": "Судебный участок по Мечетлинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452550, Респ Башкортостан, с Большеустьикинское, ул Советская, д 25А",
+    "legal_address": null,
+    "website": "http://194.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0195",
+    "name": "Судебный участок по Мишкинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452340, Респ Башкортостан, с Мишкино, ул Ленина, д 106",
+    "legal_address": null,
+    "website": "http://195.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0198",
+    "name": "Судебный участок по Нуримановскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452440, Респ Башкортостан, с Красная Горка, ул Советская, зд 58",
+    "legal_address": null,
+    "website": "http://198.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0199",
+    "name": "Судебный участок по Салаватскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452490, Респ Башкортостан, с Малояз, ул 60 лет СССР, зд 3",
+    "legal_address": null,
+    "website": "http://199.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0190",
+    "name": "Судебный участок № 1 по Кугарчинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453330, Респ Башкортостан, с Мраково, ул Буркина, зд 48",
+    "legal_address": null,
+    "website": "http://190.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0196",
+    "name": "Судебный участок № 1 по Миякинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452080, Респ Башкортостан, с Киргиз-Мияки, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://196.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0191",
+    "name": "Судебный участок № 2 по Кугарчинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453330, Респ Башкортостан, с Мраково, ул Буркина, зд 48",
+    "legal_address": null,
+    "website": "http://191.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0197",
+    "name": "Судебный участок № 2 по Миякинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452080, Респ Башкортостан, с Киргиз-Мияки, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://197.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0202",
+    "name": "Судебный участок по Стерлибашевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453180, Респ Башкортостан, с Стерлибашево, ул Карла Маркса, зд 100",
+    "legal_address": null,
+    "website": "http://202.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0203",
+    "name": "Судебный участок по Татышлинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452830, Респ Башкортостан, с Верхние Татышлы, ул Ленина, зд 39",
+    "legal_address": null,
+    "website": "http://203.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0207",
+    "name": "Судебный участок по Федоровскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453280, Респ Башкортостан, с Федоровка, ул Ленина, д 44",
+    "legal_address": null,
+    "website": "http://207.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0215",
+    "name": "Судебный участок по Шаранскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452630, Респ Башкортостан, с Шаран, ул Свердлова, д 1",
+    "legal_address": null,
+    "website": "http://215.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0200",
+    "name": "Судебный участок № 1 по Стерлитамакскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, пр-кт Октября, д 57",
+    "legal_address": null,
+    "website": "http://200.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0204",
+    "name": "Судебный участок № 1 по Уфимскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450077, г Уфа, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://204.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0208",
+    "name": "Судебный участок № 1 по Хайбуллинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453800, Респ Башкортостан, с Акъяр, ул Мусы Гареева, д 40",
+    "legal_address": null,
+    "website": "http://208.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0210",
+    "name": "Судебный участок № 1 по Чекмагушевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452200, Респ Башкортостан, с Чекмагуш, ул Мира, д 25",
+    "legal_address": null,
+    "website": "http://210.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0212",
+    "name": "Судебный участок № 1 по Чишминскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452170, Респ Башкортостан, рп Чишмы, пр-кт Дружбы, д 1Б",
+    "legal_address": null,
+    "website": "http://212.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0216",
+    "name": "Судебный участок № 2 по Илишевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452260, Респ Башкортостан, с Верхнеяркеево, ул Коммунистическая, зд 17",
+    "legal_address": null,
+    "website": "http://216.bkr.msudrf.ru/"
+  },
+  {
+    "code": "03MS0201",
+    "name": "Судебный участок № 2 по Стерлитамакскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453120, Респ Башкортостан, г Стерлитамак, пр-кт Октября, д 57",
+    "legal_address": null,
+    "website": "http://201.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0205",
+    "name": "Судебный участок № 2 по Уфимскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450077, г Уфа, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://205.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0209",
+    "name": "Судебный участок № 2 по Хайбуллинскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "453800, Респ Башкортостан, с Акъяр, ул Мусы Гареева, д 40",
+    "legal_address": null,
+    "website": "http://209.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0211",
+    "name": "Судебный участок № 2 по Чекмагушевскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452200, Респ Башкортостан, с Чекмагуш, ул Мира, д 25",
+    "legal_address": null,
+    "website": "http://211.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0213",
+    "name": "Судебный участок № 2 по Чишминскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452170, Респ Башкортостан, рп Чишмы, ул Дружбы, д 1Б",
+    "legal_address": null,
+    "website": "http://213.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0206",
+    "name": "Судебный участок № 3 по Уфимскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450077, г Уфа, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://206.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0214",
+    "name": "Судебный участок № 3 по Чишминскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "452174, Респ Башкортостан, рп Чишмы, ул Шоссейная, д 1",
+    "legal_address": null,
+    "website": "http://214.bkr.msudrf.ru"
+  },
+  {
+    "code": "03MS0217",
+    "name": "Судебный участок № 4 по Уфимскому району Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450077, г Уфа, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://217.bkr.msudrf.ru/"
+  },
+  {
+    "code": "03MS0218",
+    "name": "Судебный участок № 13 по городу Стерлитамаку Республики Башкортостан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "450002, г Уфа, ул Пушкина, д 88/1",
+    "legal_address": null,
+    "website": "http://218.bkr.msudrf.ru"
+  }
+]

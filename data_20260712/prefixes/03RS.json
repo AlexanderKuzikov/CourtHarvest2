@@ -1,0 +1,452 @@
+[
+  {
+    "code": "03RS0019",
+    "name": "Абзелиловский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453620, Респ Башкортостан, с Аскарово, ул Коммунистическая, д 16",
+    "legal_address": null,
+    "website": "http://abzelilovsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0020",
+    "name": "Альшеевский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452120, Респ Башкортостан, с Раевский, ул Свободы, д 100/2",
+    "legal_address": null,
+    "website": "http://alsheevsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0024",
+    "name": "Баймакский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453630, Респ Башкортостан, г Баймак, ул Революционная, д 27",
+    "legal_address": null,
+    "website": "http://baimaksky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0025",
+    "name": "Балтачевский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452980, Респ Башкортостан, с Старобалтачево, ул Кирова, зд 3",
+    "legal_address": null,
+    "website": "http://baltachevsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0009",
+    "name": "Белебеевский городской суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452005, Респ Башкортостан, г Белебей, ул Пионерская, зд 46",
+    "legal_address": null,
+    "website": "http://belebeevsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0028",
+    "name": "Белокатайский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452580, Респ Башкортостан, с Новобелокатай, ул Школьная, д 20",
+    "legal_address": null,
+    "website": "http://belokataisky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0010",
+    "name": "Белорецкий межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453509, Респ Башкортостан, г Белорецк, ул Пушкина, д 61",
+    "legal_address": null,
+    "website": "http://belorecky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0030",
+    "name": "Бижбулякский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452040, Респ Башкортостан, с Бижбуляк, ул Советская, д 33",
+    "legal_address": null,
+    "website": "http://bizhbuliaksky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0032",
+    "name": "Бирский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452450, Респ Башкортостан, г Бирск, ул Коммунистическая, д 29",
+    "legal_address": null,
+    "website": "http://birsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0031",
+    "name": "Благоварский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452740, Респ Башкортостан, с Языково, ул Пушкина, зд 15",
+    "legal_address": null,
+    "website": "http://blagovarsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0033",
+    "name": "Благовещенский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453431, Респ Башкортостан, г Благовещенск, ул Комарова, д 21/2",
+    "legal_address": null,
+    "website": "http://blagoveschensky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0037",
+    "name": "Гафурийский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453050, Респ Башкортостан, с Красноусольский, ул Коммунистическая, д 25",
+    "legal_address": null,
+    "website": "http://gafuriysky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0038",
+    "name": "Давлекановский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453403, Респ Башкортостан, г Давлеканово, ул Садовая, д 19",
+    "legal_address": null,
+    "website": "http://davlekanovsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0001",
+    "name": "Демский районный суд г. Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450024, г Уфа, ул Правды, д 2 к 1",
+    "legal_address": null,
+    "website": "http://demsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0040",
+    "name": "Дюртюлинский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452320, Респ Башкортостан, г Дюртюли, ул Седова, зд 22",
+    "legal_address": null,
+    "website": "http://diurtiulinsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0043",
+    "name": "Зилаирский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453680, Респ Башкортостан, с Зилаир, ул Ленина, д 35",
+    "legal_address": null,
+    "website": "http://zilairsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0044",
+    "name": "Иглинский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452410, Респ Башкортостан, с Иглино, ул Ленина, д 97",
+    "legal_address": null,
+    "website": "http://iglinsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0045",
+    "name": "Илишевский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452260, Респ Башкортостан, с Верхнеяркеево, ул Куйбышева, д 104/3",
+    "legal_address": null,
+    "website": "http://ilishevsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0011",
+    "name": "Ишимбайский городской суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453205, Респ Башкортостан, г Ишимбай, ул Губкина, д 52А",
+    "legal_address": null,
+    "website": "http://ishimbaisky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0002",
+    "name": "Калининский районный суд г. Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450043, г Уфа, ул Георгия Мушникова, д 11/1",
+    "legal_address": null,
+    "website": "http://kalininsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0003",
+    "name": "Кировский районный суд г. Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450008, г Уфа, ул Александра Матросова, д 1",
+    "legal_address": null,
+    "website": "http://kirovsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0004",
+    "name": "Ленинский районный суд г. Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450076, г Уфа, ул Аксакова, д 71",
+    "legal_address": null,
+    "website": "http://leninsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0005",
+    "name": "Октябрьский районный суд г. Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450096, г Уфа, ул Шафиева, д 27 к 2",
+    "legal_address": null,
+    "website": "http://oktiabrsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0006",
+    "name": "Орджоникидзевский районный суд г. Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450112, г Уфа, ул Ульяновых, д 51",
+    "legal_address": null,
+    "website": "http://ordjonikidzovsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0007",
+    "name": "Советский районный суд г. Уфы Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450059, г Уфа, ул Большая Гражданская, д 24",
+    "legal_address": null,
+    "website": "http://sovetsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0012",
+    "name": "Кумертауский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453300, Респ Башкортостан, г Кумертау, ул 40 лет Победы, д 38, кв 1",
+    "legal_address": null,
+    "website": "http://kumertauskiy.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0013",
+    "name": "Нефтекамский городской суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452680, Респ Башкортостан, г Нефтекамск, ул Нефтяников, зд 28",
+    "legal_address": null,
+    "website": "http://neftekamsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0014",
+    "name": "Октябрьский городской суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452607, Респ Башкортостан, г Октябрьский, ул Девонская, д 12",
+    "legal_address": null,
+    "website": "http://oktabrsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0015",
+    "name": "Салаватский городской суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453265, Респ Башкортостан, г Салават, ул Губкина, д 16",
+    "legal_address": null,
+    "website": "http://salavatsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0016",
+    "name": "Сибайский городской суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453830, Респ Башкортостан, г Сибай, ул Цеткин, зд 1/2",
+    "legal_address": null,
+    "website": "http://sibaisky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0017",
+    "name": "Стерлитамакский городской суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453126, Респ Башкортостан, г Стерлитамак, ул Вокзальная, д 1А",
+    "legal_address": null,
+    "website": "http://sterlitamaksky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0047",
+    "name": "Караидельский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452360, Респ Башкортостан, с Караидель, ул Романова, д 16",
+    "legal_address": null,
+    "website": "http://karaidelsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0048",
+    "name": "Кармаскалинский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453020, Респ Башкортостан, с Кармаскалы, ул Кирова, д 36",
+    "legal_address": null,
+    "website": "http://karmaskalinsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0049",
+    "name": "Краснокамский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452930, Респ Башкортостан, с Николо-Березовка, ул Карла Маркса, д 8",
+    "legal_address": null,
+    "website": "http://krasnokamsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0051",
+    "name": "Кугарчинский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453330, Респ Башкортостан, с Мраково, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://kugarchinsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0053",
+    "name": "Кушнаренковский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452230, Респ Башкортостан, с Кушнаренково, ул Октябрьская, зд 62",
+    "legal_address": null,
+    "website": "http://kushnarenkovsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0054",
+    "name": "Мелеузовский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453856, Респ Башкортостан, г Мелеуз, ул Советская, д 3",
+    "legal_address": null,
+    "website": "http://meleuzovsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0059",
+    "name": "Салаватский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452490, Респ Башкортостан, с Малояз, ул Советская, зд 60",
+    "legal_address": null,
+    "website": "http://salavatskiy.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0060",
+    "name": "Стерлибашевский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453180, Респ Башкортостан, с Стерлибашево, ул Ленина, зд 109",
+    "legal_address": null,
+    "website": "http://sterlibashevsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0063",
+    "name": "Туймазинский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452750, Респ Башкортостан, г Туймазы, ул Пугачева, зд 10",
+    "legal_address": null,
+    "website": "http://tuimazinsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0064",
+    "name": "Уфимский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "450103, г Уфа, ул Сочинская, д 12",
+    "legal_address": null,
+    "website": "http://ufimsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0065",
+    "name": "Учалинский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "453700, Респ Башкортостан, г Учалы, ул Ленина, д 12",
+    "legal_address": null,
+    "website": "http://uchalinsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0068",
+    "name": "Чекмагушевский межрайонный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452200, Респ Башкортостан, с Чекмагуш, ул Салавата, д 1",
+    "legal_address": null,
+    "website": "http://chekmagushevsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0069",
+    "name": "Чишминский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452170, Респ Башкортостан, рп Чишмы, ул Первомайская, д 26",
+    "legal_address": null,
+    "website": "http://chishmilinsky.bkr.sudrf.ru"
+  },
+  {
+    "code": "03RS0071",
+    "name": "Янаульский районный суд Республики Башкортостан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "452800, Респ Башкортостан, г Янаул, ул Крестьянская, д 18",
+    "legal_address": null,
+    "website": "http://yanaulsky.bkr.sudrf.ru"
+  }
+]

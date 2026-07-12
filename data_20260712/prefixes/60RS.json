@@ -1,0 +1,182 @@
+[
+  {
+    "code": "60RS0004",
+    "name": "Бежаницкий районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182840, Псковская обл, рп Бежаницы, ул Березовая, д 2",
+    "legal_address": null,
+    "website": "http://bezhanicky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0002",
+    "name": "Великолукский городской суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул Пушкина, д 10/1",
+    "legal_address": null,
+    "website": "http://velikolukskygor.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0005",
+    "name": "Великолукский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182110, Псковская обл, г Великие Луки, ул К.Либкнехта, д 18 к 1",
+    "legal_address": null,
+    "website": "http://velikoluksky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0006",
+    "name": "Гдовский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "181600, Псковская обл, г Гдов, ул К.Маркса, д 29",
+    "legal_address": null,
+    "website": "http://gdovsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0007",
+    "name": "Дедовичский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182710, Псковская обл, рп Дедовичи, ул Бундзена, д 51",
+    "legal_address": null,
+    "website": "http://dedovichsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0008",
+    "name": "Дновский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182670, Псковская обл, г Дно, ул Калинина, д 1А",
+    "legal_address": null,
+    "website": "http://dnovsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0012",
+    "name": "Невельский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182500, Псковская обл, г Невель, ул Кировский тупик, д 1",
+    "legal_address": null,
+    "website": "http://nevelsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0014",
+    "name": "Новосокольнический районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182200, Псковская обл, г Новосокольники, ул Ленинская, д 52",
+    "legal_address": null,
+    "website": "http://novosokolnichesky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0015",
+    "name": "Опочецкий районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182330, Псковская обл, г Опочка, ул Красногородская, д 12",
+    "legal_address": null,
+    "website": "http://opochecky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0003",
+    "name": "Островский городской суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "181350, Псковская обл, г Остров, ул Освобождения, д 1",
+    "legal_address": null,
+    "website": "http://ostrovsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0017",
+    "name": "Печорский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "181500, Псковская обл, г Печоры, ул Мира, д 19А",
+    "legal_address": null,
+    "website": "http://pechorsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0019",
+    "name": "Порховский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182620, Псковская обл, г Порхов, ул Пушкина, д 45",
+    "legal_address": null,
+    "website": "http://porhovsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0001",
+    "name": "Псковский городской суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "180007, г Псков, ул Петровская, д 24",
+    "legal_address": null,
+    "website": "http://pskovskygor.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0020",
+    "name": "Псковский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "180006, г Псков, ул Александра Невского, д 1",
+    "legal_address": null,
+    "website": "http://pskovsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0022",
+    "name": "Пушкиногорский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "181370, Псковская обл, рп Пушкинские Горы, ул Пушкинская, д 13",
+    "legal_address": null,
+    "website": "http://pushkinogorsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0023",
+    "name": "Пыталовский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "181410, Псковская обл, г Пыталово, ул Красноармейская, д 19",
+    "legal_address": null,
+    "website": "http://pytalovsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0024",
+    "name": "Себежский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "182250, Псковская обл, г Себеж, ул Челюскинцев, д 1",
+    "legal_address": null,
+    "website": "http://sebezhsky.psk.sudrf.ru"
+  },
+  {
+    "code": "60RS0025",
+    "name": "Стругокрасненский районный суд Псковской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "181110, Псковская обл, рп Струги Красные, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://strugokrasnensky.psk.sudrf.ru"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "code": "06MS0016",
+    "name": "Восемнадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386101, Респ Ингушетия, г Назрань, тер Центральный административный округ, пр-кт И.Базоркина, д 70",
+    "legal_address": null,
+    "website": "http://18.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0008",
+    "name": "Восьмой судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386101, Респ Ингушетия, г Назрань, тер Центральный административный округ, пр-кт И.Базоркина, д 70",
+    "legal_address": null,
+    "website": "http://8.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0002",
+    "name": "Второй судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386302, Респ Ингушетия, г Малгобек, ул Владимира Абрамовича Этуша, д 3",
+    "legal_address": null,
+    "website": "http://2.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0020",
+    "name": "Двадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386230, Респ Ингушетия, г Карабулак, ул Кирова, д 39",
+    "legal_address": null,
+    "website": "http://20.ing.msudrf.ru/"
+  },
+  {
+    "code": "06MS0022",
+    "name": "Двадцать второй судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386200, Респ Ингушетия, г Сунжа",
+    "legal_address": null,
+    "website": "http://22.ing.msudrf.ru/"
+  },
+  {
+    "code": "06MS0021",
+    "name": "Двадцать первый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386103, Респ Ингушетия, г Назрань, тер Центральный административный округ, ул С.С.Осканова, д 33",
+    "legal_address": null,
+    "website": "http://21.ing.msudrf.ru/"
+  },
+  {
+    "code": "06MS0023",
+    "name": "Двадцать третий судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386203, Респ Ингушетия, г Сунжа, ул Комсомольская, д 96",
+    "legal_address": null,
+    "website": "http://23.ing.msudrf.ru/"
+  },
+  {
+    "code": "06MS0012",
+    "name": "Двенадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386246, Респ Ингушетия, Сунженский р-н, ст-ца Троицкая, ул Братская, д 33",
+    "legal_address": null,
+    "website": "http://12.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0017",
+    "name": "Девятнадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386302, Респ Ингушетия, г Малгобек, ул Владимира Абрамовича Этуша, д 3",
+    "legal_address": null,
+    "website": "http://19.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0009",
+    "name": "Девятый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386101, Респ Ингушетия, г Назрань, тер Центральный административный округ, пр-кт И.Базоркина, д 70",
+    "legal_address": null,
+    "website": "http://9.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0010",
+    "name": "Десятый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386124, Республика Ингушетия, м/о Плиевский, ул. Осканова, д. 62 А",
+    "legal_address": null,
+    "website": "http://10.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0011",
+    "name": "Одиннадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386203, Респ Ингушетия, г Сунжа, ул Осканова, д 61",
+    "legal_address": null,
+    "website": "http://11.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0001",
+    "name": "Первый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386137, Респ Ингушетия, Назрановский р-н, с Яндаре, мкр Новый, д 1А",
+    "legal_address": null,
+    "website": "http://1.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0018",
+    "name": "Пятнадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386001, г Магас, ул З.Борова, д 13",
+    "legal_address": null,
+    "website": "http://15.ing.msudrf.ru/"
+  },
+  {
+    "code": "06MS0005",
+    "name": "Пятый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386121, Респ Ингушетия, Назрановский р-н, с Кантышево, ул Джабагиева, д 144",
+    "legal_address": null,
+    "website": "http://5.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0007",
+    "name": "Седьмой судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386127, Республика Ингушетия, с. Сурхахи, ул. Аушева, д. 1",
+    "legal_address": null,
+    "website": "http://7.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0015",
+    "name": "Семнадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386101, Респ Ингушетия, г Назрань, тер Центральный административный округ, пр-кт И.Базоркина, д 70",
+    "legal_address": null,
+    "website": "http://17.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0003",
+    "name": "Третий судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386338, Республика Ингушетия, Малгобекский район, с. п. Верхние Ачалуки, ул. Бекова б/н",
+    "legal_address": null,
+    "website": "http://3.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0013",
+    "name": "Тринадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386241, Респ Ингушетия, Сунженский р-н, с Алхасты, ул Заводская, д 6А",
+    "legal_address": null,
+    "website": "http://13.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0004",
+    "name": "Четвертый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386302, Респ Ингушетия, г Малгобек, ул Владимира Абрамовича Этуша, д 3",
+    "legal_address": null,
+    "website": "http://4.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0006",
+    "name": "Шестой судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386151, Респ Ингушетия, Назрановский р-н, с Экажево, ул В.Джабагиева, д 1",
+    "legal_address": null,
+    "website": "http://6.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0014",
+    "name": "Четырнадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386430, Респ Ингушетия, с Джейрах, ул Д.Льянова, д 39",
+    "legal_address": null,
+    "website": "http://14.ing.msudrf.ru"
+  },
+  {
+    "code": "06MS0019",
+    "name": "Шестнадцатый судебный участок Республики Ингушетия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "386203, Респ Ингушетия, г Сунжа, ул Ленина, д 65",
+    "legal_address": null,
+    "website": "http://16.ing.msudrf.ru/"
+  }
+]

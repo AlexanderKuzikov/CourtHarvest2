@@ -1,0 +1,422 @@
+[
+  {
+    "code": "74RS0010",
+    "name": "Агаповский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457400, Челябинская обл, с Агаповка, ул Школьная, д 64",
+    "legal_address": null,
+    "website": "http://agap.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0009",
+    "name": "Аргаяшский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456880, Челябинская обл, с Аргаяш, ул Комсомольская, д 4",
+    "legal_address": null,
+    "website": "http://arg.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0008",
+    "name": "Ашинский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456014, Челябинская обл, г Аша, ул Ленина, д 1",
+    "legal_address": null,
+    "website": "http://asha.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0012",
+    "name": "Варненский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457200, Челябинская обл, с Варна, пер Кооперативный, д 31А",
+    "legal_address": null,
+    "website": "http://varna.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0013",
+    "name": "Верхнеуральский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457670, Челябинская обл, г Верхнеуральск, ул Карла Либкнехта, зд 44",
+    "legal_address": null,
+    "website": "http://vural.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0014",
+    "name": "Верхнеуфалейский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456800, Челябинская обл, г Верхний Уфалей, ул Ленина, д 166",
+    "legal_address": null,
+    "website": "http://vurfal.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0015",
+    "name": "Еманжелинский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456580, Челябинская обл, г Еманжелинск, ул Горького, д 2А",
+    "legal_address": null,
+    "website": "http://emang.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0016",
+    "name": "Еткульский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456560, Челябинская обл, с Еткуль, ул Кирова, д 35",
+    "legal_address": null,
+    "website": "http://etkul.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0017",
+    "name": "Златоустовский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул им. Виталия Ковшова, д 33",
+    "legal_address": null,
+    "website": "http://zlatoust.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0006",
+    "name": "Калининский районный суд г. Челябинска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "454008, г Челябинск, ул Каслинская, д 42",
+    "legal_address": null,
+    "website": "http://kalin.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0021",
+    "name": "Карталинский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457351, Челябинская обл, г Карталы, ул Славы, д 15",
+    "legal_address": null,
+    "website": "http://kart.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0019",
+    "name": "Каслинский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456830, Челябинская обл, г Касли, ул Советская, д 45",
+    "legal_address": null,
+    "website": "http://kasli.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0020",
+    "name": "Катав-Ивановский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456110, Челябинская обл, г Катав-Ивановск, ул Труда, д 1",
+    "legal_address": null,
+    "website": "http://kivan.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0028",
+    "name": "Копейский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456618, Челябинская обл, г Копейск, ул Ленина, д 60",
+    "legal_address": null,
+    "website": "http://kopeysk.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0022",
+    "name": "Коркинский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456550, Челябинская обл, г Коркино, ул Мира, д 34",
+    "legal_address": null,
+    "website": "http://korkin.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0025",
+    "name": "Красноармейский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456660, Челябинская обл, с Миасское, ул Садовая, д 7",
+    "legal_address": null,
+    "website": "http://krasnoar.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0026",
+    "name": "Кунашакский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456730, Челябинская обл, с Кунашак, ул Коммунистическая, д 5",
+    "legal_address": null,
+    "website": "http://kunash.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0007",
+    "name": "Курчатовский районный суд г. Челябинска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "454138, г Челябинск, ул Куйбышева, д 30",
+    "legal_address": null,
+    "website": "http://kurt.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0024",
+    "name": "Кусинский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456940, Челябинская обл, г Куса, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://kusa.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0027",
+    "name": "Кыштымский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456871, Челябинская обл, г Кыштым, ул Калинина, д 195",
+    "legal_address": null,
+    "website": "http://kishtim.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0004",
+    "name": "Ленинский районный суд г. Челябинска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "454139, г Челябинск, ул Новороссийская, д 50",
+    "legal_address": null,
+    "website": "http://lench.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0005",
+    "name": "Металлургический районный суд г. Челябинска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "454038, г Челябинск, ул Пекинская, д 8",
+    "legal_address": null,
+    "website": "http://metal.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0001",
+    "name": "Советский районный суд г. Челябинска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "454092, г Челябинск, ул Елькина, д 76",
+    "legal_address": null,
+    "website": "http://sovetsky.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0003",
+    "name": "Тракторозаводский районный суд г. Челябинска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "454085, г Челябинск, ул Танкистов, д 179",
+    "legal_address": null,
+    "website": "http://trz.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0002",
+    "name": "Центральный районный суд г. Челябинска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "454091, г Челябинск, ул Коммуны, д 87",
+    "legal_address": null,
+    "website": "http://centr.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0029",
+    "name": "Ленинский районный суд г. Магнитогорска Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, пр-кт Карла Маркса, д 39",
+    "legal_address": null,
+    "website": "http://maglen.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0032",
+    "name": "Миасский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456300, Челябинская обл, г Миасс, ул Романенко, д 36",
+    "legal_address": null,
+    "website": "http://miass.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0035",
+    "name": "Октябрьский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457170, Челябинская обл, с Октябрьское, ул Комсомольская, д 14",
+    "legal_address": null,
+    "website": "http://oktyb.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0031",
+    "name": "Орджоникидзевский районный суд г. Магнитогорска Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "455019, Челябинская обл, г Магнитогорск, ул Маяковского, д 23",
+    "legal_address": null,
+    "website": "http://magord.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0036",
+    "name": "Пластский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457020, Челябинская обл, г Пласт, ул Октябрьская, д 47",
+    "legal_address": null,
+    "website": "http://plast.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0030",
+    "name": "Правобережный районный суд г. Магнитогорска Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "455038, Челябинская обл, г Магнитогорск, ул Советской Армии, д 10",
+    "legal_address": null,
+    "website": "http://magprav.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0037",
+    "name": "Саткинский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456912, Челябинская обл, г Сатка, ул 50 лет ВЛКСМ, д 4",
+    "legal_address": null,
+    "website": "http://satka.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0038",
+    "name": "Сосновский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456510, Челябинская обл, с Долгодеревенское, пер Школьный, д 7А",
+    "legal_address": null,
+    "website": "http://sosn.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0046",
+    "name": "Озерский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456784, Челябинская обл, г Озерск, пр-кт Ленина, д 41",
+    "legal_address": null,
+    "website": "http://ozersk.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0047",
+    "name": "Снежинский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456770, Челябинская обл, г Снежинск, ул Дзержинского, д 24",
+    "legal_address": null,
+    "website": "http://snez.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0048",
+    "name": "Трехгорный городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456080, Челябинская обл, г Трехгорный, ул Строителей, д 14",
+    "legal_address": null,
+    "website": "http://trexg.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0049",
+    "name": "Троицкий городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457103, Челябинская обл, г Троицк, ул им. Ю.А. Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://troickg.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0041",
+    "name": "Увельский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457000, Челябинская обл, п Увельский, ул 30 лет ВЛКСМ, д 12",
+    "legal_address": null,
+    "website": "http://uvel.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0040",
+    "name": "Уйский районный суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456470, Челябинская обл, с Уйское, ул Советская, д 17",
+    "legal_address": null,
+    "website": "http://uisk.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0042",
+    "name": "Усть-Катавский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456043, Челябинская обл, г Усть-Катав, ул Революционная, д 2",
+    "legal_address": null,
+    "website": "http://ukatav.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0043",
+    "name": "Чебаркульский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "456440, Челябинская обл, г Чебаркуль, ул 9 Мая, д 7",
+    "legal_address": null,
+    "website": "http://chebar.chel.sudrf.ru"
+  },
+  {
+    "code": "74RS0045",
+    "name": "Южноуральский городской суд Челябинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "457040, Челябинская обл, г Южноуральск, ул Спортивная, д 11Б",
+    "legal_address": null,
+    "website": "http://uurals.chel.sudrf.ru"
+  }
+]

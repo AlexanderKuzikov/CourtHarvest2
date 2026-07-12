@@ -1,0 +1,172 @@
+[
+  {
+    "code": "11RS0002",
+    "name": "Воркутинский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169900, Респ Коми, г Воркута, ул Яновского, д 4",
+    "legal_address": null,
+    "website": "http://vktsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0007",
+    "name": "Вуктыльский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169570, Респ Коми, г Вуктыл, ул Пионерская, д 16",
+    "legal_address": null,
+    "website": "http://vuktyl.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0013",
+    "name": "Ижемский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169460, Респ Коми, с Ижма, ул Советская, д 63",
+    "legal_address": null,
+    "website": "http://izmasud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0003",
+    "name": "Интинский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169840, Респ Коми, г Инта, ул Социалистическая, д 4А",
+    "legal_address": null,
+    "website": "http://intasud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0009",
+    "name": "Княжпогостский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169200, Респ Коми, г Емва, ул Дзержинского, д 136А",
+    "legal_address": null,
+    "website": "http://knsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0014",
+    "name": "Корткеросский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "168020, Респ Коми, с Корткерос, ул Советская, д 212",
+    "legal_address": null,
+    "website": "http://kortsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0004",
+    "name": "Печорский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169600, Респ Коми, г Печора, ул Спортивная, д 44",
+    "legal_address": null,
+    "website": "http://pechora.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0012",
+    "name": "Прилузский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "168130, Респ Коми, с Объячево, ул Мира, д 72",
+    "legal_address": null,
+    "website": "http://priluz.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0008",
+    "name": "Сосногорский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169501, Респ Коми, г Сосногорск, ул Октябрьская, д 13",
+    "legal_address": null,
+    "website": "http://sosnsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0016",
+    "name": "Сыктывдинский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "168220, Респ Коми, с Выльгорт, ул Домны Каликовой, д 47",
+    "legal_address": null,
+    "website": "http://skdsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0001",
+    "name": "Сыктывкарский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "167000, г Сыктывкар, ул Пушкина, стр 20",
+    "legal_address": null,
+    "website": "http://syktsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0017",
+    "name": "Сысольский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "168100, Респ Коми, с Визинга, ул Советская, д 33А",
+    "legal_address": null,
+    "website": "http://sysola.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0006",
+    "name": "Усинский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169710, Респ Коми, г Усинск, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://usinsksud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0020",
+    "name": "Усть-Вымский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169040, Респ Коми, с Айкино, ул Центральная, д 125",
+    "legal_address": null,
+    "website": "http://uwsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0018",
+    "name": "Усть-Куломский районный суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "168060, Респ Коми, Усть-Куломский р-н, с Усть-Кулом, ул Советская, д 59А",
+    "legal_address": null,
+    "website": "http://ukolomsud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0005",
+    "name": "Ухтинский городской суд Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "169300, Респ Коми, г Ухта, ул Бушуева, д 6",
+    "legal_address": null,
+    "website": "http://ukhtasud.komi.sudrf.ru"
+  },
+  {
+    "code": "11RS0010",
+    "name": "Эжвинский районный суд г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "167026, г Сыктывкар, ул Калинина, д 14",
+    "legal_address": null,
+    "website": "http://ejvasud.komi.sudrf.ru"
+  }
+]

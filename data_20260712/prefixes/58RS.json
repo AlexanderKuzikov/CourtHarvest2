@@ -1,0 +1,312 @@
+[
+  {
+    "code": "58RS0001",
+    "name": "Башмаковский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442060, Пензенская обл, рп Башмаково, ул Плеханова, зд 8",
+    "legal_address": null,
+    "website": "http://bashmakovsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0004",
+    "name": "Бековский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442940, Пензенская обл, рп Беково, ул Советская, зд 38А",
+    "legal_address": null,
+    "website": "http://bekovsky.pnz.sudrf.ru/"
+  },
+  {
+    "code": "58RS0003",
+    "name": "Белинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442250, Пензенская обл, г Белинский, ул Белинская, зд 27",
+    "legal_address": null,
+    "website": "http://belinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0005",
+    "name": "Бессоновский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442780, Пензенская обл, с Бессоновка, ул Коммунистическая, д 2И",
+    "legal_address": null,
+    "website": "http://bessonsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0006",
+    "name": "Вадинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442170, Пензенская обл, с Вадинск, ул Комсомольская, д 39",
+    "legal_address": null,
+    "website": "http://vadinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0007",
+    "name": "Городищенский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442310, Пензенская обл, г Городище, ул Комсомольская, д 42",
+    "legal_address": null,
+    "website": "http://gorodishensky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0008",
+    "name": "Железнодорожный районный суд г. Пензы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "440026, г Пенза, ул Белинского, стр 2",
+    "legal_address": null,
+    "website": "http://zheleznodorozhnii.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0009",
+    "name": "Зареченский городской суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442963, Пензенская обл, г Заречный, ул Зеленая, стр 12",
+    "legal_address": null,
+    "website": "http://zarechensky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0010",
+    "name": "Земетчинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442000, Пензенская обл, рп Земетчино, ул Кирова, д 71",
+    "legal_address": null,
+    "website": "http://zemetchinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0011",
+    "name": "Иссинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442710, Пензенская обл, рп Исса, ул Ленинская, д 21",
+    "legal_address": null,
+    "website": "http://issinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0012",
+    "name": "Каменский городской суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442240, Пензенская обл, г Каменка, ул Центральная, стр 8",
+    "legal_address": null,
+    "website": "http://kamensky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0014",
+    "name": "Колышлейский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442830, Пензенская обл, рп Колышлей, ул Советская, стр 46",
+    "legal_address": null,
+    "website": "http://kolishleisky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0017",
+    "name": "Кузнецкий районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442530, Пензенская обл, г Кузнецк, ул Рабочая, д 199",
+    "legal_address": null,
+    "website": "http://kuznetsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0018",
+    "name": "Ленинский районный суд г. Пензы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "440026, г Пенза, ул Володарского, д 36",
+    "legal_address": null,
+    "website": "http://leninsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0019",
+    "name": "Лопатинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442550, Пензенская обл, с Лопатино, пл Гагарина, стр 18",
+    "legal_address": null,
+    "website": "http://lopatinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0020",
+    "name": "Лунинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442730, Пензенская обл, рп Лунино, ул Пушкина, д 7",
+    "legal_address": null,
+    "website": "http://luninsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0021",
+    "name": "Малосердобинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442800, Пензенская обл, с Малая Сердоба, ул Советская, д 1",
+    "legal_address": null,
+    "website": "http://maloserdobinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0022",
+    "name": "Мокшанский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442370, Пензенская обл, рп Мокшан, ул Советская, зд 35",
+    "legal_address": null,
+    "website": "http://mokshansky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0023",
+    "name": "Наровчатский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442630, Пензенская обл, с Наровчат, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://narovchatsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0024",
+    "name": "Неверкинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442480, Пензенская обл, с Неверкино, ул Куйбышева, влд 16",
+    "legal_address": null,
+    "website": "http://neverkinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0002",
+    "name": "Спасский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442600, Пензенская обл, г Спасск, пл Советская, д 6",
+    "legal_address": null,
+    "website": "http://bednodemyanovsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0025",
+    "name": "Нижнеломовский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442153, Пензенская обл, г Нижний Ломов, ул Розы Люксембург, д 4",
+    "legal_address": null,
+    "website": "http://nizhnelomovsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0026",
+    "name": "Никольский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442680, Пензенская обл, г Никольск, ул Московская, д 11А",
+    "legal_address": null,
+    "website": "http://nikolsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0027",
+    "name": "Октябрьский районный суд г. Пензы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "440028, г Пенза, ул Леонова, д 31",
+    "legal_address": null,
+    "website": "http://oktyabrsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0029",
+    "name": "Пачелмский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442100, Пензенская обл, рп Пачелма, ул Кирова, д 32",
+    "legal_address": null,
+    "website": "http://pachelmsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0028",
+    "name": "Пензенский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "440056, г Пенза, ул Воронежская, стр 2Б",
+    "legal_address": null,
+    "website": "http://penzensky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0030",
+    "name": "Первомайский районный суд г. Пензы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "440008, г Пенза, ул Суворова, стр 217",
+    "legal_address": null,
+    "website": "http://pervomaisky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0031",
+    "name": "Сердобский городской суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442895, Пензенская обл, г Сердобск, ул Пензенская, зд 83",
+    "legal_address": null,
+    "website": "http://serdobinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0032",
+    "name": "Сосновоборский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442570, Пензенская обл, рп Сосновоборск, пер Ленинский, д 6А",
+    "legal_address": null,
+    "website": "http://sosnovoborsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0033",
+    "name": "Тамалинский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442900, Пензенская обл, рп Тамала, ул Советская, стр 18",
+    "legal_address": null,
+    "website": "http://tamalinsky.pnz.sudrf.ru"
+  },
+  {
+    "code": "58RS0034",
+    "name": "Шемышейский районный суд Пензенской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "442430, Пензенская обл, рп Шемышейка, ул Ленина, влд 25",
+    "legal_address": null,
+    "website": "http://shemisheisky.pnz.sudrf.ru"
+  }
+]

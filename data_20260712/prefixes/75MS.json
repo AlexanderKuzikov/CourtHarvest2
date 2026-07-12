@@ -1,0 +1,682 @@
+[
+  {
+    "code": "75MS0001",
+    "name": "Судебный участок № 1 Центрального судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672039, г Чита, ул Столярова, д 27А",
+    "legal_address": null,
+    "website": "http://1.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0002",
+    "name": "Судебный участок № 2 Центрального судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672020, г Чита, мкр 1-й, д 43А",
+    "legal_address": null,
+    "website": "http://2.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0003",
+    "name": "Судебный участок № 3 Центрального судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672039, г Чита, ул Столярова, д 27А",
+    "legal_address": null,
+    "website": "http://3.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0004",
+    "name": "Судебный участок № 4 Центрального судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672049, г Чита, мкр Северный, д 46",
+    "legal_address": null,
+    "website": "http://4.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0008",
+    "name": "Судебный участок № 5 Железнодорожного судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672020, г Чита, мкр 1-й, д 43А",
+    "legal_address": null,
+    "website": "http://5.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0009",
+    "name": "Судебный участок № 6 Железнодорожного судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672020, г Чита, мкр 1-й, д 43А",
+    "legal_address": null,
+    "website": "http://6.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0011",
+    "name": "Судебный участок № 7 Ингодинского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672039, г Чита, ул Забайкальского Рабочего, д 36",
+    "legal_address": null,
+    "website": "http://7.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0012",
+    "name": "Судебный участок № 8 Ингодинского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672039, г Чита, ул Забайкальского Рабочего, д 36",
+    "legal_address": null,
+    "website": "http://8.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0013",
+    "name": "Судебный участок № 9 Ингодинского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672039, г Чита, ул Забайкальского Рабочего, д 36",
+    "legal_address": null,
+    "website": "http://9.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0015",
+    "name": "Судебный участок № 10 Черновского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672030, г Чита, пр-кт Фадеева, д 2",
+    "legal_address": null,
+    "website": "http://10.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0016",
+    "name": "Судебный участок № 11 Черновского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672030, г Чита, пр-кт Фадеева, д 2",
+    "legal_address": null,
+    "website": "http://11.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0017",
+    "name": "Судебный участок № 12 Черновского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672030, г Чита, пр-кт Фадеева, д 2",
+    "legal_address": null,
+    "website": "http://12.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0019",
+    "name": "Судебный участок № 13 Каларского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674159, Забайкальский край, Каларский р-н, пгт Новая Чара, ул Магистральная, д 16, кв 24",
+    "legal_address": null,
+    "website": "http://13.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0005",
+    "name": "Судебный участок № 14 Центрального судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672049, г Чита, мкр Северный, д 46",
+    "legal_address": null,
+    "website": "http://14.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0020",
+    "name": "Судебный участок № 15 Могочинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673732, Забайкальский край, г Могоча, ул Высотная, зд 1",
+    "legal_address": null,
+    "website": "http://15.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0021",
+    "name": "Судебный участок № 16 Могочинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673732, Забайкальский край, г Могоча, ул Высотная, зд 1",
+    "legal_address": null,
+    "website": "http://16.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0022",
+    "name": "Судебный участок № 17 Чернышевского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673460, Забайкальский край, пгт Чернышевск, ул Центральная, д 6",
+    "legal_address": null,
+    "website": "http://17.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0023",
+    "name": "Судебный участок № 18 Чернышевского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673460, Забайкальский край, пгт Чернышевск, ул Центральная, д 6",
+    "legal_address": null,
+    "website": "http://18.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0006",
+    "name": "Судебный участок № 19 Центрального судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672039, г Чита, ул Столярова, д 27А",
+    "legal_address": null,
+    "website": "http://19.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0014",
+    "name": "Судебный участок № 20 Ингодинского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672039, г Чита, ул Забайкальского Рабочего, д 36",
+    "legal_address": null,
+    "website": "http://20.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0007",
+    "name": "Судебный участок № 54 Центрального судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672020, г Чита, мкр 1-й, д 43А",
+    "legal_address": null,
+    "website": "http://54.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0018",
+    "name": "Судебный участок № 25 Черновского судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672030, г Чита, пр-кт Фадеева, д 2",
+    "legal_address": null,
+    "website": "http://25.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0010",
+    "name": "Судебный участок № 55 Железнодорожного судебного района г. Читы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672020, г Чита, мкр 1-й, д 43А",
+    "legal_address": null,
+    "website": "http://55.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0024",
+    "name": "Судебный участок № 21 Нерчинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673400, Забайкальский край, г Нерчинск, ул Шилова, д 18",
+    "legal_address": null,
+    "website": "http://21.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0025",
+    "name": "Судебный участок № 22 Нерчинско-Заводского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674370, Забайкальский край, с Нерчинский Завод, ул Нагорная, зд 4Г",
+    "legal_address": null,
+    "website": "http://22.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0026",
+    "name": "Судебный участок № 23 Калганского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674340, Забайкальский край, с Калга, ул Балябина, д 24",
+    "legal_address": null,
+    "website": "http://23.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0027",
+    "name": "Судебный участок № 24 Александрово-Заводского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674640, Забайкальский край, с Александровский Завод, ул Чернышевского, стр 34А",
+    "legal_address": null,
+    "website": "http://24.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0028",
+    "name": "Судебный участок № 26 Сретенского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673500, Забайкальский край, г Сретенск, мкр Восточный, д 18, кв 51",
+    "legal_address": null,
+    "website": "http://26.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0029",
+    "name": "Судебный участок № 27 Шилкинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673370, Забайкальский край, г Шилка, ул Ленина, зд 86",
+    "legal_address": null,
+    "website": "http://27.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0030",
+    "name": "Судебный участок № 28 Шилкинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673390, Забайкальский край, Шилкинский р-н, пгт Первомайский, ул Забайкальская, д 12",
+    "legal_address": null,
+    "website": "http://28.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0031",
+    "name": "Судебный участок № 29 Карымского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673300, Забайкальский край, пгт Карымское, ул Шемелина, д 1",
+    "legal_address": null,
+    "website": "http://29.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0032",
+    "name": "Судебный участок № 30 Карымского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673310, Забайкальский край, Карымский р-н, пгт Дарасун, ул Калинина, д 14",
+    "legal_address": null,
+    "website": "http://30.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0033",
+    "name": "Судебный участок № 31 Тунгокоченского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674100, Забайкальский край, с Верх-Усугли, ул Советская, д 1А",
+    "legal_address": null,
+    "website": "http://31.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0034",
+    "name": "Судебный участок № 32 Читинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672027, г Чита, ул Горького, д 40",
+    "legal_address": null,
+    "website": "http://32.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0035",
+    "name": "Судебный участок № 33 Читинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672027, г Чита, ул Горького, д 40",
+    "legal_address": null,
+    "website": "http://33.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0036",
+    "name": "Судебный участок № 34 Читинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "672027, г Чита, ул Горького, д 40",
+    "legal_address": null,
+    "website": "http://34.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0037",
+    "name": "Судебный участок № 35 Улётовского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674050, Забайкальский край, с Улёты, ул Кирова, зд 86",
+    "legal_address": null,
+    "website": "http://35.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0038",
+    "name": "Судебный участок № 36 Борзинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674600, Забайкальский край, г Борзя, ул Богдана Хмельницкого, д 4",
+    "legal_address": null,
+    "website": "http://36.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0039",
+    "name": "Судебный участок № 37 Борзинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674600, Забайкальский край, г Борзя, ул Богдана Хмельницкого, д 4",
+    "legal_address": null,
+    "website": "http://37.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0040",
+    "name": "Судебный участок № 38 Борзинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674600, Забайкальский край, г Борзя, ул Богдана Хмельницкого, д 4",
+    "legal_address": null,
+    "website": "http://38.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0041",
+    "name": "Судебный участок № 39 Забайкальского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674650, Забайкальский край, пгт Забайкальск, ул Комсомольская, д 19",
+    "legal_address": null,
+    "website": "http://39.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0042",
+    "name": "Судебный участок № 40 Краснокаменского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674674, Забайкальский край, г Краснокаменск, мкр 5-й, д 507",
+    "legal_address": null,
+    "website": "http://40.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0043",
+    "name": "Судебный участок № 41 Краснокаменского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674674, Забайкальский край, г Краснокаменск, мкр 5-й, д 507",
+    "legal_address": null,
+    "website": "http://41.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0044",
+    "name": "Судебный участок № 42 Краснокаменского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674674, Забайкальский край, г Краснокаменск, мкр 5-й, д 507",
+    "legal_address": null,
+    "website": "http://42.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0045",
+    "name": "Судебный участок № 43 Приаргунского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674310, Забайкальский край, пгт Приаргунск, ул Октябрьская, зд 10А",
+    "legal_address": null,
+    "website": "http://43.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0046",
+    "name": "Судебный участок № 44 Хилокского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673200, Забайкальский край, г Хилок, ул Ленина, д 23А",
+    "legal_address": null,
+    "website": "http://44.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0047",
+    "name": "Судебный участок № 45 Хилокского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673200, Забайкальский край, г Хилок, ул Ленина, д 23А",
+    "legal_address": null,
+    "website": "http://45.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0048",
+    "name": "Судебный участок № 46 Петровск-Забайкальского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673005, Забайкальский край, г Петровск-Забайкальский, мкр 1-й, д 10",
+    "legal_address": null,
+    "website": "http://46.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0049",
+    "name": "Судебный участок № 47 Петровск-Забайкальского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673005, Забайкальский край, г Петровск-Забайкальский, мкр 1-й, д 10",
+    "legal_address": null,
+    "website": "http://47.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0050",
+    "name": "Судебный участок № 48 Красночикойского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673060, Забайкальский край, с Красный Чикой, ул Первомайская, д 89",
+    "legal_address": null,
+    "website": "http://48.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0051",
+    "name": "Судебный участок № 49 Оловяннинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674520, Забайкальский край, Оловяннинский р-н, пгт Ясногорск, ул Строителей, д 8",
+    "legal_address": null,
+    "website": "http://49.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0052",
+    "name": "Судебный участок № 50 Оловяннинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674520, Забайкальский край, Оловяннинский р-н, пгт Ясногорск, ул Строителей, д 8",
+    "legal_address": null,
+    "website": "http://50.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0053",
+    "name": "Судебный участок № 51 Кыринского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674250, Забайкальский край, с Кыра, ул Черкасова, зд 12",
+    "legal_address": null,
+    "website": "http://51.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0054",
+    "name": "Судебный участок № 52 Акшинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674230, Забайкальский край, с Акша, ул Октябрьская, д 3 стр 1, помещ 4",
+    "legal_address": null,
+    "website": "http://52.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0055",
+    "name": "Судебный участок № 53 Ононского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674480, Забайкальский край, с Нижний Цасучей, ул Октябрьская, д 11",
+    "legal_address": null,
+    "website": "http://53.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0056",
+    "name": "Судебный участок № 56 Нерчинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673400, Забайкальский край, г Нерчинск, ул Шилова, д 18",
+    "legal_address": null,
+    "website": "http://56.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0057",
+    "name": "Судебный участок № 57 Сретнского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673530, Забайкальский край, Сретенский р-н, пгт Кокуй, ул Заводская, д 9А",
+    "legal_address": null,
+    "website": "http://57.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0058",
+    "name": "Судебный участок № 58 Улётовского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674050, Забайкальский край, с Улёты, ул Кирова, зд 86",
+    "legal_address": null,
+    "website": "http://58.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0059",
+    "name": "Судебный участок № 59 Приаргунского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "674310, Забайкальский край, пгт Приаргунск, ул Октябрьская, зд 10А",
+    "legal_address": null,
+    "website": "http://59.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0060",
+    "name": "Судебный участок № 60 Балейского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673450, Забайкальский край, г Балей, ул Советская, д 24",
+    "legal_address": null,
+    "website": "http://60.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0061",
+    "name": "Судебный участок № 61 Газимуро-Заводского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673630, Забайкальский край, с Газимурский Завод, ул Журавлева, зд 19",
+    "legal_address": null,
+    "website": "http://61.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0062",
+    "name": "Судебный участок № 62 Могочинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673820, Забайкальский край, с Тупик, ул Молодежная, д 9",
+    "legal_address": null,
+    "website": "http://62.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0063",
+    "name": "Судебный участок № 63 Шелопугинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "673610, Забайкальский край, с Шелопугино, ул Лазо, д 4",
+    "legal_address": null,
+    "website": "http://63.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0064",
+    "name": "Судебный участок № 64 Агинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "687000, Забайкальский край, Агинский р-н, пгт Агинское, ул Базара Ринчино, д 75",
+    "legal_address": null,
+    "website": "http://64.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0065",
+    "name": "Судебный участок № 65 Агинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "687000, Забайкальский край, Агинский р-н, пгт Агинское, ул Базара Ринчино, д 75",
+    "legal_address": null,
+    "website": "http://65.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0066",
+    "name": "Судебный участок № 66 Могойтуйского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "687420, Забайкальский край, пгт Могойтуй, ул Зугалайская, д 7",
+    "legal_address": null,
+    "website": "http://66.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0067",
+    "name": "Судебный участок № 67 Могойтуйского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "687420, Забайкальский край, пгт Могойтуй, ул Зугалайская, д 7",
+    "legal_address": null,
+    "website": "http://67.zbk.msudrf.ru"
+  },
+  {
+    "code": "75MS0068",
+    "name": "Судебный участок № 68 Дульдургинского судебного района Забайкальского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "687200, Забайкальский край, с Дульдурга, ул 50 лет Октября, зд 68А",
+    "legal_address": null,
+    "website": "http://68.zbk.msudrf.ru"
+  }
+]

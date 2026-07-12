@@ -1,0 +1,1382 @@
+[
+  {
+    "code": "54MS0076",
+    "name": "Судебный участок № 1 Болотнинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633340, Новосибирская обл, г Болотное, ул Коммунистическая, д 6",
+    "legal_address": null,
+    "website": "http://1bol.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0078",
+    "name": "Судебный участок № 1 Венгеровского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632241, Новосибирская обл, Венгеровский р-н, с Венгерово, ул Краснопартизанская, зд 64",
+    "legal_address": null,
+    "website": "http://ven.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0072",
+    "name": "Судебный участок № 1 г. Бердска Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633003, Новосибирская обл, г Бердск, ул Боровая, д 4/7",
+    "legal_address": null,
+    "website": "http://1brd.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0001",
+    "name": "Судебный участок № 1 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, ул Гоголя, д 233/1",
+    "legal_address": null,
+    "website": "http://1dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0079",
+    "name": "Судебный участок № 1 Доволенского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632450, Новосибирская обл, Доволенский р-н, с Довольное, ул Ленина, д 77",
+    "legal_address": null,
+    "website": "http://dvl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0008",
+    "name": "Судебный участок № 1 Железнодорожного судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630132, г Новосибирск, ул 1905 года, д 87",
+    "legal_address": null,
+    "website": "http://1zhl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0012",
+    "name": "Судебный участок № 1 Заельцовского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://1zlv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0081",
+    "name": "Судебный участок № 1 Искитимского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633204, Новосибирская обл, г Искитим, пр-кт Юбилейный, д 1Б",
+    "legal_address": null,
+    "website": "http://1isk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0018",
+    "name": "Судебный участок № 1 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://1kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0087",
+    "name": "Судебный участок № 1 Карасукского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632868, Новосибирская обл, г Карасук, ул Октябрьская, д 75",
+    "legal_address": null,
+    "website": "http://1kar.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0026",
+    "name": "Судебный участок № 1 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г Новосибирск, ул Петухова, д 57, офис 5-7",
+    "legal_address": null,
+    "website": "http://1kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0091",
+    "name": "Судебный участок № 1 Колыванского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633162, Новосибирская обл, рп Колывань, ул Московская, д 39",
+    "legal_address": null,
+    "website": "http://1klv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0093",
+    "name": "Судебный участок № 1 Коченевского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632640, Новосибирская обл, рп Коченево, ул Николая Бровина, д 8",
+    "legal_address": null,
+    "website": "http://1kch.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0096",
+    "name": "Судебный участок № 1 Краснозерского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632901, Новосибирская обл, рп Краснозерское, ул Советская, зд 68",
+    "legal_address": null,
+    "website": "http://1krz.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0098",
+    "name": "Судебный участок № 1 Куйбышевского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632382, Новосибирская обл, Куйбышевский р-н, г Куйбышев, кв-л 15-й, зд 3/1",
+    "legal_address": null,
+    "website": "http://1kbv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0034",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4",
+    "legal_address": null,
+    "website": "http://1len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0046",
+    "name": "Судебный участок № 1 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://1okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0054",
+    "name": "Судебный участок № 1 Первомайского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630037, г Новосибирск, ул Эйхе, д 17",
+    "legal_address": null,
+    "website": "http://1prv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0058",
+    "name": "Судебный участок № 1 Советского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630055, г Новосибирск, ул Мусы Джалиля, д 3/1, офис 403",
+    "legal_address": null,
+    "website": "http://1sov.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0064",
+    "name": "Судебный участок № 1 Центрального судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://1cnt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0002",
+    "name": "Судебный участок № 2 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, пр-кт Дзержинского, д 20",
+    "legal_address": null,
+    "website": "http://2dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0009",
+    "name": "Судебный участок № 2 Железнодорожного судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630132, г Новосибирск, ул 1905 года, д 87",
+    "legal_address": null,
+    "website": "http://2zhl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0003",
+    "name": "Судебный участок № 3 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, пр-кт Дзержинского, д 20",
+    "legal_address": null,
+    "website": "http://3dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0004",
+    "name": "Судебный участок № 4 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, ул Промышленная, д 1",
+    "legal_address": null,
+    "website": "http://4dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0005",
+    "name": "Судебный участок № 5 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, ул Промышленная, д 1",
+    "legal_address": null,
+    "website": "http://5dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0006",
+    "name": "Судебный участок № 6 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, пр-кт Дзержинского, д 20",
+    "legal_address": null,
+    "website": "http://6dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0007",
+    "name": "Судебный участок № 7 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, ул Гоголя, д 233/1",
+    "legal_address": null,
+    "website": "http://7dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0013",
+    "name": "Судебный участок № 2 Заельцовского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://2zlv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0019",
+    "name": "Судебный участок № 2 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://2kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0010",
+    "name": "Судебный участок № 3 Железнодорожного судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630003, г Новосибирск, спуск Владимировский, д 11",
+    "legal_address": null,
+    "website": "http://3zhl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0014",
+    "name": "Судебный участок № 3 Заельцовского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://3zlv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0011",
+    "name": "Судебный участок № 4 Железнодорожного судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630003, г Новосибирск, спуск Владимировский, д 11",
+    "legal_address": null,
+    "website": "http://4zhl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0015",
+    "name": "Судебный участок № 4 Заельцовского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://4zlv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0016",
+    "name": "Судебный участок № 5 Заельцовского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://5zlv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0017",
+    "name": "Судебный участок № 6 Заельцовского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://6zlv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0027",
+    "name": "Судебный участок № 2 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г Новосибирск, ул Сибиряков-Гвардейцев, д 56",
+    "legal_address": null,
+    "website": "http://2kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0020",
+    "name": "Судебный участок № 3 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://3kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0028",
+    "name": "Судебный участок № 3 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г Новосибирск, ул Петухова, д 57, офис 12/14",
+    "legal_address": null,
+    "website": "http://3kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0021",
+    "name": "Судебный участок № 4 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://4kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0029",
+    "name": "Судебный участок № 4 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г. Новосибирск, ул. Петухова, д. 57, 5 этаж, каб. 12, 14",
+    "legal_address": null,
+    "website": "http://4kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0022",
+    "name": "Судебный участок № 5 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://5kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0023",
+    "name": "Судебный участок № 6 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://6kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0024",
+    "name": "Судебный участок № 7 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://7kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0025",
+    "name": "Судебный участок № 8 Калининского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630049, г Новосибирск, ул Весенняя, д 12А",
+    "legal_address": null,
+    "website": "http://8kln.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0035",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 3",
+    "legal_address": null,
+    "website": "http://2len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0036",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4",
+    "legal_address": null,
+    "website": "http://3len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0037",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4",
+    "legal_address": null,
+    "website": "http://4len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0030",
+    "name": "Судебный участок № 5 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г Новосибирск, ул Петухова, д 57, офис 3",
+    "legal_address": null,
+    "website": "http://5kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0038",
+    "name": "Судебный участок № 5 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4",
+    "legal_address": null,
+    "website": "http://5len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0031",
+    "name": "Судебный участок № 6 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г Новосибирск, ул Сибиряков-Гвардейцев, д 56",
+    "legal_address": null,
+    "website": "http://6kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0039",
+    "name": "Судебный участок № 6 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 11",
+    "legal_address": null,
+    "website": "http://6len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0032",
+    "name": "Судебный участок № 7 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г Новосибирск, ул Сибиряков-Гвардейцев, д 56",
+    "legal_address": null,
+    "website": "http://7kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0033",
+    "name": "Судебный участок № 8 Кировского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630088, г Новосибирск, ул Сибиряков-Гвардейцев, д 56",
+    "legal_address": null,
+    "website": "http://8kir.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0047",
+    "name": "Судебный участок № 2 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://2okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0048",
+    "name": "Судебный участок № 3 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://3okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0049",
+    "name": "Судебный участок № 4 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://4okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0040",
+    "name": "Судебный участок № 7 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 12",
+    "legal_address": null,
+    "website": "http://7len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0041",
+    "name": "Судебный участок № 8 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 13",
+    "legal_address": null,
+    "website": "http://8len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0042",
+    "name": "Судебный участок № 9 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 17",
+    "legal_address": null,
+    "website": "http://9len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0043",
+    "name": "Судебный участок № 10 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4",
+    "legal_address": null,
+    "website": "http://10len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0044",
+    "name": "Судебный участок № 11 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 21",
+    "legal_address": null,
+    "website": "http://11len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0045",
+    "name": "Судебный участок № 12 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 22",
+    "legal_address": null,
+    "website": "http://12len.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0055",
+    "name": "Судебный участок № 2 Первомайского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630037, г Новосибирск, ул Эйхе, д 17",
+    "legal_address": null,
+    "website": "http://2prv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0059",
+    "name": "Судебный участок № 2 Советского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630055, г Новосибирск, ул Мусы Джалиля, д 3/1, офис 410",
+    "legal_address": null,
+    "website": "http://2sov.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0056",
+    "name": "Судебный участок № 3 Первомайского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630037, г Новосибирск, ул Эйхе, д 17",
+    "legal_address": null,
+    "website": "http://3prv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0057",
+    "name": "Судебный участок № 4 Первомайского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630037, г Новосибирск, ул Эйхе, д 17",
+    "legal_address": null,
+    "website": "http://4prv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0050",
+    "name": "Судебный участок № 5 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://5okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0051",
+    "name": "Судебный участок № 6 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://6okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0052",
+    "name": "Судебный участок № 7 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://7okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0053",
+    "name": "Судебный участок № 8 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://8okt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0065",
+    "name": "Судебный участок № 2 Центрального судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://2cnt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0060",
+    "name": "Судебный участок № 3 Советского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630055, г Новосибирск, ул Мусы Джалиля, д 3/1",
+    "legal_address": null,
+    "website": "http://3sov.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0066",
+    "name": "Судебный участок № 3 Центрального судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://3cnt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0068",
+    "name": "Судебный участок № 4 Карасукского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632770, Новосибирская обл, с Баган, ул М.Горького, д 38",
+    "legal_address": null,
+    "website": "http://bag.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0061",
+    "name": "Судебный участок № 4 Советского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630055, г Новосибирск, ул Мусы Джалиля, д 3/1, офис 403",
+    "legal_address": null,
+    "website": "http://4sov.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0067",
+    "name": "Судебный участок № 4 Центрального судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://4cnt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0062",
+    "name": "Судебный участок № 5 Советского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630055, г Новосибирск, ул Мусы Джалиля, д 3/1",
+    "legal_address": null,
+    "website": "http://5sov.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0063",
+    "name": "Судебный участок № 6 Советского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630055, г Новосибирск, ул Мусы Джалиля, д 3/1, офис 411",
+    "legal_address": null,
+    "website": "http://6sov.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0070",
+    "name": "Судебный участок № 2 Барабинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632336, Новосибирская обл, Барабинский р-н, г Барабинск, ул Кирова, д 26",
+    "legal_address": null,
+    "website": "http://2bar.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0077",
+    "name": "Судебный участок № 2 Болотнинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633340, Новосибирская обл, г Болотное, ул Коммунистическая, д 6",
+    "legal_address": null,
+    "website": "http://2bol.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0073",
+    "name": "Судебный участок № 2 г. Бердска Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633003, Новосибирская обл, г Бердск, ул Боровая, д 4/7",
+    "legal_address": null,
+    "website": "http://2brd.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0071",
+    "name": "Судебный участок № 3 Барабинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632336, Новосибирская обл, Барабинский р-н, г Барабинск, ул Кирова, д 26",
+    "legal_address": null,
+    "website": "http://3bar.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0074",
+    "name": "Судебный участок № 3 г. Бердска Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633003, Новосибирская обл, г Бердск, ул Боровая, д 4/7",
+    "legal_address": null,
+    "website": "http://3brd.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0075",
+    "name": "Судебный участок № 4 г. Бердска Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633003, Новосибирская обл, г Бердск, ул Боровая, д 4/7",
+    "legal_address": null,
+    "website": "http://4brd.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0080",
+    "name": "Судебный участок № 2 Доволенского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632951, Новосибирская обл, с Здвинск, ул Здвинского, д 38",
+    "legal_address": null,
+    "website": "http://zdv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0082",
+    "name": "Судебный участок № 2 Искитимского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633204, Новосибирская обл, г Искитим, пр-кт Юбилейный, д 1Б",
+    "legal_address": null,
+    "website": "http://2isk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0088",
+    "name": "Судебный участок № 2 Карасукского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632868, Новосибирская обл, г Карасук, ул Октябрьская, д 75",
+    "legal_address": null,
+    "website": "http://2kar.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0083",
+    "name": "Судебный участок № 3 Искитимского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633204, Новосибирская обл, г Искитим, пр-кт Юбилейный, д 1Б",
+    "legal_address": null,
+    "website": "http://3isk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0089",
+    "name": "Судебный участок № 3 Карасукского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632868, Новосибирская обл, г Карасук, ул Октябрьская, д 75",
+    "legal_address": null,
+    "website": "http://3kar.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0084",
+    "name": "Судебный участок № 4 Искитимского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633204, Новосибирская обл, г Искитим, пр-кт Юбилейный, д 1Б",
+    "legal_address": null,
+    "website": "http://4isk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0085",
+    "name": "Судебный участок № 5 Искитимского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633204, Новосибирская обл, г Искитим, пр-кт Юбилейный, д 1Б",
+    "legal_address": null,
+    "website": "http://5isk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0086",
+    "name": "Судебный участок № 6 Искитимского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633204, Новосибирская обл, г Искитим, пр-кт Юбилейный, д 1Б",
+    "legal_address": null,
+    "website": "http://6isk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0092",
+    "name": "Судебный участок № 2 Колыванского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633162, Новосибирская обл, рп Колывань, ул Московская, д 39",
+    "legal_address": null,
+    "website": "http://2klv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0094",
+    "name": "Судебный участок № 2 Коченевского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632640, Новосибирская обл, рп Коченево, ул Николая Бровина, д 8",
+    "legal_address": null,
+    "website": "http://2kch.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0097",
+    "name": "Судебный участок № 2 Краснозерского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632901, Новосибирская обл, рп Краснозерское, ул Советская, зд 68",
+    "legal_address": null,
+    "website": "http://2krz.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0099",
+    "name": "Судебный участок № 2 Куйбышевского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632382, Новосибирская обл, Куйбышевский р-н, г Куйбышев, кв-л 15-й, зд 3/1",
+    "legal_address": null,
+    "website": "http://2kbv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0095",
+    "name": "Судебный участок № 3 Ордынского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632491, Новосибирская обл, с Кочки, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://kcv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0090",
+    "name": "Судебный участок № 3 Чулымского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632402, Новосибирская обл, г Каргат, ул Максима Горького, д 38",
+    "legal_address": null,
+    "website": "http://krg.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0126",
+    "name": "Судебный участок № 1 Барабинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632520, Новосибирская обл, с Убинское, ул Железнодорожная, д 1",
+    "legal_address": null,
+    "website": "http://ubn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0113",
+    "name": "Судебный участок № 1 г. Оби Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633102, Новосибирская обл, г Обь, ул Геодезическая, д 66А",
+    "legal_address": null,
+    "website": "http://1ob.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0101",
+    "name": "Судебный участок № 1 Купинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632733, Новосибирская обл, г Купино, ул Карла Маркса, д 8А",
+    "legal_address": null,
+    "website": "http://1kpn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0106",
+    "name": "Судебный участок № 1 Мошковского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633131, Новосибирская обл, рп Мошково, ул Советская, д 7Б",
+    "legal_address": null,
+    "website": "http://1mkv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0108",
+    "name": "Судебный участок № 1 Новосибирского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630501, Новосибирская обл, Новосибирский р-н, рп Краснообск, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://1nsk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0115",
+    "name": "Судебный участок № 1 Ордынского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633261, Новосибирская обл, рп Ордынское, пр-кт Революции, д 21",
+    "legal_address": null,
+    "website": "http://1ord.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0118",
+    "name": "Судебный участок № 1 Сузунского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633621, Новосибирская обл, рп Сузун, ул Остальцова, д 25",
+    "legal_address": null,
+    "website": "http://1szn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0120",
+    "name": "Судебный участок № 1 Татарского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632122, Новосибирская обл, Татарский р-н, г Татарск, ул Василевского, зд 3",
+    "legal_address": null,
+    "website": "http://1tat.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0122",
+    "name": "Судебный участок № 1 Тогучинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633456, Новосибирская обл, г Тогучин, ул Садовая, д 9Б",
+    "legal_address": null,
+    "website": "http://1tgn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0128",
+    "name": "Судебный участок № 1 Чановского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632201, Новосибирская обл, рп Чаны, ул Братьев Желтиковых, д 178",
+    "legal_address": null,
+    "website": "http://1chn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0130",
+    "name": "Судебный участок № 1 Черепановского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633520, Новосибирская обл, г Черепаново, ул Пролетарская, зд 101/1",
+    "legal_address": null,
+    "website": "http://1chr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0134",
+    "name": "Судебный участок № 1 Чулымского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632551, Новосибирская обл, г Чулым, ул Чулымская, д 45",
+    "legal_address": null,
+    "website": "http://1chl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0103",
+    "name": "Судебный участок № 2 Венгеровского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632270, Новосибирская обл, с Кыштовка, ул Кооперативная, д 25",
+    "legal_address": null,
+    "website": "http://ktv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0114",
+    "name": "Судебный участок № 2 г. Оби Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633102, Новосибирская обл, г Обь, ул Геодезическая, д 66А",
+    "legal_address": null,
+    "website": "http://2ob.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0102",
+    "name": "Судебный участок № 2 Купинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632733, Новосибирская обл, г Купино, ул Карла Маркса, д 8А",
+    "legal_address": null,
+    "website": "http://2kpn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0107",
+    "name": "Судебный участок № 2 Мошковского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633131, Новосибирская обл, рп Мошково, ул Советская, д 7Б",
+    "legal_address": null,
+    "website": "http://2mkv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0109",
+    "name": "Судебный участок № 2 Новосибирского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630501, Новосибирская обл, Новосибирский р-н, рп Краснообск, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://2nsk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0116",
+    "name": "Судебный участок № 2 Ордынского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633261, Новосибирская обл, рп Ордынское, пр-кт Революции, д 21",
+    "legal_address": null,
+    "website": "http://2ord.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0119",
+    "name": "Судебный участок № 2 Сузунского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633621, Новосибирская обл, рп Сузун, ул Остальцова, д 25",
+    "legal_address": null,
+    "website": "http://2szn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0121",
+    "name": "Судебный участок № 2 Татарского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632122, Новосибирская обл, Татарский р-н, г Татарск, ул Василевского, зд 3",
+    "legal_address": null,
+    "website": "http://2tat.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0100",
+    "name": "Судебный участок № 3 Куйбышевского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632382, Новосибирская обл, Куйбышевский р-н, г Куйбышев, кв-л 15-й, зд 3/1",
+    "legal_address": null,
+    "website": "http://3kbv.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0105",
+    "name": "Судебный участок № 4 Черепановского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633564, Новосибирская обл, рп Маслянино, ул Партизанская, д 1",
+    "legal_address": null,
+    "website": "http://2msl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0110",
+    "name": "Судебный участок № 3 Новосибирского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630501, Новосибирская обл, Новосибирский р-н, рп Краснообск, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://3nsk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0117",
+    "name": "Судебный участок № 4 Куйбышевского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632080, Новосибирская обл, с Северное, пер Ленина, д 3",
+    "legal_address": null,
+    "website": "http://sev.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0111",
+    "name": "Судебный участок № 4 Новосибирского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630501, Новосибирская обл, Новосибирский р-н, рп Краснообск, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://4nsk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0112",
+    "name": "Судебный участок № 5 Новосибирского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630501, Новосибирская обл, Новосибирский р-н, рп Краснообск, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://5nsk.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0123",
+    "name": "Судебный участок № 2 Тогучинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633456, Новосибирская обл, г Тогучин, ул Садовая, д 9Б",
+    "legal_address": null,
+    "website": "http://2tgn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0129",
+    "name": "Судебный участок № 2 Чановского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632201, Новосибирская обл, рп Чаны, ул Братьев Желтиковых, д 178",
+    "legal_address": null,
+    "website": "http://2chn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0127",
+    "name": "Судебный участок № 3 Татарского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632160, Новосибирская обл, Усть-Таркский р-н, с Усть-Тарка, ул Дзержинского, д 18",
+    "legal_address": null,
+    "website": "http://ust.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0124",
+    "name": "Судебный участок № 3 Тогучинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633456, Новосибирская обл, г Тогучин, ул Садовая, д 9Б",
+    "legal_address": null,
+    "website": "http://3tgn.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0131",
+    "name": "Судебный участок № 2 Черепановского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633520, Новосибирская обл, г Черепаново, ул Пролетарская, зд 101/1",
+    "legal_address": null,
+    "website": "http://2chr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0135",
+    "name": "Судебный участок № 2 Чулымского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632551, Новосибирская обл, г Чулым, ул Чулымская, д 45",
+    "legal_address": null,
+    "website": "http://2chl.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0133",
+    "name": "Судебный участок № 3 Купинского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "632720, Новосибирская обл, рп Чистоозерное, ул Чапаева, д 50",
+    "legal_address": null,
+    "website": "http://ctz.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0132",
+    "name": "Судебный участок № 3 Черепановского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633520, Новосибирская обл, г Черепаново, ул Пролетарская, зд 101/1",
+    "legal_address": null,
+    "website": "http://3chr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0137",
+    "name": "Судебный участок № 5 г. Бердска Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "633003, Новосибирская обл, г Бердск, ул Боровая, д 4/7",
+    "legal_address": null,
+    "website": "http://5brd.nsk.msudrf.ru/"
+  },
+  {
+    "code": "54MS0136",
+    "name": "Судебный участок № 5 Центрального судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://5cnt.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0138",
+    "name": "Судебный участок № 6 Новосибирского судебного района Новосибирской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630501, Новосибирская обл, Новосибирский р-н, рп Краснообск, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://6nsk.nsk.msudrf.ru/"
+  },
+  {
+    "code": "54MS0139",
+    "name": "Судебный участок № 8 Дзержинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630015, г Новосибирск, пр-кт Дзержинского, д 20",
+    "legal_address": null,
+    "website": "http://8dzr.nsk.msudrf.ru"
+  },
+  {
+    "code": "54MS0141",
+    "name": "Судебный участок № 9 Октябрьского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630091, г Новосибирск, ул Каменская, д 66",
+    "legal_address": null,
+    "website": "http://9okt.nsk.msudrf.ru/"
+  },
+  {
+    "code": "54MS0140",
+    "name": "Судебный участок № 13 Ленинского судебного района г. Новосибирска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "630096, г Новосибирск, ул Забалуева, д 4, офис 14",
+    "legal_address": null,
+    "website": "http://13len.nsk.msudrf.ru/"
+  }
+]

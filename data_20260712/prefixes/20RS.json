@@ -1,0 +1,152 @@
+[
+  {
+    "code": "20RS0005",
+    "name": "Ахматовский районный суд г. Грозного Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "364068, г Грозный, р-н Путинский, пр-кт Культуры, д 8",
+    "legal_address": null,
+    "website": "http://ahmatovskij.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0013",
+    "name": "Ачхой-Мартановский районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366612, Респ Чеченская, г Ачхой-Мартан, ул Х.Нурадилова, д 117",
+    "legal_address": null,
+    "website": "http://achhoy-martanovsky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0002",
+    "name": "Байсангуровский районный суд г. Грозного Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул имени Хусейна Исаева, д 75",
+    "legal_address": null,
+    "website": "http://bajsangurovskij.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0011",
+    "name": "Веденский районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366337, Респ Чеченская, с Ведено, ул Орджоникидзе, д 2",
+    "legal_address": null,
+    "website": "http://vedensky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0001",
+    "name": "Висаитовский районный суд г. Грозного Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "364052, г Грозный, р-н Висаитовский, ул Л.Е.Цеповой, д 116",
+    "legal_address": null,
+    "website": "http://visaitovskij.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0004",
+    "name": "Грозненский районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "364052, г Грозный, р-н Висаитовский, ул им. Х.Г. Янгулбаева, д 2",
+    "legal_address": null,
+    "website": "http://groznensky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0006",
+    "name": "Гудермесский городской суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366208, Респ Чеченская, г Гудермес, ул Белореченская, д 34А",
+    "legal_address": null,
+    "website": "http://gudermessky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0008",
+    "name": "Надтеречный районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366831, Респ Чеченская, Надтеречный р-н, с Знаменское, ул Дзержинского, д 15",
+    "legal_address": null,
+    "website": "http://nadterechny.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0007",
+    "name": "Наурский районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366128, Чеченская Республика, г. Наурская, ул. им. Х. Батырова, д. 36",
+    "legal_address": null,
+    "website": "http://naursky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0016",
+    "name": "Ножай-Юртовский районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366241, Респ Чеченская, с Ножай-Юрт, ул Т.Чермоева, д 20А",
+    "legal_address": null,
+    "website": "http://nozhay-urtovsky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0009",
+    "name": "Урус-Мартановский городской суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366523, Респ Чеченская, г Урус-Мартан, ул им.Шейха Солса-Хаджи Яндарова, д 38",
+    "legal_address": null,
+    "website": "http://urus-martanovsky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0010",
+    "name": "Шалинский городской суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366324, Респ Чеченская, г Шали, ул Георгия Васильевича Чичерина, д 1А",
+    "legal_address": null,
+    "website": "http://shalinsky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0017",
+    "name": "Шатойский районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366405, Респ Чеченская, с Шатой, ул Салаудина Гугаева, д 9",
+    "legal_address": null,
+    "website": "http://shatoisky.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0003",
+    "name": "Шейх-Мансуровский районный суд г. Грозного Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "364068, г Грозный, р-н Путинский, пр-кт Культуры, д 8",
+    "legal_address": null,
+    "website": "http://shejh-mansurovskij.chn.sudrf.ru"
+  },
+  {
+    "code": "20RS0015",
+    "name": "Шелковской районный суд Чеченской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "366108, Респ Чеченская, Шелковской р-н, г Шелковская, ул Советская, д 50",
+    "legal_address": null,
+    "website": "http://shelkovsky.chn.sudrf.ru"
+  }
+]

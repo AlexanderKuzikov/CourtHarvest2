@@ -1,0 +1,432 @@
+[
+  {
+    "code": "60MS0001",
+    "name": "Судебный участок № 1 Бежаницкого района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182840, Псковская обл, рп Бежаницы, ул Советская, д 12",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=1"
+  },
+  {
+    "code": "60MS0002",
+    "name": "Судебный участок № 2 Великолукского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул Пионерская, д 9",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=2"
+  },
+  {
+    "code": "60MS0003",
+    "name": "Судебный участок № 3 Гдовского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181600, Псковская обл, г Гдов, ул К.Маркса, д 29",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=3"
+  },
+  {
+    "code": "60MS0004",
+    "name": "Судебный участок № 4 Дедовического района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182710, Псковская обл, рп Дедовичи, ул Бундзена, д 2А",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=4"
+  },
+  {
+    "code": "60MS0005",
+    "name": "Судебный участок № 5 Дновского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182670, Псковская обл, г Дно, ул Космонавтов, д 84",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=5"
+  },
+  {
+    "code": "60MS0006",
+    "name": "Судебный участок № 6 Красногородского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182370, Псковская обл, рп Красногородск, ул Советская, д 24",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=6"
+  },
+  {
+    "code": "60MS0007",
+    "name": "Судебный участок № 7 Куньинского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182010, Псковская обл, рп Кунья, ул Дзержинского, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=7"
+  },
+  {
+    "code": "60MS0008",
+    "name": "Судебный участок № 8 Локнянского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182900, Псковская обл, рп Локня, ул Чкалова, д 2А",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=8"
+  },
+  {
+    "code": "60MS0009",
+    "name": "Судебный участок № 9 Новоржевского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182440, Псковская обл, г Новоржев, ул Германа, д 71",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=9"
+  },
+  {
+    "code": "60MS0010",
+    "name": "Судебный участок № 10 Новосокольнического района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182200, Псковская обл, г Новосокольники, ул Садовая, д 1",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=10"
+  },
+  {
+    "code": "60MS0011",
+    "name": "Судебный участок № 11 Опочецкого района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182330, Псковская обл, г Опочка, ул им М.И.Кутузова, д 1",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=11"
+  },
+  {
+    "code": "60MS0012",
+    "name": "Судебный участок № 12 Палкинского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181270, Псковская обл, рп Палкино, ул Изборская, д 13",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=12"
+  },
+  {
+    "code": "60MS0013",
+    "name": "Судебный участок № 13 Печорского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181500, Псковская обл, г Печоры, ул Мира, д 21",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=13"
+  },
+  {
+    "code": "60MS0014",
+    "name": "Судебный участок № 14 Пустошкинского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182300, Псковская обл, г Пустошка, ул Октябрьская, д 61",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=14"
+  },
+  {
+    "code": "60MS0015",
+    "name": "Судебный участок № 15 Плюсского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181000, Псковская обл, рп Плюсса, ул В.Гнаровской, д 10",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=15"
+  },
+  {
+    "code": "60MS0016",
+    "name": "Судебный участок № 16 Пушкиногорского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181370, Псковская обл, рп Пушкинские Горы, ул Ленина, д 18",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=16"
+  },
+  {
+    "code": "60MS0017",
+    "name": "Судебный участок № 17 Пыталовского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181410, Псковская обл, г Пыталово, ул Красноармейская, д 39",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=17"
+  },
+  {
+    "code": "60MS0018",
+    "name": "Судебный участок № 18 Себежского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182250, Псковская обл, г Себеж, ул 7 Ноября, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=18"
+  },
+  {
+    "code": "60MS0019",
+    "name": "Судебный участок № 19 Стругокрасненского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181110, Псковская обл, рп Струги Красные, ул Советская, д 16",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=19"
+  },
+  {
+    "code": "60MS0020",
+    "name": "Судебный участок № 20 Невельского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182500, Псковская обл, г Невель, ул Интернациональная, д 4А",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=20"
+  },
+  {
+    "code": "60MS0021",
+    "name": "Судебный участок № 21 г. Острова и Островского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181350, Псковская обл, г Остров, ул 111 Стрелковой дивизии, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=21"
+  },
+  {
+    "code": "60MS0022",
+    "name": "Судебный участок № 22 г. Острова и Островского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "181350, Псковская обл, г Остров, ул 111 Стрелковой дивизии, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=22"
+  },
+  {
+    "code": "60MS0023",
+    "name": "Судебный участок № 23 Порховского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182620, Псковская обл, г Порхов, ул Плеханова, д 3",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=23"
+  },
+  {
+    "code": "60MS0024",
+    "name": "Судебный участок № 24 Псковского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180019, г Псков, ул Текстильная, д 7",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=24"
+  },
+  {
+    "code": "60MS0025",
+    "name": "Судебный участок № 25 Усвятского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182570, Псковская обл, Усвятский р-н, рп Усвяты, ул М.Горького, д 37",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=25"
+  },
+  {
+    "code": "60MS0026",
+    "name": "Судебный участок № 26 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=26"
+  },
+  {
+    "code": "60MS0027",
+    "name": "Судебный участок № 27 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=27"
+  },
+  {
+    "code": "60MS0028",
+    "name": "Судебный участок № 28 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=28"
+  },
+  {
+    "code": "60MS0029",
+    "name": "Судебный участок № 29 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=29"
+  },
+  {
+    "code": "60MS0030",
+    "name": "Судебный участок № 30 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=30"
+  },
+  {
+    "code": "60MS0031",
+    "name": "Судебный участок № 31 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=31"
+  },
+  {
+    "code": "60MS0032",
+    "name": "Судебный участок № 32 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=32"
+  },
+  {
+    "code": "60MS0033",
+    "name": "Судебный участок № 33 г. Великие Луки Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул К.Либкнехта, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=33"
+  },
+  {
+    "code": "60MS0034",
+    "name": "Судебный участок № 34 г. Великие Луки Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул К.Либкнехта, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=34"
+  },
+  {
+    "code": "60MS0035",
+    "name": "Судебный участок № 35 г. Великие Луки Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул К.Либкнехта, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=35"
+  },
+  {
+    "code": "60MS0036",
+    "name": "Судебный участок № 36 г. Великие Луки Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул К.Либкнехта, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=36"
+  },
+  {
+    "code": "60MS0037",
+    "name": "Судебный участок № 37 Псковского района Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180019, г Псков, ул Текстильная, д 7",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=37"
+  },
+  {
+    "code": "60MS0038",
+    "name": "Судебный участок № 38 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=38"
+  },
+  {
+    "code": "60MS0039",
+    "name": "Судебный участок № 39 г. Великие Луки Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул К.Либкнехта, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=39"
+  },
+  {
+    "code": "60MS0040",
+    "name": "Судебный участок № 40 г. Великие Луки Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "182113, Псковская обл, г Великие Луки, ул К.Либкнехта, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=40"
+  },
+  {
+    "code": "60MS0042",
+    "name": "Судебный участок № 42 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=42"
+  },
+  {
+    "code": "60MS0043",
+    "name": "Судебный участок № 43 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "180014, г Псков, ул Николая Васильева, д 79",
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?id=43"
+  },
+  {
+    "code": "60MS0044",
+    "name": "Судебный участок №41 г. Пскова Псковской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.pskov.ru/courtsst/?pn=1/?pn=1&id=44"
+  }
+]

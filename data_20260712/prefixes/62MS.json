@@ -1,0 +1,702 @@
+[
+  {
+    "code": "62MS0001",
+    "name": "Судебный участок № 1 судебного района Железнодорожного районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390005, г Рязань, ул Семашко, д 4",
+    "legal_address": null,
+    "website": "http://1.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0002",
+    "name": "Судебный участок № 2 судебного района Железнодорожного районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390005, г Рязань, ул Семашко, д 4",
+    "legal_address": null,
+    "website": "http://2.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0003",
+    "name": "Судебный участок № 3 судебного района Железнодорожного районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390005, г Рязань, ул Семашко, д 4",
+    "legal_address": null,
+    "website": "http://3.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0004",
+    "name": "Судебный участок № 4 судебного района Железнодорожного районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390005, г Рязань, ул Семашко, д 4",
+    "legal_address": null,
+    "website": "http://4.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0005",
+    "name": "Судебный участок № 5 судебного района Железнодорожного районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390005, г Рязань, ул Семашко, д 4",
+    "legal_address": null,
+    "website": "http://5.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0006",
+    "name": "Судебный участок № 6 судебного района Железнодорожного районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390005, г Рязань, ул Семашко, д 4",
+    "legal_address": null,
+    "website": "http://6.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0007",
+    "name": "Судебный участок № 7 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390042, г Рязань, ул Космонавтов, д 5",
+    "legal_address": null,
+    "website": "http://7.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0008",
+    "name": "Судебный участок № 8 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390044, г Рязань, ш Московское, д 18",
+    "legal_address": null,
+    "website": "http://8.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0009",
+    "name": "Судебный участок № 9 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390042, г Рязань, ул Космонавтов, д 5",
+    "legal_address": null,
+    "website": "http://9.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0010",
+    "name": "Судебный участок № 10 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390042, г Рязань, ул Космонавтов, д 5",
+    "legal_address": null,
+    "website": "http://10.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0011",
+    "name": "Судебный участок № 11 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390042, г Рязань, ул Космонавтов, д 5",
+    "legal_address": null,
+    "website": "http://11.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0012",
+    "name": "Судебный участок № 12 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390042, г Рязань, ул Космонавтов, д 5",
+    "legal_address": null,
+    "website": "http://12.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0015",
+    "name": "Судебный участок № 13 судебного района Октябрьского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390000, г Рязань, ул Соборная, д 11/63",
+    "legal_address": null,
+    "website": "http://13.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0016",
+    "name": "Судебный участок № 14 судебного района Октябрьского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390000, г Рязань, ул Соборная, д 11/63",
+    "legal_address": null,
+    "website": "http://14.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0017",
+    "name": "Судебный участок № 15 судебного района Октябрьского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390000, г Рязань, ул Соборная, д 11/63",
+    "legal_address": null,
+    "website": "http://15.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0018",
+    "name": "Судебный участок № 16 судебного района Октябрьского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390000, г Рязань, ул Соборная, д 11/63",
+    "legal_address": null,
+    "website": "http://16.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0019",
+    "name": "Судебный участок № 17 судебного района Октябрьского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390000, г Рязань, ул Соборная, д 11/63",
+    "legal_address": null,
+    "website": "http://17.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0020",
+    "name": "Судебный участок № 18 судебного района Октябрьского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390000, г Рязань, ул Соборная, д 11/63",
+    "legal_address": null,
+    "website": "http://18.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0021",
+    "name": "Судебный участок № 19 судебного района Советского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390006, г Рязань, ул Лермонтова, д 20",
+    "legal_address": null,
+    "website": "http://19.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0022",
+    "name": "Судебный участок № 20 судебного района Советского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390006, г Рязань, ул Лермонтова, д 20",
+    "legal_address": null,
+    "website": "http://20.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0013",
+    "name": "Судебный участок № 59 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390044, г Рязань, ш Московское, д 18",
+    "legal_address": null,
+    "website": "http://59.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0014",
+    "name": "Судебный участок № 60 судебного района Московского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390044, г Рязань, ш Московское, д 18",
+    "legal_address": null,
+    "website": "http://60.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0023",
+    "name": "Судебный участок № 21 судебного района Советского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390006, г Рязань, ул Лермонтова, д 20",
+    "legal_address": null,
+    "website": "http://21.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0024",
+    "name": "Судебный участок № 22 судебного района Советского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390006, г Рязань, ул Лермонтова, д 20",
+    "legal_address": null,
+    "website": "http://22.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0025",
+    "name": "Судебный участок № 23 судебного района Советского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390006, г Рязань, ул Лермонтова, д 20",
+    "legal_address": null,
+    "website": "http://23.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0027",
+    "name": "Судебный участок № 24 судебного района Сасовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391430, Рязанская обл, г Сасово, ул Ленина, д 48",
+    "legal_address": null,
+    "website": "http://24.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0028",
+    "name": "Судебный участок № 25 судебного района Сасовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391430, Рязанская обл, г Сасово, ул Ленина, д 48",
+    "legal_address": null,
+    "website": "http://25.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0029",
+    "name": "Судебный участок № 26 судебного района Сасовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391430, Рязанская обл, г Сасово, ул Ленина, д 48",
+    "legal_address": null,
+    "website": "http://26.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0026",
+    "name": "Судебный участок № 61 судебного района Советского районного суда г. Рязани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390006, г Рязань, ул Лермонтова, д 20",
+    "legal_address": null,
+    "website": "http://61.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0030",
+    "name": "Судебный участок № 27 судебного района Касимовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391300, Рязанская обл, г Касимов, ул Советская, зд 17/2",
+    "legal_address": null,
+    "website": "http://27.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0031",
+    "name": "Судебный участок № 28 судебного района Касимовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391300, Рязанская обл, г Касимов, ул Советская, зд 17/2",
+    "legal_address": null,
+    "website": "http://28.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0032",
+    "name": "Судебный участок № 29 судебного района Касимовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391300, Рязанская обл, г Касимов, ул Советская, зд 17/2",
+    "legal_address": null,
+    "website": "http://29.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0033",
+    "name": "Судебный участок № 30 судебного района Касимовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391300, Рязанская обл, г Касимов, ул Советская, зд 17/2",
+    "legal_address": null,
+    "website": "http://30.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0034",
+    "name": "Судебный участок № 31 судебного района Скопинского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391803, Рязанская обл, г Скопин, ул К.Маркса, д 162А",
+    "legal_address": null,
+    "website": "http://31.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0036",
+    "name": "Судебный участок № 32 судебного района Скопинского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391803, Рязанская обл, г Скопин, ул К.Маркса, д 162А",
+    "legal_address": null,
+    "website": "http://32.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0037",
+    "name": "Судебный участок № 33 судебного района Скопинского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391803, Рязанская обл, г Скопин, ул К.Маркса, д 162А",
+    "legal_address": null,
+    "website": "http://33.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0038",
+    "name": "Судебный участок № 34 судебного района Кадомского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391660, Рязанская обл, рп Ермишь, пл Ленина, д 60",
+    "legal_address": null,
+    "website": "http://34.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0039",
+    "name": "Судебный участок № 35 судебного района Кадомского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391670, Рязанская обл, рп Кадом, ул Первомайская, зд 1",
+    "legal_address": null,
+    "website": "http://35.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0035",
+    "name": "Судебный участок № 62 судебного района Скопинского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391803, Рязанская обл, г Скопин, ул К.Маркса, д 162А",
+    "legal_address": null,
+    "website": "http://62.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0040",
+    "name": "Судебный участок № 36 судебного района Сасовского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391630, Рязанская обл, рп Пителино, ул Советская Площадь, д 3",
+    "legal_address": null,
+    "website": "http://36.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0041",
+    "name": "Судебный участок № 37 судебного района Спасского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391050, Рязанская обл, г Спасск-Рязанский, ул Ломоносова, д 1Г",
+    "legal_address": null,
+    "website": "http://37.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0042",
+    "name": "Судебный участок № 38 судебного района Спасского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391050, Рязанская обл, г Спасск-Рязанский, ул Ломоносова, д 1Г",
+    "legal_address": null,
+    "website": "http://38.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0043",
+    "name": "Судебный участок № 39 судебного района Клепиковского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391030, Рязанская обл, г Спас-Клепики, ул Свободы, зд 3",
+    "legal_address": null,
+    "website": "http://39.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0044",
+    "name": "Судебный участок № 40 судебного района Клепиковского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391001, Рязанская обл, Клепиковский р-н, рп Тума, ул Ленина, зд 158",
+    "legal_address": null,
+    "website": "http://40.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0045",
+    "name": "Судебный участок № 41 судебного района Ряжского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391240, Рязанская обл, рп Александро-Невский, ул Советская, зд 13",
+    "legal_address": null,
+    "website": "http://41.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0046",
+    "name": "Судебный участок № 42 судебного района Скопинского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391770, Рязанская обл, рп Милославское, ул Ленина, зд 4",
+    "legal_address": null,
+    "website": "http://42.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0047",
+    "name": "Судебный участок № 43 судебного района Ряжского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391964, Рязанская обл, г Ряжск, ул Карла Маркса, д 31",
+    "legal_address": null,
+    "website": "http://43.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0049",
+    "name": "Судебный участок № 44 судебного района Михайловского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391740, Рязанская обл, с Захарово, ул Хлобыстова, д 4",
+    "legal_address": null,
+    "website": "http://44.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0048",
+    "name": "Судебный участок № 63 судебного района Ряжского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391964, Рязанская обл, г Ряжск, ул Карла Маркса, д 31",
+    "legal_address": null,
+    "website": "http://63.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0050",
+    "name": "Судебный участок № 45 судебного района Михайловского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391710, Рязанская обл, г Михайлов, ул Карла Маркса, зд 53",
+    "legal_address": null,
+    "website": "http://45.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0052",
+    "name": "Судебный участок № 46 судебного района Сапожковского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391920, Рязанская обл, рп Ухолово, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://46.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0053",
+    "name": "Судебный участок № 47 судебного района Сараевского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391870, Рязанская обл, рп Сараи, ул Б-Сараи, зд 167",
+    "legal_address": null,
+    "website": "http://47.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0054",
+    "name": "Судебный участок № 48 судебного района Сапожковского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391940, Рязанская обл, рп Сапожок, ул Советская, д 21",
+    "legal_address": null,
+    "website": "http://48.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0055",
+    "name": "Судебный участок № 49 судебного района Кораблинского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391200, Рязанская обл, г Кораблино, ул Маяковского, д 33",
+    "legal_address": null,
+    "website": "http://49.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0057",
+    "name": "Судебный участок № 50 судебного района Пронского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391160, Рязанская обл, Пронский р-н, г Новомичуринск, ул Волкова, д 3",
+    "legal_address": null,
+    "website": "http://50.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0059",
+    "name": "Судебный участок № 51 судебного района Рязанского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391170, Рязанская обл, рп Старожилово, ул Гагарина, д 10",
+    "legal_address": null,
+    "website": "http://51.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0051",
+    "name": "Судебный участок № 64 судебного района Михайловского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391710, Рязанская обл, г Михайлов, ул Имени Маршала Голикова Ф.И., д 10",
+    "legal_address": null,
+    "website": "http://64.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0056",
+    "name": "Судебный участок № 65 судебного района Кораблинского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391200, Рязанская обл, г Кораблино, ул Маяковского, д 33",
+    "legal_address": null,
+    "website": "http://65.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0058",
+    "name": "Судебный участок № 66 судебного района Пронского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391160, Рязанская обл, Пронский р-н, г Новомичуринск, ул Волкова, д 3",
+    "legal_address": null,
+    "website": "http://66.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0060",
+    "name": "Судебный участок № 52 судебного района Шиловского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391420, Рязанская обл, рп Чучково, пл Ленина, д 40",
+    "legal_address": null,
+    "website": "http://52.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0061",
+    "name": "Судебный участок № 53 судебного района Шиловского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391500, Рязанская обл, рп Шилово, ул Приокская, д 27",
+    "legal_address": null,
+    "website": "http://53.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0063",
+    "name": "Судебный участок № 54 судебного района Рыбновского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391110, Рязанская обл, г Рыбное, ул Курочкина, д 2",
+    "legal_address": null,
+    "website": "http://54.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0065",
+    "name": "Судебный участок № 55 судебного района Рязанского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390011, г Рязань, ш Куйбышевское, д 21",
+    "legal_address": null,
+    "website": "http://55.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0066",
+    "name": "Судебный участок № 56 судебного района Рязанского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390011, г Рязань, ш Куйбышевское, д 21",
+    "legal_address": null,
+    "website": "http://56.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0068",
+    "name": "Судебный участок № 57 судебного района Шацкого районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391480, Рязанская обл, с Путятино, ул Дзержинского, д 13",
+    "legal_address": null,
+    "website": "http://57.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0069",
+    "name": "Судебный участок № 58 судебного района Шацкого районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391550, Рязанская обл, г Шацк, ул Красная площадь, зд 7",
+    "legal_address": null,
+    "website": "http://58.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0062",
+    "name": "Судебный участок № 67 судебного района Шиловского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391500, Рязанская обл, рп Шилово, ул Приокская, д 27",
+    "legal_address": null,
+    "website": "http://67.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0064",
+    "name": "Судебный участок № 68 судебного района Рыбновского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391110, Рязанская обл, г Рыбное, ул Курочкина, д 2",
+    "legal_address": null,
+    "website": "http://68.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0067",
+    "name": "Судебный участок № 69 судебного района Рязанского районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "390011, г Рязань, ш Куйбышевское, д 21",
+    "legal_address": null,
+    "website": "http://69.riz.msudrf.ru"
+  },
+  {
+    "code": "62MS0070",
+    "name": "Судебный участок № 70 судебного района Шацкого районного суда Рязанской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "391550, Рязанская обл, г Шацк, ул Красная площадь, зд 7",
+    "legal_address": null,
+    "website": "http://70.riz.msudrf.ru"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "12RS0001",
+    "name": "Волжский городской суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "425000, Респ Марий Эл, г Волжск, ул Гагарина, д 15А",
+    "legal_address": null,
+    "website": "http://volzhkiy.mari.sudrf.ru"
+  },
+  {
+    "code": "12RS0016",
+    "name": "Горномарийский районный суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "425354, Респ Марий Эл, г Козьмодемьянск, ул Чернышевского, д 32",
+    "legal_address": null,
+    "website": "http://gornomarisky.mari.sudrf.ru"
+  },
+  {
+    "code": "12RS0002",
+    "name": "Звениговский районный суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "425060, Респ Марий Эл, г Звенигово, ул Ленина, д 54",
+    "legal_address": null,
+    "website": "http://zvenigocsky.mari.sudrf.ru"
+  },
+  {
+    "code": "12RS0003",
+    "name": "Йошкар-Олинский городской суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "424028, г Йошкар-Ола, ул Баумана, д 91А",
+    "legal_address": null,
+    "website": "http://yoshkarolinsky.mari.sudrf.ru"
+  },
+  {
+    "code": "12RS0008",
+    "name": "Медведевский районный суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "425200, Республика Марий Эл, п. Медведево, ул. Медведево, д. 25",
+    "legal_address": null,
+    "website": "http://medvedevsky.mari.sudrf.ru"
+  },
+  {
+    "code": "12RS0009",
+    "name": "Моркинский районный суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "425120, Респ Марий Эл, пгт Морки, ул Советская, д 12",
+    "legal_address": null,
+    "website": "http://morkinsky.mari.sudrf.ru"
+  },
+  {
+    "code": "12RS0013",
+    "name": "Сернурский районный суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "425450, Респ Марий Эл, пгт Сернур, ул Конакова, д 13",
+    "legal_address": null,
+    "website": "http://sernursky.mari.sudrf.ru"
+  },
+  {
+    "code": "12RS0014",
+    "name": "Советский районный суд Республики Марий Эл",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "425400, Респ Марий Эл, пгт Советский, ул Горького, д 40",
+    "legal_address": null,
+    "website": "http://sovetsky.mari.sudrf.ru"
+  }
+]

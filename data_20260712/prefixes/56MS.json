@@ -1,0 +1,1122 @@
+[
+  {
+    "code": "56MS0007",
+    "name": "Судебный участок в административно-территориальных границах всего Александровского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461830, Оренбургская обл, с Александровка, ул Рощепкина, зд 3",
+    "legal_address": null,
+    "website": "http://alex.kodms.ru"
+  },
+  {
+    "code": "56MS0008",
+    "name": "Судебный участок в административно-территориальных границах всего Асекеевского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461710, Оренбургская обл, с Асекеево, ул Советская, зд 16",
+    "legal_address": null,
+    "website": "http://asek.kodms.ru"
+  },
+  {
+    "code": "56MS0009",
+    "name": "Судебный участок в административно-территориальных границах всего Беляевского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461330, Оренбургская обл, с Беляевка, ул Советская, д 63А",
+    "legal_address": null,
+    "website": "http://bel.kodms.ru"
+  },
+  {
+    "code": "56MS0039",
+    "name": "Судебный участок в административно-территориальных границах всего Грачевского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461800, Оренбургская обл, с Грачевка, ул Майская, д 6",
+    "legal_address": null,
+    "website": "http://gr.kodms.ru"
+  },
+  {
+    "code": "56MS0040",
+    "name": "Судебный участок в административно-территориальных границах всего Илекского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461350, Оренбургская обл, с Илек, ул Красноармейская, зд 52",
+    "legal_address": null,
+    "website": "http://ilek.kodms.ru"
+  },
+  {
+    "code": "56MS0045",
+    "name": "Судебный участок в административно-территориальных границах всего Кваркенского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462860, Оренбургская обл, с Кваркено, ул Ленина, д 17",
+    "legal_address": null,
+    "website": "http://kvr.kodms.ru"
+  },
+  {
+    "code": "56MS0041",
+    "name": "Судебный участок в административно-территориальных границах всего Красногвардейского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461150, Оренбургская обл, с Плешаново, ул Мира, д 2",
+    "legal_address": null,
+    "website": "http://krs.kodms.ru"
+  },
+  {
+    "code": "56MS0042",
+    "name": "Судебный участок в административно-территориальных границах всего Курманаевского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461060, Оренбургская обл, с Курманаевка, ул Крестьянская, зд 6А",
+    "legal_address": null,
+    "website": "http://kurm.kodms.ru"
+  },
+  {
+    "code": "56MS0067",
+    "name": "Судебный участок в административно-территориальных границах всего Октябрьского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462030, Оренбургская обл, с Октябрьское, ул Транспортная, д 32",
+    "legal_address": null,
+    "website": "http://okt.kodms.ru"
+  },
+  {
+    "code": "56MS0086",
+    "name": "Судебный участок в административно-территориальных границах всего Первомайского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461980, Оренбургская обл, Первомайский р-н, п Володарский, ул Победы, зд 7А",
+    "legal_address": null,
+    "website": "http://perm.kodms.ru"
+  },
+  {
+    "code": "56MS0087",
+    "name": "Судебный участок в административно-территориальных границах всего Пономаревского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461780, Оренбургская обл, с Пономаревка, ул Первомайская, зд 1",
+    "legal_address": null,
+    "website": "http://pon.kodms.ru"
+  },
+  {
+    "code": "56MS0095",
+    "name": "Судебный участок в административно-территориальных границах всего Сакмарского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461420, Оренбургская обл, с Сакмара, ул Советская, д 32",
+    "legal_address": null,
+    "website": "http://sak.kodms.ru"
+  },
+  {
+    "code": "56MS0098",
+    "name": "Судебный участок в административно-территориальных границах всего Северного района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461670, Оренбургская обл, с Северное, ул Советская, зд 22",
+    "legal_address": null,
+    "website": "http://sev.kodms.ru"
+  },
+  {
+    "code": "56MS0099",
+    "name": "Судебный участок в административно-территориальных границах всего Шарлыкского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461450, Оренбургская обл, с Шарлык, ул Строителей, зд 38А",
+    "legal_address": null,
+    "website": "http://shr.kodms.ru"
+  },
+  {
+    "code": "56MS0025",
+    "name": "Судебный участок в администратино-территориальных границах всего Домбаровского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462734, Оренбургская обл, п Домбаровский, ул Осипенко, д 14",
+    "legal_address": null,
+    "website": "http://dom.kodms.ru"
+  },
+  {
+    "code": "56MS0003",
+    "name": "Судебный участок № 1 Адамовского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462830, Оренбургская обл, п Адамовка, ул Пушкинская, д 54А",
+    "legal_address": null,
+    "website": "http://adm1.kodms.ru"
+  },
+  {
+    "code": "56MS0005",
+    "name": "Судебный участок № 1 Акбулакского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461551, Оренбургская обл, п Акбулак, ул Терещенко, д 105",
+    "legal_address": null,
+    "website": "http://akb1.kodms.ru"
+  },
+  {
+    "code": "56MS0017",
+    "name": "Судебный участок № 1 Бузулукского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461050, Оренбургская обл, г Бузулук, мкр 1-й, д 23",
+    "legal_address": null,
+    "website": "http://buzr1.kodms.ru"
+  },
+  {
+    "code": "56MS0001",
+    "name": "Судебный участок № 1 г. Абдулино и Абдулинского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461744, Оренбургская обл, г Абдулино, ул Коммунистическая, зд 49",
+    "legal_address": null,
+    "website": "http://abd.kodms.ru"
+  },
+  {
+    "code": "56MS0010",
+    "name": "Судебный участок № 1 г. Бугуруслана и Бугурусланского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461630, Оренбургская обл, г Бугуруслан, ул Революционная, зд 37",
+    "legal_address": null,
+    "website": "http://bug1.kodms.ru"
+  },
+  {
+    "code": "56MS0002",
+    "name": "Судебный участок № 2 Абдулинского района и в административно-территориальных границах всего Матвеевского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461880, Оренбургская обл, с Матвеевка, ул Комсомольская, д 26",
+    "legal_address": null,
+    "website": "http://Matv.kodms.ru"
+  },
+  {
+    "code": "56MS0004",
+    "name": "Судебный участок № 2 Адамовского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462830, Оренбургская обл, п Адамовка, ул Пушкинская, д 54А",
+    "legal_address": null,
+    "website": "http://adm2.kodms.ru"
+  },
+  {
+    "code": "56MS0006",
+    "name": "Судебный участок № 2 Акбулакского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461551, Оренбургская обл, п Акбулак, ул Терещенко, д 105",
+    "legal_address": null,
+    "website": "http://akb2.kodms.ru"
+  },
+  {
+    "code": "56MS0014",
+    "name": "Судебный участок № 1 г. Бузулука Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461050, Оренбургская обл, г Бузулук, мкр 1-й, д 23",
+    "legal_address": null,
+    "website": "http://buz1.kodms.ru"
+  },
+  {
+    "code": "56MS0019",
+    "name": "Судебный участок № 1 Центрального района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://centr1.kodms.ru"
+  },
+  {
+    "code": "56MS0018",
+    "name": "Судебный участок № 2 Бузулукского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461050, Оренбургская обл, г Бузулук, мкр 1-й, д 23",
+    "legal_address": null,
+    "website": "http://buzr2.kodms.ru"
+  },
+  {
+    "code": "56MS0011",
+    "name": "Судебный участок № 2 г. Бугуруслана и Бугурусланского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461630, Оренбургская обл, г Бугуруслан, ул Революционная, зд 37",
+    "legal_address": null,
+    "website": "http://bug2.kodms.ru"
+  },
+  {
+    "code": "56MS0015",
+    "name": "Судебный участок № 2 г. Бузулука Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461050, Оренбургская обл, г Бузулук, мкр 1-й, д 23",
+    "legal_address": null,
+    "website": "http://buz2.kodms.ru"
+  },
+  {
+    "code": "56MS0012",
+    "name": "Судебный участок № 3 г. Бугуруслана и Бугурусланского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461630, Оренбургская обл, г Бугуруслан, ул Революционная, зд 37",
+    "legal_address": null,
+    "website": "http://bug3.kodms.ru"
+  },
+  {
+    "code": "56MS0016",
+    "name": "Судебный участок № 3 г. Бузулука Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461050, Оренбургская обл, г Бузулук, мкр 1-й, д 23",
+    "legal_address": null,
+    "website": "http://buz3.kodms.ru"
+  },
+  {
+    "code": "56MS0026",
+    "name": "Судебный участок № 1 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz1.kodms.ru"
+  },
+  {
+    "code": "56MS0027",
+    "name": "Судебный участок № 2 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz2.kodms.ru"
+  },
+  {
+    "code": "56MS0020",
+    "name": "Судебный участок № 2 Центрального района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://centr2.kodms.ru"
+  },
+  {
+    "code": "56MS0028",
+    "name": "Судебный участок № 3 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz3.kodms.ru"
+  },
+  {
+    "code": "56MS0021",
+    "name": "Судебный участок № 3 Центрального района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://centr3.kodms.ru"
+  },
+  {
+    "code": "56MS0029",
+    "name": "Судебный участок № 4 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz4.kodms.ru"
+  },
+  {
+    "code": "56MS0022",
+    "name": "Судебный участок № 4 Центрального района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://centr4.kodms.ru"
+  },
+  {
+    "code": "56MS0023",
+    "name": "Судебный участок № 5 Центрального района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://centr5.kodms.ru"
+  },
+  {
+    "code": "56MS0024",
+    "name": "Судебный участок № 6 Центрального района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://centr6.kodms.ru"
+  },
+  {
+    "code": "56MS0038",
+    "name": "Судебный участок № 1 города Гая и в административно-территориальных границах всего Гайского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462633, Оренбургская обл, г Гай, пер Суворова, зд 2А",
+    "legal_address": null,
+    "website": "http://gair.kodms.ru"
+  },
+  {
+    "code": "56MS0036",
+    "name": "Судебный участок № 2 г. Гая Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462633, Оренбургская обл, г Гай, пер Суворова, зд 2А",
+    "legal_address": null,
+    "website": "http://gai2.kodms.ru"
+  },
+  {
+    "code": "56MS0030",
+    "name": "Судебный участок № 5 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz5.kodms.ru"
+  },
+  {
+    "code": "56MS0031",
+    "name": "Судебный участок № 6 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz6.kodms.ru"
+  },
+  {
+    "code": "56MS0032",
+    "name": "Судебный участок № 7 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz7.kodms.ru"
+  },
+  {
+    "code": "56MS0033",
+    "name": "Судебный участок № 8 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz8.kodms.ru"
+  },
+  {
+    "code": "56MS0034",
+    "name": "Судебный участок № 9 Дзержинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://dz9.kodms.ru"
+  },
+  {
+    "code": "56MS0043",
+    "name": "Судебный участок № 1 г. Кувандыка и Кувандыкского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462241, Оренбургская обл, г Кувандык, ул Рыбникова, д 1/2",
+    "legal_address": null,
+    "website": "http://kuv1.kodms.ru"
+  },
+  {
+    "code": "56MS0046",
+    "name": "Судебный участок № 1 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len1.kodms.ru"
+  },
+  {
+    "code": "56MS0044",
+    "name": "Судебный участок № 2 г. Кувандыка и Кувандыкского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462241, Оренбургская обл, г Кувандык, ул Рыбникова, д 1/2",
+    "legal_address": null,
+    "website": "http://kuv2.kodms.ru"
+  },
+  {
+    "code": "56MS0048",
+    "name": "Судебный участок № 2 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len2.kodms.ru"
+  },
+  {
+    "code": "56MS0049",
+    "name": "Судебный участок № 3 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len3.kodms.ru"
+  },
+  {
+    "code": "56MS0047",
+    "name": "Судебный участок № 10 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len10.kodms.ru"
+  },
+  {
+    "code": "56MS0057",
+    "name": "Судебный участок № 1 г. Медногорска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462281, Оренбургская обл, г Медногорск, ул Кирова, д 19",
+    "legal_address": null,
+    "website": "http://med1.kodms.ru"
+  },
+  {
+    "code": "56MS0059",
+    "name": "Судебный участок № 1 Новосергиевского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461200, Оренбургская обл, п Новосергиевка, ул Краснопартизанская, д 18",
+    "legal_address": null,
+    "website": "http://nvs1.kodms.ru"
+  },
+  {
+    "code": "56MS0058",
+    "name": "Судебный участок № 2 г. Медногорска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462281, Оренбургская обл, г Медногорск, ул Кирова, д 19",
+    "legal_address": null,
+    "website": "http://med2.kodms.ru"
+  },
+  {
+    "code": "56MS0050",
+    "name": "Судебный участок № 4 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len4.kodms.ru"
+  },
+  {
+    "code": "56MS0051",
+    "name": "Судебный участок № 5 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len5.kodms.ru"
+  },
+  {
+    "code": "56MS0052",
+    "name": "Судебный участок № 6 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len6.kodms.ru"
+  },
+  {
+    "code": "56MS0053",
+    "name": "Судебный участок № 7 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len7.kodms.ru"
+  },
+  {
+    "code": "56MS0054",
+    "name": "Судебный участок № 8 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len8.kodms.ru"
+  },
+  {
+    "code": "56MS0055",
+    "name": "Судебный участок № 9 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len9.kodms.ru"
+  },
+  {
+    "code": "56MS0063",
+    "name": "Судебный участок № 1 г. Новотроицка Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462359, Оренбургская обл, г Новотроицк, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://nwtr1.kodms.ru"
+  },
+  {
+    "code": "56MS0061",
+    "name": "Судебный участок № 1 Новоорского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462800, Оренбургская обл, п Новоорск, ул Рабочая, д 36",
+    "legal_address": null,
+    "website": "http://nvsk1.kodms.ru"
+  },
+  {
+    "code": "56MS0068",
+    "name": "Судебный участок № 1 Оренбургского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://or1.kodms.ru"
+  },
+  {
+    "code": "56MS0064",
+    "name": "Судебный участок № 2 г. Новотроицка Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462359, Оренбургская обл, г Новотроицк, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://nwtr2.kodms.ru"
+  },
+  {
+    "code": "56MS0062",
+    "name": "Судебный участок № 2 Новоорского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462800, Оренбургская обл, п Новоорск, ул Рабочая, д 36",
+    "legal_address": null,
+    "website": "http://nvsk2.kodms.ru"
+  },
+  {
+    "code": "56MS0060",
+    "name": "Судебный участок № 2 Новосергиевского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461200, Оренбургская обл, п Новосергиевка, ул Краснопартизанская, д 18",
+    "legal_address": null,
+    "website": "http://nvs2.kodms.ru"
+  },
+  {
+    "code": "56MS0069",
+    "name": "Судебный участок № 2 Оренбургского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://or2.kodms.ru"
+  },
+  {
+    "code": "56MS0065",
+    "name": "Судебный участок № 3 г. Новотроицка Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462359, Оренбургская обл, г Новотроицк, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://nwtr3.kodms.ru"
+  },
+  {
+    "code": "56MS0066",
+    "name": "Судебный участок № 4 г. Новотроицка Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462359, Оренбургская обл, г Новотроицк, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://nwtr4.kodms.ru"
+  },
+  {
+    "code": "56MS0075",
+    "name": "Судебный участок № 1 Октябрьского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskok1.kodms.ru"
+  },
+  {
+    "code": "56MS0076",
+    "name": "Судебный участок № 2 Октябрьского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskok2.kodms.ru"
+  },
+  {
+    "code": "56MS0077",
+    "name": "Судебный участок № 3 Октябрьского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskok3.kodms.ru"
+  },
+  {
+    "code": "56MS0070",
+    "name": "Судебный участок № 3 Оренбургского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://or3.kodms.ru"
+  },
+  {
+    "code": "56MS0078",
+    "name": "Судебный участок № 4 Октябрьского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskok4.kodms.ru"
+  },
+  {
+    "code": "56MS0071",
+    "name": "Судебный участок № 5 Ленинского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskl5.kodms.ru"
+  },
+  {
+    "code": "56MS0079",
+    "name": "Судебный участок № 5 Октябрьского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskok5.kodms.ru"
+  },
+  {
+    "code": "56MS0072",
+    "name": "Судебный участок № 6 Ленинского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskl6.kodms.ru"
+  },
+  {
+    "code": "56MS0073",
+    "name": "Судебный участок № 7 Ленинского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskl7.kodms.ru"
+  },
+  {
+    "code": "56MS0074",
+    "name": "Судебный участок № 8 Ленинского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462419, Оренбургская обл, г Орск, ул Московская, д 3А",
+    "legal_address": null,
+    "website": "http://orskl8.kodms.ru"
+  },
+  {
+    "code": "56MS0084",
+    "name": "Судебный участок № 1 Переволоцкого района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461263, Оренбургская обл, п Переволоцкий, ул Ленинская, д 96",
+    "legal_address": null,
+    "website": "http://perev1.kodms.ru"
+  },
+  {
+    "code": "56MS0085",
+    "name": "Судебный участок № 2 Переволоцкого района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461263, Оренбургская обл, п Переволоцкий, ул Ленинская, д 96",
+    "legal_address": null,
+    "website": "http://perev2.kodms.ru"
+  },
+  {
+    "code": "56MS0083",
+    "name": "Судебный участок № 9 Советского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462408, Оренбургская обл, г Орск, ул Вокзальная, д 43А",
+    "legal_address": null,
+    "website": "https://orsks9.kodms.ru"
+  },
+  {
+    "code": "56MS0088",
+    "name": "Судебный участок № 10 Промышленного района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://prom10.kodms.ru"
+  },
+  {
+    "code": "56MS0080",
+    "name": "Судебный участок № 10 Советского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462408, Оренбургская обл, г Орск, ул Вокзальная, д 43А",
+    "legal_address": null,
+    "website": "http://orsks10.kodms.ru"
+  },
+  {
+    "code": "56MS0089",
+    "name": "Судебный участок № 11 Промышленного района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://prom11.kodms.ru"
+  },
+  {
+    "code": "56MS0081",
+    "name": "Судебный участок № 11 Советского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462408, Оренбургская обл, г Орск, ул Вокзальная, д 43А",
+    "legal_address": null,
+    "website": "http://orsks11.kodms.ru"
+  },
+  {
+    "code": "56MS0082",
+    "name": "Судебный участок № 12 Советского района г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462408, Оренбургская обл, г Орск, ул Вокзальная, д 43А",
+    "legal_address": null,
+    "website": "http://orsks12.kodms.ru"
+  },
+  {
+    "code": "56MS0096",
+    "name": "Судебный участок № 1 Саракташского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462100, Оренбургская область, п. Саракташ, ул. Мира, д. 94/ул. Партизанская, д. 10",
+    "legal_address": null,
+    "website": "http://sar1.kodms.ru"
+  },
+  {
+    "code": "56MS0097",
+    "name": "Судебный участок № 2 Саракташского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462100, Оренбургская область, п. Саракташ, ул. Мира, д. 94/ул, Партизанская, д. 10.",
+    "legal_address": null,
+    "website": "http://sar2.kodms.ru"
+  },
+  {
+    "code": "56MS0093",
+    "name": "Судебный участок № 8 Промышленного района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://prom8.kodms.ru"
+  },
+  {
+    "code": "56MS0094",
+    "name": "Судебный участок № 9 Промышленного района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://prom9.kodms.ru"
+  },
+  {
+    "code": "56MS0090",
+    "name": "Судебный участок № 12 Промышленного района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://prom12.kodms.ru"
+  },
+  {
+    "code": "56MS0091",
+    "name": "Судебный участок № 13 Промышленного района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://prom13.kodms.ru"
+  },
+  {
+    "code": "56MS0092",
+    "name": "Судебный участок № 14 Промышленного района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://prom14.kodms.ru"
+  },
+  {
+    "code": "56MS0107",
+    "name": "Судебный участок в административно территориальных границах всего Ташлинского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461170, Оренбургская область, с. Ташла, ул. Новая, д. 10",
+    "legal_address": null,
+    "website": "http://tas.kodms.ru"
+  },
+  {
+    "code": "56MS0111",
+    "name": "Судебный участок в административно-территориальных границах всего г. Ясного Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462781, Оренбургская обл, г Ясный, ш Фабричное, д 2",
+    "legal_address": null,
+    "website": "http://yasn2.kodms.ru"
+  },
+  {
+    "code": "56MS0106",
+    "name": "Судебный участок в административно-территориальных границах всего Светлинского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462740, Оренбургская обл, п Светлый, ул Пролетарская, д 3",
+    "legal_address": null,
+    "website": "http://sv.kodms.ru"
+  },
+  {
+    "code": "56MS0110",
+    "name": "Судебный участок в административно-территориальных границах всего Тюльганского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462010, Оренбургская обл, п Тюльган, ул Ленина, зд 39",
+    "legal_address": null,
+    "website": "http://tul.kodms.ru"
+  },
+  {
+    "code": "56MS0112",
+    "name": "Судебный участок в административно-территориальных границах всего Ясненского района и ЗАТО поселок Комаровский Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462781, Оренбургская обл, г Ясный, ш Фабричное, д 2",
+    "legal_address": null,
+    "website": "http://yasn1.kodms.ru"
+  },
+  {
+    "code": "56MS0103",
+    "name": "Судебный участок № 1 г. Сорочинска и Сорочинского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461906, Оренбургская обл, г Сорочинск, пр-кт Парковый, зд 22",
+    "legal_address": null,
+    "website": "http://srk1.kodms.ru"
+  },
+  {
+    "code": "56MS0113",
+    "name": "Судебный участок № 1 Соль-Илецкого района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461500, Оренбургская обл, г Соль-Илецк, ул Цвиллинга, д 68/1",
+    "legal_address": null,
+    "website": "http://si1.kodms.ru"
+  },
+  {
+    "code": "56MS0108",
+    "name": "Судебный участок № 1 Тоцкого района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461131, Оренбургская обл, с Тоцкое, ул Ленина, зд 4А",
+    "legal_address": null,
+    "website": "http://tock1.kodms.ru"
+  },
+  {
+    "code": "56MS0104",
+    "name": "Судебный участок № 2 г. Сорочинска и Сорочинского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461906, Оренбургская обл, г Сорочинск, пр-кт Парковый, зд 22",
+    "legal_address": null,
+    "website": "http://srk2.kodms.ru"
+  },
+  {
+    "code": "56MS0101",
+    "name": "Судебный участок № 2 Соль-Илецкого района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461503, Оренбургская обл, г Соль-Илецк, ул Гонтаренко, д 1",
+    "legal_address": null,
+    "website": "http://si2.kodms.ru"
+  },
+  {
+    "code": "56MS0109",
+    "name": "Судебный участок № 2 Тоцкого района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461131, Оренбургская обл, с Тоцкое, ул Ленина, зд 4А",
+    "legal_address": null,
+    "website": "http://tock2.kodms.ru"
+  },
+  {
+    "code": "56MS0102",
+    "name": "Судебный участок № 3 Соль-Илецкого района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "461503, Оренбургская обл, г Соль-Илецк, ул Гонтаренко, д 1",
+    "legal_address": null,
+    "website": "http://si3.kodms.ru"
+  },
+  {
+    "code": "56MS0116",
+    "name": "Судебный участок № 4 Оренбургского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://Or4.kodms.ru"
+  },
+  {
+    "code": "56MS0115",
+    "name": "Судебный участок № 5 г. Новотроицка Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "462359, Оренбургская обл, г Новотроицк, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://Nwtr5.kodms.ru"
+  },
+  {
+    "code": "56MS0118",
+    "name": "Судебный участок № 5 Оренбургского района Оренбургской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "https://or5.kodms.ru/"
+  },
+  {
+    "code": "56MS0117",
+    "name": "Судебный участок № 7 Центрального района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://Centr7.kodms.ru"
+  },
+  {
+    "code": "56MS0114",
+    "name": "Судебный участок № 11 Ленинского района г. Оренбурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "460042, г Оренбург, ул Карагандинская, д 59/3",
+    "legal_address": null,
+    "website": "http://len11.kodms.ru"
+  }
+]

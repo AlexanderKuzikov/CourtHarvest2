@@ -1,0 +1,552 @@
+[
+  {
+    "code": "40MS0001",
+    "name": "Судебный участок № 1 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://1.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0002",
+    "name": "Судебный участок № 2 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://2.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0003",
+    "name": "Судебный участок № 3 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://3.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0004",
+    "name": "Судебный участок № 4 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://4.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0005",
+    "name": "Судебный участок № 5 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://5.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0006",
+    "name": "Судебный участок № 6 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://6.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0007",
+    "name": "Судебный участок № 7 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://7.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0008",
+    "name": "Судебный участок № 8 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://8.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0009",
+    "name": "Судебный участок № 9 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://9.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0010",
+    "name": "Судебный участок № 10 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://10.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0011",
+    "name": "Судебный участок № 11 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://11.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0012",
+    "name": "Судебный участок № 12 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://12.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0013",
+    "name": "Судебный участок № 13 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://13.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0014",
+    "name": "Судебный участок № 14 Обнинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249034, Калужская обл, г Обнинск, пр-кт Ленина, д 214",
+    "legal_address": null,
+    "website": "http://14.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0015",
+    "name": "Судебный участок № 15 Обнинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249034, Калужская обл, г Обнинск, пр-кт Ленина, д 214",
+    "legal_address": null,
+    "website": "http://15.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0016",
+    "name": "Судебный участок № 16 Обнинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249034, Калужская обл, г Обнинск, пр-кт Ленина, д 214",
+    "legal_address": null,
+    "website": "http://16.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0017",
+    "name": "Судебный участок № 17 Обнинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249034, Калужская обл, г Обнинск, пр-кт Ленина, д 214",
+    "legal_address": null,
+    "website": "http://17.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0018",
+    "name": "Судебный участок № 18 Сухиничского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249210, Калужская обл, п Бабынино, ул Крестьянская, д 10",
+    "legal_address": null,
+    "website": "http://18.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0019",
+    "name": "Судебный участок № 19 Кировского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249650, Калужская обл, с Барятино, ул Советская, д 17",
+    "legal_address": null,
+    "website": "http://19.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0020",
+    "name": "Судебный участок № 20 Боровского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249010, Калужская обл, г Боровск, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://20.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0021",
+    "name": "Судебный участок № 21 Боровского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249010, Калужская обл, г Боровск, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://21.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0022",
+    "name": "Судебный участок № 22 Дзержинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249832, Калужская область, г. Кондрово, ул. Советская, д. 4, здание Сбербанка, вход со двора, 2 этаж",
+    "legal_address": null,
+    "website": "http://22.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0023",
+    "name": "Судебный участок № 23 Дзержинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249832, Калужская обл, г Кондрово, ул Советская, д 4",
+    "legal_address": null,
+    "website": "http://23.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0024",
+    "name": "Судебный участок № 24 Сухиничского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249300, Калужская обл, п Думиничи, ул Большая Пролетарская, зд 63А",
+    "legal_address": null,
+    "website": "http://24.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0025",
+    "name": "Судебный участок № 25 Людиновского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249340, Калужская обл, г Жиздра, ул Красноармейская, д 25/11",
+    "legal_address": null,
+    "website": "http://25.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0026",
+    "name": "Судебный участок № 26 Жуковского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249191, Калужская обл, г Жуков, ул Коммунистическая, зд 4А",
+    "legal_address": null,
+    "website": "http://26.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0027",
+    "name": "Судебный участок № 27 Жуковского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249192, Калужская обл, г Жуков, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://27.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0028",
+    "name": "Судебный участок № 28 Дзержинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249880, Калужская обл, с Износки, ул Ленина, д 9/2",
+    "legal_address": null,
+    "website": "http://28.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0029",
+    "name": "Судебный участок № 29 Козельского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249722, Калужская обл, г Козельск, ул Советская Б., д 39",
+    "legal_address": null,
+    "website": "http://29.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0030",
+    "name": "Судебный участок № 30 Козельского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249722, Калужская обл, г Козельск, ул Советская Б., д 39",
+    "legal_address": null,
+    "website": "http://30.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0031",
+    "name": "Судебный участок № 31 Кировского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249440, Калужская обл, г Киров, ул Пролетарская, д 64",
+    "legal_address": null,
+    "website": "http://31.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0032",
+    "name": "Судебный участок № 32 Кировского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249440, Калужская обл, г Киров, ул Пролетарская, д 64",
+    "legal_address": null,
+    "website": "http://32.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0033",
+    "name": "Судебный участок № 33 Кировского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249500, Калужская обл, п Бетлица, ул Ленина, д 40",
+    "legal_address": null,
+    "website": "http://33.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0034",
+    "name": "Судебный участок № 34 Людиновского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249406, Калужская обл, г Людиново, ул Ленина, д 3",
+    "legal_address": null,
+    "website": "http://34.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0035",
+    "name": "Судебный участок № 35 Людиновского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249406, Калужская обл, г Людиново, ул Ленина, д 3",
+    "legal_address": null,
+    "website": "http://35.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0036",
+    "name": "Судебный участок № 36 Малоярославецкого судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249096, Калужская обл, г Малоярославец, пл Ленина, д 6",
+    "legal_address": null,
+    "website": "http://36.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0037",
+    "name": "Судебный участок № 37 Малоярославецкого судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249096, Калужская обл, г Малоярославец, пл Ленина, д 6",
+    "legal_address": null,
+    "website": "http://37.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0038",
+    "name": "Судебный участок № 38 Дзержинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249950, Калужская обл, г Медынь, пр-кт Ленина, зд 47",
+    "legal_address": null,
+    "website": "http://38.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0039",
+    "name": "Судебный участок № 39 Сухиничского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249240, Калужская обл, г Мещовск, ул Чернышевского, д 12",
+    "legal_address": null,
+    "website": "http://39.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0040",
+    "name": "Судебный участок № 40 Дзержинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249930, Калужская обл, г Мосальск, ул Советская, д 1",
+    "legal_address": null,
+    "website": "http://40.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0041",
+    "name": "Судебный участок № 41 Козельского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249130, Калужская обл, с Перемышль, пл Свободы, д 5",
+    "legal_address": null,
+    "website": "http://41.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0042",
+    "name": "Судебный участок № 42 Кировского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249610, Калужская обл, г Спас-Деменск, ул Советская, д 90",
+    "legal_address": null,
+    "website": "http://42.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0043",
+    "name": "Судебный участок № 43 Сухиничского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249275, Калужская обл, г Сухиничи, ул Добролюбова, д 3",
+    "legal_address": null,
+    "website": "http://43.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0044",
+    "name": "Судебный участок № 44 Жуковского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249100, Калужская обл, Тарусский р-н, г Таруса, ул Октябрьская, д 3А",
+    "legal_address": null,
+    "website": "http://44.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0045",
+    "name": "Судебный участок № 45 Козельского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249750, Калужская обл, с Ульяново, ул Большая Советская, д 81",
+    "legal_address": null,
+    "website": "http://45.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0046",
+    "name": "Судебный участок № 46 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249800, Калужская обл, Ферзиковский р-н, п Ферзиково, ул Карпова, д 22",
+    "legal_address": null,
+    "website": "http://46.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0047",
+    "name": "Судебный участок № 47 Людиновского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249360, Калужская обл, с Хвастовичи, ул Ленина, д 25",
+    "legal_address": null,
+    "website": "http://47.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0048",
+    "name": "Судебный участок № 48 Дзержинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249910, Калужская обл, г Юхнов, ул К.Маркса, д 9",
+    "legal_address": null,
+    "website": "http://48.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0049",
+    "name": "Судебный участок № 49 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://49.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0050",
+    "name": "Судебный участок № 50 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://50.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0051",
+    "name": "Судебный участок № 51 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://51.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0052",
+    "name": "Судебный участок № 52 Калужского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "248016, г Калуга, ул Баррикад, д 116",
+    "legal_address": null,
+    "website": "http://52.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0053",
+    "name": "Судебный участок № 53 Боровского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249010, Калужская обл, г Боровск, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://53.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0054",
+    "name": "Судебный участок № 54 Дзержинского судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249832, Калужская область, Дзержинский район, г. Кондрово, ул. Советская, д. 4, здание Сбербанка, вход со двора, 2 этаж",
+    "legal_address": null,
+    "website": "http://54.klg.msudrf.ru"
+  },
+  {
+    "code": "40MS0055",
+    "name": "Судебный участок № 55 Малоярославецкого судебного района Калужской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "249096, Калужская обл, г Малоярославец, пл Ленина, д 6",
+    "legal_address": null,
+    "website": "http://55.klg.msudrf.ru"
+  }
+]

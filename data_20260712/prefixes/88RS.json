@@ -1,0 +1,32 @@
+[
+  {
+    "code": "88RS0002",
+    "name": "Байкитский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "648360, Красноярский край, Эвенкийский р-н, с Байкит, ул Бояки, зд 36",
+    "legal_address": null,
+    "website": "http://baykitsky.tur.sudrf.ru"
+  },
+  {
+    "code": "88RS0001",
+    "name": "Илимпийский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "648000, Красноярский край, п Тура, ул Смидовича, д 19",
+    "legal_address": null,
+    "website": "http://ilimpiysky.tur.sudrf.ru"
+  },
+  {
+    "code": "88RS0003",
+    "name": "Тунгусско-Чунский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "648490, Красноярский край, Эвенкийский р-н, с Ванавара, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://tungusso-chunsky.tur.sudrf.ru"
+  }
+]

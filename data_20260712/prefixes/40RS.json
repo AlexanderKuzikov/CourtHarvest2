@@ -1,0 +1,102 @@
+[
+  {
+    "code": "40RS0004",
+    "name": "Боровский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249010, Калужская обл, г Боровск, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://borovsky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0005",
+    "name": "Дзержинский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249832, Калужская обл, г Кондрово, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://dzerzhinsky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0008",
+    "name": "Жуковский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249191, Калужская обл, г Жуков, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://zhukovsky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0001",
+    "name": "Калужский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "248000, г Калуга, ул Кутузова, д 4",
+    "legal_address": null,
+    "website": "http://kaluga.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0010",
+    "name": "Кировский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249440, Калужская обл, г Киров, ул Ленина, д 12Б",
+    "legal_address": null,
+    "website": "http://kirovsky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0011",
+    "name": "Козельский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249722, Калужская обл, г Козельск, ул Советская Б., д 49",
+    "legal_address": null,
+    "website": "http://kozelsky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0013",
+    "name": "Людиновский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249406, Калужская обл, г Людиново, пл Победы, д 5",
+    "legal_address": null,
+    "website": "http://ludinovsky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0017",
+    "name": "Малоярославецкий районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249096, Калужская обл, г Малоярославец, ул Почтовая, д 9",
+    "legal_address": null,
+    "website": "http://maloyaroslavecky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0026",
+    "name": "Обнинский городской суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249031, Калужская обл, г Обнинск, ул Курчатова, д 20А",
+    "legal_address": null,
+    "website": "http://obninsky.klg.sudrf.ru"
+  },
+  {
+    "code": "40RS0020",
+    "name": "Сухиничский районный суд Калужской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "249275, Калужская обл, г Сухиничи, ул Лобачева, д 3",
+    "legal_address": null,
+    "website": "http://suxinichsky.klg.sudrf.ru"
+  }
+]

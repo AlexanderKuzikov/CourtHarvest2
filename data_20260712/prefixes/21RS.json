@@ -1,0 +1,192 @@
+[
+  {
+    "code": "21RS0001",
+    "name": "Алатырский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429820, Чувашская Республика - Чувашия, г Алатырь, ул Первомайская, д 35",
+    "legal_address": null,
+    "website": "http://alatirsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0003",
+    "name": "Батыревский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429350, Чувашская Республика - Чувашия, с Батырево, пр-кт Ленина, д 8А",
+    "legal_address": null,
+    "website": "http://batirevsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0004",
+    "name": "Вурнарский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429220, Чувашская Республика - Чувашия, пгт Вурнары, ул К.Маркса, д 11",
+    "legal_address": null,
+    "website": "http://vurnarsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0005",
+    "name": "Ибресинский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429700, Чувашская Республика - Чувашия, пгт Ибреси, ул Школьная, д 3",
+    "legal_address": null,
+    "website": "http://ibresinsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0024",
+    "name": "Калининский районный суд г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "428000, г Чебоксары, ул Байдукова, д 23",
+    "legal_address": null,
+    "website": "http://kalininsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0006",
+    "name": "Канашский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429335, Чувашская Республика - Чувашия, г Канаш, ул Чкалова, зд 1",
+    "legal_address": null,
+    "website": "http://kanashsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0007",
+    "name": "Козловский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429430, Чувашская Республика - Чувашия, г Козловка, ул Ленина, д 23",
+    "legal_address": null,
+    "website": "http://kozlovsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0009",
+    "name": "Красноармейский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429620, Чувашская Республика - Чувашия, с Красноармейское, ул 30 лет Победы, зд 18",
+    "legal_address": null,
+    "website": "http://krasnoarmeisky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0023",
+    "name": "Ленинский районный суд г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "428000, г Чебоксары, ул Байдукова, д 23",
+    "legal_address": null,
+    "website": "http://leninsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0011",
+    "name": "Мариинско-Посадский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429570, Чувашская Республика - Чувашия, г Мариинский Посад, ул Лазо, д 64",
+    "legal_address": null,
+    "website": "http://mariinsko-posadsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0012",
+    "name": "Моргаушский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429530, Чувашская Республика - Чувашия, с Моргауши, ул Мира, д 4",
+    "legal_address": null,
+    "website": "http://morgaushsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0025",
+    "name": "Московский районный суд г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "428034, г Чебоксары, ул Урукова, д 16",
+    "legal_address": null,
+    "website": "http://moskovsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0022",
+    "name": "Новочебоксарский городской суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429965, Чувашская Республика - Чувашия, г Новочебоксарск, ул Советская, зд 47",
+    "legal_address": null,
+    "website": "http://novocheboksarsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0014",
+    "name": "Урмарский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429400, Чувашская Республика - Чувашия, пгт Урмары, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://urmarsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0015",
+    "name": "Цивильский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429900, Чувашская Республика - Чувашия, г Цивильск, пл Ленина, зд 2А",
+    "legal_address": null,
+    "website": "http://civilsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0016",
+    "name": "Чебоксарский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429500, Чувашская Республика - Чувашия, п Кугеси, ул Советская, д 1",
+    "legal_address": null,
+    "website": "http://cheboksarsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0017",
+    "name": "Шумерлинский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429120, Чувашская Республика - Чувашия, г Шумерля, ул Щербакова, д 3",
+    "legal_address": null,
+    "website": "http://shumerlinsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0019",
+    "name": "Ядринский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429061, Чувашская Республика - Чувашия, г Ядрин, ул Ленина, д 16",
+    "legal_address": null,
+    "website": "http://yadrinsky.chv.sudrf.ru"
+  },
+  {
+    "code": "21RS0020",
+    "name": "Яльчикский районный суд Чувашской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "429380, Чувашская Республика - Чувашия, с Яльчики, ул Кооперативная, д 71",
+    "legal_address": null,
+    "website": "http://yalchiksky.chv.sudrf.ru"
+  }
+]

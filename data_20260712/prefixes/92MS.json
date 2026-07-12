@@ -1,0 +1,212 @@
+[
+  {
+    "code": "92MS0001",
+    "name": "Судебный участок № 1 Балаклавского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "299043, г Севастополь, ул Невская, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/balaklava/1/"
+  },
+  {
+    "code": "92MS0002",
+    "name": "Судебный участок № 2 Балаклавского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "299703, г Севастополь, г Инкерман, ул Менжинского, д 25",
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/balaklava/2/"
+  },
+  {
+    "code": "92MS0003",
+    "name": "Судебный участок № 3 Балаклавского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "299018, г Севастополь, ул Благодатная, д 2А",
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/balaklava/3/"
+  },
+  {
+    "code": "92MS0004",
+    "name": "Судебный участок № 4 Гагаринского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "299014, г Севастополь, ул Правды, д 10",
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/gagarin/4/"
+  },
+  {
+    "code": "92MS0005",
+    "name": "Судебный участок № 5 Гагаринского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/gagarin/5/"
+  },
+  {
+    "code": "92MS0006",
+    "name": "Судебный участок № 6 Гагаринского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/gagarin/6/"
+  },
+  {
+    "code": "92MS0007",
+    "name": "Судебный участок № 7 Гагаринского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/gagarin/7/"
+  },
+  {
+    "code": "92MS0008",
+    "name": "Судебный участок № 8 Гагаринского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/gagarin/8/"
+  },
+  {
+    "code": "92MS0009",
+    "name": "Судебный участок № 9 Гагаринского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/gagarin/9/"
+  },
+  {
+    "code": "92MS0010",
+    "name": "Судебный участок № 10 Гагаринского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/gagarin/10/"
+  },
+  {
+    "code": "92MS0011",
+    "name": "Судебный участок № 11 Ленинского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "299029, г Севастополь, ул Хрусталева, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/lenin/11/"
+  },
+  {
+    "code": "92MS0012",
+    "name": "Судебный участок № 12 Ленинского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/lenin/12/"
+  },
+  {
+    "code": "92MS0013",
+    "name": "Судебный участок № 13 Ленинского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/lenin/13/"
+  },
+  {
+    "code": "92MS0014",
+    "name": "Судебный участок № 14 Ленинского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/lenin/14/"
+  },
+  {
+    "code": "92MS0015",
+    "name": "Судебный участок № 15 Ленинского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/lenin/15"
+  },
+  {
+    "code": "92MS0016",
+    "name": "Судебный участок № 16 Ленинского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/lenin/16/"
+  },
+  {
+    "code": "92MS0017",
+    "name": "Судебный участок № 17 Нахимовского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/nahimov/17/"
+  },
+  {
+    "code": "92MS0018",
+    "name": "Судебный участок № 18 Нахимовского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/nahimov/18/"
+  },
+  {
+    "code": "92MS0019",
+    "name": "Судебный участок № 19 Нахимовского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/nahimov/19/"
+  },
+  {
+    "code": "92MS0020",
+    "name": "Судебный участок № 20 Нахимовского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/nahimov/20/"
+  },
+  {
+    "code": "92MS0021",
+    "name": "Судебный участок № 21 Нахимовского судебного района города Севастополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.sev.gov.ru/courtsinaction/nahimov/21/"
+  }
+]

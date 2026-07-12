@@ -1,0 +1,682 @@
+[
+  {
+    "code": "21MS0001",
+    "name": "Судебный участок № 1 Алатырского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429820, Чувашская Республика - Чувашия, г Алатырь, ул Ленина, д 43",
+    "legal_address": null,
+    "website": "http://alatirsk.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0004",
+    "name": "Судебный участок № 1 Аликовского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429250, Чувашская Республика - Чувашия, с Аликово, ул Чапаева, д 10",
+    "legal_address": null,
+    "website": "http://alikovo1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0005",
+    "name": "Судебный участок № 1 Батыревского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429350, Чувашская Республика - Чувашия, с Батырево, пр-кт Ленина, влд 8",
+    "legal_address": null,
+    "website": "http://bat1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0007",
+    "name": "Судебный участок № 1 Вурнарского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429220, Чувашская Республика - Чувашия, пгт Вурнары, ул Советская, д 16",
+    "legal_address": null,
+    "website": "http://vurn1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0002",
+    "name": "Судебный участок № 1 г. Алатырь Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429820, Чувашская Республика - Чувашия, г Алатырь, ул Ленина, д 43",
+    "legal_address": null,
+    "website": "http://alat1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0012",
+    "name": "Судебный участок № 1 г. Канаш Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429335, Чувашская Республика - Чувашия, г Канаш, ул Пушкина, д 60",
+    "legal_address": null,
+    "website": "http://kanash1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0037",
+    "name": "Судебный участок № 1 г. Новочебоксарска Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429965, Чувашская Республика - Чувашия, г Новочебоксарск, ул Винокурова, д 35",
+    "legal_address": null,
+    "website": "http://nov1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0031",
+    "name": "Судебный участок № 1 г. Шумерля Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429122, Чувашская Республика - Чувашия, г Шумерля, ул Октябрьская, д 23",
+    "legal_address": null,
+    "website": "http://shumer1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0009",
+    "name": "Судебный участок № 1 Ибресинского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429700, Чувашская Республика - Чувашия, пгт Ибреси, ул Садовая, д 6",
+    "legal_address": null,
+    "website": "http://ibresi1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0043",
+    "name": "Судебный участок № 1 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428022, г Чебоксары, ул Калинина, д 102 к 1",
+    "legal_address": null,
+    "website": "http://kalin1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0010",
+    "name": "Судебный участок № 1 Канашского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429335, Чувашская Республика - Чувашия, г Канаш, ул Пушкина, д 60",
+    "legal_address": null,
+    "website": "http://kanashsk1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0015",
+    "name": "Судебный участок № 1 Козловского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429430, Чувашская Республика - Чувашия, г Козловка, ул Герцена, д 21",
+    "legal_address": null,
+    "website": "http://kozl1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0016",
+    "name": "Судебный участок № 1 Комсомольского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429140, Чувашская Республика - Чувашия, с Комсомольское, ул Советская, влд 2",
+    "legal_address": null,
+    "website": "http://kom1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0017",
+    "name": "Судебный участок № 1 Красноармейского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429620, Чувашская Республика - Чувашия, с Красноармейское, ул 30 лет Победы, зд 19",
+    "legal_address": null,
+    "website": "http://kram1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0018",
+    "name": "Судебный участок № 1 Красночетайского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429040, Чувашская Республика - Чувашия, с Красные Четаи, ул Новая, д 10А",
+    "legal_address": null,
+    "website": "http://krchet1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0052",
+    "name": "Судебный участок № 1 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428003, г Чебоксары, ул Гагарина Ю., д 9",
+    "legal_address": null,
+    "website": "http://len1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0019",
+    "name": "Судебный участок № 1 Мариинско-Посадского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429572, Чувашская Республика - Чувашия, г Мариинский Посад, ул Ломоносова, д 12",
+    "legal_address": null,
+    "website": "http://marpo1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0020",
+    "name": "Судебный участок № 1 Моргаушского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429530, Чувашская Республика - Чувашия, с Моргауши, ул Мира, д 9А",
+    "legal_address": null,
+    "website": "http://morgaush1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0060",
+    "name": "Судебный участок № 1 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428009, г Чебоксары, ул Университетская, д 22",
+    "legal_address": null,
+    "website": "http://mos1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0022",
+    "name": "Судебный участок № 1 Порецкого района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429020, Чувашская Республика - Чувашия, с Порецкое, ул Комсомольская, стр 5",
+    "legal_address": null,
+    "website": "http://porezk1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0006",
+    "name": "Судебный участок № 2 Батыревского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429350, Чувашская Республика - Чувашия, с Батырево, пр-кт Ленина, влд 8",
+    "legal_address": null,
+    "website": "http://bat2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0008",
+    "name": "Судебный участок № 2 Вурнарского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429220, Чувашская Республика - Чувашия, пгт Вурнары, ул Советская, д 16",
+    "legal_address": null,
+    "website": "http://vurn2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0003",
+    "name": "Судебный участок № 2 г. Алатырь Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429820, Чувашская Республика - Чувашия, г Алатырь, ул Ленина, д 43",
+    "legal_address": null,
+    "website": "http://alat2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0013",
+    "name": "Судебный участок № 2 г. Канаш Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429335, Чувашская Республика - Чувашия, г Канаш, ул Пушкина, д 60",
+    "legal_address": null,
+    "website": "http://kanash2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0011",
+    "name": "Судебный участок № 2 Канашского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429335, Чувашская Республика - Чувашия, г Канаш, ул Пушкина, д 60",
+    "legal_address": null,
+    "website": "http://kanashsk2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0014",
+    "name": "Судебный участок № 3 г. Канаш Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429335, Чувашская Республика - Чувашия, г Канаш, ул Пушкина, д 60",
+    "legal_address": null,
+    "website": "http://kanash3.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0023",
+    "name": "Судебный участок № 1 Урмарского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429400, Чувашская Республика - Чувашия, пгт Урмары, ул Ленина, д 15",
+    "legal_address": null,
+    "website": "http://urmar1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0024",
+    "name": "Судебный участок № 1 Цивильского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429900, Чувашская Республика - Чувашия, г Цивильск, ул Никитина, д 2А",
+    "legal_address": null,
+    "website": "http://ziv1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0026",
+    "name": "Судебный участок № 1 Чебоксарского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429509, Чувашская Республика - Чувашия, Чебоксарский р-н, п Новое Атлашево, ул Парковая, влд 5",
+    "legal_address": null,
+    "website": "http://cheb1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0029",
+    "name": "Судебный участок № 1 Шемуршинского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429170, Чувашская Республика - Чувашия, с Шемурша, ул Советская, влд 6",
+    "legal_address": null,
+    "website": "http://shemur1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0021",
+    "name": "Судебный участок № 2 Моргаушского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429530, Чувашская Республика - Чувашия, с Моргауши, ул Мира, д 9А",
+    "legal_address": null,
+    "website": "http://morgaush2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0025",
+    "name": "Судебный участок № 2 Цивильского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429900, Чувашская Республика - Чувашия, г Цивильск, ул Никитина, д 2А",
+    "legal_address": null,
+    "website": "http://ziv2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0027",
+    "name": "Судебный участок № 2 Чебоксарского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429500, Чувашская Республика - Чувашия, п Кугеси, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://cheb2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0028",
+    "name": "Судебный участок № 3 Чебоксарского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429500, Чувашская Республика - Чувашия, п Кугеси, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://cheb3.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0030",
+    "name": "Судебный участок № 1 Шумерлинского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429123, Чувашская Республика - Чувашия, г Шумерля, ул Карла Маркса, д 21",
+    "legal_address": null,
+    "website": "http://shumerlin1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0033",
+    "name": "Судебный участок № 1 Ядринского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429061, Чувашская Республика - Чувашия, г Ядрин, ул Первомайская, зд 26А",
+    "legal_address": null,
+    "website": "http://yad1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0035",
+    "name": "Судебный участок № 1 Яльчикского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429380, Чувашская Республика - Чувашия, с Яльчики, ул Советская, д 32",
+    "legal_address": null,
+    "website": "http://yalch1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0036",
+    "name": "Судебный участок № 1 Янтиковского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429290, Чувашская Республика - Чувашия, с Янтиково, пр-кт Ленина, д 21",
+    "legal_address": null,
+    "website": "http://yant1.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0038",
+    "name": "Судебный участок № 2 г. Новочебоксарска Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429965, Чувашская Республика - Чувашия, г Новочебоксарск, ул Винокурова, д 35",
+    "legal_address": null,
+    "website": "http://nov2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0032",
+    "name": "Судебный участок № 2 г. Шумерля Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429122, Чувашская Республика - Чувашия, г Шумерля, ул Октябрьская, д 23",
+    "legal_address": null,
+    "website": "http://shumer2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0034",
+    "name": "Судебный участок № 2 Ядринского района Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429061, Чувашская Республика - Чувашия, г Ядрин, ул Первомайская, зд 26А",
+    "legal_address": null,
+    "website": "http://yad2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0039",
+    "name": "Судебный участок № 3 г. Новочебоксарска Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429960, Чувашская Республика - Чувашия, г Новочебоксарск, ул Строителей, д 56",
+    "legal_address": null,
+    "website": "http://nov3.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0044",
+    "name": "Судебный участок № 2 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428022, г Чебоксары, ул Космонавта Николаева А.Г., д 38",
+    "legal_address": null,
+    "website": "http://kalin2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0045",
+    "name": "Судебный участок № 3 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428022, г Чебоксары, ул Космонавта Николаева А.Г., д 38",
+    "legal_address": null,
+    "website": "http://kalin3.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0040",
+    "name": "Судебный участок № 4 г. Новочебоксарска Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429965, Чувашская Республика - Чувашия, г Новочебоксарск, ул Советская, зд 47",
+    "legal_address": null,
+    "website": "http://nov4.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0046",
+    "name": "Судебный участок № 4 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428031, г Чебоксары, ул Кадыкова, д 18 к 1",
+    "legal_address": null,
+    "website": "http://kalin4.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0041",
+    "name": "Судебный участок № 5 г. Новочебоксарска Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429965, Чувашская Республика - Чувашия, г Новочебоксарск, ул Советская, зд 47",
+    "legal_address": null,
+    "website": "http://nov5.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0047",
+    "name": "Судебный участок № 5 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428031, г Чебоксары, ул Кадыкова, д 18 к 1",
+    "legal_address": null,
+    "website": "http://kalin5.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0042",
+    "name": "Судебный участок № 6 г. Новочебоксарска Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "429960, Чувашская Республика - Чувашия, г Новочебоксарск, ул Строителей, д 56",
+    "legal_address": null,
+    "website": "http://nov6.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0048",
+    "name": "Судебный участок № 6 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428012, г Чебоксары, ул Рихарда Зорге, д 10",
+    "legal_address": null,
+    "website": "http://kalin6.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0049",
+    "name": "Судебный участок № 7 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428012, г Чебоксары, ул Рихарда Зорге, д 10",
+    "legal_address": null,
+    "website": "http://kalin7.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0053",
+    "name": "Судебный участок № 2 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428003, г Чебоксары, ул Гагарина Ю., д 9",
+    "legal_address": null,
+    "website": "http://len2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0054",
+    "name": "Судебный участок № 3 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428003, г Чебоксары, ул Гагарина Ю., д 9",
+    "legal_address": null,
+    "website": "http://len3.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0055",
+    "name": "Судебный участок № 4 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428027, г Чебоксары, ул Ленинского Комсомола, д 16",
+    "legal_address": null,
+    "website": "http://len4.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0056",
+    "name": "Судебный участок № 5 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428027, г Чебоксары, ул Ленинского Комсомола, д 16",
+    "legal_address": null,
+    "website": "http://len5.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0057",
+    "name": "Судебный участок № 6 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428027, г Чебоксары, ул Ленинского Комсомола, д 16",
+    "legal_address": null,
+    "website": "http://len6.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0058",
+    "name": "Судебный участок № 7 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428003, г Чебоксары, пер Бабушкина, д 8",
+    "legal_address": null,
+    "website": "http://len7.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0050",
+    "name": "Судебный участок № 8 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428031, г Чебоксары, ул Кадыкова, д 16",
+    "legal_address": null,
+    "website": "http://kalin8.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0059",
+    "name": "Судебный участок № 8 Ленинского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428003, г Чебоксары, ул Космонавта Николаева А.Г., д 17",
+    "legal_address": null,
+    "website": "http://len8.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0051",
+    "name": "Судебный участок № 9 Калининского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428031, г Чебоксары, ул Пролетарская, д 16",
+    "legal_address": null,
+    "website": "http://kalin9.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0061",
+    "name": "Судебный участок № 2 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428009, г Чебоксары, ул Университетская, д 22",
+    "legal_address": null,
+    "website": "http://mos2.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0062",
+    "name": "Судебный участок № 3 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428009, г Чебоксары, ул Университетская, д 22",
+    "legal_address": null,
+    "website": "http://mos3.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0063",
+    "name": "Судебный участок № 4 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428000, г Чебоксары, ул Пирогова, д 16",
+    "legal_address": null,
+    "website": "http://mos4.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0064",
+    "name": "Судебный участок № 5 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428023, г Чебоксары, ул Композитора Максимова, д 5",
+    "legal_address": null,
+    "website": "http://mos5.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0065",
+    "name": "Судебный участок № 6 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428023, г Чебоксары, ул Композитора Максимова, д 5",
+    "legal_address": null,
+    "website": "http://mos6.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0066",
+    "name": "Судебный участок № 7 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428038, г Чебоксары, ул Промышленная, д 7А",
+    "legal_address": null,
+    "website": "http://mos7.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0067",
+    "name": "Судебный участок № 8 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428034, г Чебоксары, ул Гузовского, д 14",
+    "legal_address": null,
+    "website": "http://mos8.chv.msudrf.ru/"
+  },
+  {
+    "code": "21MS0068",
+    "name": "Судебный участок № 9 Московского района г. Чебоксары Чувашской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "428038, г Чебоксары, ул Промышленная, д 7А",
+    "legal_address": null,
+    "website": "http://mos9.chv.msudrf.ru/"
+  }
+]

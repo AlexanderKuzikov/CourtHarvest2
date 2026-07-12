@@ -1,0 +1,312 @@
+[
+  {
+    "code": "25RS0006",
+    "name": "Арсеньевский городской суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692337, Приморский край, г Арсеньев, ул Ленинская, д 10",
+    "legal_address": null,
+    "website": "http://arsenievsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0007",
+    "name": "Артемовский городской суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692760, Приморский край, г Артем, ул Кирова, д 191",
+    "legal_address": null,
+    "website": "http://artemovsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0015",
+    "name": "Дальнегорский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692446, Приморский край, г Дальнегорск, пр-кт 50 лет Октября, д 89",
+    "legal_address": null,
+    "website": "http://dalnegorsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0008",
+    "name": "Дальнереченский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692132, Приморский край, г Дальнереченск, ул Героев Даманского, зд 30",
+    "legal_address": null,
+    "website": "http://dalnerechensky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0017",
+    "name": "Кавалеровский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692413, Приморский край, пгт Кавалерово, ул Арсеньева, д 100",
+    "legal_address": null,
+    "website": "http://kavalerovsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0018",
+    "name": "Кировский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692091, Приморский край, пгт Кировский, ул Колхозная, д 57",
+    "legal_address": null,
+    "website": "http://kirovsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0019",
+    "name": "Красноармейский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692171, Приморский край, с Новопокровка, ул Калинина, д 5 литера а",
+    "legal_address": null,
+    "website": "http://krasnoarmeysky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0001",
+    "name": "Ленинский районный суд г. Владивостока Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "690001, г Владивосток, ул Пушкинская, д 63",
+    "legal_address": null,
+    "website": "http://leninsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0009",
+    "name": "Лесозаводский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692042, Приморский край, г Лесозаводск, ул Пушкинская, зд 38А",
+    "legal_address": null,
+    "website": "http://lesozavodsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0021",
+    "name": "Михайловский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692651, Приморский край, с Михайловка, ул Новая, зд 1",
+    "legal_address": null,
+    "website": "http://mihaylovsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0039",
+    "name": "Надеждинский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692481, Приморский край, с Вольно-Надеждинское, ул Соснина, зд 2",
+    "legal_address": null,
+    "website": "http://nadezhdinsky.prm.sudrf.ru/"
+  },
+  {
+    "code": "25RS0010",
+    "name": "Находкинский городской суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692904, Приморский край, г Находка, ул Школьная, д 22",
+    "legal_address": null,
+    "website": "http://nahodkinsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0022",
+    "name": "Октябрьский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692561, Приморский край, с Покровка, ул Октябрьская, д 26",
+    "legal_address": null,
+    "website": "http://oktiabrsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0023",
+    "name": "Ольгинский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692460, Приморский край, пгт Ольга, ул Партизанская, стр 3",
+    "legal_address": null,
+    "website": "http://olginsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0013",
+    "name": "Партизанский городской суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692864, Приморский край, г Партизанск, ул Ленинская, зд 26А",
+    "legal_address": null,
+    "website": "http://partizansky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0024",
+    "name": "Партизанский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692962, Приморский край, с Владимиро-Александровское, ул Комсомольская, д 22А",
+    "legal_address": null,
+    "website": "http://partyzansky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0005",
+    "name": "Первомайский районный суд г. Владивостока Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "690021, г Владивосток, ул Черемуховая, д 6",
+    "legal_address": null,
+    "website": "http://pervomaysky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0003",
+    "name": "Первореченский районный суд г. Владивостока Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "690048, г Владивосток, ул Южно-Уральская, д 4",
+    "legal_address": null,
+    "website": "http://pervorechensky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0025",
+    "name": "Пограничный районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692582, Приморский край, пгт Пограничный, ул Карла Маркса, зд 19",
+    "legal_address": null,
+    "website": "http://pogranichny.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0026",
+    "name": "Пожарский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692001, Приморский край, пгт Лучегорск, мкр 4-й, зд 2",
+    "legal_address": null,
+    "website": "http://pozharsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0004",
+    "name": "Советский районный суд г. Владивостока Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "690069, г Владивосток, пр-кт 100-летия Владивостока, д 92",
+    "legal_address": null,
+    "website": "http://sovetsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0002",
+    "name": "Фрунзенский районный суд г. Владивостока Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "690091, Приморский край, г. Владивосток, ул. Адм. Фокина, д. 23 А (уг.), ул. Пограничная, д. 6",
+    "legal_address": null,
+    "website": "http://frunzensky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0011",
+    "name": "Спасский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692245, Приморский край, г Спасск-Дальний, ул Советская, д 75",
+    "legal_address": null,
+    "website": "http://spassky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0029",
+    "name": "Уссурийский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692519, Приморский край, г Уссурийск, ул Фрунзе, зд 95",
+    "legal_address": null,
+    "website": "http://ussuriysky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0038",
+    "name": "Фокинский городской суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692880, Приморский край, г Фокино, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://fokinsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0031",
+    "name": "Ханкайский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692684, Приморский край, с Камень-Рыболов, ул Октябрьская, д 4",
+    "legal_address": null,
+    "website": "http://hankaisky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0030",
+    "name": "Хасанский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692701, Приморский край, пгт Славянка, ул Чкалова, зд 8",
+    "legal_address": null,
+    "website": "http://hasansky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0032",
+    "name": "Хорольский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692254, Приморский край, с Хороль, ул Ленинская, д 90",
+    "legal_address": null,
+    "website": "http://horolsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0033",
+    "name": "Черниговский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692372, Приморский край, с Черниговка, ул Буденного, д 16",
+    "legal_address": null,
+    "website": "http://chernigovsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0034",
+    "name": "Чугуевский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692623, Приморский край, с Чугуевка, ул Комсомольская, д 31",
+    "legal_address": null,
+    "website": "http://chuguevsky.prm.sudrf.ru"
+  },
+  {
+    "code": "25RS0035",
+    "name": "Шкотовский районный суд Приморского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "692801, Приморский край, г Большой Камень, ул Горького, д 27",
+    "legal_address": null,
+    "website": "http://shkotovsky.prm.sudrf.ru"
+  }
+]

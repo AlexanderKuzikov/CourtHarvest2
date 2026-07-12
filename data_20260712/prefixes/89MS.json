@@ -1,0 +1,312 @@
+[
+  {
+    "code": "89MS0022",
+    "name": "Судебный участок судебного района Красноселькупского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629380, Ямало-Ненецкий АО, с Красноселькуп, ул Дзержинского, д 8Б",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/22"
+  },
+  {
+    "code": "89MS0028",
+    "name": "Судебный участок судебного района Тазовского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629350, Ямало-Ненецкий АО, п Тазовский, мкр Маргулова, зд 8",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/28"
+  },
+  {
+    "code": "89MS0029",
+    "name": "Судебный участок судебного района Шурышкарского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629640, Ямало-Ненецкий АО, с Мужи, ул Уральская, д 16А",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/29"
+  },
+  {
+    "code": "89MS0030",
+    "name": "Судебный участок судебного района Ямальского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629700, Ямало-Ненецкий АО, с Яр-Сале, ул Советская, д 31А",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/30"
+  },
+  {
+    "code": "89MS0001",
+    "name": "Судебный участок № 1 судебного района Губкинского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629832, Ямало-Ненецкий АО, г Губкинский, мкр № 7, д 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/1"
+  },
+  {
+    "code": "89MS0003",
+    "name": "Судебный участок № 1 судебного района Лабытнангского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629400, Ямало-Ненецкий АО, Приуральский р-н, г Лабытнанги, ул Клубная, д 68",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/3"
+  },
+  {
+    "code": "89MS0005",
+    "name": "Судебный участок № 1 судебного района Муравленковского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629603, Ямало-Ненецкий АО, г Муравленко, ул 70 лет Октября, д 30А",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/5"
+  },
+  {
+    "code": "89MS0007",
+    "name": "Судебный участок № 1 судебного района Надымского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629736, Ямало-Ненецкий АО, г Надым, ул Геологоразведчиков, д 7",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/7"
+  },
+  {
+    "code": "89MS0009",
+    "name": "Судебный участок № 1 судебного района Новоуренгойского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629309, Ямало-Ненецкий АО, г Новый Уренгой, мкр Советский, д 9 к а стр 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/9"
+  },
+  {
+    "code": "89MS0014",
+    "name": "Судебный участок № 1 судебного района Ноябрьского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629803, ЯНАО, г. Ноябрьск, пр. Мира, д. 49 (рассмотрение дел мировыми судьями). 629803, ЯНАО, г. Ноябрьск, ул. Ленина, д. 20",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/14"
+  },
+  {
+    "code": "89MS0025",
+    "name": "Судебный участок № 1 судебного района Пуровского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629860, Ямало-Ненецкий АО, Пуровский р-н, пгт Уренгой, мкр 3-й, д 21А",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/25"
+  },
+  {
+    "code": "89MS0019",
+    "name": "Судебный участок № 1 судебного района Салехардского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629007, г Салехард, ул Совхозная, влд 13",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/19"
+  },
+  {
+    "code": "89MS0002",
+    "name": "Судебный участок № 2 судебного района Губкинского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629832, Ямало-Ненецкий АО, г Губкинский, мкр № 7, д 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/2"
+  },
+  {
+    "code": "89MS0006",
+    "name": "Судебный участок № 2 судебного района Муравленковского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629602, Ямало-Ненецкий АО, г Муравленко, ул Губкина, д 30",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/6"
+  },
+  {
+    "code": "89MS0008",
+    "name": "Судебный участок № 2 судебного района Надымского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629736, Ямало-Ненецкий АО, г Надым, ул Геологоразведчиков, д 7",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/8"
+  },
+  {
+    "code": "89MS0010",
+    "name": "Судебный участок № 2 судебного района Новоуренгойского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629309, Ямало-Ненецкий АО, г Новый Уренгой, мкр Советский, д 9 к а стр 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/10"
+  },
+  {
+    "code": "89MS0015",
+    "name": "Судебный участок № 2 судебного района Ноябрьского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629803, ЯНАО, г. Ноябрьск, пр. Мира, д. 49 (рассмотрение дел мировыми судьями), 629803, ЯНАО, г. Ноябрьск, ул. Ленина, д. 20",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/15"
+  },
+  {
+    "code": "89MS0026",
+    "name": "Судебный участок № 2 судебного района Пуровского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629850, Ямало-Ненецкий АО, г Тарко-Сале, ул Осенняя, д 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/26"
+  },
+  {
+    "code": "89MS0020",
+    "name": "Судебный участок № 2 судебного района Салехардского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629007, г Салехард, ул Совхозная, влд 13",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/20"
+  },
+  {
+    "code": "89MS0031",
+    "name": "Судебный участок № 3 судебного района Лабытнангского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629400, Ямало-Ненецкий АО, Приуральский р-н, г Лабытнанги, ул Клубная, д 68",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/31"
+  },
+  {
+    "code": "89MS0004",
+    "name": "Судебный участок №2 судебного района Лабытнангского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629400, ЯНАО, г. Лабытнанги, ул. Клубная, д. 68 Проезд автобусом 5 маршрута",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/4"
+  },
+  {
+    "code": "89MS0011",
+    "name": "Судебный участок № 3 судебного района Новоуренгойского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629309, Ямало-Ненецкий АО, г Новый Уренгой, мкр Советский, д 9 к а стр 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/11"
+  },
+  {
+    "code": "89MS0016",
+    "name": "Судебный участок № 3 судебного района Ноябрьского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629803, ЯНАО, г. Ноябрьск, пр. Мира, д. 49 (рассмотрение дел мировыми судьями). 629803, ЯНАО, г. Ноябрьск, ул. Ленина, д. 20",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/16"
+  },
+  {
+    "code": "89MS0012",
+    "name": "Судебный участок № 4 судебного района Новоуренгойского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629303, ЯНАО, г. Новый Уренгой, мкрн. Советский, дом 9, стр. 1, к. АА",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/12"
+  },
+  {
+    "code": "89MS0017",
+    "name": "Судебный участок № 4 судебного района Ноябрьского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629803, ЯНАО, г. Ноябрьск, пр. Мира, д. 49 (рассмотрение дел мировыми судьями). 629803, ЯНАО, г. Ноябрьск, ул. Ленина, д. 20",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/17"
+  },
+  {
+    "code": "89MS0013",
+    "name": "Судебный участок № 5 судебного района Новоуренгойского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629309, Ямало-Ненецкий АО, г Новый Уренгой, мкр Советский, д 9 к а стр 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/13"
+  },
+  {
+    "code": "89MS0018",
+    "name": "Судебный участок № 5 судебного района Ноябрьского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629803, ЯНАО, г. Ноябрьск, пр. Мира, д. 49 (рассмотрение дел мировыми судьями), 629803, ЯНАО, г. Ноябрьск, ул. Ленина, д. 20",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/18"
+  },
+  {
+    "code": "89MS0023",
+    "name": "Судебный участок № 3 судебного района Надымского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629736, Ямало-Ненецкий АО, г Надым, ул Геологоразведчиков, д 7",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/23"
+  },
+  {
+    "code": "89MS0027",
+    "name": "Судебный участок № 3 судебного района Пуровского районного суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629850, Ямало-Ненецкий АО, г Тарко-Сале, ул Осенняя, д 1",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/27"
+  },
+  {
+    "code": "89MS0021",
+    "name": "Судебный участок № 3 судебного района Салехардского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629007, г Салехард, ул Совхозная, влд 13",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/21"
+  },
+  {
+    "code": "89MS0024",
+    "name": "Судебный участок № 4 судебного района Лабытнангского городского суда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "629620, Ямало-Ненецкий АО, с Аксарка, ул Первомайская, д 5",
+    "legal_address": null,
+    "website": "https://mirsud.yanao.ru/24"
+  }
+]

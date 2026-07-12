@@ -1,0 +1,1002 @@
+[
+  {
+    "code": "91MS0001",
+    "name": "Судебный участок № 1 Железнодорожного судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/zheleznodorozhnij/1"
+  },
+  {
+    "code": "91MS0002",
+    "name": "Судебный участок № 2 Железнодорожного судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/zheleznodorozhnij/2"
+  },
+  {
+    "code": "91MS0003",
+    "name": "Судебный участок № 3 Железнодорожного судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/zheleznodorozhnij/3"
+  },
+  {
+    "code": "91MS0004",
+    "name": "Судебный участок № 4 Железнодорожного судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/zheleznodorozhnij/4"
+  },
+  {
+    "code": "91MS0005",
+    "name": "Судебный участок № 5 Железнодорожного судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/zheleznodorozhnij/5"
+  },
+  {
+    "code": "91MS0006",
+    "name": "Судебный участок № 6 Железнодорожного судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/zheleznodorozhnij/6"
+  },
+  {
+    "code": "91MS0007",
+    "name": "Судебный участок № 7 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/7"
+  },
+  {
+    "code": "91MS0008",
+    "name": "Судебный участок № 8 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/8"
+  },
+  {
+    "code": "91MS0009",
+    "name": "Судебный участок № 9 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/9"
+  },
+  {
+    "code": "91MS0010",
+    "name": "Судебный участок № 10 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/10"
+  },
+  {
+    "code": "91MS0011",
+    "name": "Судебный участок № 11 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/11"
+  },
+  {
+    "code": "91MS0012",
+    "name": "Судебный участок № 12 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/12"
+  },
+  {
+    "code": "91MS0013",
+    "name": "Судебный участок № 13 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/13"
+  },
+  {
+    "code": "91MS0014",
+    "name": "Судебный участок № 14 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/14"
+  },
+  {
+    "code": "91MS0015",
+    "name": "Судебный участок № 15 Киевского судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295017, Респ Крым, г Симферополь, ул Киевская, зд 55/2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kievskij/15"
+  },
+  {
+    "code": "91MS0016",
+    "name": "Судебный участок № 16 Центрального судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295013, Респ Крым, г Симферополь, ул Крымских Партизан, зд 3А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/centralnij/16"
+  },
+  {
+    "code": "91MS0017",
+    "name": "Судебный участок № 17 Центрального судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295013, Респ Крым, г Симферополь, ул Крымских Партизан, зд 3А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/centralnij/17"
+  },
+  {
+    "code": "91MS0018",
+    "name": "Судебный участок № 18 Центрального судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295013, Респ Крым, г Симферополь, ул Крымских Партизан, зд 3А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/centralnij/18"
+  },
+  {
+    "code": "91MS0019",
+    "name": "Судебный участок № 19 Центрального судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295013, Респ Крым, г Симферополь, ул Крымских Партизан, зд 3А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/centralnij/19"
+  },
+  {
+    "code": "91MS0020",
+    "name": "Судебный участок № 20 Центрального судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295013, Респ Крым, г Симферополь, ул Крымских Партизан, зд 3А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/centralnij/20"
+  },
+  {
+    "code": "91MS0021",
+    "name": "Судебный участок № 21 Центрального судебного района г. Симферополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295013, Респ Крым, г Симферополь, ул Крымских Партизан, зд 3А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/centralnij/21"
+  },
+  {
+    "code": "91MS0022",
+    "name": "Судебный участок № 22 Алуштинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298500, Респ Крым, г Алушта, ул Багликова, д 21",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/alushtinskij/22"
+  },
+  {
+    "code": "91MS0023",
+    "name": "Судебный участок № 23 Алуштинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298500, Респ Крым, г Алушта, ул Багликова, д 21",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/alushtinskij/23"
+  },
+  {
+    "code": "91MS0024",
+    "name": "Судебный участок № 24 Алуштинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298500, Респ Крым, г Алушта, ул Багликова, д 21",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/alushtinskij/24"
+  },
+  {
+    "code": "91MS0025",
+    "name": "Судебный участок № 25 Армянского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296012, Респ Крым, г Армянск, ул Гайдара, д 6",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/armyanskij/25"
+  },
+  {
+    "code": "91MS0026",
+    "name": "Судебный участок № 26 Бахчисарайского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298400, Респ Крым, Бахчисарайский р-н, г Бахчисарай, ул Фрунзе, д 36В",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/bakhchisarajskij/26"
+  },
+  {
+    "code": "91MS0027",
+    "name": "Судебный участок № 27 Бахчисарайского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298400, Респ Крым, Бахчисарайский р-н, г Бахчисарай, ул Фрунзе, д 36В",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/bakhchisarajskij/27"
+  },
+  {
+    "code": "91MS0028",
+    "name": "Судебный участок № 28 Бахчисарайского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298400, Респ Крым, Бахчисарайский р-н, г Бахчисарай, ул Фрунзе, д 36В",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/bakhchisarajskij/28"
+  },
+  {
+    "code": "91MS0029",
+    "name": "Судебный участок № 29 Бахчисарайского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298400, Респ Крым, Бахчисарайский р-н, г Бахчисарай, ул Фрунзе, д 36В",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/bakhchisarajskij/29"
+  },
+  {
+    "code": "91MS0030",
+    "name": "Судебный участок № 30 Белогорского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297600, Респ Крым, Белогорский р-н, г Белогорск, ул Бекира Чобан-заде, д 26",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/belogorskij/30"
+  },
+  {
+    "code": "91MS0031",
+    "name": "Судебный участок № 31 Белогорского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297600, Респ Крым, Белогорский р-н, г Белогорск, ул Бекира Чобан-заде, д 26",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/belogorskij/31"
+  },
+  {
+    "code": "91MS0032",
+    "name": "Судебный участок № 32 Белогорского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297600, Респ Крым, Белогорский р-н, г Белогорск, ул Бекира Чобан-заде, д 26",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/belogorskij/32"
+  },
+  {
+    "code": "91MS0033",
+    "name": "Судебный участок № 33 Джанкойского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296100, Респ Крым, г Джанкой, ул Октябрьская, д 84",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/dzhankojskij/33"
+  },
+  {
+    "code": "91MS0034",
+    "name": "Судебный участок № 34 Джанкойского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296100, Респ Крым, г Джанкой, ул Октябрьская, д 84",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/dzhankojskij/34"
+  },
+  {
+    "code": "91MS0035",
+    "name": "Судебный участок № 35 Джанкойского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296100, Респ Крым, г Джанкой, ул Октябрьская, д 84",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/dzhankojskij/35"
+  },
+  {
+    "code": "91MS0036",
+    "name": "Судебный участок № 36 Джанкойского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296100, Респ Крым, г Джанкой, ул Октябрьская, д 84",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/dzhankojskij/36"
+  },
+  {
+    "code": "91MS0037",
+    "name": "Судебный участок № 37 Джанкойского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296100, Респ Крым, г Джанкой, ул Октябрьская, д 84",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/dzhankojskij/37"
+  },
+  {
+    "code": "91MS0038",
+    "name": "Судебный участок № 38 Евпаторийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297412, Респ Крым, г Евпатория, ул Горького, д 10/29",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/evpatoria/38"
+  },
+  {
+    "code": "91MS0039",
+    "name": "Судебный участок № 39 Евпаторийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297412, Респ Крым, г Евпатория, ул Горького, д 10/29",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/evpatoria/39"
+  },
+  {
+    "code": "91MS0040",
+    "name": "Судебный участок № 40 Евпаторийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297412, Респ Крым, г Евпатория, ул Горького, д 10/29",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/evpatoria/40"
+  },
+  {
+    "code": "91MS0041",
+    "name": "Судебный участок № 41 Евпаторийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297412, Респ Крым, г Евпатория, ул Горького, д 10/29",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/evpatoria/41"
+  },
+  {
+    "code": "91MS0042",
+    "name": "Судебный участок № 42 Евпаторийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297412, Респ Крым, г Евпатория, ул Горького, д 10/29",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/evpatoria/42"
+  },
+  {
+    "code": "91MS0043",
+    "name": "Судебный участок № 43 Евпаторийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297412, Респ Крым, г Евпатория, ул Горького, д 10/29",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/evpatoria/43"
+  },
+  {
+    "code": "91MS0044",
+    "name": "Судебный участок № 44 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/44"
+  },
+  {
+    "code": "91MS0045",
+    "name": "Судебный участок № 45 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/45"
+  },
+  {
+    "code": "91MS0046",
+    "name": "Судебный участок № 46 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/46"
+  },
+  {
+    "code": "91MS0047",
+    "name": "Судебный участок № 47 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/47"
+  },
+  {
+    "code": "91MS0048",
+    "name": "Судебный участок № 48 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/48"
+  },
+  {
+    "code": "91MS0049",
+    "name": "Судебный участок № 49 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/49"
+  },
+  {
+    "code": "91MS0050",
+    "name": "Судебный участок № 50 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/50"
+  },
+  {
+    "code": "91MS0051",
+    "name": "Судебный участок № 51 Керченского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298312, Респ Крым, г Керчь, ул Фурманова, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kerchenskij/51"
+  },
+  {
+    "code": "91MS0052",
+    "name": "Судебный участок № 52 Кировского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297300, Респ Крым, Кировский р-н, пгт Кировское, ул Заводская, д 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kirovskij/52"
+  },
+  {
+    "code": "91MS0053",
+    "name": "Судебный участок № 53 Кировского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297300, Респ Крым, Кировский р-н, пгт Кировское, ул Заводская, д 9",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/kirovskij/53"
+  },
+  {
+    "code": "91MS0054",
+    "name": "Судебный участок № 54 Красногвардейского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297000, Респ Крым, Красногвардейский р-н, пгт Красногвардейское, ул Титова, д 60",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/krasnogvardejskij/54"
+  },
+  {
+    "code": "91MS0055",
+    "name": "Судебный участок № 55 Красногвардейского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297000, Респ Крым, Красногвардейский р-н, пгт Красногвардейское, ул Титова, д 60",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/krasnogvardejskij/55"
+  },
+  {
+    "code": "91MS0056",
+    "name": "Судебный участок № 56 Красногвардейского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297000, Респ Крым, Красногвардейский р-н, пгт Красногвардейское, ул Титова, д 60",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/krasnogvardejskij/56"
+  },
+  {
+    "code": "91MS0057",
+    "name": "Судебный участок № 57 Красногвардейского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297000, Респ Крым, Красногвардейский р-н, пгт Красногвардейское, ул Титова, д 60",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/krasnogvardejskij/57"
+  },
+  {
+    "code": "91MS0058",
+    "name": "Судебный участок № 58 Красноперекопского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296000, Респ Крым, г Красноперекопск, мкр 10, д 4",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/krasnoperekopskij/58"
+  },
+  {
+    "code": "91MS0059",
+    "name": "Судебный участок № 59 Красноперекопского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296000, Респ Крым, г Красноперекопск, мкр 10, д 4",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/krasnoperekopskij/59"
+  },
+  {
+    "code": "91MS0060",
+    "name": "Судебный участок № 60 Красноперекопского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296000, Респ Крым, г Красноперекопск, мкр 10, д 4",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/krasnoperekopskij/60"
+  },
+  {
+    "code": "91MS0061",
+    "name": "Судебный участок № 61 Ленинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298200, Респ Крым, Ленинский р-н, пгт Ленино, ул Дзержинского, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/leninskij/61"
+  },
+  {
+    "code": "91MS0062",
+    "name": "Судебный участок № 62 Ленинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298200, Респ Крым, Ленинский р-н, пгт Ленино, ул Дзержинского, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/leninskij/62"
+  },
+  {
+    "code": "91MS0063",
+    "name": "Судебный участок № 63 Ленинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298200, Респ Крым, Ленинский р-н, пгт Ленино, ул Дзержинского, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/leninskij/63"
+  },
+  {
+    "code": "91MS0064",
+    "name": "Судебный участок № 64 Нижнегорского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297100, Респ Крым, Нижнегорский р-н, пгт Нижнегорский, ул Победы, д 20",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/nizhnegorskij/64"
+  },
+  {
+    "code": "91MS0065",
+    "name": "Судебный участок № 65 Нижнегорского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297100, Респ Крым, Нижнегорский р-н, пгт Нижнегорский, ул Победы, д 20",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/nizhnegorskij/65"
+  },
+  {
+    "code": "91MS0066",
+    "name": "Судебный участок № 66 Первомайского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296300, Респ Крым, Первомайский р-н, пгт Первомайское, ул Кооперативная, д 6",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/pervomajskij/66"
+  },
+  {
+    "code": "91MS0067",
+    "name": "Судебный участок № 67 Первомайского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296300, Респ Крым, Первомайский р-н, пгт Первомайское, ул Кооперативная, д 6",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/pervomajskij/67"
+  },
+  {
+    "code": "91MS0068",
+    "name": "Судебный участок № 68 Раздольненского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296200, Респ Крым, Раздольненский р-н, пгт Раздольное, пр-кт 30-лет Победы, д 22",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/razdolnenskij/68"
+  },
+  {
+    "code": "91MS0069",
+    "name": "Судебный участок № 69 Раздольненского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296200, Респ Крым, Раздольненский р-н, пгт Раздольное, пр-кт 30-лет Победы, д 22",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/razdolnenskij/69"
+  },
+  {
+    "code": "91MS0070",
+    "name": "Судебный участок № 70 Сакского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296500, Респ Крым, г Саки, ул Трудовая, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sakskij/70"
+  },
+  {
+    "code": "91MS0071",
+    "name": "Судебный участок № 71 Сакского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296500, Респ Крым, г Саки, ул Трудовая, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sakskij/71"
+  },
+  {
+    "code": "91MS0072",
+    "name": "Судебный участок № 72 Сакского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296500, Респ Крым, г Саки, ул Трудовая, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sakskij/72"
+  },
+  {
+    "code": "91MS0073",
+    "name": "Судебный участок № 73 Сакского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296500, Респ Крым, г Саки, ул Трудовая, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sakskij/73"
+  },
+  {
+    "code": "91MS0074",
+    "name": "Судебный участок № 74 Сакского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296500, Респ Крым, г Саки, ул Трудовая, д 8",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sakskij/74"
+  },
+  {
+    "code": "91MS0075",
+    "name": "Судебный участок № 75 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/75"
+  },
+  {
+    "code": "91MS0076",
+    "name": "Судебный участок № 76 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/76"
+  },
+  {
+    "code": "91MS0077",
+    "name": "Судебный участок № 77 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/77"
+  },
+  {
+    "code": "91MS0078",
+    "name": "Судебный участок № 78 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/78"
+  },
+  {
+    "code": "91MS0079",
+    "name": "Судебный участок № 79 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/79"
+  },
+  {
+    "code": "91MS0080",
+    "name": "Судебный участок № 80 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/80"
+  },
+  {
+    "code": "91MS0081",
+    "name": "Судебный участок № 81 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/81"
+  },
+  {
+    "code": "91MS0082",
+    "name": "Судебный участок № 82 Симферопольского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "295034, Респ Крым, г Симферополь, ул Куйбышева, д 58",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/simferopolskij/82"
+  },
+  {
+    "code": "91MS0083",
+    "name": "Судебный участок № 83 Советского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297200, Респ Крым, Советский р-н, пгт Советский, ул Матросова, д 1А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sovetskij/83"
+  },
+  {
+    "code": "91MS0084",
+    "name": "Судебный участок № 84 Советского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "297200, Респ Крым, Советский р-н, пгт Советский, ул Матросова, д 1А",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sovetskij/84"
+  },
+  {
+    "code": "91MS0085",
+    "name": "Судебный участок № 85 Судакского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298000, Респ Крым, г Судак, ул Гвардейская, д 2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sudakskij/85"
+  },
+  {
+    "code": "91MS0086",
+    "name": "Судебный участок № 86 Судакского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298000, Респ Крым, г Судак, ул Гвардейская, д 2",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/sudakskij/86"
+  },
+  {
+    "code": "91MS0087",
+    "name": "Судебный участок № 87 Феодосийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298100, Респ Крым, г Феодосия, ул Земская, зд 10",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/feodosijskij/87"
+  },
+  {
+    "code": "91MS0088",
+    "name": "Судебный участок № 88 Феодосийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298100, Респ Крым, г Феодосия, ул Земская, зд 10",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/feodosijskij/88"
+  },
+  {
+    "code": "91MS0089",
+    "name": "Судебный участок № 89 Феодосийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298100, Респ Крым, г Феодосия, ул Земская, зд 10",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/feodosijskij/89"
+  },
+  {
+    "code": "91MS0090",
+    "name": "Судебный участок № 90 Феодосийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298100, Респ Крым, г Феодосия, ул Земская, зд 10",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/feodosijskij/90"
+  },
+  {
+    "code": "91MS0091",
+    "name": "Судебный участок № 91 Феодосийского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298100, Респ Крым, г Феодосия, ул Земская, зд 10",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/feodosijskij/91"
+  },
+  {
+    "code": "91MS0092",
+    "name": "Судебный участок № 92 Черноморского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296400, Респ Крым, Черноморский р-н, пгт Черноморское, ул Почтовая, зд 82",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/chernomorskij/92"
+  },
+  {
+    "code": "91MS0093",
+    "name": "Судебный участок № 93 Черноморского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "296400, Респ Крым, Черноморский р-н, пгт Черноморское, ул Почтовая, зд 82",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/chernomorskij/93"
+  },
+  {
+    "code": "91MS0094",
+    "name": "Судебный участок № 94 Ялтинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298600, Респ Крым, г Ялта, ул Васильева, д 19",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/jaltinskij/94"
+  },
+  {
+    "code": "91MS0095",
+    "name": "Судебный участок № 95 Ялтинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298600, Респ Крым, г Ялта, ул Васильева, д 19",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/jaltinskij/95"
+  },
+  {
+    "code": "91MS0096",
+    "name": "Судебный участок № 96 Ялтинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298600, Респ Крым, г Ялта, ул Васильева, д 19",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/jaltinskij/96"
+  },
+  {
+    "code": "91MS0097",
+    "name": "Судебный участок № 97 Ялтинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298600, Респ Крым, г Ялта, ул Васильева, д 19",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/jaltinskij/97"
+  },
+  {
+    "code": "91MS0098",
+    "name": "Судебный участок № 98 Ялтинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298600, Респ Крым, г Ялта, ул Васильева, д 19",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/jaltinskij/98"
+  },
+  {
+    "code": "91MS0099",
+    "name": "Судебный участок № 99 Ялтинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298600, Респ Крым, г Ялта, ул Васильева, д 19",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/jaltinskij/99"
+  },
+  {
+    "code": "91MS0100",
+    "name": "Судебный участок № 100 Ялтинского судебного района Республики Крым",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "298600, Респ Крым, г Ялта, ул Васильева, д 19",
+    "legal_address": null,
+    "website": "http://mirsud82.rk.gov.ru/courtsinaction/jaltinskij/100"
+  }
+]

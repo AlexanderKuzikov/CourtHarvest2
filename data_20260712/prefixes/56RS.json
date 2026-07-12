@@ -1,0 +1,372 @@
+[
+  {
+    "code": "56RS0005",
+    "name": "Абдулинский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461743, Оренбургская обл, г Абдулино, ул Советская, д 187",
+    "legal_address": null,
+    "website": "http://abdulinsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0001",
+    "name": "Адамовский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462830, Оренбургская обл, п Адамовка, пер Тупой, д 18",
+    "legal_address": null,
+    "website": "http://adamovsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0003",
+    "name": "Акбулакский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461550, Оренбургская обл, п Акбулак, ул Юбилейная, зд 1",
+    "legal_address": null,
+    "website": "http://akbulaksky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0004",
+    "name": "Александровский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461830, Оренбургская обл, с Александровка, ул Мичурина, зд 36",
+    "legal_address": null,
+    "website": "http://aleksandrovsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0006",
+    "name": "Беляевский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461330, Оренбургская обл, с Беляевка, ул Советская, д 61А",
+    "legal_address": null,
+    "website": "http://belyaevsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0007",
+    "name": "Бугурусланский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461630, Оренбургская обл, г Бугуруслан, ул Ленинградская, зд 64",
+    "legal_address": null,
+    "website": "http://buguruslansky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0008",
+    "name": "Бузулукский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461050, Оренбургская обл, г Бузулук, мкр 3-й, д 6А",
+    "legal_address": null,
+    "website": "http://buzuluksky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0010",
+    "name": "Гайский городской суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462631, Оренбургская обл, г Гай, ул Ленина, зд 26",
+    "legal_address": null,
+    "website": "http://gaysky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0009",
+    "name": "Дзержинский районный суд г. Оренбурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "460019, г Оренбург, ш Шарлыкское, д 1",
+    "legal_address": null,
+    "website": "http://dzerzhinsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0013",
+    "name": "Домбаровский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462734, Оренбургская обл, п Домбаровский, ул Осипенко, д 14",
+    "legal_address": null,
+    "website": "http://dombarovsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0012",
+    "name": "Илекский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461350, Оренбургская обл, с Илек, ул Чапаевская, д 53",
+    "legal_address": null,
+    "website": "http://ileksky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0017",
+    "name": "Кваркенский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462860, Оренбургская обл, с Кваркено, ул Ленина, д 17",
+    "legal_address": null,
+    "website": "http://kvarkensky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0016",
+    "name": "Красногвардейский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461150, Оренбургская обл, с Плешаново, ул Советская, д 6",
+    "legal_address": null,
+    "website": "http://krasnogvardeysky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0015",
+    "name": "Кувандыкский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462241, Оренбургская обл, г Кувандык, ул Фестивальная, зд 4",
+    "legal_address": null,
+    "website": "http://kuvandyksky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0018",
+    "name": "Ленинский районный суд г. Оренбурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "460006, г Оренбург, ул Постникова, д 15",
+    "legal_address": null,
+    "website": "http://leninsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0019",
+    "name": "Ленинский районный суд г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462403, Оренбургская обл, г Орск, ул Школьная, д 8А",
+    "legal_address": null,
+    "website": "http://leninskyorsk.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0021",
+    "name": "Медногорский городской суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462274, Оренбургская обл, г Медногорск, ул Южная, д 2",
+    "legal_address": null,
+    "website": "http://mednogorsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0022",
+    "name": "Новоорский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462800, Оренбургская обл, п Новоорск, ул Рабочая, д 18А",
+    "legal_address": null,
+    "website": "http://novoorsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0024",
+    "name": "Новосергиевский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461200, Оренбургская обл, п Новосергиевка, пр-кт Калинина, д 114",
+    "legal_address": null,
+    "website": "http://novosergievsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0023",
+    "name": "Новотроицкий городской суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462360, Оренбургская обл, г Новотроицк, ул Марии Корецкой, д 31А",
+    "legal_address": null,
+    "website": "http://novotroitsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0026",
+    "name": "Октябрьский районный суд г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462404, Оренбургская обл, г Орск, ул Нефтяников, д 12",
+    "legal_address": null,
+    "website": "http://oktyabrskyorsk.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0027",
+    "name": "Оренбургский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "460037, г Оренбург, ул Путепроводная, зд 11Б",
+    "legal_address": null,
+    "website": "http://orenburgsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0028",
+    "name": "Переволоцкий районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461263, Оренбургская обл, п Переволоцкий, ул Ленинская, д 88",
+    "legal_address": null,
+    "website": "http://perevolotsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0029",
+    "name": "Пономаревский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461780, Оренбургская обл, с Пономаревка, ул Советская, зд 28",
+    "legal_address": null,
+    "website": "http://ponomarevsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0031",
+    "name": "Первомайский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461980, Оренбургская обл, п Первомайский, ул Гагарина, д 3",
+    "legal_address": null,
+    "website": "http://pervomaysky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0030",
+    "name": "Промышленный районный суд г. Оренбурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "460004, г Оренбург, ул Интернациональная, д 1",
+    "legal_address": null,
+    "website": "http://promyshleny.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0038",
+    "name": "Сакмарский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461420, Оренбургская обл, с Сакмара, ул Советская, д 15",
+    "legal_address": null,
+    "website": "http://sakmarsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0034",
+    "name": "Саракташский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462100, Оренбургская обл, п Саракташ, ул Мира, д 85",
+    "legal_address": null,
+    "website": "http://saraktashsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0033",
+    "name": "Советский районный суд г. Орска Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462408, Оренбургская обл, г Орск, ул Вокзальная, д 30",
+    "legal_address": null,
+    "website": "http://sovetsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0032",
+    "name": "Соль-Илецкий районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461505, Оренбургская обл, г Соль-Илецк, ул Советская, д 8А",
+    "legal_address": null,
+    "website": "http://sol-iletsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0035",
+    "name": "Сорочинский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461900, Оренбургская обл, г Сорочинск, ул Чапаева, д 23",
+    "legal_address": null,
+    "website": "http://sorochinsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0039",
+    "name": "Тюльганский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462010, Оренбургская обл, п Тюльган, ул Ленина, зд 43",
+    "legal_address": null,
+    "website": "http://tyulgansky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0040",
+    "name": "Ташлинский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461170, Оренбургская обл, с Ташла, ул Довженко, д 31",
+    "legal_address": null,
+    "website": "http://tashlinsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0041",
+    "name": "Тоцкий районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461131, Оренбургская обл, с Тоцкое, ул Красная Площадь, зд 3",
+    "legal_address": null,
+    "website": "http://totsky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0042",
+    "name": "Центральный районный суд г. Оренбурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "460048, г Оренбург, ул Монтажников, д 9",
+    "legal_address": null,
+    "website": "http://centralny.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0043",
+    "name": "Шарлыкский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "461450, Оренбургская обл, с Шарлык, ул Советская, зд 23А",
+    "legal_address": null,
+    "website": "http://sharlyksky.orb.sudrf.ru"
+  },
+  {
+    "code": "56RS0044",
+    "name": "Ясненский районный суд Оренбургской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "462781, Оренбургская обл, г Ясный, ул Северная, д 8А",
+    "legal_address": null,
+    "website": "http://yasnensky.orb.sudrf.ru"
+  }
+]

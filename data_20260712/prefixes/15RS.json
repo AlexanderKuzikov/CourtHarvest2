@@ -1,0 +1,102 @@
+[
+  {
+    "code": "15RS0006",
+    "name": "Алагирский районный суд Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "363246, Респ Северная Осетия - Алания, г Алагир, ул Ленина, зд 88/8",
+    "legal_address": null,
+    "website": "http://alagirsky.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0005",
+    "name": "Ардонский районный суд Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "363334, Респ Северная Осетия - Алания, г Ардон, ул Рамонова, д 21",
+    "legal_address": null,
+    "website": "http://ardonsky.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0012",
+    "name": "Дигорский межрайонный суд Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "363410, Респ Северная Осетия - Алания, г Дигора, ул Сталина, д 13",
+    "legal_address": null,
+    "website": "http://digorskymej.wlk.sudrf.ru/"
+  },
+  {
+    "code": "15RS0004",
+    "name": "Кировский районный суд Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "363600, Респ Северная Осетия - Алания, с Эльхотово, ул Ленина, д 131/1",
+    "legal_address": null,
+    "website": "http://kirovsky.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0009",
+    "name": "Ленинский районный суд г. Владикавказа Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "362007, г Владикавказ, ул Кутузова, д 104",
+    "legal_address": null,
+    "website": "http://leninsky.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0001",
+    "name": "Моздокский районный суд Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "363760, Респ Северная Осетия - Алания, г Моздок, ул Орджоникидзе, влд 26",
+    "legal_address": null,
+    "website": "http://mozdoksky.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0007",
+    "name": "Правобережный районный суд Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "363025, Респ Северная Осетия - Алания, г Беслан, ул Нартовская, стр 13",
+    "legal_address": null,
+    "website": "http://pravoberezhni.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0003",
+    "name": "Пригородный районный суд Республики Северная Осетия - Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "363131, Респ Северная Осетия - Алания, с Октябрьское, ул Павла Тедеева, д 103",
+    "legal_address": null,
+    "website": "http://prigorodni.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0010",
+    "name": "Промышленный районный суд г. Владикавказа Республики Северная Осетия-Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "362002, г Владикавказ, ул Зортова, д 2",
+    "legal_address": null,
+    "website": "http://promishlenni.wlk.sudrf.ru"
+  },
+  {
+    "code": "15RS0011",
+    "name": "Советский районный суд г. Владикавказа Республики Северная Осетия-Алания",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://sovetsky.wlk.sudrf.ru"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "code": "93RS0010",
+    "name": "Авдеевский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://avd.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0011",
+    "name": "Александровский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://aleksandrovskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0012",
+    "name": "Амвросиевский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://amv.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0013",
+    "name": "Артемовский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "284701, Респ Донецкая Народная, г Дебальцево, ул Мокиевской, д 80",
+    "legal_address": null,
+    "website": "http://art.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0001",
+    "name": "Буденновский межрайонный суд города Донецка",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://bud.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0014",
+    "name": "Великоновоселковский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://velikonovoselkovskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0015",
+    "name": "Волновахский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://vln.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0016",
+    "name": "Володарский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://vld.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0002",
+    "name": "Ворошиловский межрайонный суд города Донецка",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "283015, Респ Донецкая Народная, г Донецк, ул Любавина, д 4",
+    "legal_address": null,
+    "website": "http://vr.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0039",
+    "name": "Горловский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://cg-gorl.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0004",
+    "name": "Горняцкий районный суд города Макеевки Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://gorn.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0018",
+    "name": "Дебальцевский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://deb.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0017",
+    "name": "Дзержинский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://dzerzhinskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0019",
+    "name": "Димитровский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://dimitrovskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0020",
+    "name": "Добропольский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://dobropolskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0021",
+    "name": "Докучаевский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://dok.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0022",
+    "name": "Дружковский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://druzhkovskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0023",
+    "name": "Енакиевский межрайонный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://enak.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0006",
+    "name": "Жовтневый районный суд города Мариуполя Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mar-zhovt.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0007",
+    "name": "Ильичевский районный суд город Мариуполя Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mar-ilich.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0003",
+    "name": "Кировский межрайонный суд города Донецка",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://kir.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0008",
+    "name": "Орджоникидзевский районный суд города Мариуполя Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mar-ordzh.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0009",
+    "name": "Приморский районный суд города Мариуполя Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mar-prim.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0005",
+    "name": "Центрально-Городской районный суд города Макеевки Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://centralno-gorodskoy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0024",
+    "name": "Константиновский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://konstantinovskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0025",
+    "name": "Краматорский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://kram.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0026",
+    "name": "Красноармейский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "283015, Респ Донецкая Народная, г Донецк, ул Любавина, д 4, офис 18",
+    "legal_address": null,
+    "website": "http://krasn.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0027",
+    "name": "Краснолиманский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://krasnolimanskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0028",
+    "name": "Марьинский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://marin.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0029",
+    "name": "Новоазовский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://nva.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0030",
+    "name": "Новогродовский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://novogrodovskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0031",
+    "name": "Першотравневый районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mng.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0032",
+    "name": "Селидовский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://selidovskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0033",
+    "name": "Славянский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://slav.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0034",
+    "name": "Старобешевский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://star.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0035",
+    "name": "Тельмановский районный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://tlm.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0036",
+    "name": "Угледарский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://ugledarskiy.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0037",
+    "name": "Харцызский межрайонный суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://harc.dnr.sudrf.ru"
+  },
+  {
+    "code": "93RS0038",
+    "name": "Ясиноватский городской суд Донецкой Народной Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "286006, Респ Донецкая Народная, Ясиноватский р-н, г Ясиноватая, ул Заводская, д 90",
+    "legal_address": null,
+    "website": "http://yasin.dnr.sudrf.ru"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "code": "38RS0001",
+    "name": "Ангарский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665830, Иркутская обл, г Ангарск, ул Ворошилова, д 1",
+    "legal_address": null,
+    "website": "http://angarsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0002",
+    "name": "Балаганский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666391, Иркутская обл, п Балаганск, ул Кольцевая, д 18",
+    "legal_address": null,
+    "website": "http://balagansky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0005",
+    "name": "Бодайбинский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666904, Иркутская обл, г Бодайбо, ул Розы Люксембург, зд 10",
+    "legal_address": null,
+    "website": "http://bodaybinsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0003",
+    "name": "Братский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665708, Иркутская обл, г Братск, жилрайон Центральный, ул Кирова, д 5А",
+    "legal_address": null,
+    "website": "http://bratsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0004",
+    "name": "Братский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665708, Иркутская обл, г Братск, жилрайон Центральный, ул Комсомольская, д 28",
+    "legal_address": null,
+    "website": "http://bratski.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0007",
+    "name": "Жигаловский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666402, Иркутская обл, рп Жигалово, ул Советская, д 28",
+    "legal_address": null,
+    "website": "http://zhigalovsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0008",
+    "name": "Заларинский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666322, Иркутская обл, рп Залари, ул Чкалова, зд 2",
+    "legal_address": null,
+    "website": "http://zalarinsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0009",
+    "name": "Зиминский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665390, Иркутская обл, г Зима, ул Ленина, д 7",
+    "legal_address": null,
+    "website": "http://ziminsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0031",
+    "name": "Иркутский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "664047, г Иркутск, ул Байкальская, д 30",
+    "legal_address": null,
+    "website": "http://irkutsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0014",
+    "name": "Казачинско-Ленский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666504, Иркутская обл, Казачинско-Ленский р-н, мкр 2-й (рп Магистральный), зд 5",
+    "legal_address": null,
+    "website": "http://kazachinsko-lenynsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0011",
+    "name": "Катангский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666611, Иркутская обл, с Ербогачен, ул Строителей, д 21",
+    "legal_address": null,
+    "website": "http://katangsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0010",
+    "name": "Качугский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666201, Иркутская обл, рп Качуг, ул Каландарашвили, д 33",
+    "legal_address": null,
+    "website": "http://kachugsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0012",
+    "name": "Киренский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666701, Иркутская обл, г Киренск, мкр Балахня, ул Шукшина, стр 1",
+    "legal_address": null,
+    "website": "http://kirensky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0032",
+    "name": "Кировский районный суд г. Иркутска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "664011, г Иркутск, ул Желябова, д 6",
+    "legal_address": null,
+    "website": "http://kirovsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0033",
+    "name": "Куйбышевский районный суд г. Иркутска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "664050, г Иркутск, ул Байкальская, д 291",
+    "legal_address": null,
+    "website": "http://kuibyshevsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0013",
+    "name": "Куйтунский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665302, Иркутская обл, рп Куйтун, ул Карла Маркса, д 7",
+    "legal_address": null,
+    "website": "http://kuytunsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0034",
+    "name": "Ленинский районный суд г. Иркутска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "664050, г Иркутск, ул Байкальская, д 291",
+    "legal_address": null,
+    "website": "http://leninsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0015",
+    "name": "Мамско-Чуйский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666811, Иркутская обл, рп Мама, ул Советская, стр 40",
+    "legal_address": null,
+    "website": "http://mamsko-chuysky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0016",
+    "name": "Нижнеилимский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665651, Иркутская обл, г Железногорск-Илимский, кв-л 3, д 15",
+    "legal_address": null,
+    "website": "http://nizhneilimsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0017",
+    "name": "Нижнеудинский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665104, Иркутская обл, г Нижнеудинск, ул Профсоюзная, д 140",
+    "legal_address": null,
+    "website": "http://nizhneudinsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0006",
+    "name": "Черемховский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665413, Иркутская обл, г Черемхово, ул Некрасова, д 5",
+    "legal_address": null,
+    "website": "http://cheremhovski.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0018",
+    "name": "Ольхонский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666130, Иркутская обл, с Еланцы, ул Дзержинского, д 5",
+    "legal_address": null,
+    "website": "http://olhonsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0019",
+    "name": "Падунский районный суд г. Братска Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665702, Иркутская обл, г Братск, жилрайон Энергетик, проезд Стройиндустрии, д 16",
+    "legal_address": null,
+    "website": "http://padunsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0020",
+    "name": "Саянский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666302, Иркутская обл, г Саянск, мкр Центральный, д 20",
+    "legal_address": null,
+    "website": "http://sayansky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0021",
+    "name": "Слюдянский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665904, Иркутская обл, г Слюдянка, ул имени майора Кутелева, д 53",
+    "legal_address": null,
+    "website": "http://sludiansky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0022",
+    "name": "Тайшетский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665009, Иркутская обл, г Тайшет, ул Суворова, д 13",
+    "legal_address": null,
+    "website": "http://taishetsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0023",
+    "name": "Тулунский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665267, Иркутская обл, г Тулун, ул Песочная, д 2А",
+    "legal_address": null,
+    "website": "http://tulunsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0024",
+    "name": "Усольский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665451, Иркутская обл, г Усолье-Сибирское, ул Толбухина, зд 60",
+    "legal_address": null,
+    "website": "http://usolsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0025",
+    "name": "Усть-Кутский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666793, Иркутская обл, г Усть-Кут, ул Володарского, стр 67",
+    "legal_address": null,
+    "website": "http://ust-kutsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0026",
+    "name": "Усть-Удинский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666352, Иркутская обл, п Усть-Уда, ул Ленина, д 3",
+    "legal_address": null,
+    "website": "http://ust-udinsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0028",
+    "name": "Черемховский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665413, Иркутская обл, г Черемхово, ул Некрасова, д 5",
+    "legal_address": null,
+    "website": "http://cheremhovsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0027",
+    "name": "Чунский районный суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "665514, Иркутская обл, рп Чунский, ул Ленина, зд 49",
+    "legal_address": null,
+    "website": "http://chunsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0029",
+    "name": "Шелеховский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666032, Иркутская обл, г Шелехов, кв-л 18-й, д 4",
+    "legal_address": null,
+    "website": "http://shelehovsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0035",
+    "name": "Октябрьский районный суд г. Иркутска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "664050, г Иркутск, ул Байкальская, д 287",
+    "legal_address": null,
+    "website": "http://oktiabrsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0036",
+    "name": "Свердловский районный суд г. Иркутска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "664039, г Иркутск, ул 4-я Железнодорожная, д 34А",
+    "legal_address": null,
+    "website": "http://sverdlovsky.irk.sudrf.ru"
+  },
+  {
+    "code": "38RS0030",
+    "name": "Усть-Илимский городской суд Иркутской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "666685, Иркутская обл, г Усть-Илимск, ул Декабристов, д 3",
+    "legal_address": null,
+    "website": "http://ust-ilimsky.irk.sudrf.ru"
+  }
+]

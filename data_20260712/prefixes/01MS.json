@@ -1,0 +1,242 @@
+[
+  {
+    "code": "01MS0021",
+    "name": "Судебный участок Шовгеновского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385440, Респ Адыгея, аул Хакуринохабль, ул Шовгенова, д 5",
+    "legal_address": null,
+    "website": "http://shovr.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0022",
+    "name": "Судебный участок № 1 г. Адыгейска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385200, Респ Адыгея, г Адыгейск, ул Ленина, д 17",
+    "legal_address": null,
+    "website": "http://adg1.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0001",
+    "name": "Судебный участок № 1 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385009, г Майкоп, п Западный, ул Юбилейная, д 23А",
+    "legal_address": null,
+    "website": "http://maikop1.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0012",
+    "name": "Судебный участок № 1 Гиагинского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385600, Респ Адыгея, ст-ца Гиагинская, ул Красная, д 266",
+    "legal_address": null,
+    "website": "http://giagr1.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0014",
+    "name": "Судебный участок № 1 Кошехабльского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385400, Респ Адыгея, аул Кошехабль, ул Ленина, д 12",
+    "legal_address": null,
+    "website": "http://koshr1.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0016",
+    "name": "Судебный участок № 1 Красногвардейского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385300, Респ Адыгея, с Красногвардейское, ул Чапаева, влд 91",
+    "legal_address": null,
+    "website": "http://krasr1.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0009",
+    "name": "Судебный участок № 1 Майкопского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385730, Респ Адыгея, п Тульский, ул Садовая, д 51А",
+    "legal_address": null,
+    "website": "http://mkpr1.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0018",
+    "name": "Судебный участок № 1 Тахтамукайского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385100, Респ Адыгея, аул Тахтамукай, ул Ш.Хакурате, д 53",
+    "legal_address": null,
+    "website": "http://tahr1.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0002",
+    "name": "Судебный участок № 2 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385000, г Майкоп, ул Крестьянская, д 236",
+    "legal_address": null,
+    "website": "http://maikop2.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0013",
+    "name": "Судебный участок № 2 Гиагинского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385635, Респ Адыгея, Гиагинский р-н, ст-ца Дондуковская, ул Ленина, влд 145",
+    "legal_address": null,
+    "website": "http://giagr2.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0015",
+    "name": "Судебный участок № 2 Кошехабльского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385436, Респ Адыгея, Кошехабльский р-н, с Вольное, ул Чапаева, д 44",
+    "legal_address": null,
+    "website": "http://koshr2.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0017",
+    "name": "Судебный участок № 2 Красногвардейского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385300, Респ Адыгея, с Красногвардейское, ул Чапаева, влд 91",
+    "legal_address": null,
+    "website": "http://krasr2.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0010",
+    "name": "Судебный участок № 2 Майкопского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385750, Респ Адыгея, Майкопский р-н, п Каменномостский, ул Мира, д 48",
+    "legal_address": null,
+    "website": "http://mkpr2.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0019",
+    "name": "Судебный участок № 2 Тахтамукайского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385142, Респ Адыгея, Тахтамукайский р-н, пгт Яблоновский, ул Гагарина, д 144/1 к 7, помещ 1Б",
+    "legal_address": null,
+    "website": "http://tahr2.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0023",
+    "name": "Судебный участок № 2 Теучежского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385230, Респ Адыгея, аул Понежукай, ул Ленина, д 71",
+    "legal_address": null,
+    "website": "http://teur2.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0003",
+    "name": "Судебный участок № 3 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385000, г Майкоп, ул Курганная, д 227",
+    "legal_address": null,
+    "website": "http://maikop3.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0011",
+    "name": "Судебный участок № 3 Майкопского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385730, Респ Адыгея, п Тульский, ул Садовая, д 51А",
+    "legal_address": null,
+    "website": "http://mkpr3.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0020",
+    "name": "Судебный участок № 3 Тахтамукайского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385130, Респ Адыгея, Тахтамукайский р-н, пгт Энем, ул Октябрьская, д 5/1",
+    "legal_address": null,
+    "website": "http://tahr3.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0004",
+    "name": "Судебный участок № 4 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385018, г Майкоп, ул Юннатов, д 2Е",
+    "legal_address": null,
+    "website": "http://maikop4.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0024",
+    "name": "Судебный участок № 4 Тахтамукайского района Республики Адыгея",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385142, Респ Адыгея, Тахтамукайский р-н, пгт Яблоновский, ул Лаухина, д 11",
+    "legal_address": null,
+    "website": "http://tahr4.adg.msudrf.ru/"
+  },
+  {
+    "code": "01MS0005",
+    "name": "Судебный участок № 5 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385008, г Майкоп, ул 12 Марта, д 155",
+    "legal_address": null,
+    "website": "http://maikop5.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0006",
+    "name": "Судебный участок № 6 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385008, г Майкоп, ул 12 Марта, д 155",
+    "legal_address": null,
+    "website": "http://maikop6.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0007",
+    "name": "Судебный участок № 7 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385012, г Майкоп, ул Спортивная, д 39А",
+    "legal_address": null,
+    "website": "http://maikop7.adg.msudrf.ru"
+  },
+  {
+    "code": "01MS0008",
+    "name": "Судебный участок № 8 г. Майкопа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "385012, г Майкоп, ул Кирпичная, д 75",
+    "legal_address": null,
+    "website": "http://maikop8.adg.msudrf.ru"
+  }
+]

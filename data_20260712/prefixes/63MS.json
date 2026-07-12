@@ -1,0 +1,1622 @@
+[
+  {
+    "code": "63MS0002",
+    "name": "Судебный участок № 2 Железнодорожного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://2.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0003",
+    "name": "Судебный участок № 3 Железнодорожного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://3.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0004",
+    "name": "Судебный участок № 4 Железнодорожного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://4.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0005",
+    "name": "Судебный участок № 5 Железнодорожного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://5.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0006",
+    "name": "Судебный участок № 6 Железнодорожного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://6.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0007",
+    "name": "Судебный участок № 7 Октябрьского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443023, г Самара, ул Промышленности, стр 278",
+    "legal_address": null,
+    "website": "http://7.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0008",
+    "name": "Судебный участок № 8 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://8.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0009",
+    "name": "Судебный участок № 9 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://9.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0010",
+    "name": "Судебный участок № 10 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://10.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0011",
+    "name": "Судебный участок № 11 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://11.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0012",
+    "name": "Судебный участок № 12 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://12.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0013",
+    "name": "Судебный участок № 13 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://13.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0014",
+    "name": "Судебный участок № 14 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://14.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0015",
+    "name": "Судебный участок № 15 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://15.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0016",
+    "name": "Судебный участок № 16 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://16.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0017",
+    "name": "Судебный участок № 17 Кировского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://17.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0018",
+    "name": "Судебный участок № 18 Красноглинского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443112, г Самара, п Управленческий, ул Имени академика Н.Д. Кузнецова, д 13",
+    "legal_address": null,
+    "website": "http://18.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0019",
+    "name": "Судебный участок № 19 Красноглинского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443112, г Самара, п Управленческий, ул Имени академика Н.Д. Кузнецова, д 13",
+    "legal_address": null,
+    "website": "http://19.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0020",
+    "name": "Судебный участок № 20 Красноглинского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443112, г Самара, п Управленческий, ул Имени академика Н.Д. Кузнецова, д 13",
+    "legal_address": null,
+    "website": "http://20.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0021",
+    "name": "Судебный участок № 21 Красноглинского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443112, г Самара, п Управленческий, ул Имени академика Н.Д. Кузнецова, д 13",
+    "legal_address": null,
+    "website": "http://21.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0022",
+    "name": "Судебный участок № 22 Куйбышевского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443004, г Самара, ул Грозненская, д 4",
+    "legal_address": null,
+    "website": "http://22.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0023",
+    "name": "Судебный участок № 23 Куйбышевского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443004, г Самара, ул Грозненская, д 4",
+    "legal_address": null,
+    "website": "http://23.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0024",
+    "name": "Судебный участок № 24 Куйбышевского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443004, г Самара, ул Молдавская, д 4",
+    "legal_address": null,
+    "website": "http://24.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0025",
+    "name": "Судебный участок № 25 Куйбышевского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443004, г Самара, ул Молдавская, д 4",
+    "legal_address": null,
+    "website": "http://25.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0026",
+    "name": "Судебный участок № 26 Ленинского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://26.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0027",
+    "name": "Судебный участок № 27 Ленинского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://27.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0028",
+    "name": "Судебный участок № 28 Ленинского судебного района г. Самара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://28.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0029",
+    "name": "Судебный участок № 29 Октябрьского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443023, г Самара, ул Промышленности, стр 278",
+    "legal_address": null,
+    "website": "http://29.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0030",
+    "name": "Судебный участок № 30 Ленинского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443030, г Самара, ул Спортивная, д 17",
+    "legal_address": null,
+    "website": "http://30.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0031",
+    "name": "Судебный участок № 31 Самарского судебного района г. Самара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443099, г Самара, пер Репина, д 4",
+    "legal_address": null,
+    "website": "http://31.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0032",
+    "name": "Судебный участок № 32 Октябрьского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443023, г Самара, ул Промышленности, стр 278",
+    "legal_address": null,
+    "website": "http://32.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0033",
+    "name": "Судебный участок № 33 Октябрьского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443023, г Самара, ул Промышленности, стр 278",
+    "legal_address": null,
+    "website": "http://33.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0034",
+    "name": "Судебный участок № 34 Октябрьского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443023, г Самара, ул Промышленности, стр 278",
+    "legal_address": null,
+    "website": "http://34.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0035",
+    "name": "Судебный участок № 35 Октябрьского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443023, г Самара, ул Промышленности, стр 278",
+    "legal_address": null,
+    "website": "http://35.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0036",
+    "name": "Судебный участок № 36 Октябрьского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443023, г Самара, ул Промышленности, стр 278",
+    "legal_address": null,
+    "website": "http://36.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0037",
+    "name": "Судебный участок № 37 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://37.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0038",
+    "name": "Судебный участок № 38 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://38.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0039",
+    "name": "Судебный участок № 39 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://39.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0040",
+    "name": "Судебный участок № 40 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://40.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0041",
+    "name": "Судебный участок № 41 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://41.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0042",
+    "name": "Судебный участок № 42 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://42.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0043",
+    "name": "Судебный участок № 43 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://43.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0044",
+    "name": "Судебный участок № 44 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://44.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0045",
+    "name": "Судебный участок № 45 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://45.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0046",
+    "name": "Судебный участок № 46 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://46.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0047",
+    "name": "Судебный участок № 47 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://47.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0048",
+    "name": "Судебный участок № 48 Промышленного судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443092, г Самара, ул Теннисная, д 14А",
+    "legal_address": null,
+    "website": "http://48.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0049",
+    "name": "Судебный участок № 49 Самарского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443099, г Самара, пер Репина, д 4",
+    "legal_address": null,
+    "website": "http://49.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0050",
+    "name": "Судебный участок № 50 Советского судебного района г. Самара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://50.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0051",
+    "name": "Судебный участок № 51 Советского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://51.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0052",
+    "name": "Судебный участок № 52 Советского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://52.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0053",
+    "name": "Судебный участок № 53 Советского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://53.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0054",
+    "name": "Судебный участок № 54 Советского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://54.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0055",
+    "name": "Судебный участок № 55 Советского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://55.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0056",
+    "name": "Судебный участок № 56 Советского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://56.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0057",
+    "name": "Судебный участок № 57 Советского судебного района г. Самары",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443117, г Самара, ул Партизанская, д 236",
+    "legal_address": null,
+    "website": "http://57.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0058",
+    "name": "Судебный участок № 58 судебного района г. Жигулевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445351, Самарская обл, г Жигулевск, ул Гидростроителей, д 10",
+    "legal_address": null,
+    "website": "http://58.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0059",
+    "name": "Судебный участок № 59 судебного района г. Жигулевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445351, Самарская обл, г Жигулевск, ул Гидростроителей, д 10",
+    "legal_address": null,
+    "website": "http://59.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0060",
+    "name": "Судебный участок № 60 судебного района г. Жигулевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445351, Самарская обл, г Жигулевск, ул Гидростроителей, д 10",
+    "legal_address": null,
+    "website": "http://60.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0061",
+    "name": "Судебный участок № 61 судебного района г. Жигулевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445351, Самарская обл, г Жигулевск, ул Гидростроителей, д 10",
+    "legal_address": null,
+    "website": "http://61.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0062",
+    "name": "Судебный участок № 62 Кинельского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446430, Самарская обл, г Кинель, ул Фестивальная, д 5А",
+    "legal_address": null,
+    "website": "http://62.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0063",
+    "name": "Судебный участок № 63 Кинельского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446430, Самарская обл, г Кинель, ул Фестивальная, д 5А",
+    "legal_address": null,
+    "website": "http://63.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0064",
+    "name": "Судебный участок № 64 Кинельского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446430, Самарская обл, г Кинель, ул Фестивальная, д 5А",
+    "legal_address": null,
+    "website": "http://64.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0065",
+    "name": "Судебный участок № 65 судебного района г. Новокуйбышевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446200, Самарская область, г. Новокуйбышевск, ул. Сафразьяна, д. 7, вход с ул. Островского",
+    "legal_address": null,
+    "website": "http://65.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0066",
+    "name": "Судебный участок № 66 судебного района г. Новокуйбышевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446200, Самарская область, г. Новокуйбышевск, ул. Сафразьяна, д. 7, вход с ул. Островского",
+    "legal_address": null,
+    "website": "http://66.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0067",
+    "name": "Судебный участок № 67 судебного района г. Новокуйбышевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446200, Самарская область, г. Новокуйбышевск, ул. Сафразьяна, д. 7, вход с ул. Островского",
+    "legal_address": null,
+    "website": "http://67.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0068",
+    "name": "Судебный участок № 68 судебного района г. Новокуйбышевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446200, Самарская область, г. Новокуйбышевск, ул. Сафразьяна, д. 7, вход с ул. Островского",
+    "legal_address": null,
+    "website": "http://68.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0069",
+    "name": "Судебный участок № 69 судебного района г. Новокуйбышевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446200, Самарская область, г. Новокуйбышевск, ул. Сафразьяна, д. 7, вход с ул. Островского",
+    "legal_address": null,
+    "website": "http://69.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0070",
+    "name": "Судебный участок № 70 судебного района г. Октябрьска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445240, Самарская обл, г Октябрьск, пер Кирпичный, д 4",
+    "legal_address": null,
+    "website": "http://70.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0071",
+    "name": "Судебный участок № 71 судебного района г. Октябрьска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445240, Самарская обл, г Октябрьск, пер Кирпичный, д 4",
+    "legal_address": null,
+    "website": "http://71.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0072",
+    "name": "Судебный участок № 72 судебного района г. Отрадного Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446304, Самарская обл, г Отрадный, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://72.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0073",
+    "name": "Судебный участок № 73 судебного района г. Отрадного Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446304, Самарская обл, г Отрадный, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://73.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0074",
+    "name": "Судебный участок № 74 судебного района г. Отрадного Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446304, Самарская обл, г Отрадный, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://74.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0075",
+    "name": "Судебный участок № 75 Похвистневского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446450, Самарская обл, г Похвистнево, ул Куйбышева, д 11",
+    "legal_address": null,
+    "website": "http://75.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0076",
+    "name": "Судебный участок № 76 Похвистневского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446450, Самарская обл, г Похвистнево, ул Куйбышева, д 11",
+    "legal_address": null,
+    "website": "http://76.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0077",
+    "name": "Судебный участок № 77 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://77.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0078",
+    "name": "Судебный участок № 78 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://78.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0079",
+    "name": "Судебный участок № 79 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://79.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0080",
+    "name": "Судебный участок № 80 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://80.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0081",
+    "name": "Судебный участок № 81 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://81.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0082",
+    "name": "Судебный участок № 82 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://82.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0083",
+    "name": "Судебный участок № 83 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://83.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0084",
+    "name": "Судебный участок № 84 судебного района г. Сызрани Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 47А",
+    "legal_address": null,
+    "website": "http://84.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0085",
+    "name": "Судебный участок № 85 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://85.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0086",
+    "name": "Судебный участок № 86 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://86.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0087",
+    "name": "Судебный участок № 87 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://87.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0088",
+    "name": "Судебный участок № 88 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://88.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0089",
+    "name": "Судебный участок № 89 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://89.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0090",
+    "name": "Судебный участок № 90 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://90.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0091",
+    "name": "Судебный участок № 91 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://91.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0092",
+    "name": "Судебный участок № 92 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://92.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0093",
+    "name": "Судебный участок № 93 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://93.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0094",
+    "name": "Судебный участок № 94 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://94.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0095",
+    "name": "Судебный участок № 95 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://95.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0096",
+    "name": "Судебный участок № 96 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://96.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0097",
+    "name": "Судебный участок № 97 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://97.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0098",
+    "name": "Судебный участок № 98 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://98.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0099",
+    "name": "Судебный участок № 99 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://99.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0100",
+    "name": "Судебный участок № 100 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://100.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0101",
+    "name": "Судебный участок № 101 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://101.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0102",
+    "name": "Судебный участок № 102 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://102.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0103",
+    "name": "Судебный участок № 103 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://103.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0104",
+    "name": "Судебный участок № 104 Автозаводского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445039, Самарская обл, г Тольятти, ул Дзержинского, д 17Б",
+    "legal_address": null,
+    "website": "http://104.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0105",
+    "name": "Судебный участок № 105 Комсомольского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445015, Самарская обл, г Тольятти, ул Шлюзовая, влд 4",
+    "legal_address": null,
+    "website": "http://105.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0106",
+    "name": "Судебный участок № 106 Комсомольского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445015, Самарская обл, г Тольятти, ул Шлюзовая, влд 4",
+    "legal_address": null,
+    "website": "http://106.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0107",
+    "name": "Судебный участок № 107 Комсомольского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445015, Самарская обл, г Тольятти, ул Шлюзовая, влд 4",
+    "legal_address": null,
+    "website": "http://107.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0108",
+    "name": "Судебный участок № 108 Комсомольского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445015, Самарская обл, г Тольятти, ул Шлюзовая, влд 4",
+    "legal_address": null,
+    "website": "http://108.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0109",
+    "name": "Судебный участок № 109 Комсомольского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445015, Самарская обл, г Тольятти, ул Шлюзовая, влд 4",
+    "legal_address": null,
+    "website": "http://109.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0110",
+    "name": "Судебный участок № 110 Комсомольского судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445015, Самарская обл, г Тольятти, ул Шлюзовая, влд 4",
+    "legal_address": null,
+    "website": "http://110.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0111",
+    "name": "Судебный участок № 111 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://111.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0112",
+    "name": "Судебный участок № 112 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://112.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0113",
+    "name": "Судебный участок № 113 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://113.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0114",
+    "name": "Судебный участок № 114 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://114.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0115",
+    "name": "Судебный участок № 115 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://115.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0116",
+    "name": "Судебный участок № 116 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://116.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0117",
+    "name": "Судебный участок № 117 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://117.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0118",
+    "name": "Судебный участок № 118 Центрального судебного района г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://118.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0119",
+    "name": "Судебный участок № 119 судебного района г. Чапаевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446100, Самарская обл, г Чапаевск, ул Пионерская, д 1",
+    "legal_address": null,
+    "website": "http://119.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0120",
+    "name": "Судебный участок № 120 судебного района г. Чапаевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446100, Самарская обл, г Чапаевск, ул Пионерская, д 1",
+    "legal_address": null,
+    "website": "http://120.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0121",
+    "name": "Судебный участок № 121 судебного района г. Чапаевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446100, Самарская обл, г Чапаевск, ул Пионерская, д 1",
+    "legal_address": null,
+    "website": "http://121.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0122",
+    "name": "Судебный участок № 122 судебного района г. Чапаевска Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446100, Самарская обл, г Чапаевск, ул Пионерская, д 1",
+    "legal_address": null,
+    "website": "http://122.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0123",
+    "name": "Судебный участок № 123 Нефтегорского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446640, Самарская обл, с Алексеевка, ул Советская, влд 43",
+    "legal_address": null,
+    "website": "http://123.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0124",
+    "name": "Судебный участок № 124 Безенчукского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446253, Самарская обл, пгт Безенчук, ул Советская, д 172",
+    "legal_address": null,
+    "website": "http://124.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0125",
+    "name": "Судебный участок № 125 Безенчукского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446253, Самарская обл, пгт Безенчук, ул Советская, д 172",
+    "legal_address": null,
+    "website": "http://125.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0126",
+    "name": "Судебный участок № 126 Богатовского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446630, Самарская обл, с Богатое, ул Чапаева, зд 14",
+    "legal_address": null,
+    "website": "http://126.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0127",
+    "name": "Судебный участок № 127 Большеглушицкого судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446180, Самарская обл, с Большая Глушица, ул Советская, зд 36А",
+    "legal_address": null,
+    "website": "http://127.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0128",
+    "name": "Судебный участок № 128 Большеглушицкого судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446290, Самарская обл, с Большая Черниговка, ул Микрорайон, д 3",
+    "legal_address": null,
+    "website": "http://128.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0129",
+    "name": "Судебный участок № 129 Богатовского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446660, Самарская обл, с Борское, ул Ленинградская, д 47",
+    "legal_address": null,
+    "website": "http://129.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0130",
+    "name": "Судебный участок № 130 Волжского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443099, г Самара, ул Молодогвардейская, д 53",
+    "legal_address": null,
+    "website": "http://130.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0131",
+    "name": "Судебный участок № 131 Волжского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443099, г Самара, ул Молодогвардейская, д 53",
+    "legal_address": null,
+    "website": "http://131.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0132",
+    "name": "Судебный участок № 132 Волжского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443099, г Самара, ул Молодогвардейская, д 53",
+    "legal_address": null,
+    "website": "http://132.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0133",
+    "name": "Судебный участок № 133 Волжского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443099, г Самара, ул Молодогвардейская, д 53",
+    "legal_address": null,
+    "website": "http://133.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0134",
+    "name": "Судебный участок № 134 Кошкинского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446870, Самарская обл, с Елховка, ул Матвея Заводского, д 45А, кв 2",
+    "legal_address": null,
+    "website": "http://134.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0135",
+    "name": "Судебный участок № 135 Исаклинского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446570, Самарская обл, с Исаклы, ул Куйбышевская, зд 88",
+    "legal_address": null,
+    "website": "http://135.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0136",
+    "name": "Судебный участок № 136 Клявлинского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446970, Самарская обл, с Камышла, ул Комсомольская, влд 11",
+    "legal_address": null,
+    "website": "http://136.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0137",
+    "name": "Судебный участок № 137 Кинельского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446430, Самарская обл, г Кинель, ул Фестивальная, д 5А",
+    "legal_address": null,
+    "website": "http://137.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0138",
+    "name": "Судебный участок № 138 Кинель-Черкасского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446351, Самарская обл, с Кинель-Черкассы, ул Калинина, д 50",
+    "legal_address": null,
+    "website": "http://138.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0139",
+    "name": "Судебный участок № 139 Кинель-Черкасского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446351, Самарская обл, с Кинель-Черкассы, ул Калинина, д 50",
+    "legal_address": null,
+    "website": "http://139.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0140",
+    "name": "Судебный участок № 140 Кинель-Черкасского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446351, Самарская обл, с Кинель-Черкассы, ул Калинина, д 50",
+    "legal_address": null,
+    "website": "http://140.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0141",
+    "name": "Судебный участок № 141 Клявлинского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446960, Самарская обл, ж/д_ст Клявлино, пр-кт Ленина, д 5",
+    "legal_address": null,
+    "website": "http://141.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0142",
+    "name": "Судебный участок № 142 Кошкинского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446800, Самарская обл, с Кошки, ул 60 лет Октября, влд 19",
+    "legal_address": null,
+    "website": "http://142.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0143",
+    "name": "Судебный участок № 143 Красноармейского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446140, Самарская обл, с Красноармейское, ул Октябрьская, д 1",
+    "legal_address": null,
+    "website": "http://143.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0144",
+    "name": "Судебный участок № 144 Красноярского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446370, Самарская обл, с Красный Яр, ул Приусадебная, д 9",
+    "legal_address": null,
+    "website": "http://144.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0145",
+    "name": "Судебный участок № 145 Красноярского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446370, Самарская обл, с Красный Яр, ул Приусадебная, д 9",
+    "legal_address": null,
+    "website": "http://145.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0146",
+    "name": "Судебный участок № 146 Красноярского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446370, Самарская обл, с Красный Яр, ул Приусадебная, д 9",
+    "legal_address": null,
+    "website": "http://146.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0147",
+    "name": "Судебный участок № 147 Нефтегорского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446600, Самарская обл, г Нефтегорск, ул Спортивная, д 10",
+    "legal_address": null,
+    "website": "http://147.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0148",
+    "name": "Судебный участок № 148 Нефтегорского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446600, Самарская обл, г Нефтегорск, ул Спортивная, д 10",
+    "legal_address": null,
+    "website": "http://148.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0149",
+    "name": "Судебный участок № 149 Красноармейского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446160, Самарская обл, с Пестравка, ул 50 лет Октября, зд 49",
+    "legal_address": null,
+    "website": "http://149.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0150",
+    "name": "Судебный участок № 150 Похвистневского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446450, Самарская обл, г Похвистнево, ул Куйбышева, д 11",
+    "legal_address": null,
+    "website": "http://150.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0151",
+    "name": "Судебный участок № 151 Приволжского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445560, Самарская обл, с Приволжье, ул Больничная, зд 4",
+    "legal_address": null,
+    "website": "http://151.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0152",
+    "name": "Судебный участок № 152 Сергиевского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446540, Самарская обл, с Сергиевск, ул Советская, зд 35",
+    "legal_address": null,
+    "website": "http://152.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0153",
+    "name": "Судебный участок № 153 Сергиевского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446540, Самарская обл, с Сергиевск, ул Советская, зд 35",
+    "legal_address": null,
+    "website": "http://153.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0155",
+    "name": "Судебный участок № 155 Ставропольского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445012, Самарская обл, г Тольятти, ул Мурысева, д 54",
+    "legal_address": null,
+    "website": "http://155.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0156",
+    "name": "Судебный участок № 156 Ставропольского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445012, Самарская обл, г Тольятти, ул Мурысева, д 54",
+    "legal_address": null,
+    "website": "http://156.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0157",
+    "name": "Судебный участок № 157 Ставропольского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445012, Самарская обл, г Тольятти, ул Мурысева, д 54",
+    "legal_address": null,
+    "website": "http://157.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0158",
+    "name": "Судебный участок № 158 Cызранского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Ульяновская, д 127",
+    "legal_address": null,
+    "website": "http://158.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0159",
+    "name": "Судебный участок № 159 Приволжского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "445590, Самарская обл, с Хворостянка, ул Советская, д 43",
+    "legal_address": null,
+    "website": "http://159.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0160",
+    "name": "Судебный участок № 160 Исаклинского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446840, Самарская обл, с Челно-Вершины, ул Шоссейная, зд 1",
+    "legal_address": null,
+    "website": "http://160.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0161",
+    "name": "Судебный участок № 161 Исаклинского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446910, Самарская область, ст. Шентала, ул. Советская, д. 5",
+    "legal_address": null,
+    "website": "http://161.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0162",
+    "name": "Судебный участок № 162 Шигонского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "446720, Самарская обл, Шигонский р-н, с Шигоны, пл Ленина, зд 4",
+    "legal_address": null,
+    "website": "http://162.sam.msudrf.ru"
+  },
+  {
+    "code": "63MS0163",
+    "name": "Судебный участок № 163 Красноглинского судебного района г. Самары Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443112, г Самара, п Управленческий, ул Имени академика Н.Д. Кузнецова, д 13",
+    "legal_address": null,
+    "website": "http://163.sam.msudrf.ru/"
+  },
+  {
+    "code": "63MS0164",
+    "name": "Судебный участок № 164 Волжского судебного района Самарской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "443099, г Самара, ул Молодогвардейская, д 53",
+    "legal_address": null,
+    "website": "https://164.sam.msudrf.ru/"
+  }
+]

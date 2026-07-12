@@ -1,0 +1,82 @@
+[
+  {
+    "code": "01RS0001",
+    "name": "Гиагинский районный суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385600, Респ Адыгея, ст-ца Гиагинская, ул Советская, д 35",
+    "legal_address": null,
+    "website": "http://giaginsky.adg.sudrf.ru"
+  },
+  {
+    "code": "01RS0002",
+    "name": "Кошехабльский районный суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385400, Респ Адыгея, аул Кошехабль, ул Ленина, д 5А",
+    "legal_address": null,
+    "website": "http://koshehablsky.adg.sudrf.ru"
+  },
+  {
+    "code": "01RS0003",
+    "name": "Красногвардейский районный суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385300, Респ Адыгея, с Красногвардейское, ул 50 лет Октября, д 22",
+    "legal_address": null,
+    "website": "http://krasnogvardeysky.adg.sudrf.ru"
+  },
+  {
+    "code": "01RS0004",
+    "name": "Майкопский городской суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385000, г Майкоп, ул Первомайская, д 199",
+    "legal_address": null,
+    "website": "http://maikopsky.adg.sudrf.ru"
+  },
+  {
+    "code": "01RS0005",
+    "name": "Майкопский районный суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385730, Респ Адыгея, п Тульский, ул Ленина, д 47",
+    "legal_address": null,
+    "website": "http://maikopskyr.adg.sudrf.ru"
+  },
+  {
+    "code": "01RS0006",
+    "name": "Тахтамукайский районный суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385100, Респ Адыгея, аул Тахтамукай, ул Х.М.Совмена, д 14",
+    "legal_address": null,
+    "website": "http://tahtamukaysky.adg.sudrf.ru"
+  },
+  {
+    "code": "01RS0007",
+    "name": "Теучежский районный суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385239, Респ Адыгея, г Адыгейск, х Псекупс, ул Ленина, д 17",
+    "legal_address": null,
+    "website": "http://teuchezhsky.adg.sudrf.ru"
+  },
+  {
+    "code": "01RS0008",
+    "name": "Шовгеновский районный суд Республики Адыгея",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "385440, Респ Адыгея, аул Хакуринохабль, ул Краснооктябрьская, д 88",
+    "legal_address": null,
+    "website": "http://shovgenovsky.adg.sudrf.ru"
+  }
+]

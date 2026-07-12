@@ -1,0 +1,662 @@
+[
+  {
+    "code": "46MS0001",
+    "name": "Судебный участок Беловского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Радищева, зд 17",
+    "legal_address": null,
+    "website": "http://belovsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0002",
+    "name": "Судебный участок Большесолдатского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://bolshesoldatsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0003",
+    "name": "Судебный участок Глушковского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Кати Зеленко, д 7",
+    "legal_address": null,
+    "website": "http://glushkovsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0004",
+    "name": "Судебный участок Горшеченского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306710, Курская обл, рп Горшечное, ул Мира, д 42",
+    "legal_address": null,
+    "website": "http://gorshechensky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0011",
+    "name": "Судебный участок Золотухинского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306020, Курская обл, рп Золотухино, ул Советская, влд 2",
+    "legal_address": null,
+    "website": "http://zolotuhinsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0012",
+    "name": "Судебный участок Касторенского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306700, Курская обл, рп Касторное, ул Советская, зд 1/1",
+    "legal_address": null,
+    "website": "http://kastorensky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0013",
+    "name": "Судебный участок Конышевского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307620, Курская обл, рп Конышевка, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://konishevsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0014",
+    "name": "Судебный участок Кореневского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305035, г Курск, ул Красной Армии, д 50",
+    "legal_address": null,
+    "website": "http://korenevsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0023",
+    "name": "Судебный участок Мантуровского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307000, Курская обл, с Мантурово, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://manturovsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0024",
+    "name": "Судебный участок Медвенского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307030, Курская обл, пгт Медвенка, ул Советская, д 36",
+    "legal_address": null,
+    "website": "http://medvensky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0029",
+    "name": "Судебный участок Поныровского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306000, Курская обл, рп Поныри, ул Веселая, влд 1",
+    "legal_address": null,
+    "website": "http://ponirovsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0030",
+    "name": "Судебный участок Пристенского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306200, Курская обл, рп Пристень, ул Коммунальная, зд 9",
+    "legal_address": null,
+    "website": "http://pristensky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0033",
+    "name": "Судебный участок Советского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306622, Курская обл, Советский р-н, с Кшень, ул Свердлова, д 53А",
+    "legal_address": null,
+    "website": "http://sovetsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0034",
+    "name": "Судебный участок Солнцевского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306120, Курская обл, рп Солнцево, ул Кирова, зд 1",
+    "legal_address": null,
+    "website": "http://solncevsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0005",
+    "name": "Судебный участок судебного района г. Дмитриева и Дмитриевского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307500, Курская обл, Дмитриевский р-н, г Дмитриев, ул Ленина, д 54",
+    "legal_address": null,
+    "website": "http://dmitriev.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0038",
+    "name": "Судебный участок судебного района г. Фатежа и Фатежского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307100, Курская обл, г Фатеж, ул Советская, зд 24",
+    "legal_address": null,
+    "website": "http://fatezha.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0037",
+    "name": "Судебный участок Тимского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307060, Курская обл, рп Тим, ул Кирова, д 56",
+    "legal_address": null,
+    "website": "http://timsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0039",
+    "name": "Судебный участок Хомутовского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307500, Курская обл, Дмитриевский р-н, г Дмитриев, ул Ленина, д 54",
+    "legal_address": null,
+    "website": "http://homutovsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0040",
+    "name": "Судебный участок Черемисиновского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306440, Курская обл, пгт Черемисиново, ул Мира, д 11",
+    "legal_address": null,
+    "website": "http://cheremisinovsky.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0015",
+    "name": "Судебный участок № 1 Курского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Горького, д 55А",
+    "legal_address": null,
+    "website": "http://kursky1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0006",
+    "name": "Судебный участок № 1 судебного района г. Железногорска и Железногорского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307130, Курская область, г. Железногорск, ул. XXI Партсъезда, д. 11",
+    "legal_address": null,
+    "website": "http://zheleznogorsk1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0007",
+    "name": "Судебный участок № 2 судебного района г. Железногорска и Железногорского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307130, Курская область, г. Железногорск, ул. XXI Партсъезда, д. 11",
+    "legal_address": null,
+    "website": "http://zheleznogorsk2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0008",
+    "name": "Судебный участок № 3 судебного района г. Железногорска и Железногорского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307130, Курская область, г. Железногорск, ул. XXI Партсъезда, д. 11",
+    "legal_address": null,
+    "website": "http://zheleznogorsk3.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0009",
+    "name": "Судебный участок № 4 судебного района г. Железногорска и Железногорского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307130, Курская область, г. Железногорск, ул. XXI Партсъезда, д. 11",
+    "legal_address": null,
+    "website": "http://zheleznogorsk4.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0018",
+    "name": "Судебный участок № 1 судебного района г. Курчатова и Курчатовского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307251, Курская обл, г Курчатов, ул Космонавтов, зд 1",
+    "legal_address": null,
+    "website": "http://kurchatov1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0016",
+    "name": "Судебный участок № 2 Курского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Горького, д 55А",
+    "legal_address": null,
+    "website": "http://kursky2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0019",
+    "name": "Судебный участок № 2 судебного района г. Курчатова и Курчатовского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307251, Курская обл, г Курчатов, ул Гайдара, д 8",
+    "legal_address": null,
+    "website": "http://kurchatov2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0017",
+    "name": "Судебный участок № 3 Курского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305004, г Курск, ул Мирная, д 19Б",
+    "legal_address": null,
+    "website": "http://kursky3.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0010",
+    "name": "Судебный участок № 5 судебного района г. Железногорска и Железногорского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307130, Курская область, г. Железногорск, ул. XXI Партсъезда, д. 11",
+    "legal_address": null,
+    "website": "http://zheleznogorsk5.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0027",
+    "name": "Судебный участок № 1 Октябрьского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307200, Курская обл, пгт Прямицыно, ул Сеймская, влд 59",
+    "legal_address": null,
+    "website": "http://oktyabrsky1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0021",
+    "name": "Судебный участок № 1 судебного района г. Льгова и Льговского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307750, Курская обл, г Льгов, ул Советская, д 2А",
+    "legal_address": null,
+    "website": "http://lgov1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0025",
+    "name": "Судебный участок № 1 судебного района г. Обояни и Обоянского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306230, Курская обл, г Обоянь, ул Мирная, д 17",
+    "legal_address": null,
+    "website": "http://oboyan1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0028",
+    "name": "Судебный участок № 2 Октябрьского судебного района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307200, Курская обл, пгт Прямицыно, ул Сеймская, влд 59",
+    "legal_address": null,
+    "website": "http://oktyabrsky2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0022",
+    "name": "Судебный участок № 2 судебного района г. Льгова и Льговского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307750, Курская обл, г Льгов, ул Советская, д 2А",
+    "legal_address": null,
+    "website": "http://lgov2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0026",
+    "name": "Судебный участок № 2 судебного района г. Обояни и Обоянского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306230, Курская обл, г Обоянь, ул Мирная, д 17",
+    "legal_address": null,
+    "website": "http://oboyan2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0020",
+    "name": "Судебный участок № 3 судебного района г. Курчатова и Курчатовского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "307251, Курская обл, г Курчатов, ул Гайдара, д 8",
+    "legal_address": null,
+    "website": "http://kurchatov3.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0031",
+    "name": "Судебный участок № 1 судебного района г. Рыльска и Рыльского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://rilsk1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0035",
+    "name": "Судебный участок № 1 судебного района г. Суджи и Суджанского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://sudzhi1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0032",
+    "name": "Судебный участок № 2 судебного района г. Рыльска и Рыльского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://rilsk2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0036",
+    "name": "Судебный участок № 2 судебного района г. Суджи и Суджанского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://sudzhi2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0041",
+    "name": "Судебный участок № 1 судебного района г. Щигры и Щигровского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306530, Курская обл, г Щигры, ул Черняховского, д 23",
+    "legal_address": null,
+    "website": "http://shigri1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0044",
+    "name": "Судебный участок № 1 судебного района Железнодорожного округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305022, г Курск, ул Рабочая 2-я, д 11А",
+    "legal_address": null,
+    "website": "http://zhldr-kursk1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0048",
+    "name": "Судебный участок № 1 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://centr-kursk1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0042",
+    "name": "Судебный участок № 2 судебного района г. Щигры и Щигровского района Курской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "306530, Курская обл, г Щигры, ул Черняховского, д 23",
+    "legal_address": null,
+    "website": "http://shigri2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0045",
+    "name": "Судебный участок № 2 судебного района Железнодорожного округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305022, г Курск, ул Рабочая 2-я, д 11А",
+    "legal_address": null,
+    "website": "http://zhldr-kursk2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0049",
+    "name": "Судебный участок № 2 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Радищева, зд 17",
+    "legal_address": null,
+    "website": "http://centr-kursk2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0046",
+    "name": "Судебный участок № 3 судебного района Железнодорожного округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305022, г Курск, ул Рабочая 2-я, д 11А",
+    "legal_address": null,
+    "website": "http://zhldr-kursk3.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0047",
+    "name": "Судебный участок № 4 судебного района Железнодорожного округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305022, г Курск, ул Рабочая 2-я, д 11А",
+    "legal_address": null,
+    "website": "http://zhldr-kursk4.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0059",
+    "name": "Судебный участок № 1 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk1.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0050",
+    "name": "Судебный участок № 3 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Радищева, зд 17",
+    "legal_address": null,
+    "website": "http://centr-kursk3.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0051",
+    "name": "Судебный участок № 4 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Радищева, зд 17",
+    "legal_address": null,
+    "website": "http://centr-kursk4.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0052",
+    "name": "Судебный участок № 5 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Кати Зеленко, д 7",
+    "legal_address": null,
+    "website": "http://centr-kursk5.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0053",
+    "name": "Судебный участок № 6 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://centr-kursk6.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0054",
+    "name": "Судебный участок № 7 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://centr-kursk7.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0055",
+    "name": "Судебный участок № 8 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://centr-kursk8.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0056",
+    "name": "Судебный участок № 9 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://centr-kursk9.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0057",
+    "name": "Судебный участок № 10 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, д 109",
+    "legal_address": null,
+    "website": "http://centr-kursk10.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0058",
+    "name": "Судебный участок № 11 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Кати Зеленко, д 7",
+    "legal_address": null,
+    "website": "http://centr-kursk11.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0060",
+    "name": "Судебный участок № 2 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk2.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0061",
+    "name": "Судебный участок № 3 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk3.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0062",
+    "name": "Судебный участок № 4 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk4.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0063",
+    "name": "Судебный участок № 5 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk5.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0064",
+    "name": "Судебный участок № 6 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk6.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0065",
+    "name": "Судебный участок № 7 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk7.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0066",
+    "name": "Судебный участок № 8 судебного района Сеймского округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305007, г Курск, ул Энгельса, зд 109",
+    "legal_address": null,
+    "website": "http://seimsky-kursk8.krs.msudrf.ru"
+  },
+  {
+    "code": "46MS0067",
+    "name": "Судебный участок № 12 судебного района Центрального округа г. Курска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "305000, г Курск, ул Кати Зеленко, д 7",
+    "legal_address": null,
+    "website": "http://centr-kursk12.krs.msudrf.ru/"
+  }
+]

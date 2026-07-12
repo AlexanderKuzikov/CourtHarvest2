@@ -1,0 +1,292 @@
+[
+  {
+    "code": "36RS0007",
+    "name": "Аннинский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396250, Воронежская обл, пгт Анна, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://anninsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0008",
+    "name": "Бобровский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397700, Воронежская обл, г Бобров, ул 3 Интернационала, д 35",
+    "legal_address": null,
+    "website": "http://bobrovsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0009",
+    "name": "Богучарский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396790, Воронежская обл, г Богучар, пл Ленина, д 1А",
+    "legal_address": null,
+    "website": "http://bogucharsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0010",
+    "name": "Борисоглебский городской суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397160, Воронежская обл, г Борисоглебск, ул Советская, зд 77А",
+    "legal_address": null,
+    "website": "http://borisoglebsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0011",
+    "name": "Бутурлиновский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397500, Воронежская обл, г Бутурлиновка, ул 9 Января, д 2",
+    "legal_address": null,
+    "website": "http://buturlinovsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0015",
+    "name": "Грибановский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397240, Воронежская обл, пгт Грибановский, ул Центральная, д 12",
+    "legal_address": null,
+    "website": "http://gribanovsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0001",
+    "name": "Железнодорожный районный суд г. Воронежа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "394063, г Воронеж, пр-кт Ленинский, д 157",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0016",
+    "name": "Калачеевский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397601, Воронежская обл, г Калач, ул 21 Февраля, д 21",
+    "legal_address": null,
+    "website": "http://kalacheevsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0019",
+    "name": "Кантемировский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396730, Воронежская обл, рп Кантемировка, ул Победы, д 8",
+    "legal_address": null,
+    "website": "http://kantemirovsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0018",
+    "name": "Каширский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396350, Воронежская обл, с Каширское, ул Олимпийская, стр 1",
+    "legal_address": null,
+    "website": "http://kashirsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0002",
+    "name": "Коминтерновский районный суд г. Воронежа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "394026, г Воронеж, пр-кт Труда, д 46",
+    "legal_address": null,
+    "website": "http://kominternovsky.vrn.sudrf.ru/"
+  },
+  {
+    "code": "36RS0003",
+    "name": "Левобережный районный суд г. Воронежа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "394029, г Воронеж, наб Авиастроителей, д 18А",
+    "legal_address": null,
+    "website": "http://levoberezhny.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0004",
+    "name": "Ленинский районный суд г. Воронежа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "394006, г Воронеж, ул Краснознаменная, д 2",
+    "legal_address": null,
+    "website": "http://lensud.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0020",
+    "name": "Лискинский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397901, Воронежская обл, г Лиски, ул Ленина, зд 6",
+    "legal_address": null,
+    "website": "http://liskinsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0021",
+    "name": "Нижнедевицкий районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396870, Воронежская обл, с Нижнедевицк, ул Почтовая, д 62",
+    "legal_address": null,
+    "website": "http://nizhnedevicky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0024",
+    "name": "Нововоронежский городской суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396073, Воронежская обл, г Нововоронеж, ул Парковый проезд, д 10",
+    "legal_address": null,
+    "website": "http://novovoronezhsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0022",
+    "name": "Новоусманский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396310, Воронежская обл, с Новая Усмань, ул Авдеева, д 9",
+    "legal_address": null,
+    "website": "http://novousmansky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0023",
+    "name": "Новохоперский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397400, Воронежская обл, г Новохопёрск, ул Советская, д 28",
+    "legal_address": null,
+    "website": "http://novohopersky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0026",
+    "name": "Острогожский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397855, Воронежская обл, г Острогожск, ул Прохоренко, зд 117А",
+    "legal_address": null,
+    "website": "http://otstrogozhsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0027",
+    "name": "Павловский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396422, Воронежская обл, г Павловск, ул 1 Мая, д 29",
+    "legal_address": null,
+    "website": "http://pavlovsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0005",
+    "name": "Советский районный суд г. Воронежа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "394051, г Воронеж, ул Домостроителей, д 26",
+    "legal_address": null,
+    "website": "http://sovetsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0006",
+    "name": "Центральный районный суд г. Воронежа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "394036, г Воронеж, ул Комиссаржевской, д 18А",
+    "legal_address": null,
+    "website": "http://centralny.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0028",
+    "name": "Панинский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396140, Воронежская обл, рп Панино, ул Советская, д 37",
+    "legal_address": null,
+    "website": "http://paninsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0029",
+    "name": "Поворинский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397350, Воронежская обл, г Поворино, ул Советская, зд 32",
+    "legal_address": null,
+    "website": "http://povorinsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0032",
+    "name": "Рамонский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396020, Воронежская обл, рп Рамонь, ул Советская, зд 5",
+    "legal_address": null,
+    "website": "http://ramonsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0034",
+    "name": "Россошанский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396650, Воронежская обл, г Россошь, ул Алексеева, зд 2Б",
+    "legal_address": null,
+    "website": "http://rossoshansky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0035",
+    "name": "Семилукский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396900, Воронежская обл, г Семилуки, ул 25 лет Октября, зд 116",
+    "legal_address": null,
+    "website": "http://semiluksky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0036",
+    "name": "Таловский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "397480, Воронежская обл, рп Таловая, ул Советская, д 107Б",
+    "legal_address": null,
+    "website": "http://talovsky.vrn.sudrf.ru"
+  },
+  {
+    "code": "36RS0038",
+    "name": "Хохольский районный суд Воронежской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "396840, Воронежская обл, рп Хохольский, ул Школьная, д 2",
+    "legal_address": null,
+    "website": "http://hoholsky.vrn.sudrf.ru"
+  }
+]

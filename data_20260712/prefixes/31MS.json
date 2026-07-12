@@ -1,0 +1,802 @@
+[
+  {
+    "code": "31MS0001",
+    "name": "Судебный участок № 1 мирового судьи Алексеевского района и г. Алексеевка Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309850, Белгородская обл, г Алексеевка, ул Победы, д 67",
+    "legal_address": null,
+    "website": "http://alex1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0004",
+    "name": "Судебный участок № 1 мирового судьи Белгородского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308510, Белгородская обл, Белгородский р-н, пгт Разумное, ул Чехова, д 1",
+    "legal_address": null,
+    "website": "http://belgr1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0009",
+    "name": "Судебный участок № 1 мирового судьи Борисовского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309340, Белгородская обл, п Борисовка, ул Луначарского, д 2",
+    "legal_address": null,
+    "website": "http://boris1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0011",
+    "name": "Судебный участок № 1 мирового судьи Валуйского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309996, Белгородская обл, г Валуйки, ул 50 лет ВЛКСМ, д 13А",
+    "legal_address": null,
+    "website": "http://valuiki1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0015",
+    "name": "Судебный участок № 1 мирового судьи Вейделевского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309720, Белгородская обл, п Вейделевка, ул Центральная, д 45",
+    "legal_address": null,
+    "website": "http://veydelevka1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0017",
+    "name": "Судебный участок № 1 мирового судьи Волоконовского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309650, Белгородская обл, п Волоконовка, ул Курочкина, д 30",
+    "legal_address": null,
+    "website": "http://volokon1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0019",
+    "name": "Судебный участок № 1 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0027",
+    "name": "Судебный участок № 1 мирового судьи г. Губкина Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309181, Белгородская обл, г Губкин, ул Кирова, д 69",
+    "legal_address": null,
+    "website": "http://gubkin1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0059",
+    "name": "Судебный участок № 1 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0033",
+    "name": "Судебный участок № 1 мирового судьи Грайворонского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309370, Белгородская обл, г Грайворон, ул Мира, д 19",
+    "legal_address": null,
+    "website": "http://grayvoron1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0031",
+    "name": "Судебный участок № 1 мирового судьи Губкинского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309181, Белгородская обл, г Губкин, ул Кирова, д 69",
+    "legal_address": null,
+    "website": "http://gubkinr1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0035",
+    "name": "Судебный участок № 1 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0045",
+    "name": "Судебный участок № 1 мирового судьи Ивнянского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309110, Белгородская обл, п Ивня, ул Ленина, зд 4А",
+    "legal_address": null,
+    "website": "http://yvnia1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0046",
+    "name": "Судебный участок № 1 мирового судьи Корочанского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309210, Белгородская обл, г Короча, ул Дорошенко, д 9",
+    "legal_address": null,
+    "website": "http://korocha1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0048",
+    "name": "Судебный участок № 1 мирового судьи Красненского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309870, Белгородская обл, с Красное, ул Подгорная, д 14",
+    "legal_address": null,
+    "website": "http://krasnoe1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0049",
+    "name": "Судебный участок № 1 мирового судьи Красногвардейского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309920, Белгородская обл, г Бирюч, ул Высокая, д 18",
+    "legal_address": null,
+    "website": "http://krgvard1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0051",
+    "name": "Судебный участок № 1 мирового судьи Краснояружского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309420, Белгородская обл, п Красная Яруга, ул Центральная, д 73",
+    "legal_address": null,
+    "website": "http://kryar1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0052",
+    "name": "Судебный участок № 1 мирового судьи Новооскольского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309640, Белгородская обл, г Новый Оскол, ул Славы, д 65",
+    "legal_address": null,
+    "website": "http://noskol1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0054",
+    "name": "Судебный участок № 1 мирового судьи Прохоровского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309000, Белгородская обл, пгт Прохоровка, ул Советская, зд 164А",
+    "legal_address": null,
+    "website": "http://prohor1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0056",
+    "name": "Судебный участок № 1 мирового судьи Ракитянского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309310, Белгородская обл, п Ракитное, ул Пролетарская, д 9",
+    "legal_address": null,
+    "website": "http://rakit1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0002",
+    "name": "Судебный участок № 2 мирового судьи Алексеевского района и г. Алексеевка Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309850, Белгородская обл, г Алексеевка, ул Победы, д 67",
+    "legal_address": null,
+    "website": "http://alex2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0005",
+    "name": "Судебный участок № 2 мирового судьи Белгородского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308510, Белгородская обл, Белгородский р-н, пгт Разумное, ул Чехова, д 1",
+    "legal_address": null,
+    "website": "http://belgr2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0003",
+    "name": "Судебный участок № 3 мирового судьи Алексеевского района и г. Алексеевка Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309850, Белгородская обл, г Алексеевка, ул Победы, д 67",
+    "legal_address": null,
+    "website": "http://alex3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0006",
+    "name": "Судебный участок № 3 мирового судьи Белгородского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308032, г Белгород, ул Степная, д 4",
+    "legal_address": null,
+    "website": "http://belgr3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0007",
+    "name": "Судебный участок № 4 мирового судьи Белгородского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308032, г Белгород, ул Степная, д 4",
+    "legal_address": null,
+    "website": "http://belgr4.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0008",
+    "name": "Судебный участок № 5 мирового судьи Белгородского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308032, г Белгород, ул Степная, д 4",
+    "legal_address": null,
+    "website": "http://belgr5.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0010",
+    "name": "Судебный участок № 2 мирового судьи Борисовского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309340, Белгородская обл, п Борисовка, ул Луначарского, д 2",
+    "legal_address": null,
+    "website": "http://boris2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0013",
+    "name": "Судебный участок № 2 мирового судьи Валуйского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309996, Белгородская обл, г Валуйки, ул 50 лет ВЛКСМ, д 13А",
+    "legal_address": null,
+    "website": "http://valuiki2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0018",
+    "name": "Судебный участок № 2 мирового судьи Волоконовского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309650, Белгородская обл, п Волоконовка, ул Курочкина, д 30",
+    "legal_address": null,
+    "website": "http://volokon2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0014",
+    "name": "Судебный участок № 3 мирового судьи Валуйского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309996, Белгородская обл, г Валуйки, ул 50 лет ВЛКСМ, д 13А",
+    "legal_address": null,
+    "website": "http://valuiki3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0020",
+    "name": "Судебный участок № 2 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0028",
+    "name": "Судебный участок № 2 мирового судьи г. Губкина Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309181, Белгородская обл, г Губкин, ул Кирова, д 69",
+    "legal_address": null,
+    "website": "http://gubkin2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0021",
+    "name": "Судебный участок № 3 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0029",
+    "name": "Судебный участок № 3 мирового судьи г. Губкина Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309181, Белгородская обл, г Губкин, ул Кирова, д 69",
+    "legal_address": null,
+    "website": "http://gubkin3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0022",
+    "name": "Судебный участок № 4 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok4.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0023",
+    "name": "Судебный участок № 5 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok5.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0024",
+    "name": "Судебный участок № 6 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok6.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0025",
+    "name": "Судебный участок № 7 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok7.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0026",
+    "name": "Судебный участок № 8 мирового судьи Восточного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308023, г Белгород, ул Некрасова, д 27",
+    "legal_address": null,
+    "website": "http://vostok8.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0034",
+    "name": "Судебный участок № 2 мирового судьи Грайворонского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309370, Белгородская обл, г Грайворон, ул Мира, д 19",
+    "legal_address": null,
+    "website": "http://grayvoron2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0032",
+    "name": "Судебный участок № 2 мирового судьи Губкинского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309181, Белгородская обл, г Губкин, ул Кирова, д 69",
+    "legal_address": null,
+    "website": "http://gubkinr2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0036",
+    "name": "Судебный участок № 2 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0037",
+    "name": "Судебный участок № 3 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0030",
+    "name": "Судебный участок № 4 мирового судьи г. Губкина Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309181, Белгородская обл, г Губкин, ул Кирова, д 69",
+    "legal_address": null,
+    "website": "http://gubkin4.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0038",
+    "name": "Судебный участок № 4 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad4.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0039",
+    "name": "Судебный участок № 5 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad5.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0047",
+    "name": "Судебный участок № 2 мирового судьи Корочанского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309210, Белгородская обл, г Короча, ул Дорошенко, д 9",
+    "legal_address": null,
+    "website": "http://korocha2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0040",
+    "name": "Судебный участок № 6 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad6.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0041",
+    "name": "Судебный участок № 7 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad7.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0042",
+    "name": "Судебный участок № 8 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad8.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0043",
+    "name": "Судебный участок № 9 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad9.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0058",
+    "name": "Судебный участок № 1 мирового судьи Ровеньского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309740, Белгородская обл, п Ровеньки, ул Кирова, зд 10",
+    "legal_address": null,
+    "website": "http://rovenki1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0050",
+    "name": "Судебный участок № 2 мирового судьи Красногвардейского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309920, Белгородская обл, г Бирюч, ул Высокая, д 18",
+    "legal_address": null,
+    "website": "http://krgvard2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0053",
+    "name": "Судебный участок № 2 мирового судьи Новооскольского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309640, Белгородская обл, г Новый Оскол, ул Славы, д 65",
+    "legal_address": null,
+    "website": "http://noskol2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0055",
+    "name": "Судебный участок № 2 мирового судьи Прохоровского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309000, Белгородская обл, пгт Прохоровка, ул Советская, зд 164А",
+    "legal_address": null,
+    "website": "http://prohor2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0057",
+    "name": "Судебный участок № 2 мирового судьи Ракитянского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309310, Белгородская обл, п Ракитное, ул Пролетарская, д 9",
+    "legal_address": null,
+    "website": "http://rakit2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0069",
+    "name": "Судебный участок № 1 мирового судьи Старооскольского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309514, Белгородская обл, г Старый Оскол, ул Ленина, д 8Б",
+    "legal_address": null,
+    "website": "http://stoskr1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0060",
+    "name": "Судебный участок № 2 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0061",
+    "name": "Судебный участок № 3 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0062",
+    "name": "Судебный участок № 4 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk4.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0063",
+    "name": "Судебный участок № 5 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk5.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0064",
+    "name": "Судебный участок № 6 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk6.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0065",
+    "name": "Судебный участок № 7 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk7.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0066",
+    "name": "Судебный участок № 8 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk8.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0067",
+    "name": "Судебный участок № 9 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk9.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0068",
+    "name": "Судебный участок № 10 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk10.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0071",
+    "name": "Судебный участок № 1 мирового судьи Чернянского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309560, Белгородская обл, п Чернянка, ул Семашко, д 2",
+    "legal_address": null,
+    "website": "http://chernianka1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0073",
+    "name": "Судебный участок № 1 мирового судьи Шебекинского района и г. Шебекино Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309296, Белгородская обл, г Шебекино, пер Московский, д 2",
+    "legal_address": null,
+    "website": "http://chebekino1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0078",
+    "name": "Судебный участок № 1 мирового судьи Яковлевского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309070, Белгородская обл, г Строитель, пер Октябрьский, д 1",
+    "legal_address": null,
+    "website": "http://yakovlevo1.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0070",
+    "name": "Судебный участок № 2 мирового судьи Старооскольского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309514, Белгородская обл, г Старый Оскол, ул Ленина, д 8Б",
+    "legal_address": null,
+    "website": "http://stoskr2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0072",
+    "name": "Судебный участок № 2 мирового судьи Чернянского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309560, Белгородская обл, п Чернянка, ул Семашко, д 2",
+    "legal_address": null,
+    "website": "http://chernianka2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0074",
+    "name": "Судебный участок № 2 мирового судьи Шебекинского района и г. Шебекино Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309296, Белгородская обл, г Шебекино, пер Московский, д 2",
+    "legal_address": null,
+    "website": "http://chebekino2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0079",
+    "name": "Судебный участок № 2 мирового судьи Яковлевского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309070, Белгородская обл, г Строитель, пер Октябрьский, д 1",
+    "legal_address": null,
+    "website": "http://yakovlevo2.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0075",
+    "name": "Судебный участок № 3 мирового судьи Шебекинского района и г. Шебекино Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309296, Белгородская обл, г Шебекино, пер Московский, д 2",
+    "legal_address": null,
+    "website": "http://chebekino3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0076",
+    "name": "Судебный участок № 4 мирового судьи Шебекинского района и г. Шебекино Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309296, Белгородская обл, г Шебекино, пер Московский, д 2",
+    "legal_address": null,
+    "website": "http://chebekino4.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0077",
+    "name": "Судебный участок № 5 мирового судьи Шебекинского района и г. Шебекино Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309296, Белгородская обл, г Шебекино, пер Московский, д 2",
+    "legal_address": null,
+    "website": "http://chebekino5.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0080",
+    "name": "Судебный участок № 3 мирового судьи Яковлевского района Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309070, Белгородская обл, г Строитель, пер Октябрьский, д 1",
+    "legal_address": null,
+    "website": "http://yakovlevo3.blg.msudrf.ru"
+  },
+  {
+    "code": "31MS0082",
+    "name": "Судебный участок № 10 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad10.blg.msudrf.ru/"
+  },
+  {
+    "code": "31MS0081",
+    "name": "Судебный участок № 11 мирового судьи г. Старый Оскол Белгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "309510, Белгородская обл, г Старый Оскол, ул Пролетарская, д 23/52",
+    "legal_address": null,
+    "website": "http://stosk11.blg.msudrf.ru/"
+  },
+  {
+    "code": "31MS0083",
+    "name": "Судебный участок № 11 мирового судьи Западного округа г. Белгорода",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "308002, г Белгород, ул Мичурина, д 62",
+    "legal_address": null,
+    "website": "http://zapad11.blg.msudrf.ru/"
+  }
+]

@@ -1,0 +1,1472 @@
+[
+  {
+    "code": "26MS0001",
+    "name": "Судебный участок № 1 Александровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356300, Ставропольский край, с Александровское, ул К.Маркса, д 50",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0003",
+    "name": "Судебный участок № 1 Андроповского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357070, Ставропольский край, с Курсавка, ул Красная, д 29",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0005",
+    "name": "Судебный участок № 1 Апанасенковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356720, Ставропольский край, с Дивное, пер Почтовый, д 14",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0007",
+    "name": "Судебный участок № 1 Арзгирского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356570, Ставропольский край, с Арзгир, ул Матросова, зд 15А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0009",
+    "name": "Судебный участок № 1 Благодарненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356420, Ставропольский край, г Благодарный, ул Советская, зд 363А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0012",
+    "name": "Судебный участок № 1 города Буденновска и Буденновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356809, Ставропольский край, г Буденновск, мкр 7, д 31",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0018",
+    "name": "Судебный участок № 1 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357823, Ставропольский край, г Георгиевск, ул Калинина, д 97/7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0027",
+    "name": "Судебный участок № 1 города Ессентуки Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357635, Ставропольский край, г Ессентуки, ул Шмидта, д 72",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0032",
+    "name": "Судебный участок № 1 города Железноводска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357400, Ставропольский край, г Железноводск, ул Ленина, д 69",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0047",
+    "name": "Судебный участок № 1 города Кисловодска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357700, Ставропольский край, г Кисловодск, пр-кт Первомайский, д 9",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0071",
+    "name": "Судебный участок № 1 города Лермонтова Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357340, Ставропольский край, г Лермонтов, ул Матвиенко, д 1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0072",
+    "name": "Судебный участок № 1 города Минеральные Воды и Минераловодского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357212, Ставропольский край, г Минеральные Воды, ул Пятигорская, зд 33/1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0083",
+    "name": "Судебный участок № 1 города Невинномысска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357100, Ставропольский край, г Невинномысск, ул Гагарина, д 55",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0025",
+    "name": "Судебный участок № 1 Грачевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356250, Ставропольский край, с Грачевка, ул Ставропольская, д 38",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0035",
+    "name": "Судебный участок № 1 Изобильненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356140, Ставропольский край, г Изобильный, ул Пролетарская, стр 51",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0040",
+    "name": "Судебный участок № 1 Ипатовского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356630, Ставропольский край, г Ипатово, ул Гагарина, д 67",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0044",
+    "name": "Судебный участок № 1 Кировского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357300, Ставропольский край, г Новопавловск, ул Комсомольская, д 7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0054",
+    "name": "Судебный участок № 1 Кочубеевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357000, Ставропольский край, с Кочубеевское, ул Октябрьской Революции, д 15",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0058",
+    "name": "Судебный участок № 1 Красногвардейского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356030, Ставропольский край, с Красногвардейское, ул Ленина, д 71",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0061",
+    "name": "Судебный участок № 1 Курского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356030, Ставропольский край, с Красногвардейское, ул Ленина, д 71",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0002",
+    "name": "Судебный участок № 2 Александровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356300, Ставропольский край, с Александровское, ул К.Маркса, д 50",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0004",
+    "name": "Судебный участок № 2 Андроповского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357070, Ставропольский край, с Курсавка, ул Красная, д 29",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0006",
+    "name": "Судебный участок № 2 Апанасенковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356720, Ставропольский край, с Дивное, пер Почтовый, д 14",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0008",
+    "name": "Судебный участок № 2 Арзгирского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356570, Ставропольский край, с Арзгир, ул Матросова, зд 15А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0010",
+    "name": "Судебный участок № 2 Благодарненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356420, Ставропольский край, г Благодарный, ул Советская, зд 363А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0013",
+    "name": "Судебный участок № 2 города Буденновска и Буденновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356809, Ставропольский край, г Буденновск, мкр 7, д 31",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0019",
+    "name": "Судебный участок № 2 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357823, Ставропольский край, г Георгиевск, ул Калинина, д 97/7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0011",
+    "name": "Судебный участок № 3 Благодарненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356420, Ставропольский край, г Благодарный, ул Советская, зд 363А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0014",
+    "name": "Судебный участок № 3 города Буденновска и Буденновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356809, Ставропольский край, г Буденновск, мкр 7, д 31",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0015",
+    "name": "Судебный участок № 4 города Буденновска и Буденновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356809, Ставропольский край, г Буденновск, мкр 7, д 31",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0017",
+    "name": "Судебный участок № 5 города Буденновска и Буденновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356809, Ставропольский край, г Буденновск, мкр 7, д 31",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0028",
+    "name": "Судебный участок № 2 города Ессентуки Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357635, Ставропольский край, г Ессентуки, ул Шмидта, д 72",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0026",
+    "name": "Судебный участок № 2 Грачевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356250, Ставропольский край, с Грачевка, ул Ставропольская, д 38",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0020",
+    "name": "Судебный участок № 3 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357823, Ставропольский край, г Георгиевск, ул Калинина, д 97/7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0029",
+    "name": "Судебный участок № 3 города Ессентуки Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357635, Ставропольский край, г Ессентуки, ул Шмидта, д 72",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0021",
+    "name": "Судебный участок № 4 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357823, Ставропольский край, г Георгиевск, ул Калинина, д 97/7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0022",
+    "name": "Судебный участок № 5 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357823, Ставропольский край, г Георгиевск, ул Калинина, д 97/7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0023",
+    "name": "Судебный участок № 6 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357823, Ставропольский край, г Георгиевск, ул Калинина, д 97/7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0024",
+    "name": "Судебный участок № 7 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357823, Ставропольский край, г Георгиевск, ул Калинина, д 97/7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0033",
+    "name": "Судебный участок № 2 города Железноводска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357400, Ставропольский край, г Железноводск, ул Ленина, д 69",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0036",
+    "name": "Судебный участок № 2 Изобильненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356140, Ставропольский край, г Изобильный, ул Интернациональная, зд 2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0034",
+    "name": "Судебный участок № 3 города Железноводска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357400, Ставропольский край, г Железноводск, ул Ленина, д 69",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0037",
+    "name": "Судебный участок № 3 Изобильненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356140, Ставропольский край, г Изобильный, ул Интернациональная, зд 2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0030",
+    "name": "Судебный участок № 4 города Ессентуки Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357635, Ставропольский край, г Ессентуки, ул Шмидта, д 72",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0038",
+    "name": "Судебный участок № 4 Изобильненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356140, Ставропольский край, г Изобильный, ул Пролетарская, стр 51",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0031",
+    "name": "Судебный участок № 5 города Ессентуки Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357635, Ставропольский край, г Ессентуки, ул Шмидта, д 72",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0039",
+    "name": "Судебный участок № 5 Изобильненского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356140, Ставропольский край, г Изобильный, ул Пролетарская, стр 51",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0048",
+    "name": "Судебный участок № 2 города Кисловодска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357700, Ставропольский край, г Кисловодск, пр-кт Первомайский, д 9",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0041",
+    "name": "Судебный участок № 2 Ипатовского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356630, Ставропольский край, г Ипатово, ул Гагарина, д 67",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0045",
+    "name": "Судебный участок № 2 Кировского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357300, Ставропольский край, г Новопавловск, ул Комсомольская, д 7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0049",
+    "name": "Судебный участок № 3 города Кисловодска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357700, Ставропольский край, г Кисловодск, пр-кт Первомайский, д 9",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0042",
+    "name": "Судебный участок № 3 Ипатовского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356630, Ставропольский край, г Ипатово, ул Гагарина, д 67",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0046",
+    "name": "Судебный участок № 3 Кировского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357300, Ставропольский край, г Новопавловск, ул Комсомольская, д 7",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0055",
+    "name": "Судебный участок № 2 Кочубеевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357000, Ставропольский край, с Кочубеевское, ул Октябрьской Революции, д 15",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0059",
+    "name": "Судебный участок № 2 Красногвардейского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356030, Ставропольский край, с Красногвардейское, ул Ленина, д 71",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0056",
+    "name": "Судебный участок № 3 Кочубеевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357000, Ставропольский край, с Кочубеевское, ул Октябрьской Революции, д 15",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0050",
+    "name": "Судебный участок № 4 города Кисловодска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357700, Ставропольский край, г Кисловодск, пр-кт Первомайский, д 9",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0057",
+    "name": "Судебный участок № 4 Кочубеевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357000, Ставропольский край, с Кочубеевское, ул Октябрьской Революции, д 15",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0051",
+    "name": "Судебный участок № 5 города Кисловодска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357700, Ставропольский край, г Кисловодск, пр-кт Первомайский, д 9",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0052",
+    "name": "Судебный участок № 6 города Кисловодска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357700, Ставропольский край, г Кисловодск, пр-кт Первомайский, д 9",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0069",
+    "name": "Судебный участок № 1 Левокумского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357961, Ставропольский край, с Левокумское, ул Свободы, д 20",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0063",
+    "name": "Судебный участок № 1 Ленинского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355035, г Ставрополь, ул Ленина, д 221",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0062",
+    "name": "Судебный участок № 2 Курского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356030, Ставропольский край, с Красногвардейское, ул Ленина, д 71",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0064",
+    "name": "Судебный участок № 2 Ленинского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355035, г Ставрополь, ул Ленина, д 221",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0065",
+    "name": "Судебный участок № 3 Ленинского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355035, г Ставрополь, ул Ленина, д 221",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0066",
+    "name": "Судебный участок № 4 Ленинского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355035, г Ставрополь, ул Ленина, д 221",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0067",
+    "name": "Судебный участок № 5 Ленинского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355035, г Ставрополь, ул Ленина, д 221",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0068",
+    "name": "Судебный участок № 6 Ленинского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355035, г Ставрополь, ул Ленина, д 221",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0079",
+    "name": "Судебный участок № 1 Нефтекумского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356880, Ставропольский край, г Нефтекумск, ул Шоссейная, д 9Б",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0073",
+    "name": "Судебный участок № 2 города Минеральные Воды и Минераловодского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357212, Ставропольский край, г Минеральные Воды, ул Пятигорская, зд 33/1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0070",
+    "name": "Судебный участок № 2 Левокумского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357961, Ставропольский край, с Левокумское, ул Свободы, д 20",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0074",
+    "name": "Судебный участок № 3 города Минеральные Воды и Минераловодского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357212, Ставропольский край, г Минеральные Воды, ул Пятигорская, зд 33/1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0075",
+    "name": "Судебный участок № 4 города Минеральные Воды и Минераловодского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357212, Ставропольский край, г Минеральные Воды, ул Пятигорская, зд 33/1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0076",
+    "name": "Судебный участок № 5 города Минеральные Воды и Минераловодского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357212, Ставропольский край, г Минеральные Воды, ул Пятигорская, зд 33/1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0077",
+    "name": "Судебный участок № 6 города Минеральные Воды и Минераловодского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357212, Ставропольский край, г Минеральные Воды, ул Пятигорская, зд 33/1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0078",
+    "name": "Судебный участок № 7 города Минеральные Воды и Минераловодского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357212, Ставропольский край, г Минеральные Воды, ул Пятигорская, зд 33/1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0089",
+    "name": "Судебный участок № 1 Новоалександровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356000, Ставропольский край, г Новоалександровск, ул Набережная, д 1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0084",
+    "name": "Судебный участок № 2 города Невинномысска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357100, Ставропольский край, г Невинномысск, ул Гагарина, д 55",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0080",
+    "name": "Судебный участок № 2 Нефтекумского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356880, Ставропольский край, г Нефтекумск, ул Шоссейная, д 9Б",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0085",
+    "name": "Судебный участок № 3 города Невинномысска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357100, Ставропольский край, г Невинномысск, ул Гагарина, д 55",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0082",
+    "name": "Судебный участок № 3 Нефтекумского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356880, Ставропольский край, г Нефтекумск, ул Шоссейная, д 9Б",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0086",
+    "name": "Судебный участок № 4 города Невинномысска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357100, Ставропольский край, г Невинномысск, ул Гагарина, д 55",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0087",
+    "name": "Судебный участок № 5 города Невинномысска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357100, Ставропольский край, г Невинномысск, ул Гагарина, д 55",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0088",
+    "name": "Судебный участок № 6 города Невинномысска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357100, Ставропольский край, г Невинномысск, ул Гагарина, д 55",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0093",
+    "name": "Судебный участок № 1 Новоселицкого района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356350, Ставропольский край, с Новоселицкое, ул Школьная, д 39",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0095",
+    "name": "Судебный участок № 1 Октябрьского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355035, г Ставрополь, ул Ленина, д 221",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0099",
+    "name": "Судебный участок № 1 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0090",
+    "name": "Судебный участок № 2 Новоалександровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356000, Ставропольский край, г Новоалександровск, ул Набережная, д 1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0094",
+    "name": "Судебный участок № 2 Новоселицкого района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356350, Ставропольский край, с Новоселицкое, ул Школьная, д 39",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0096",
+    "name": "Судебный участок № 2 Октябрьского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0091",
+    "name": "Судебный участок № 3 Новоалександровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356000, Ставропольский край, г Новоалександровск, ул Набережная, д 1",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0097",
+    "name": "Судебный участок № 3 Октябрьского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0098",
+    "name": "Судебный участок № 4 Октябрьского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0153",
+    "name": "Судебный участок мирового судьи № 2 г. Лермонтов",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "https://stavmirsud.ru/"
+  },
+  {
+    "code": "26MS0154",
+    "name": "Судебный участок мирового судьи № 3 Курского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "https://stavmirsud.ru/"
+  },
+  {
+    "code": "26MS0119",
+    "name": "Судебный участок № 1 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17, кв 19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0115",
+    "name": "Судебный участок № 1 Петровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356530, Ставропольский край, г Светлоград, ул Пушкина, зд 8",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0109",
+    "name": "Судебный участок № 1 Предгорного района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357350, Ставропольский край, ст-ца Ессентукская, ул Садовое кольцо, д 4/2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0131",
+    "name": "Судебный участок № 1 Советского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357910, Ставропольский край, г Зеленокумск, пл Ленина, д 3",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0134",
+    "name": "Судебный участок № 1 Степновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357930, Ставропольский край, с Степное, ул Додонова, д 25",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0135",
+    "name": "Судебный участок № 1 Труновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356170, Ставропольский край, с Донское, ул Крестьянская, зд 115В",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0137",
+    "name": "Судебный участок № 1 Туркменского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356540, Ставропольский край, с Летняя Ставка, ул Советская, д 124А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0139",
+    "name": "Судебный участок № 1 Шпаковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356240, Ставропольский край, г Михайловск, ул Войкова, д 379",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0120",
+    "name": "Судебный участок № 2 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0117",
+    "name": "Судебный участок № 2 Петровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356530, Ставропольский край, г Светлоград, ул Пушкина, зд 8",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0110",
+    "name": "Судебный участок № 2 Предгорного района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357350, Ставропольский край, ст-ца Ессентукская, ул Садовое кольцо, д 4/2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0100",
+    "name": "Судебный участок № 2 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0132",
+    "name": "Судебный участок № 2 Советского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357910, Ставропольский край, г Зеленокумск, ул Ленина, д 12А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0145",
+    "name": "Судебный участок № 2 Степновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0136",
+    "name": "Судебный участок № 2 Труновского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356170, Ставропольский край, с Донское, ул Крестьянская, зд 115В",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0138",
+    "name": "Судебный участок № 2 Туркменского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356540, Ставропольский край, с Летняя Ставка, ул Советская, д 124А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0140",
+    "name": "Судебный участок № 2 Шпаковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356240, Ставропольский край, г Михайловск, ул Войкова, д 379",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0121",
+    "name": "Судебный участок № 3 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0101",
+    "name": "Судебный участок № 3 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0102",
+    "name": "Судебный участок № 4 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0103",
+    "name": "Судебный участок № 5 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0104",
+    "name": "Судебный участок № 6 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0105",
+    "name": "Судебный участок № 7 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0106",
+    "name": "Судебный участок № 8 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0107",
+    "name": "Судебный участок № 9 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0108",
+    "name": "Судебный участок № 10 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "355006, г Ставрополь, ул Шаумяна, д 18",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0118",
+    "name": "Судебный участок № 3 Петровского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356530, Ставропольский край, г Светлоград, ул Пушкина, зд 8",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0111",
+    "name": "Судебный участок № 3 Предгорного района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357350, Ставропольский край, ст-ца Ессентукская, ул Садовое кольцо, д 4/2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0112",
+    "name": "Судебный участок № 4 Предгорного района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357350, Ставропольский край, ст-ца Ессентукская, ул Садовое кольцо, д 4/2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0113",
+    "name": "Судебный участок № 5 Предгорного района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357350, Ставропольский край, ст-ца Ессентукская, ул Садовое кольцо, д 4/2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0114",
+    "name": "Судебный участок № 6 Предгорного района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357350, Ставропольский край, ст-ца Ессентукская, ул Садовое кольцо, д 4/2",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0122",
+    "name": "Судебный участок № 4 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0123",
+    "name": "Судебный участок № 5 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0124",
+    "name": "Судебный участок № 6 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0125",
+    "name": "Судебный участок № 7 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0126",
+    "name": "Судебный участок № 8 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0127",
+    "name": "Судебный участок № 9 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0128",
+    "name": "Судебный участок № 10 города Пятигорска Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 17/19",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0133",
+    "name": "Судебный участок № 3 Советского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "357910, Ставропольский край, г Зеленокумск, ул Ленина, д 12А",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0141",
+    "name": "Судебный участок № 3 Шпаковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356240, Ставропольский край, г Михайловск, ул Войкова, д 379",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0142",
+    "name": "Судебный участок № 4 Шпаковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356240, Ставропольский край, г Михайловск, ул Войкова, д 379",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0149",
+    "name": "Судебный участок № 5 Октябрьского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0143",
+    "name": "Судебный участок № 5 Шпаковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "356240, Ставропольский край, г Михайловск, ул Войкова, д 379",
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0146",
+    "name": "Судебный участок № 6 Шпаковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0147",
+    "name": "Судебный участок № 8 города Георгиевска и Георгиевского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0144",
+    "name": "Судебный участок № 11 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0148",
+    "name": "Судебный участок № 12 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://www.stavmirsud.ru"
+  },
+  {
+    "code": "26MS0151",
+    "name": "Судебный участок № 6 Октябрьского района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0150",
+    "name": "Судебный участок № 7 Шпаковского района Ставропольского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0156",
+    "name": "Судебный участок № 8 Шпаковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://www.stavmirsud.ru/"
+  },
+  {
+    "code": "26MS0152",
+    "name": "Судебный участок № 13 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://stavmirsud.ru"
+  },
+  {
+    "code": "26MS0155",
+    "name": "Судебный участок № 14 Промышленного района г. Ставрополя",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://www.stavmirsud.ru/"
+  }
+]

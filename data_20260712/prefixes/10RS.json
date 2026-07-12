@@ -1,0 +1,172 @@
+[
+  {
+    "code": "10RS0001",
+    "name": "Беломорский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186500, Респ Карелия, г Беломорск, пл Ленина, д 10",
+    "legal_address": null,
+    "website": "http://belomorsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0003",
+    "name": "Кемский городской суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186610, Респ Карелия, Кемский р-н, г Кемь, ул Бланки, д 4",
+    "legal_address": null,
+    "website": "http://kemsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0004",
+    "name": "Кондопожский городской суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186220, Респ Карелия, г Кондопога, ул Комсомольская, д 12",
+    "legal_address": null,
+    "website": "http://kondopozhsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0005",
+    "name": "Костомукшский городской суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186931, Респ Карелия, г Костомукша, ул Ленина, д 9А",
+    "legal_address": null,
+    "website": "http://kostomukshsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0006",
+    "name": "Лахденпохский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186730, Респ Карелия, г Лахденпохья, ул Октябрьская, д 12",
+    "legal_address": null,
+    "website": "http://lahdenpohsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0007",
+    "name": "Лоухский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186660, Респ Карелия, пгт Лоухи, ул Первомайская, зд 3А",
+    "legal_address": null,
+    "website": "http://louhsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0008",
+    "name": "Медвежьегорский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186352, Респ Карелия, г Медвежьегорск, ул Заводская, зд 7А",
+    "legal_address": null,
+    "website": "http://medvezhegorsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0009",
+    "name": "Муезерский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186960, Респ Карелия, пгт Муезерский, ул Гагарина, д 29",
+    "legal_address": null,
+    "website": "http://muezersky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0010",
+    "name": "Олонецкий районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186000, Респ Карелия, г Олонец, ул 30-летия Победы, д 10",
+    "legal_address": null,
+    "website": "http://olonecky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0011",
+    "name": "Петрозаводский городской суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "185035, г Петрозаводск, р-н Центр, ул Красная, д 33",
+    "legal_address": null,
+    "website": "http://petrozavodsky.kar.sudrf.ru/"
+  },
+  {
+    "code": "10RS0012",
+    "name": "Питкярантский городской суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186810, Респ Карелия, г Питкяранта, ул Привокзальная, д 24А",
+    "legal_address": null,
+    "website": "http://pitkiaransky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0013",
+    "name": "Прионежский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, ул Правды, д 14",
+    "legal_address": null,
+    "website": "http://prionezhsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0014",
+    "name": "Пряжинский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186120, Респ Карелия, пгт Пряжа, ул Советская, д 61",
+    "legal_address": null,
+    "website": "http://priazhsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0015",
+    "name": "Пудожский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186150, Респ Карелия, г Пудож, ул Пушкина, д 44",
+    "legal_address": null,
+    "website": "http://pudozhsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0016",
+    "name": "Сегежский городской суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186420, Респ Карелия, г Сегежа, ул Гражданская, д 3А",
+    "legal_address": null,
+    "website": "http://segezhsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0017",
+    "name": "Сортавальский городской суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186790, Респ Карелия, г Сортавала, ул Лесная, д 2",
+    "legal_address": null,
+    "website": "http://sortavalsky.kar.sudrf.ru"
+  },
+  {
+    "code": "10RS0018",
+    "name": "Суоярвский районный суд Республики Карелия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "186870, Респ Карелия, г Суоярви, ул Победы, стр 20",
+    "legal_address": null,
+    "website": "http://suoyarvsky.kar.sudrf.ru"
+  }
+]

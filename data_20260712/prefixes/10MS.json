@@ -1,0 +1,382 @@
+[
+  {
+    "code": "10MS0026",
+    "name": "Судебный участок Беломорского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186500, Респ Карелия, г Беломорск, ул Первомайская, д 8",
+    "legal_address": null,
+    "website": "http://belomorsk.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0030",
+    "name": "Судебный участок Калевальского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186910, Респ Карелия, пгт Калевала, ул Стрельникова, д 15А",
+    "legal_address": null,
+    "website": "http://kalevala.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0027",
+    "name": "Судебный участок Кемского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186610, Респ Карелия, Кемский р-н, г Кемь, ул Каменева, д 12",
+    "legal_address": null,
+    "website": "http://kem.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0035",
+    "name": "Судебный участок Лахденпохского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186730, Респ Карелия, г Лахденпохья, ул Заходского, д 1",
+    "legal_address": null,
+    "website": "http://lahdenpohja.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0028",
+    "name": "Судебный участок Лоухского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186660, Респ Карелия, пгт Лоухи, ул Первомайская, д 9",
+    "legal_address": null,
+    "website": "http://louhi.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0029",
+    "name": "Судебный участок Муезерского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186960, Респ Карелия, пгт Муезерский, ул Гагарина, д 32А",
+    "legal_address": null,
+    "website": "http://muezerka.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0023",
+    "name": "Судебный участок Олонецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186000, Респ Карелия, г Олонец, ул 30-летия Победы, д 3",
+    "legal_address": null,
+    "website": "http://olonec.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0017",
+    "name": "Судебный участок Питкярантского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186810, Респ Карелия, г Питкяранта, ул Привокзальная, д 24",
+    "legal_address": null,
+    "website": "http://pitkaranta.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0022",
+    "name": "Судебный участок Прионежского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://prioneg1.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0031",
+    "name": "Судебный участок Пряжинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186120, Респ Карелия, пгт Пряжа, ул Советская, д 59",
+    "legal_address": null,
+    "website": "http://prazha.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0019",
+    "name": "Судебный участок Пудожского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186150, Респ Карелия, г Пудож, ул Ленина, д 88",
+    "legal_address": null,
+    "website": "http://pudozh2.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0032",
+    "name": "Судебный участок Суоярвского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186870, Респ Карелия, г Суоярви, ул Победы, стр 18А",
+    "legal_address": null,
+    "website": "http://suojarvi.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0020",
+    "name": "Судебный участок № 1 г. Костомукша",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186930, Респ Карелия, г Костомукша, ул Звездная, д 21",
+    "legal_address": null,
+    "website": "http://kostomuksha1.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0001",
+    "name": "Судебный участок № 1 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz1.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0033",
+    "name": "Судебный участок № 1 г. Сортавала",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186790, Респ Карелия, г Сортавала, ул Гагарина, д 12",
+    "legal_address": null,
+    "website": "http://sortavala1.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0024",
+    "name": "Судебный участок № 1 Кондопожского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186220, Респ Карелия, г Кондопога, ул Комсомольская, д 2А",
+    "legal_address": null,
+    "website": "http://kondopoga1.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0015",
+    "name": "Судебный участок № 1 Медвежьегорского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186350, Респ Карелия, г Медвежьегорск, ул М.Горького, д 31",
+    "legal_address": null,
+    "website": "http://medgora1.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0036",
+    "name": "Судебный участок № 1 Сегежского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186420, Респ Карелия, г Сегежа, ул Лесная, д 2А",
+    "legal_address": null,
+    "website": "http://segezha1.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0021",
+    "name": "Судебный участок № 2 г. Костомукша",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186930, Респ Карелия, г Костомукша, ул Звездная, д 21",
+    "legal_address": null,
+    "website": "http://kostomuksha2.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0002",
+    "name": "Судебный участок № 2 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz2.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0003",
+    "name": "Судебный участок № 3 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz3.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0004",
+    "name": "Судебный участок № 4 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz4.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0005",
+    "name": "Судебный участок № 5 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz5.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0006",
+    "name": "Судебный участок № 6 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz6.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0007",
+    "name": "Судебный участок № 7 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz7.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0008",
+    "name": "Судебный участок № 8 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz8.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0009",
+    "name": "Судебный участок № 9 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz9.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0016",
+    "name": "Судебный участок № 2 Медвежьегорского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186350, Респ Карелия, г Медвежьегорск, ул М.Горького, д 31",
+    "legal_address": null,
+    "website": "http://medgora2.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0010",
+    "name": "Судебный участок № 10 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz10.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0011",
+    "name": "Судебный участок № 11 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz11.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0012",
+    "name": "Судебный участок № 12 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz12.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0013",
+    "name": "Судебный участок № 13 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz13.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0014",
+    "name": "Судебный участок № 14 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz14.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0025",
+    "name": "Судебный участок № 2 Кондопожского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186220, Респ Карелия, г Кондопога, ул Комсомольская, д 2А",
+    "legal_address": null,
+    "website": "http://kondopoga2.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0034",
+    "name": "Судебный участок № 2 г. Сортавала",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186790, Респ Карелия, г Сортавала, ул Гагарина, д 12",
+    "legal_address": null,
+    "website": "http://sortavala2.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0037",
+    "name": "Судебный участок № 2 Сегежского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186420, Респ Карелия, г Сегежа, ул Лесная, д 2А",
+    "legal_address": null,
+    "website": "http://segezha2.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0038",
+    "name": "Судебный участок № 3 Сегежского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "186420, Респ Карелия, г Сегежа, ул Лесная, д 2А",
+    "legal_address": null,
+    "website": "http://segezha3.kar.msudrf.ru"
+  },
+  {
+    "code": "10MS0039",
+    "name": "Судебный участок № 15 г. Петрозаводска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "185005, г Петрозаводск, р-н Зарека, наб Гюллинга, д 13",
+    "legal_address": null,
+    "website": "http://ptz15.kar.msudrf.ru/"
+  }
+]

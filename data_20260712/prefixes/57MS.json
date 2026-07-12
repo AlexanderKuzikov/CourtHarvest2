@@ -1,0 +1,482 @@
+[
+  {
+    "code": "57MS0001",
+    "name": "Судебный участок Болховского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303140, Орловская обл, г Болхов, ул Ленина, влд 75",
+    "legal_address": null,
+    "website": "http://bolh.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0002",
+    "name": "Судебный участок Верховского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303720, Орловская обл, пгт Верховье, ул 7 Ноября, д 10",
+    "legal_address": null,
+    "website": "http://verh.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0003",
+    "name": "Судебный участок Глазуновского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303340, Орловская обл, пгт Глазуновка, ул Ленина, д 63",
+    "legal_address": null,
+    "website": "http://glazun.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0005",
+    "name": "Судебный участок Дмитровского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303240, Орловская обл, г Дмитровск, ул Советская, влд 121",
+    "legal_address": null,
+    "website": "http://dmitr.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0004",
+    "name": "Судебный участок Должанского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303760, Орловская обл, пгт Долгое, ул Кирова, д 15А",
+    "legal_address": null,
+    "website": "http://dolzh.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0006",
+    "name": "Судебный участок Залегощенского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303560, Орловская обл, пгт Залегощь, ул М.Горького, д 18А",
+    "legal_address": null,
+    "website": "http://zeleg.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0007",
+    "name": "Судебный участок Знаменского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303100, Орловская обл, с Знаменское, ул Ленина, д 83",
+    "legal_address": null,
+    "website": "http://znam.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0008",
+    "name": "Судебный участок Колпнянского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303410, Орловская обл, пгт Колпна, ул Советская, д 14",
+    "legal_address": null,
+    "website": "http://kolpn.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0009",
+    "name": "Судебный участок Корсаковского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303580, Орловская обл, с Корсаково, мкр Березовый, д 1/1",
+    "legal_address": null,
+    "website": "http://kors.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0010",
+    "name": "Судебный участок Краснозоренского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303650, Орловская обл, п Красная Заря, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://krszor.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0011",
+    "name": "Судебный участок Кромского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303200, Орловская обл, пгт Кромы, ул 25 Октября, влд 52",
+    "legal_address": null,
+    "website": "http://krom.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0012",
+    "name": "Судебный участок Малоархангельского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303370, Орловская обл, г Малоархангельск, ул Калинина, д 3",
+    "legal_address": null,
+    "website": "http://maloarh.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0014",
+    "name": "Судебный участок Новодеревеньковского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303620, Орловская обл, пгт Хомутово, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://novoder.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0013",
+    "name": "Судебный участок Новосильского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303500, Орловская обл, г Новосиль, ул Карла Маркса, д 31",
+    "legal_address": null,
+    "website": "http://novosil.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0015",
+    "name": "Судебный участок Покровского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303170, Орловская обл, пгт Покровское, ул 50 лет Октября, д 4",
+    "legal_address": null,
+    "website": "http://pokr.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0016",
+    "name": "Судебный участок Свердловского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303320, Орловская обл, пгт Змиёвка, ул Ленина, д 48",
+    "legal_address": null,
+    "website": "http://sverdl.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0017",
+    "name": "Судебный участок Сосковского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303980, Орловская обл, с Сосково, ул Ленина, д 6",
+    "legal_address": null,
+    "website": "http://sosk.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0018",
+    "name": "Судебный участок Троснянского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303450, Орловская обл, с Тросна, ул Ново-Московская, д 5",
+    "legal_address": null,
+    "website": "http://trosn.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0019",
+    "name": "Судебный участок Урицкого района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303900, Орловская обл, пгт Нарышкино, пер 2-й Ленинский, д 3",
+    "legal_address": null,
+    "website": "http://uric.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0020",
+    "name": "Судебный участок Хотынецкого района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303930, Орловская обл, пгт Хотынец, ул Ленина, д 28",
+    "legal_address": null,
+    "website": "http://hotin.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0021",
+    "name": "Судебный участок Шаблыкинского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303260, Орловская обл, пгт Шаблыкино, ул Ленина, д 32",
+    "legal_address": null,
+    "website": "http://shabl.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0029",
+    "name": "Судебный участок № 1 Железнодорожного района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://1zd.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0022",
+    "name": "Судебный участок № 1 Ливенского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303850, Орловская обл, г Ливны, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://1liv.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0026",
+    "name": "Судебный участок № 1 Мценского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303031, Орловская обл, г Мценск, ул Кузьмина, д 22",
+    "legal_address": null,
+    "website": "http://1mcen.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0023",
+    "name": "Судебный участок № 2 Ливенского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303850, Орловская обл, г Ливны, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://2liv.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0027",
+    "name": "Судебный участок № 2 Мценского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303031, Орловская обл, г Мценск, ул Кузьмина, д 22",
+    "legal_address": null,
+    "website": "http://2mcen.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0024",
+    "name": "Судебный участок № 3 Ливенского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303850, Орловская обл, г Ливны, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://3liv.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0028",
+    "name": "Судебный участок № 3 Мценского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303031, Орловская обл, г Мценск, ул Кузьмина, д 22",
+    "legal_address": null,
+    "website": "http://3mcen.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0025",
+    "name": "Судебный участок № 4 Ливенского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "303850, Орловская обл, г Ливны, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://4liv.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0036",
+    "name": "Судебный участок № 1 Заводского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302028, г Орёл, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://1zav.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0033",
+    "name": "Судебный участок № 1 Северного района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://1sev.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0030",
+    "name": "Судебный участок № 2 Железнодорожного района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://2zd.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0037",
+    "name": "Судебный участок № 2 Заводского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302028, г Орёл, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://2zav.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0034",
+    "name": "Судебный участок № 2 Северного района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://2sev.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0031",
+    "name": "Судебный участок № 3 Железнодорожного района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://3zd.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0038",
+    "name": "Судебный участок № 3 Заводского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302028, г Орёл, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://3zav.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0035",
+    "name": "Судебный участок № 3 Северного района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://3sev.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0032",
+    "name": "Судебный участок № 4 Железнодорожного района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://4zd.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0039",
+    "name": "Судебный участок № 4 Заводского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302028, г Орёл, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://4zav.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0044",
+    "name": "Судебный участок № 1 Орловского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302016, г Орёл, пер Карачевский, д 23",
+    "legal_address": null,
+    "website": "http://1orl.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0040",
+    "name": "Судебный участок № 1 Советского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://1sov.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0045",
+    "name": "Судебный участок № 2 Орловского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302016, г Орёл, пер Карачевский, д 23",
+    "legal_address": null,
+    "website": "http://2orl.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0041",
+    "name": "Судебный участок № 2 Советского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://2sov.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0047",
+    "name": "Судебный участок № 3 Орловского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302016, г Орёл, пер Карачевский, д 23",
+    "legal_address": null,
+    "website": "http://3orl.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0042",
+    "name": "Судебный участок № 3 Советского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://3sov.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0048",
+    "name": "Судебный участок № 4 Орловского района Орловской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302016, г Орёл, пер Карачевский, д 23",
+    "legal_address": null,
+    "website": "http://4orl.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0043",
+    "name": "Судебный участок № 4 Советского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302006, г Орёл, ул Московская, д 159",
+    "legal_address": null,
+    "website": "http://4sov.orl.msudrf.ru"
+  },
+  {
+    "code": "57MS0046",
+    "name": "Судебный участок № 5 Заводского района г. Орла",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "302028, г Орёл, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://5zav.orl.msudrf.ru"
+  }
+]

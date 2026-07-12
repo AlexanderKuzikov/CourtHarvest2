@@ -1,0 +1,132 @@
+[
+  {
+    "code": "96RS0001",
+    "name": "Алешкинский районный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://aleshkinskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0002",
+    "name": "Белозерский районный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://belozerskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0003",
+    "name": "Бериславский районный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://berislavskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0004",
+    "name": "Великоалександровский межрайонный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://velikoaleksandrovskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0005",
+    "name": "Великолепетихский межрайонный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://velikolepetihskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0006",
+    "name": "Генический районный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://genicheskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0007",
+    "name": "Голопристанский районный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://golopristanskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0008",
+    "name": "Каховский районный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://kahovskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0009",
+    "name": "Новокаховский городской суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://novokahovskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0010",
+    "name": "Новотроицкий межрайонный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://novotroitskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0011",
+    "name": "Скадовский районный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://skadovskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0012",
+    "name": "Херсонский городской суд",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://hersonskiy.hrs.sudrf.ru"
+  },
+  {
+    "code": "96RS0013",
+    "name": "Чаплынский межрайонный суд Херсонской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://chaplynskiy.hrs.sudrf.ru"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "code": "31RS0001",
+    "name": "Алексеевский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309850, Белгородская обл, г Алексеевка, ул Мостовая, д 126",
+    "legal_address": null,
+    "website": "http://alekseevsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0002",
+    "name": "Белгородский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "308009, г Белгород, ул Князя Трубецкого, д 35Б",
+    "legal_address": null,
+    "website": "http://belgorodsky.blg.sudrf.ru/"
+  },
+  {
+    "code": "31RS0003",
+    "name": "Борисовский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309340, Белгородская обл, п Борисовка, ул Первомайская, д 2А",
+    "legal_address": null,
+    "website": "http://borisovsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0004",
+    "name": "Валуйский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309996, Белгородская обл, г Валуйки, ул Пролетарская, д 14",
+    "legal_address": null,
+    "website": "http://valuisky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0005",
+    "name": "Вейделевский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309720, Белгородская обл, п Вейделевка, ул Центральная, д 17",
+    "legal_address": null,
+    "website": "http://veidelevsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0006",
+    "name": "Волоконовский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309650, Белгородская обл, п Волоконовка, ул Нестерова, зд 6",
+    "legal_address": null,
+    "website": "http://volokonovsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0009",
+    "name": "Грайворонский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309370, Белгородская обл, г Грайворон, ул Народная, зд 3А",
+    "legal_address": null,
+    "website": "http://graivoronsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0007",
+    "name": "Губкинский городской суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309181, Белгородская обл, г Губкин, ул Дзержинского, д 51",
+    "legal_address": null,
+    "website": "http://gubkinskygor.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0011",
+    "name": "Корочанский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309210, Белгородская обл, г Короча, пл Васильева, д 26",
+    "legal_address": null,
+    "website": "http://korochansky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0012",
+    "name": "Красногвардейский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309920, Белгородская обл, г Бирюч, ул Мира, д 20",
+    "legal_address": null,
+    "website": "http://krasnogvardeisky.blg.sudrf.ru/"
+  },
+  {
+    "code": "31RS0015",
+    "name": "Новооскольский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309640, Белгородская обл, г Новый Оскол, ул Гражданская, д 19",
+    "legal_address": null,
+    "website": "http://novooskolsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0016",
+    "name": "Октябрьский районный суд г. Белгорода",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "308015, г Белгород, ул Сумская, д 76А",
+    "legal_address": null,
+    "website": "http://oktiabrsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0017",
+    "name": "Прохоровский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309000, Белгородская обл, пгт Прохоровка, ул Советская, д 150",
+    "legal_address": null,
+    "website": "http://prohorovsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0018",
+    "name": "Ракитянский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309310, Белгородская обл, п Ракитное, ул Пролетарская, д 49",
+    "legal_address": null,
+    "website": "http://rakitiansky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0022",
+    "name": "Свердловский районный суд г. Белгорода",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "308014, г Белгород, ул Мичурина, д 26",
+    "legal_address": null,
+    "website": "http://sverdlovsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0020",
+    "name": "Старооскольский городской суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309514, Белгородская обл, г Старый Оскол, ул Комсомольская, д 48А",
+    "legal_address": null,
+    "website": "http://starooskolskygor.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0023",
+    "name": "Чернянский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309560, Белгородская обл, п Чернянка, пл Октябрьская, зд 1",
+    "legal_address": null,
+    "website": "http://cherniansky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0024",
+    "name": "Шебекинский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309296, Белгородская обл, г Шебекино, ул Свободы, д 39",
+    "legal_address": null,
+    "website": "http://shebekinsky.blg.sudrf.ru"
+  },
+  {
+    "code": "31RS0025",
+    "name": "Яковлевский районный суд Белгородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "309070, Белгородская обл, г Строитель, ул 5 Августа, д 9А",
+    "legal_address": null,
+    "website": "http://yakovlensky.blg.sudrf.ru"
+  }
+]

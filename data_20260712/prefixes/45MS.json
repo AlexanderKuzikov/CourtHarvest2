@@ -1,0 +1,532 @@
+[
+  {
+    "code": "45MS0054",
+    "name": "Cудебный участок № 52 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 124",
+    "legal_address": null,
+    "website": "http://52.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0001",
+    "name": "Судебный участок № 1 Альменевского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641130, Курганская обл, с Альменево, пл Комсомола, д 2",
+    "legal_address": null,
+    "website": "http://1.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0002",
+    "name": "Судебный участок № 2 Белозерского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641360, Курганская обл, с Белозерское, ул Советская, д 38",
+    "legal_address": null,
+    "website": "http://2.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0003",
+    "name": "Судебный участок № 3 Варгашинского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641230, Курганская обл, рп Варгаши, ул Матросова, зд 8",
+    "legal_address": null,
+    "website": "http://3.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0004",
+    "name": "Судебный участок № 4 Далматовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641730, Курганская обл, г Далматово, ул Советская, зд 112",
+    "legal_address": null,
+    "website": "http://4.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0005",
+    "name": "Судебный участок № 5 Далматовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641730, Курганская обл, г Далматово, ул Советская, зд 112",
+    "legal_address": null,
+    "website": "http://5.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0006",
+    "name": "Судебный участок № 6 Звериноголовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641480, Курганская обл, с Звериноголовское, ул Гагарина, д 20",
+    "legal_address": null,
+    "website": "http://6.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0007",
+    "name": "Судебный участок № 7 Каргапольского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641920, Курганская обл, Каргапольский р-н, рп Каргаполье, ул Грейдерная, зд 1Г",
+    "legal_address": null,
+    "website": "http://7.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0008",
+    "name": "Судебный участок № 8 Каргапольского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641920, Курганская обл, Каргапольский р-н, рп Каргаполье, ул Грейдерная, зд 1Г",
+    "legal_address": null,
+    "website": "http://8.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0009",
+    "name": "Судебный участок № 9 Катайского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641700, Курганская обл, г Катайск, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://9.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0056",
+    "name": "Судебный участок № 10 Кетовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641310, Курганская обл, с Кетово, ул Космонавтов, стр 38",
+    "legal_address": null,
+    "website": "http://10.krg.msudrf.ru/"
+  },
+  {
+    "code": "45MS0011",
+    "name": "Судебный участок № 11 Кетовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641310, Курганская обл, с Кетово, ул Космонавтов, стр 38",
+    "legal_address": null,
+    "website": "http://11.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0012",
+    "name": "Судебный участок № 12 Кетовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641310, Курганская обл, с Кетово, ул Космонавтов, стр 38",
+    "legal_address": null,
+    "website": "http://12.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0013",
+    "name": "Судебный участок № 13 Куртамышского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641430, Курганская обл, г Куртамыш, ул Чапаева, д 1",
+    "legal_address": null,
+    "website": "http://13.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0014",
+    "name": "Судебный участок № 14 Куртамышского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641430, Курганская обл, г Куртамыш, ул Чапаева, д 1",
+    "legal_address": null,
+    "website": "http://14.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0015",
+    "name": "Судебный участок № 15 Лебяжьевского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641500, Курганская обл, рп Лебяжье, ул Лукияновская, д 58",
+    "legal_address": null,
+    "website": "http://15.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0016",
+    "name": "Судебный участок № 16 Макушинского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641600, Курганская обл, г Макушино, ул Красная Площадь, д 9",
+    "legal_address": null,
+    "website": "http://16.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0017",
+    "name": "Судебный участок № 17 Мишкинского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641040, Курганская обл, рп Мишкино, ул Телеграфная, зд 3А",
+    "legal_address": null,
+    "website": "http://17.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0018",
+    "name": "Судебный участок № 18 Мокроусовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641530, Курганская обл, с Мокроусово, ул Советская, зд 35",
+    "legal_address": null,
+    "website": "http://18.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0019",
+    "name": "Судебный участок № 19 Петуховского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641640, Курганская обл, г Петухово, ул К.Маркса, д 47",
+    "legal_address": null,
+    "website": "http://19.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0020",
+    "name": "Судебный участок № 20 Половинского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641780, Курганская обл, с Половинное, ул Советская, зд 72",
+    "legal_address": null,
+    "website": "http://20.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0021",
+    "name": "Судебный участок № 21 Притобольного судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641400, Курганская обл, с Глядянское, ул Советская, зд 17",
+    "legal_address": null,
+    "website": "http://21.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0022",
+    "name": "Судебный участок № 22 Сафакулевского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641080, Курганская обл, с Сафакулево, ул Ленина, зд 8А",
+    "legal_address": null,
+    "website": "http://22.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0023",
+    "name": "Судебный участок № 23 Целинного судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641150, Курганская обл, с Целинное, ул Бухарова, зд 59",
+    "legal_address": null,
+    "website": "http://23.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0024",
+    "name": "Судебный участок № 24 Петуховского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641570, Курганская обл, с Частоозерье, ул Октябрьская, зд 117",
+    "legal_address": null,
+    "website": "http://24.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0025",
+    "name": "Судебный участок № 25 Шадринского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641870, Курганская обл, г Шадринск, ул Комсомольская, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://25.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0026",
+    "name": "Судебный участок № 26 Шадринского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641870, Курганская обл, г Шадринск, ул Комсомольская, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://26.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0027",
+    "name": "Судебный участок № 27 Шатровского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641960, Курганская обл, с Шатрово, ул Кирова, д 12",
+    "legal_address": null,
+    "website": "http://27.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0028",
+    "name": "Судебный участок № 28 Шумихинского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641100, Курганская обл, г Шумиха, ул Победы, д 23",
+    "legal_address": null,
+    "website": "http://28.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0029",
+    "name": "Судебный участок № 29 Шумихинского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641100, Курганская обл, г Шумиха, ул Победы, д 23",
+    "legal_address": null,
+    "website": "http://29.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0030",
+    "name": "Судебный участок № 30 Щучанского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641010, Курганская обл, г Щучье, ул Калинина, д 41",
+    "legal_address": null,
+    "website": "http://30.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0031",
+    "name": "Судебный участок № 31 Юргамышского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641200, Курганская обл, рп Юргамыш, ул Ленина, д 41",
+    "legal_address": null,
+    "website": "http://31.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0032",
+    "name": "Судебный участок № 32 Шадринского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641870, Курганская обл, г Шадринск, ул Комсомольская, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://32.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0033",
+    "name": "Судебный участок № 33 Шадринского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641870, Курганская обл, г Шадринск, ул Комсомольская, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://33.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0034",
+    "name": "Судебный участок № 34 Шадринского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641870, Курганская обл, г Шадринск, ул Комсомольская, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://34.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0035",
+    "name": "Судебный участок № 35 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640020, г Курган, ул Красина, д 21/1",
+    "legal_address": null,
+    "website": "http://35.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0036",
+    "name": "Судебный участок № 36 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640020, г Курган, ул Красина, д 21/1",
+    "legal_address": null,
+    "website": "http://36.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0037",
+    "name": "Судебный участок № 37 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 70",
+    "legal_address": null,
+    "website": "http://37.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0038",
+    "name": "Судебный участок № 38 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 70",
+    "legal_address": null,
+    "website": "http://38.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0039",
+    "name": "Судебный участок № 39 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 70",
+    "legal_address": null,
+    "website": "http://39.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0040",
+    "name": "Судебный участок № 40 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 70",
+    "legal_address": null,
+    "website": "http://40.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0041",
+    "name": "Судебный участок № 41 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 70",
+    "legal_address": null,
+    "website": "http://41.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0042",
+    "name": "Судебный участок № 42 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640020, г Курган, ул Красина, д 21/1",
+    "legal_address": null,
+    "website": "http://42.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0043",
+    "name": "Судебный участок № 43 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640020, г Курган, ул Красина, д 21/1",
+    "legal_address": null,
+    "website": "http://43.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0044",
+    "name": "Судебный участок № 44 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 70",
+    "legal_address": null,
+    "website": "http://44.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0045",
+    "name": "Судебный участок № 45 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 124",
+    "legal_address": null,
+    "website": "http://45.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0046",
+    "name": "Судебный участок № 46 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 124",
+    "legal_address": null,
+    "website": "http://46.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0047",
+    "name": "Судебный участок № 47 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 124",
+    "legal_address": null,
+    "website": "http://47.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0048",
+    "name": "Судебный участок № 48 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 124",
+    "legal_address": null,
+    "website": "http://48.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0049",
+    "name": "Судебный участок № 49 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 70",
+    "legal_address": null,
+    "website": "http://49.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0050",
+    "name": "Судебный участок № 50 Кетовского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641310, Курганская обл, с Кетово, ул Космонавтов, стр 38",
+    "legal_address": null,
+    "website": "http://50.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0055",
+    "name": "Судебный участок № 51 судебного района г. Кургана Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "640021, г Курган, ул Коли Мяготина, д 124",
+    "legal_address": null,
+    "website": "http://51.krg.msudrf.ru"
+  },
+  {
+    "code": "45MS0053",
+    "name": "Судебный участок № 53 Шадринского судебного района Курганской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "641870, Курганская обл, г Шадринск, ул Комсомольская, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://53.krg.msudrf.ru"
+  }
+]

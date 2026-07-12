@@ -1,0 +1,532 @@
+[
+  {
+    "code": "30MS0026",
+    "name": "Судебный участок мирового судьи № 1 Ахтубинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416500, Астраханская обл, г Ахтубинск, ул Можайского, зд 6",
+    "legal_address": null,
+    "website": "http://aht1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0032",
+    "name": "Судебный участок мирового судьи № 1 Володарского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416170, Астраханская обл, Володарский р-н, п Володарский, пл Октябрьская, зд 5",
+    "legal_address": null,
+    "website": "http://vol1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0035",
+    "name": "Судебный участок мирового судьи № 1 Енотаевского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416200, Астраханская обл, с Енотаевка, ул Чернышевского, зд 52",
+    "legal_address": null,
+    "website": "http://en1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0030",
+    "name": "Судебный участок мирового судьи № 1 ЗАТО г. Знаменск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416540, Астраханская обл, г Знаменск, ул Победы, д 2",
+    "legal_address": null,
+    "website": "http://znam1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0037",
+    "name": "Судебный участок мирового судьи № 1 Икрянинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416370, Астраханская обл, с Икряное, ул Подгорная, стр 31",
+    "legal_address": null,
+    "website": "http://ikr1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0040",
+    "name": "Судебный участок мирового судьи № 1 Камызякского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416340, Астраханская обл, г Камызяк, пл Павших Борцов, зд 2",
+    "legal_address": null,
+    "website": "http://kmz1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0001",
+    "name": "Судебный участок мирового судьи № 1 Кировского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://kir1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0043",
+    "name": "Судебный участок мирового судьи № 1 Красноярского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416150, Астраханская обл, с Красный Яр, ул Ватаженская, зд 4К",
+    "legal_address": null,
+    "website": "http://kras1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0007",
+    "name": "Судебный участок мирового судьи № 1 Ленинского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://len1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0045",
+    "name": "Судебный участок мирового судьи № 1 Лиманского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416410, Астраханская обл, рп Лиман, ул Ленина, д 58",
+    "legal_address": null,
+    "website": "http://lim1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0047",
+    "name": "Судебный участок мирового судьи № 1 Наримановского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416111, Астраханская обл, г Нариманов, ул Центральная, д 4, помещ 3",
+    "legal_address": null,
+    "website": "http://nar1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0049",
+    "name": "Судебный участок мирового судьи № 1 Приволжского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416450, Астраханская обл, с Началово, ул Ленина, д 102",
+    "legal_address": null,
+    "website": "http://priv1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0014",
+    "name": "Судебный участок мирового судьи № 1 Советского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414051, г Астрахань, ул 1-я Литейная, зд 12",
+    "legal_address": null,
+    "website": "http://sov1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0021",
+    "name": "Судебный участок мирового судьи № 1 Трусовского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414016, г Астрахань, ул Николая Ветошникова, д 11",
+    "legal_address": null,
+    "website": "http://tr1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0051",
+    "name": "Судебный участок мирового судьи № 1 Харабалинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416010, Астраханская обл, г Харабали, ул Интернациональная, д 156",
+    "legal_address": null,
+    "website": "http://hrb1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0053",
+    "name": "Судебный участок мирового судьи № 1 Черноярского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416230, Астраханская обл, с Черный Яр, ул Комиссара Савельева, д 1В",
+    "legal_address": null,
+    "website": "http://chrn1.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0027",
+    "name": "Судебный участок мирового судьи № 2 Ахтубинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416500, Астраханская обл, г Ахтубинск, ул Можайского, зд 6",
+    "legal_address": null,
+    "website": "http://aht2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0033",
+    "name": "Судебный участок мирового судьи № 2 Володарского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416170, Астраханская обл, Володарский р-н, п Володарский, пл Октябрьская, зд 5",
+    "legal_address": null,
+    "website": "http://vol2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0036",
+    "name": "Судебный участок мирового судьи № 2 Енотаевского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416200, Астраханская обл, с Енотаевка, ул Чернышевского, зд 52",
+    "legal_address": null,
+    "website": "http://en2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0031",
+    "name": "Судебный участок мирового судьи № 2 ЗАТО г. Знаменск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416540, Астраханская обл, г Знаменск, ул Победы, д 2",
+    "legal_address": null,
+    "website": "http://znam2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0002",
+    "name": "Судебный участок мирового судьи № 2 Кировского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://kir2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0008",
+    "name": "Судебный участок мирового судьи № 2 Ленинского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://len2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0003",
+    "name": "Судебный участок мирового судьи № 3 Кировского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://kir3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0009",
+    "name": "Судебный участок мирового судьи № 3 Ленинского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414052, г Астрахань, ул Бориса Алексеева, д 2Б",
+    "legal_address": null,
+    "website": "http://len3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0004",
+    "name": "Судебный участок мирового судьи № 4 Кировского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://kir4.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0005",
+    "name": "Судебный участок мирового судьи № 5 Кировского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://kir5.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0006",
+    "name": "Судебный участок мирового судьи № 6 Кировского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://kir6.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0015",
+    "name": "Судебный участок мирового судьи № 2 Советского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414022, г. Астрахань, ул. Звездная, 57 корп. 4 литер «Б»",
+    "legal_address": null,
+    "website": "http://sov2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0016",
+    "name": "Судебный участок мирового судьи № 3 Советского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414022, г. Астрахань, ул. Звездная, д. 57 корп. 4 литер «Б»",
+    "legal_address": null,
+    "website": "http://sov3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0010",
+    "name": "Судебный участок мирового судьи № 4 Ленинского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://len4.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0017",
+    "name": "Судебный участок мирового судьи № 4 Советского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://sov4.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0011",
+    "name": "Судебный участок мирового судьи № 5 Ленинского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414041, г Астрахань, ул Нариманова, д 1А",
+    "legal_address": null,
+    "website": "http://len5.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0018",
+    "name": "Судебный участок мирового судьи № 5 Советского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414040, г Астрахань, ул Адмиралтейская, зд 42",
+    "legal_address": null,
+    "website": "http://sov5.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0012",
+    "name": "Судебный участок мирового судьи № 6 Ленинского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414032, г Астрахань, ул Румынская, д 9 к 1",
+    "legal_address": null,
+    "website": "http://len6.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0019",
+    "name": "Судебный участок мирового судьи № 6 Советского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414051, г Астрахань, ул 1-я Литейная, зд 12",
+    "legal_address": null,
+    "website": "http://sov6.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0013",
+    "name": "Судебный участок мирового судьи № 7 Ленинского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414032, г. Астрахань, ул. Жилая, 6Д литер А, помещение 1",
+    "legal_address": null,
+    "website": "http://len7.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0022",
+    "name": "Судебный участок мирового судьи № 2 Трусовского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414016, г Астрахань, ул Николая Ветошникова, д 11",
+    "legal_address": null,
+    "website": "http://tr2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0028",
+    "name": "Судебный участок мирового судьи № 3 Ахтубинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416500, Астраханская обл, г Ахтубинск, ул Можайского, зд 6",
+    "legal_address": null,
+    "website": "http://aht3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0023",
+    "name": "Судебный участок мирового судьи № 3 Трусовского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416130, Астраханская обл, Наримановский р-н, с Солянка, ул Каспийская, зд 2",
+    "legal_address": null,
+    "website": "http://tr3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0029",
+    "name": "Судебный участок мирового судьи № 4 Ахтубинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416500, Астраханская обл, г Ахтубинск, ул Можайского, зд 6",
+    "legal_address": null,
+    "website": "http://aht4.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0024",
+    "name": "Судебный участок мирового судьи № 4 Трусовского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414042, г Астрахань, ул Коновалова, стр 14А",
+    "legal_address": null,
+    "website": "http://tr4.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0025",
+    "name": "Судебный участок мирового судьи № 5 Трусовского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414042, г Астрахань, ул Коновалова, стр 14А",
+    "legal_address": null,
+    "website": "http://tr5.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0020",
+    "name": "Судебный участок мирового судьи № 7 Советского района г. Астрахани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "414051, г Астрахань, ул 1-я Литейная, зд 12",
+    "legal_address": null,
+    "website": "http://sov7.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0038",
+    "name": "Судебный участок мирового судьи № 2 Икрянинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416370, Астраханская обл, с Икряное, ул Подгорная, стр 31",
+    "legal_address": null,
+    "website": "http://ikr2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0034",
+    "name": "Судебный участок мирового судьи № 3 Володарского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416170, Астраханская обл, Володарский р-н, п Володарский, пл Октябрьская, зд 5",
+    "legal_address": null,
+    "website": "http://vol3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0039",
+    "name": "Судебный участок мирового судьи № 3 Икрянинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416370, Астраханская обл, с Икряное, ул Подгорная, стр 31",
+    "legal_address": null,
+    "website": "http://ikr3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0041",
+    "name": "Судебный участок мирового судьи № 2 Камызякского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416340, Астраханская обл, г Камызяк, пл Павших Борцов, зд 2",
+    "legal_address": null,
+    "website": "http://kmz2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0044",
+    "name": "Судебный участок мирового судьи № 2 Красноярского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416150, Астраханская обл, с Красный Яр, ул Ватаженская, зд 4К",
+    "legal_address": null,
+    "website": "http://kras2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0046",
+    "name": "Судебный участок мирового судьи № 2 Лиманского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416410, Астраханская обл, рп Лиман, ул Ленина, д 53",
+    "legal_address": null,
+    "website": "http://lim2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0048",
+    "name": "Судебный участок мирового судьи № 2 Наримановского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416130, Астраханская обл, Наримановский р-н, с Солянка, ул Каспийская, зд 2",
+    "legal_address": null,
+    "website": "http://nar2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0042",
+    "name": "Судебный участок мирового судьи № 3 Камызякского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416340, Астраханская обл, г Камызяк, пл Павших Борцов, зд 2",
+    "legal_address": null,
+    "website": "http://kmz3.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0050",
+    "name": "Судебный участок мирового судьи № 2 Приволжского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416450, Астраханская обл, с Началово, ул Ленина, д 102",
+    "legal_address": null,
+    "website": "http://priv2.ast.msudrf.ru"
+  },
+  {
+    "code": "30MS0052",
+    "name": "Судебный участок мирового судьи № 2 Харабалинского района Астраханской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "416010, Астраханская обл, г Харабали, ул Интернациональная, д 156",
+    "legal_address": null,
+    "website": "http://hrb2.ast.msudrf.ru"
+  }
+]

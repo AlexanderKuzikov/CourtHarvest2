@@ -1,0 +1,542 @@
+[
+  {
+    "code": "04MS0003",
+    "name": "Судебный участок Баунтовского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671510, Респ Бурятия, с Багдарин, ул Строительная, д 5Б",
+    "legal_address": null,
+    "website": "http://baun.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0004",
+    "name": "Судебный участок Бичурского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671360, Респ Бурятия, с Бичура, ул Коммунистическая, зд 53",
+    "legal_address": null,
+    "website": "http://bich.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0056",
+    "name": "Судебный участок Джидинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671920, Респ Бурятия, с Петропавловка, ул Ленина, д 43",
+    "legal_address": null,
+    "website": "http://dzhid.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0007",
+    "name": "Судебный участок Еравнинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671430, Республика Бурятия, с. Сосновоозерск, пер. Цыдыпова, д. 1 А",
+    "legal_address": null,
+    "website": "http://erav.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0010",
+    "name": "Судебный участок Закаменского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671950, Респ Бурятия, г Закаменск, ул Баирова, д 2, кв 46",
+    "legal_address": null,
+    "website": "http://zak.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0016",
+    "name": "Судебный участок Кижингинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671450, Респ Бурятия, с Кижинга, ул Ленина, д 11",
+    "legal_address": null,
+    "website": "http://kizh.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0017",
+    "name": "Судебный участок Курумканского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671640, Респ Бурятия, с Курумкан, ул Балдакова, д 17",
+    "legal_address": null,
+    "website": "http://kurum.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0020",
+    "name": "Судебный участок Муйского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671560, Респ Бурятия, п Таксимо, ул 70 лет Октября, зд 45",
+    "legal_address": null,
+    "website": "http://mu.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0023",
+    "name": "Судебный участок Окинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671030, Респ Бурятия, с Орлик, ул Советская, д 48",
+    "legal_address": null,
+    "website": "http://okin.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0059",
+    "name": "Судебный участок Северо-Байкальского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671710, Респ Бурятия, пгт Нижнеангарск, ул Победы, зд 55",
+    "legal_address": null,
+    "website": "http://sev.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0032",
+    "name": "Судебный участок Тарбагатайского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671110, Респ Бурятия, с Тарбагатай, ул Некрасова, зд 2Г",
+    "legal_address": null,
+    "website": "http://tar.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0033",
+    "name": "Судебный участок Тункинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671010, Респ Бурятия, с Кырен, ул Ленина, д 109",
+    "legal_address": null,
+    "website": "http://tun.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0034",
+    "name": "Судебный участок Хоринского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671410, Респ Бурятия, с Хоринск, ул Первомайская, зд 43",
+    "legal_address": null,
+    "website": "http://hor.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0001",
+    "name": "Судебный участок № 1 Баргузинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671610, Респ Бурятия, с Баргузин, ул Дзержинского, д 40",
+    "legal_address": null,
+    "website": "http://bar1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0026",
+    "name": "Судебный участок № 1 города Северобайкальск Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671700, Респ Бурятия, г Северобайкальск, ул Морских пехотинцев, стр 7",
+    "legal_address": null,
+    "website": "http://sev1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0038",
+    "name": "Судебный участок № 1 Железнодорожного района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670045, г Улан-Удэ, ул Буйко, д 28А",
+    "legal_address": null,
+    "website": "http://zhel1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0008",
+    "name": "Судебный участок № 1 Заиграевского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671310, Респ Бурятия, пгт Заиграево, ул Октябрьская, д 2",
+    "legal_address": null,
+    "website": "http://zaig1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0011",
+    "name": "Судебный участок № 1 Иволгинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671050, Респ Бурятия, с Иволгинск, ул Ленина, зд 17",
+    "legal_address": null,
+    "website": "http://ivolg.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0057",
+    "name": "Судебный участок № 1 Кабанского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671247, Респ Бурятия, Кабанский р-н, мкр Солнечный (пгт Селенгинск), д 47",
+    "legal_address": null,
+    "website": "http://kab1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0018",
+    "name": "Судебный участок № 1 Кяхтинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671840, Респ Бурятия, г Кяхта, ул Разинцева, д 5",
+    "legal_address": null,
+    "website": "http://kyaht1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0002",
+    "name": "Судебный участок № 2 Баргузинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671623, Респ Бурятия, Баргузинский р-н, пгт Усть-Баргузин, ул Пионерская, д 19, кв 2",
+    "legal_address": null,
+    "website": "http://bar2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0009",
+    "name": "Судебный участок № 2 Заиграевского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671310, Респ Бурятия, пгт Заиграево, ул Серова, д 18, кв 13",
+    "legal_address": null,
+    "website": "http://zaig2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0019",
+    "name": "Судебный участок № 2 Кяхтинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671840, Респ Бурятия, г Кяхта, ул Разинцева, д 5",
+    "legal_address": null,
+    "website": "http://kyaht2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0014",
+    "name": "Судебный участок № 3 Кабанского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671205, Респ Бурятия, Кабанский р-н, пгт Каменск, ул Прибайкальская, д 22",
+    "legal_address": null,
+    "website": "http://kab3.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0021",
+    "name": "Судебный участок № 1 Мухоршибирского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671340, Респ Бурятия, с Мухоршибирь, ул 30 лет Победы, зд 18",
+    "legal_address": null,
+    "website": "http://muh1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0024",
+    "name": "Судебный участок № 1 Прибайкальского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671260, Респ Бурятия, Прибайкальский р-н, с Турунтаево, кв-л 1-й, д 15, кв 12",
+    "legal_address": null,
+    "website": "http://prib1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0029",
+    "name": "Судебный участок № 1 Селенгинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671160, Респ Бурятия, г Гусиноозерск, мкр 6-й, д 23, офис 308",
+    "legal_address": null,
+    "website": "http://sel1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0022",
+    "name": "Судебный участок № 2 Мухоршибирского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671353, Респ Бурятия, Мухоршибирский р-н, п Саган-Нур, ул Лесная, д 2А",
+    "legal_address": null,
+    "website": "http://muh2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0025",
+    "name": "Судебный участок № 2 Прибайкальского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671280, Респ Бурятия, Прибайкальский р-н, с Ильинка, ул Октябрьская, д 198, кв 16",
+    "legal_address": null,
+    "website": "http://prib2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0036",
+    "name": "Судебный участок № 2 Железнодорожного района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670002, г Улан-Удэ, ул Комсомольская, д 1А",
+    "legal_address": null,
+    "website": "http://zhel2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0030",
+    "name": "Судебный участок № 2 Селенгинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671160, Респ Бурятия, г Гусиноозерск, мкр 6-й, д 23, офис 312",
+    "legal_address": null,
+    "website": "http://sel2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0037",
+    "name": "Судебный участок № 3 Железнодорожного района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670045, г Улан-Удэ, ул Буйко, д 28А",
+    "legal_address": null,
+    "website": "http://zhel3.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0035",
+    "name": "Судебный участок № 4 Железнодорожного района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670009, г Улан-Удэ, ул Столичная, д 5, офис 18",
+    "legal_address": null,
+    "website": "http://zhel4.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0039",
+    "name": "Судебный участок № 5 Железнодорожного района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670009, г Улан-Удэ, ул Столичная, д 5",
+    "legal_address": null,
+    "website": "http://zhel5.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0042",
+    "name": "Судебный участок № 1 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Трубачеева, д 67А",
+    "legal_address": null,
+    "website": "http://okt1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0043",
+    "name": "Судебный участок № 2 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Трубачеева, д 67А",
+    "legal_address": null,
+    "website": "http://okt2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0044",
+    "name": "Судебный участок № 3 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Трубачеева, д 67А",
+    "legal_address": null,
+    "website": "http://okt3.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0045",
+    "name": "Судебный участок № 4 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Геологическая, д 23",
+    "legal_address": null,
+    "website": "http://okt4.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0046",
+    "name": "Судебный участок № 5 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Геологическая, д 23",
+    "legal_address": null,
+    "website": "http://okt5.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0040",
+    "name": "Судебный участок № 6 Железнодорожного района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670009, г Улан-Удэ, ул Столичная, д 5",
+    "legal_address": null,
+    "website": "http://zhel6.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0047",
+    "name": "Судебный участок № 6 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Трубачеева, д 67А",
+    "legal_address": null,
+    "website": "http://okt6.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0041",
+    "name": "Судебный участок № 7 Железнодорожного района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670034, г Улан-Удэ, ул Красноармейская, д 20, офис 404",
+    "legal_address": null,
+    "website": "http://zhel7.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0048",
+    "name": "Судебный участок № 7 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Геологическая, д 23",
+    "legal_address": null,
+    "website": "http://okt7.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0049",
+    "name": "Судебный участок № 8 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Геологическая, д 23",
+    "legal_address": null,
+    "website": "http://okt8.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0051",
+    "name": "Судебный участок № 1 Советского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670000, г Улан-Удэ, ул Смолина, д 54Б",
+    "legal_address": null,
+    "website": "http://sov1.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0055",
+    "name": "Судебный участок № 2 Иволгинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671050, Респ Бурятия, с Иволгинск, ул Ленина, зд 17",
+    "legal_address": null,
+    "website": "http://ivolg2.bur.msudrf.ru/"
+  },
+  {
+    "code": "04MS0058",
+    "name": "Судебный участок № 2 Кабанского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://kab2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0052",
+    "name": "Судебный участок № 2 Советского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670000, г Улан-Удэ, ул Смолина, д 54Б",
+    "legal_address": null,
+    "website": "http://sov2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0053",
+    "name": "Судебный участок № 3 Советского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670000, г Улан-Удэ, ул Смолина, д 54Б",
+    "legal_address": null,
+    "website": "http://sov3.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0054",
+    "name": "Судебный участок № 4 Советского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670000, г Улан-Удэ, ул Смолина, д 54Б",
+    "legal_address": null,
+    "website": "http://sov4.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0050",
+    "name": "Судебный участок № 9 Октябрьского района города Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670031, г Улан-Удэ, ул Трубачеева, д 67А",
+    "legal_address": null,
+    "website": "http://okt9.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0060",
+    "name": "Судебный участок № 2 города Северобайкальск Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671700, Респ Бурятия, г Северобайкальск, ул Морских пехотинцев, стр 7",
+    "legal_address": null,
+    "website": "http://sev2.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0061",
+    "name": "Судебный участок № 3 Селенгинского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "671160, Респ Бурятия, г Гусиноозерск, мкр 6-й, д 23",
+    "legal_address": null,
+    "website": "http://sel3.bur.msudrf.ru"
+  },
+  {
+    "code": "04MS0062",
+    "name": "Судебный участок № 5 Советского района Республики Бурятия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "670000, г Улан-Удэ, ул Смолина, д 54Б",
+    "legal_address": null,
+    "website": "http://sov5.bur.msudrf.ru"
+  }
+]

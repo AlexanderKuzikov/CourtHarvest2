@@ -1,0 +1,42 @@
+[
+  {
+    "code": "84RS0004",
+    "name": "Диксонский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "647340, Красноярский край, Таймырский Долгано-Ненецкий р-н, гп Диксон, ул Воронина, д 2А",
+    "legal_address": null,
+    "website": "http://dikson.dud.sudrf.ru"
+  },
+  {
+    "code": "84RS0001",
+    "name": "Дудинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "647000, Красноярский край, г Дудинка, ул Матросова, зд 7Б",
+    "legal_address": null,
+    "website": "http://dudinsky.dud.sudrf.ru"
+  },
+  {
+    "code": "84RS0002",
+    "name": "Усть-Енисейский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "647220, Красноярский край, Таймырский Долгано-Ненецкий р-н, с Караул, ул Советская, стр 12",
+    "legal_address": null,
+    "website": "http://karaul.dud.sudrf.ru"
+  },
+  {
+    "code": "84RS0003",
+    "name": "Хатангский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "647460, Красноярский край, сп. Хатанга, ул. Советская, д. 23",
+    "legal_address": null,
+    "website": "http://hatanga.dud.sudrf.ru"
+  }
+]

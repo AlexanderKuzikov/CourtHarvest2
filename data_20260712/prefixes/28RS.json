@@ -1,0 +1,222 @@
+[
+  {
+    "code": "28RS0001",
+    "name": "Архаринский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676740, Амурская обл, пгт Архара, ул Калинина, зд 11",
+    "legal_address": null,
+    "website": "http://arharinskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0002",
+    "name": "Белогорский городской суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676805, Амурская обл, г Белогорск, ул Партизанская, д 33А",
+    "legal_address": null,
+    "website": "http://belogorskiygs.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0004",
+    "name": "Благовещенский городской суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "675004, г Благовещенск, ул Пионерская, д 35",
+    "legal_address": null,
+    "website": "http://blag-gs.amr.sudrf.ru/"
+  },
+  {
+    "code": "28RS0005",
+    "name": "Благовещенский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "675005, г Благовещенск, ул Октябрьская, д 88",
+    "legal_address": null,
+    "website": "http://blag-rs.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0006",
+    "name": "Бурейский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676722, Амурская обл, пгт Новобурейский, ул Советская, д 35",
+    "legal_address": null,
+    "website": "http://bureiskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0007",
+    "name": "Завитинский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676870, Амурская обл, г Завитинск, ул Куйбышева, д 53",
+    "legal_address": null,
+    "website": "http://zavitnskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0008",
+    "name": "Зейский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676246, Амурская обл, г Зея, ул Мухина, д 213",
+    "legal_address": null,
+    "website": "http://zeiskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0009",
+    "name": "Ивановский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676930, Амурская обл, с Ивановка, ул Ленина, д 150",
+    "legal_address": null,
+    "website": "http://ivanovskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0010",
+    "name": "Константиновский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676980, Амурская обл, с Константиновка, ул Ленина, зд 83",
+    "legal_address": null,
+    "website": "http://konstantin.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0012",
+    "name": "Магдагачинский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676124, Амурская обл, пгт Магдагачи, ул К.Маркса, д 24А",
+    "legal_address": null,
+    "website": "http://magdagachinskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0011",
+    "name": "Мазановский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676530, Амурская обл, с Новокиевский Увал, ул Школьная, д 9",
+    "legal_address": null,
+    "website": "http://mazanovskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0013",
+    "name": "Михайловский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676680, Амурская обл, с Поярково, ул Черемисина, д 14",
+    "legal_address": null,
+    "website": "http://mihailovskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0014",
+    "name": "Октябрьский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676630, Амурская обл, с Екатеринославка, ул Комсомольская, д 56",
+    "legal_address": null,
+    "website": "http://oktyabrsiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0015",
+    "name": "Райчихинский городской суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676770, Амурская обл, г Райчихинск, ул Пионерская, д 18",
+    "legal_address": null,
+    "website": "http://raichihinskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0016",
+    "name": "Ромненский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676620, Амурская обл, с Ромны, ул Советская, д 105",
+    "legal_address": null,
+    "website": "http://romnenskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0017",
+    "name": "Свободненский городской суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676454, Амурская обл, г Свободный, ул Почтамтская, д 64",
+    "legal_address": null,
+    "website": "http://svobodnenskgs.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0020",
+    "name": "Селемджинский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676560, Амурская обл, пгт Экимчан, пер Пионерский, д 10",
+    "legal_address": null,
+    "website": "http://selemdginskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0019",
+    "name": "Серышевский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676355, Амурская обл, пгт Серышево, ул Ленина, д 18",
+    "legal_address": null,
+    "website": "http://serishevskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0021",
+    "name": "Сковородинский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676014, Амурская обл, г Сковородино, ул Победы, д 29",
+    "legal_address": null,
+    "website": "http://skovorodinskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0022",
+    "name": "Тамбовский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676950, Амурская обл, с Тамбовка, ул Ленинская, зд 97",
+    "legal_address": null,
+    "website": "http://tambovskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0023",
+    "name": "Тындинский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676282, Амурская обл, г Тында, ул Красная Пресня, д 70",
+    "legal_address": null,
+    "website": "http://tindinskiy.amr.sudrf.ru"
+  },
+  {
+    "code": "28RS0024",
+    "name": "Шимановский районный суд Амурской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "676306, Амурская обл, г Шимановск, ул Крупской, зд 2",
+    "legal_address": null,
+    "website": "http://shimanovskiy.amr.sudrf.ru"
+  }
+]

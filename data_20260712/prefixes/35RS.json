@@ -1,0 +1,252 @@
+[
+  {
+    "code": "35RS0002",
+    "name": "Бабаевский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162480, Вологодская обл, г Бабаево, ул Ухтомского, д 2Б",
+    "legal_address": null,
+    "website": "http://babaevsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0004",
+    "name": "Белозерский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161200, Вологодская обл, г Белозерск, пр-кт Советский, д 49",
+    "legal_address": null,
+    "website": "http://belozersky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0005",
+    "name": "Вашкинский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161250, Вологодская обл, с Липин Бор, ул Смирнова, д 10",
+    "legal_address": null,
+    "website": "http://vashkinsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0006",
+    "name": "Великоустюгский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162390, Вологодская обл, г Великий Устюг, пер Революционный, д 3",
+    "legal_address": null,
+    "website": "http://velikoustugsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0007",
+    "name": "Верховажский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162300, Вологодская обл, с Верховажье, ул Октябрьская, д 8",
+    "legal_address": null,
+    "website": "http://verhovazhsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0008",
+    "name": "Вожегодский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162160, Вологодская обл, рп Вожега, пер Советский, д 7А",
+    "legal_address": null,
+    "website": "http://vozhegodsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0010",
+    "name": "Вологодский городской суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "160014, г Вологда, ул Гоголя, д 89",
+    "legal_address": null,
+    "website": "http://vologodskygor.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0009",
+    "name": "Вологодский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "160012, г Вологда, пр-кт Советский, д 139",
+    "legal_address": null,
+    "website": "http://vologodsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0011",
+    "name": "Вытегорский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162900, Вологодская обл, г Вытегра, ул Революции, д 45",
+    "legal_address": null,
+    "website": "http://vytegorsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0012",
+    "name": "Грязовецкий районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162000, Вологодская обл, г Грязовец, ул Обнорского, д 58",
+    "legal_address": null,
+    "website": "http://griazovecky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0013",
+    "name": "Кадуйский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162510, Вологодская обл, Кадуйский р-н, рп Кадуй, ул Энтузиастов, д 46",
+    "legal_address": null,
+    "website": "http://kaduisky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0014",
+    "name": "Кирилловский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161100, Вологодская обл, г Кириллов, ул Гостинодворская, д 16",
+    "legal_address": null,
+    "website": "http://kirillovsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0015",
+    "name": "Кичменгско-Городецкий районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161401, Вологодская обл, с Кичменгский Городок, ул Заречная, д 61",
+    "legal_address": null,
+    "website": "http://kich-gorod.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0016",
+    "name": "Междуреченский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161050, Вологодская обл, с Шуйское, ул Горького, д 3",
+    "legal_address": null,
+    "website": "http://mezhdurechensky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0017",
+    "name": "Никольский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161440, Вологодская обл, г Никольск, ул Советская, д 93",
+    "legal_address": null,
+    "website": "http://nikolsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0018",
+    "name": "Нюксенский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161380, Вологодская обл, с Нюксеница, ул Набережная, д 17/1",
+    "legal_address": null,
+    "website": "http://nuksensky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0019",
+    "name": "Сокольский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162130, Вологодская обл, г Сокол, ул Суворова, д 25",
+    "legal_address": null,
+    "website": "http://sokolsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0020",
+    "name": "Сямженский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162220, Вологодская обл, с Сямжа, ул Западная, д 19",
+    "legal_address": null,
+    "website": "http://siamzhensky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0021",
+    "name": "Тарногский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161560, Вологодская обл, с Тарногский Городок, ул Пионерская, зд 14",
+    "legal_address": null,
+    "website": "http://tarnogsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0022",
+    "name": "Тотемский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "161300, Вологодская обл, г Тотьма, ул Садовая, д 10",
+    "legal_address": null,
+    "website": "http://totemsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0001",
+    "name": "Череповецкий городской суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162626, Вологодская обл, г Череповец, ул Годовикова, д 15",
+    "legal_address": null,
+    "website": "http://cherepoveckygor.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0023",
+    "name": "Устюженский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162840, Вологодская обл, г Устюжна, пер Богатырева, д 13А",
+    "legal_address": null,
+    "website": "http://ustuzhensky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0025",
+    "name": "Харовский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162250, Вологодская обл, г Харовск, ул Ленинградская, д 39",
+    "legal_address": null,
+    "website": "http://harovsky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0027",
+    "name": "Череповецкий районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162602, Вологодская обл, г Череповец, ул Труда, д 37",
+    "legal_address": null,
+    "website": "http://cherepovecky.vld.sudrf.ru"
+  },
+  {
+    "code": "35RS0028",
+    "name": "Шекснинский районный суд Вологодской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "162560, Вологодская обл, рп Шексна, ул Исполкомовская, д 4",
+    "legal_address": null,
+    "website": "http://sheksninsky.vld.sudrf.ru"
+  }
+]

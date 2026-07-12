@@ -1,0 +1,312 @@
+[
+  {
+    "code": "75RS0006",
+    "name": "Акшинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674230, Забайкальский край, с Акша, ул Партизанская, д 16",
+    "legal_address": null,
+    "website": "http://aksha.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0007",
+    "name": "Александрово-Заводский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674640, Забайкальский край, с Александровский Завод, ул Чернышевского, стр 34А",
+    "legal_address": null,
+    "website": "http://alekzav.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0004",
+    "name": "Балейский городской суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673450, Забайкальский край, г Балей, ул Ленина, зд 17",
+    "legal_address": null,
+    "website": "http://baley.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0008",
+    "name": "Борзинский городской суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674600, Забайкальский край, г Борзя, ул Лазо, зд 26",
+    "legal_address": null,
+    "website": "http://borzya.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0009",
+    "name": "Газимуро-Заводский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673630, Забайкальский край, с Газимурский Завод, ул Журавлева, д 32В",
+    "legal_address": null,
+    "website": "http://gazzav.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0003",
+    "name": "Железнодорожный районный суд г. Читы Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "672038, г Чита, туп Экспедиционный, д 4",
+    "legal_address": null,
+    "website": "http://gd.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0010",
+    "name": "Забайкальский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674650, Забайкальский край, пгт Забайкальск, ул Комсомольская, зд 24А",
+    "legal_address": null,
+    "website": "http://zabaykalsk.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0002",
+    "name": "Ингодинский районный суд г. Читы Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "672000, г Чита, ул Анохина, д 48",
+    "legal_address": null,
+    "website": "http://ingoda.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0011",
+    "name": "Каларский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674150, Забайкальский край, с Чара, ул Геологическая, д 12",
+    "legal_address": null,
+    "website": "http://chara.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0012",
+    "name": "Калганский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674340, Забайкальский край, с Калга, ул 60 лет Октября, д 9",
+    "legal_address": null,
+    "website": "http://kalga.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0013",
+    "name": "Карымский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673300, Забайкальский край, пгт Карымское, ул Ленинградская, зд 77",
+    "legal_address": null,
+    "website": "http://karymsk.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0015",
+    "name": "Краснокаменский городской суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674674, Забайкальский край, г Краснокаменск, мкр 5-й, стр 507",
+    "legal_address": null,
+    "website": "http://krasnokam.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0014",
+    "name": "Красночикойский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673060, Забайкальский край, с Красный Чикой, ул Партизанская, зд 25",
+    "legal_address": null,
+    "website": "http://chikoy.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0032",
+    "name": "Кыринский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674250, Забайкальский край, с Кыра, ул Ленина, д 32",
+    "legal_address": null,
+    "website": "http://kira.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0016",
+    "name": "Могочинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673732, Забайкальский край, г Могоча, ул Комсомольская, д 34",
+    "legal_address": null,
+    "website": "http://mogocha.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0029",
+    "name": "Нерчинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673400, Забайкальский край, г Нерчинск, ул Советская, зд 46",
+    "legal_address": null,
+    "website": "http://nerchinsk.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0030",
+    "name": "Нерчинско-Заводский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674370, Забайкальский край, с Нерчинский Завод, ул Красноармейская, зд 104",
+    "legal_address": null,
+    "website": "http://nerzav.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0031",
+    "name": "Оловяннинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674520, Забайкальский край, Оловяннинский р-н, мкр Степной (пгт Ясногорск), д 5",
+    "legal_address": null,
+    "website": "http://olov.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0017",
+    "name": "Ононский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674480, Забайкальский край, с Нижний Цасучей, ул Комсомольская, д 33",
+    "legal_address": null,
+    "website": "http://onon.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0005",
+    "name": "Петровск-Забайкальский городской суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673005, Забайкальский край, г Петровск-Забайкальский, ул Мысовая, д 59",
+    "legal_address": null,
+    "website": "http://petrovskzab.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0001",
+    "name": "Центральный районный суд г. Читы Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "672000, Забайкальский край, г. Чита, ул. Бутина, д. 41 (уг.), 672000, г. Чита, ул. Костюшко-Григоровича, д.4",
+    "legal_address": null,
+    "website": null
+  },
+  {
+    "code": "75RS0018",
+    "name": "Приаргунский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674310, Забайкальский край, пгт Приаргунск, ул Первомайская, д 3",
+    "legal_address": null,
+    "website": "http://priarginsk.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0019",
+    "name": "Сретенский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673500, Забайкальский край, г Сретенск, ул Энергетиков, зд 7",
+    "legal_address": null,
+    "website": "http://sretensk.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0020",
+    "name": "Тунгокоченский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674100, Забайкальский край, с Верх-Усугли, ул Первомайская, д 1А",
+    "legal_address": null,
+    "website": "http://tungokocha.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0021",
+    "name": "Улетовский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "674050, Забайкальский край, с Улёты, ул Кирова, д 66",
+    "legal_address": null,
+    "website": "http://ulet.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0022",
+    "name": "Хилокский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673200, Забайкальский край, г Хилок, ул Советская, зд 17",
+    "legal_address": null,
+    "website": "http://hilok.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0023",
+    "name": "Черновский районный суд г. Читы Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "672030, г Чита, пр-кт Фадеева, д 10А",
+    "legal_address": null,
+    "website": "http://chernovski.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0024",
+    "name": "Чернышевский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673460, Забайкальский край, пгт Чернышевск, ул Центральная, д 2",
+    "legal_address": null,
+    "website": "http://chernishevsk.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0025",
+    "name": "Читинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "672007, г Чита, ул Ленина, д 159",
+    "legal_address": null,
+    "website": "http://chitinski.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0028",
+    "name": "Шелопугинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673610, Забайкальский край, с Шелопугино, ул Юбилейная, д 8",
+    "legal_address": null,
+    "website": "http://shelopugino.cht.sudrf.ru"
+  },
+  {
+    "code": "75RS0027",
+    "name": "Шилкинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "673370, Забайкальский край, г Шилка, ул Балябина, д 145",
+    "legal_address": null,
+    "website": "http://shilka.cht.sudrf.ru"
+  }
+]

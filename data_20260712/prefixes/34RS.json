@@ -1,0 +1,402 @@
+[
+  {
+    "code": "34RS0009",
+    "name": "Алексеевский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403241, Волгоградская обл, ст-ца Алексеевская, ул Ленина, д 38",
+    "legal_address": null,
+    "website": "http://alek.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0010",
+    "name": "Быковский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404062, Волгоградская обл, рп Быково, ул Куйбышева, д 1",
+    "legal_address": null,
+    "website": "http://buk.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0011",
+    "name": "Волжский городской суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404130, Волгоградская обл, г Волжский, ул Набережная, д 9",
+    "legal_address": null,
+    "website": "http://vol.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0001",
+    "name": "Ворошиловский районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400074, г Волгоград, ул Баррикадная, д 23/32",
+    "legal_address": null,
+    "website": "http://vor.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0012",
+    "name": "Городищенский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403003, Волгоградская обл, рп Городище, ул Маршала Чуйкова, д 9",
+    "legal_address": null,
+    "website": "http://gorod.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0013",
+    "name": "Даниловский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403371, Волгоградская обл, рп Даниловка, ул Федорцова, д 15",
+    "legal_address": null,
+    "website": "http://dan.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0002",
+    "name": "Дзержинский районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400075, г Волгоград, ул Историческая, д 122",
+    "legal_address": null,
+    "website": "http://dser.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0014",
+    "name": "Дубовский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404002, Волгоградская обл, г Дубовка, ул им. Калинина, д 79",
+    "legal_address": null,
+    "website": "http://dub.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0015",
+    "name": "Еланский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403732, Волгоградская обл, рп Елань, ул Ленинская, влд 67",
+    "legal_address": null,
+    "website": "http://elan.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0016",
+    "name": "Жирновский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403791, Волгоградская обл, г Жирновск, ул Коммунистическая, д 3",
+    "legal_address": null,
+    "website": "http://girn.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0017",
+    "name": "Иловлинский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403071, Волгоградская обл, рп Иловля, ул Красноармейская, д 7",
+    "legal_address": null,
+    "website": "http://ilov.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0018",
+    "name": "Калачевский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404503, Волгоградская обл, г Калач-на-Дону, ул Пролетарская, д 287",
+    "legal_address": null,
+    "website": "http://kalah.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0019",
+    "name": "Камышинский городской суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403882, Волгоградская обл, г Камышин, ул Красная, д 17",
+    "legal_address": null,
+    "website": "http://kam.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0020",
+    "name": "Киквидзенский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403221, Волгоградская обл, ст-ца Преображенская, ул Ленина, д 60",
+    "legal_address": null,
+    "website": "http://kikv.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0003",
+    "name": "Кировский районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400067, г Волгоград, ул им. Одоевского, д 72А",
+    "legal_address": null,
+    "website": "http://kir.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0021",
+    "name": "Клетский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403562, Волгоградская обл, ст-ца Клетская, ул Луначарского, зд 25",
+    "legal_address": null,
+    "website": "http://klet.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0022",
+    "name": "Котельниковский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404354, Волгоградская обл, г Котельниково, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://kotel.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0023",
+    "name": "Котовский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403805, Волгоградская обл, г Котово, ул Нефтяников, д 7",
+    "legal_address": null,
+    "website": "http://kotov.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0004",
+    "name": "Красноармейский районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400080, г Волгоград, ул 2-я Динамовская, влд 23",
+    "legal_address": null,
+    "website": "http://krasn.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0005",
+    "name": "Краснооктябрьский районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400105, г Волгоград, ул им. Кузнецова, д 65",
+    "legal_address": null,
+    "website": "https://krokt.vol.sudrf.ru/"
+  },
+  {
+    "code": "34RS0006",
+    "name": "Советский районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400011, г Волгоград, пр-кт Университетский, зд 64",
+    "legal_address": null,
+    "website": "http://sov.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0007",
+    "name": "Тракторозаводский районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400006, г Волгоград, ул Ополченская, д 4",
+    "legal_address": null,
+    "website": "http://trac.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0008",
+    "name": "Центральный районный суд г. Волгограда",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "400005, Волгоградская обл., г. Волгоград, ул.13-ой Гвардейской дивизии, д. 12 А",
+    "legal_address": null,
+    "website": "http://zent.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0025",
+    "name": "Кумылженский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403402, Волгоградская обл, ст-ца Кумылженская, ул Мира, зд 33",
+    "legal_address": null,
+    "website": "http://kum.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0026",
+    "name": "Ленинский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404620, Волгоградская обл, г Ленинск, ул Им Ленина, д 219",
+    "legal_address": null,
+    "website": "http://lenin.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0027",
+    "name": "Михайловский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403343, Волгоградская обл, г Михайловка, ул Коммуны, д 160",
+    "legal_address": null,
+    "website": "http://mihal.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0028",
+    "name": "Нехаевский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403171, Волгоградская обл, ст-ца Нехаевская, ул Победы, д 16",
+    "legal_address": null,
+    "website": "http://nehav.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0029",
+    "name": "Николаевский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404033, Волгоградская обл, г Николаевск, ул Октябрьская, д 27",
+    "legal_address": null,
+    "website": "http://nikol.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0030",
+    "name": "Новоаннинский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403951, Волгоградская обл, г Новоаннинский, ул Леваневского, д 185",
+    "legal_address": null,
+    "website": "http://novan.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0031",
+    "name": "Новониколаевский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403901, Волгоградская обл, рп Новониколаевский, ул Привокзальная, д 34А",
+    "legal_address": null,
+    "website": "http://novnin.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0032",
+    "name": "Октябрьский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404321, Волгоградская обл, рп Октябрьский, пр-кт Кирова, д 8",
+    "legal_address": null,
+    "website": "http://oktab.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0034",
+    "name": "Палласовский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404264, Волгоградская обл, г Палласовка, ул Береговая, д 77",
+    "legal_address": null,
+    "website": "http://palac.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0035",
+    "name": "Руднянский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403601, Волгоградская обл, рп Рудня, ул Володарского, зд 15А",
+    "legal_address": null,
+    "website": "http://rudn.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0036",
+    "name": "Светлоярский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404171, Волгоградская обл, рп Светлый Яр, ул Советская, д 67",
+    "legal_address": null,
+    "website": "http://svetl.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0037",
+    "name": "Серафимовичский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403441, Волгоградская обл, г Серафимович, ул Октябрьская, д 42",
+    "legal_address": null,
+    "website": "http://seraf.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0038",
+    "name": "Среднеахтубинский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404143, Волгоградская обл, рп Средняя Ахтуба, ул Комсомольская, д 33",
+    "legal_address": null,
+    "website": "http://ahtub.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0039",
+    "name": "Старополтавский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404211, Волгоградская обл, с Старая Полтавка, ул Победа, д 59",
+    "legal_address": null,
+    "website": "http://starop.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0040",
+    "name": "Суровикинский районный суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "404414, Волгоградская обл, г Суровикино, мкр 1-й, д 50",
+    "legal_address": null,
+    "website": "http://surov.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0041",
+    "name": "Урюпинский городской суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403113, Волгоградская обл, г Урюпинск, пр-кт Ленина, д 84",
+    "legal_address": null,
+    "website": "http://urup.vol.sudrf.ru"
+  },
+  {
+    "code": "34RS0042",
+    "name": "Фроловский городской суд Волгоградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "403538, Волгоградская обл, г Фролово, ул Московская, д 13",
+    "legal_address": null,
+    "website": "http://frol.vol.sudrf.ru"
+  }
+]

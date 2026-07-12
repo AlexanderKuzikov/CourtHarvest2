@@ -1,0 +1,502 @@
+[
+  {
+    "code": "39MS0024",
+    "name": "1-й судебный участок Багратионовского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238420, Калининградская обл, г Багратионовск, ул Калининградская, д 3",
+    "legal_address": null,
+    "website": "http://bagrms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0026",
+    "name": "1-й судебный участок Балтийского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238520, Калининградская обл, г Балтийск, пр-кт Ленина, д 40",
+    "legal_address": null,
+    "website": "http://baltgms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0035",
+    "name": "1-й судебный участок Гвардейского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238210, Калининградская обл, г Гвардейск, ул Тельмана, д 7",
+    "legal_address": null,
+    "website": "http://gvardms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0021",
+    "name": "1-й судебный участок Гурьевского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238300, Калининградская обл, г Гурьевск, ул Крайняя, д 8",
+    "legal_address": null,
+    "website": "http://gurms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0042",
+    "name": "1-й судебный участок Гусевского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238056, Калининградская обл, г Гусев, ул Московская, д 62",
+    "legal_address": null,
+    "website": "http://gusevms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0029",
+    "name": "1-й судебный участок Зеленоградского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238326, Калининградская обл, г Зеленоградск, пр-кт Курортный, д 9",
+    "legal_address": null,
+    "website": "http://zelms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0001",
+    "name": "1-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236029, г Калининград, ул Горького, д 152А",
+    "legal_address": null,
+    "website": "http://lenms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0015",
+    "name": "1-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236039, г Калининград, ул Подполковника Половца, д 21-23",
+    "legal_address": null,
+    "website": "http://moskms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0031",
+    "name": "1-й судебный участок Светлогорского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238560, Калининградская обл, г Светлогорск, пр-кт Калининградский, д 35",
+    "legal_address": null,
+    "website": "http://svetgms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0045",
+    "name": "1-й судебный участок Советского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238750, Калининградская обл, г Советск, пер Космонавтов, д 7",
+    "legal_address": null,
+    "website": "http://sovetms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0011",
+    "name": "1-й судебный участок Центрального судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236022, г Калининград, ул Коммунальная, д 4-6",
+    "legal_address": null,
+    "website": "http://centms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0037",
+    "name": "1-й судебный участок Черняховского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238150, Калининградская обл, г Черняховск, ул Железнодорожная, д 11",
+    "legal_address": null,
+    "website": "http://tshernms1.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0025",
+    "name": "2-й судебный участок Багратионовского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238420, Калининградская обл, г Багратионовск, ул Калининградская, д 3",
+    "legal_address": null,
+    "website": "http://bagrms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0027",
+    "name": "2-й судебный участок Балтийского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238520, Калининградская обл, г Балтийск, пр-кт Ленина, д 40",
+    "legal_address": null,
+    "website": "http://baltgms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0036",
+    "name": "2-й судебный участок Гвардейского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238210, Калининградская обл, г Гвардейск, ул Тельмана, д 7",
+    "legal_address": null,
+    "website": "http://gvardms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0022",
+    "name": "2-й судебный участок Гурьевского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238300, Калининградская обл, г Гурьевск, ул Крайняя, д 8",
+    "legal_address": null,
+    "website": "http://gurms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0043",
+    "name": "2-й судебный участок Гусевского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238056, Калининградская обл, г Гусев, ул Московская, д 62",
+    "legal_address": null,
+    "website": "http://gusevms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0030",
+    "name": "2-й судебный участок Зеленоградского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238326, Калининградская обл, г Зеленоградск, пр-кт Курортный, д 9",
+    "legal_address": null,
+    "website": "http://zelms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0002",
+    "name": "2-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236029, г Калининград, ул Горького, д 152А",
+    "legal_address": null,
+    "website": "http://lenms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0016",
+    "name": "2-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236039, г Калининград, ул Подполковника Половца, д 21-23",
+    "legal_address": null,
+    "website": "http://moskms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0003",
+    "name": "3-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236029, г Калининград, ул Горького, д 152А",
+    "legal_address": null,
+    "website": "http://lenms3.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0004",
+    "name": "4-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236041, г Калининград, ул Старшины Дадаева, д 62",
+    "legal_address": null,
+    "website": "http://lenms4.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0005",
+    "name": "5-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236029, г Калининград, ул Горького, д 152А",
+    "legal_address": null,
+    "website": "http://lenms5.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0008",
+    "name": "5-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236011, г Калининград, ул Судостроительная, д 75 стр 4",
+    "legal_address": null,
+    "website": "http://moskms5.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0006",
+    "name": "6-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236029, г Калининград, ул Горького, д 152А",
+    "legal_address": null,
+    "website": "http://lenms6.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0009",
+    "name": "6-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236005, г Калининград, ул Киевская, д 110",
+    "legal_address": null,
+    "website": "http://moskms6.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0007",
+    "name": "7-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236029, г Калининград, ул Горького, д 152А",
+    "legal_address": null,
+    "website": "http://lenms7.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0012",
+    "name": "2-й судебный участок Центрального судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236022, г Калининград, ул Репина, д 20",
+    "legal_address": null,
+    "website": "http://centms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0017",
+    "name": "3-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236039, г Калининград, ул Подполковника Половца, д 21-23",
+    "legal_address": null,
+    "website": "http://moskms3.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0013",
+    "name": "3-й судебный участок Центрального судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236023, г Калининград, ул Молочинского, д 2А",
+    "legal_address": null,
+    "website": "http://centms3.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0018",
+    "name": "4-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236011, г Калининград, ул Судостроительная, д 75 стр 4",
+    "legal_address": null,
+    "website": "http://moskms4.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0014",
+    "name": "4-й судебный участок Центрального судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236022, г Калининград, ул Калужская, д 12-18",
+    "legal_address": null,
+    "website": "http://centms4.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0019",
+    "name": "5-й судебный участок Центрального судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236022, г Калининград, ул Коммунальная, д 4-6",
+    "legal_address": null,
+    "website": "http://centms5.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0010",
+    "name": "7-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236005, г Калининград, ул Киевская, д 110",
+    "legal_address": null,
+    "website": "http://moskms7.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0023",
+    "name": "3-й судебный участок Гурьевского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238300, Калининградская обл, г Гурьевск, ул Крайняя, д 8",
+    "legal_address": null,
+    "website": "http://gurms3.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0020",
+    "name": "6-й судебный участок Центрального судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236022, г Калининград, ул Коммунальная, д 4-6",
+    "legal_address": null,
+    "website": "http://centms6.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0028",
+    "name": "Судебный участок Светловского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238340, Калининградская обл, г Светлый, ул Советская, д 47",
+    "legal_address": null,
+    "website": "http://svetlms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0032",
+    "name": "2-й судебный участок Светлогорского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238560, Калининградская обл, г Светлогорск, пр-кт Калининградский, д 35",
+    "legal_address": null,
+    "website": "http://svetgms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0038",
+    "name": "2-й судебный участок Черняховского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238150, Калининградская обл, г Черняховск, ул Железнодорожная, д 11",
+    "legal_address": null,
+    "website": "http://tshernms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0039",
+    "name": "3-й судебный участок Черняховского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238150, Калининградская обл, г Черняховск, ул Железнодорожная, д 11",
+    "legal_address": null,
+    "website": "http://tshernms3.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0034",
+    "name": "Судебный участок Полесского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238630, Калининградская обл, г Полесск, ул Советская, зд 14",
+    "legal_address": null,
+    "website": "http://polesms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0033",
+    "name": "Судебный участок Правдинского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238400, Калининградская обл, г Правдинск, ул Кутузова, зд 5",
+    "legal_address": null,
+    "website": "http://pravdms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0046",
+    "name": "2-й судебный участок Советского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238750, Калининградская обл, г Советск, пер Космонавтов, д 7",
+    "legal_address": null,
+    "website": "http://sovetms2.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0049",
+    "name": "8-й судебный участок Ленинградского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236029, г Калининград, ул Горького, д 152А",
+    "legal_address": null,
+    "website": "http://lenms8.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0040",
+    "name": "Судебный участок Краснознаменского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238730, Калининградская обл, г Краснознаменск, ул Калининградская, д 29Б",
+    "legal_address": null,
+    "website": "http://krasms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0047",
+    "name": "Судебный участок Неманского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238710, Калининградская обл, г Неман, ул Октябрьская, д 7",
+    "legal_address": null,
+    "website": "http://nemanms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0041",
+    "name": "Судебный участок Нестеровского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238010, Калининградская обл, г Нестеров, ул Октябрьская, д 7",
+    "legal_address": null,
+    "website": "http://nestms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0044",
+    "name": "Судебный участок Озерского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238120, Калининградская обл, г Озерск, ул Советская, д 4А",
+    "legal_address": null,
+    "website": "http://ozerms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0048",
+    "name": "Судебный участок Славского судебного района Калининградской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "238600, Калининградская обл, г Славск, ул Советская, зд 8А",
+    "legal_address": null,
+    "website": "http://slavms.kln.msudrf.ru"
+  },
+  {
+    "code": "39MS0050",
+    "name": "8-й судебный участок Московского судебного района города Калининграда",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "236005, г Калининград, ул Киевская, д 110",
+    "legal_address": null,
+    "website": "http://moskms8.kln.msudrf.ru"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "78GV0002",
+    "name": "Архангельский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "163045, г Архангельск, наб Северной Двины, д 139 к 3",
+    "legal_address": null,
+    "website": "http://agvs.arh.sudrf.ru"
+  },
+  {
+    "code": "78GV0006",
+    "name": "Великоновгородский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "173021, г Великий Новгород, ул Нехинская, д 55 стр 1",
+    "legal_address": null,
+    "website": "http://gvs.nvg.sudrf.ru"
+  },
+  {
+    "code": "78GV0003",
+    "name": "Вологодский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "160000, г Вологда, наб 6 Армии, д 101",
+    "legal_address": null,
+    "website": "http://vologodskygvs.vld.sudrf.ru"
+  },
+  {
+    "code": "78GV0008",
+    "name": "Воркутинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "169901, Респ Коми, г Воркута, ул Пушкина, д 28",
+    "legal_address": null,
+    "website": "http://gvs.komi.sudrf.ru"
+  },
+  {
+    "code": "78GV0004",
+    "name": "Выборгский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "188800, Ленинградская обл, г Выборг, ул Военная, д 1",
+    "legal_address": null,
+    "website": "http://vgvs.lo.sudrf.ru"
+  },
+  {
+    "code": "78GV0007",
+    "name": "Петрозаводский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "185035, г Петрозаводск, р-н Центр, ул Гоголя, д 5",
+    "legal_address": null,
+    "website": "http://petrozavodskygvs.kar.sudrf.ru"
+  },
+  {
+    "code": "78GV0009",
+    "name": "Псковский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "180002, г Псков, ул Комдива Кирсанова, д 9",
+    "legal_address": null,
+    "website": "http://gvs.psk.sudrf.ru"
+  },
+  {
+    "code": "78GV0001",
+    "name": "Санкт-Петербургский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "191186, г Санкт-Петербург, ул Большая Морская, д 1",
+    "legal_address": null,
+    "website": "http://gvs.spb.sudrf.ru"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "75GV0007",
+    "name": "Борзинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "674600, Забайкальский край, г Борзя, ул Лазо, д 104",
+    "legal_address": null,
+    "website": "http://gvsborza.cht.sudrf.ru"
+  },
+  {
+    "code": "75GV0002",
+    "name": "Иркутский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "664081, г Иркутск, ул Иркутской 30 Дивизии, д 28",
+    "legal_address": null,
+    "website": "http://irkutskygvs.irk.sudrf.ru"
+  },
+  {
+    "code": "75GV0005",
+    "name": "Кяхтинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "671843, Респ Бурятия, г Кяхта, ул Кузнецова, зд 26",
+    "legal_address": null,
+    "website": "http://kyahinskygvs.bur.sudrf.ru"
+  },
+  {
+    "code": "75GV0004",
+    "name": "Улан-Удэнский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "670042, г Улан-Удэ, ул Мокрова, д 8",
+    "legal_address": null,
+    "website": "http://ulanudegvs.bur.sudrf.ru"
+  },
+  {
+    "code": "75GV0001",
+    "name": "Читинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "672039, г Чита, ул Амурская, д 3",
+    "legal_address": null,
+    "website": "http://gvs.cht.sudrf.ru"
+  }
+]

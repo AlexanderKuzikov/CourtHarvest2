@@ -1,0 +1,322 @@
+[
+  {
+    "code": "54RS0012",
+    "name": "Барабинский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632334, Новосибирская обл, Барабинский р-н, г Барабинск, пер Индустриальный, д 7",
+    "legal_address": null,
+    "website": "http://barabinsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0013",
+    "name": "Бердский городской суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633010, Новосибирская обл, г Бердск, ул Ленина, д 45",
+    "legal_address": null,
+    "website": "http://berdsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0014",
+    "name": "Болотнинский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633340, Новосибирская обл, г Болотное, ул Калинина, д 13",
+    "legal_address": null,
+    "website": "http://bolotninsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0015",
+    "name": "Венгеровский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632241, Новосибирская обл, Венгеровский р-н, с Венгерово, ул Ленина, зд 70",
+    "legal_address": null,
+    "website": "http://vengerovsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0001",
+    "name": "Дзержинский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630015, г Новосибирск, ул Промышленная, д 1",
+    "legal_address": null,
+    "website": "http://dzerzhinsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0016",
+    "name": "Доволенский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632450, Новосибирская обл, Доволенский р-н, с Довольное, ул Мичурина, д 12",
+    "legal_address": null,
+    "website": "http://dovolensky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0002",
+    "name": "Железнодорожный районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630132, г Новосибирск, ул Железнодорожная, д 4/1",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0003",
+    "name": "Заельцовский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630082, г Новосибирск, ул Дачная, д 35А",
+    "legal_address": null,
+    "website": "http://zaelcovsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0018",
+    "name": "Искитимский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633209, Новосибирская обл, г Искитим, ул Советская, д 234",
+    "legal_address": null,
+    "website": "http://iskitimsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0004",
+    "name": "Калининский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630110, г Новосибирск, ул Учительская, д 40А",
+    "legal_address": null,
+    "website": "http://kalininsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0019",
+    "name": "Карасукский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632868, Новосибирская обл, г Карасук, ул Октябрьская, зд 12",
+    "legal_address": null,
+    "website": "http://karasuksky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0005",
+    "name": "Кировский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630088, г Новосибирск, ул Сибиряков-Гвардейцев, д 56",
+    "legal_address": null,
+    "website": "http://kirovsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0021",
+    "name": "Колыванский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633162, Новосибирская обл, рп Колывань, ул Московская, д 46",
+    "legal_address": null,
+    "website": "http://kolyvansky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0023",
+    "name": "Коченевский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632640, Новосибирская обл, рп Коченево, ул Плахотного, зд 38",
+    "legal_address": null,
+    "website": "http://kochenevsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0024",
+    "name": "Краснозерский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632902, Новосибирская обл, рп Краснозерское, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://krasnozersky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0025",
+    "name": "Куйбышевский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632387, Новосибирская обл, Куйбышевский р-н, г Куйбышев, ул Куйбышева, д 20",
+    "legal_address": null,
+    "website": "http://kuibyshevsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0026",
+    "name": "Купинский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632735, Новосибирская обл, г Купино, ул Советов, д 106",
+    "legal_address": null,
+    "website": "http://kupinsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0006",
+    "name": "Ленинский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630107, г Новосибирск, ул Связистов, д 159",
+    "legal_address": null,
+    "website": "http://leninsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0029",
+    "name": "Мошковский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633131, Новосибирская обл, рп Мошково, ул Советская, д 10",
+    "legal_address": null,
+    "website": "http://moshkovsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0030",
+    "name": "Новосибирский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630120, г Новосибирск, ул Титова, д 184",
+    "legal_address": null,
+    "website": "http://novosibirsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0007",
+    "name": "Октябрьский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630063, г Новосибирск, ул Тургенева, д 221",
+    "legal_address": null,
+    "website": "http://oktiabrsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0008",
+    "name": "Первомайский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630046, г Новосибирск, ул Маяковского, зд 24/2",
+    "legal_address": null,
+    "website": "http://pervomaisky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0009",
+    "name": "Советский районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630090, г Новосибирск, ул Кутателадзе, д 16А",
+    "legal_address": null,
+    "website": "http://sovetsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0010",
+    "name": "Центральный районный суд г. Новосибирска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "630099, г Новосибирск, ул Максима Горького, д 89",
+    "legal_address": null,
+    "website": "http://centralny.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0031",
+    "name": "Обской городской суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633102, Новосибирская обл, г Обь, ул Геодезическая, д 66А",
+    "legal_address": null,
+    "website": "http://obskoy.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0032",
+    "name": "Ордынский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633261, Новосибирская обл, рп Ордынское, пр-кт Революции, д 18",
+    "legal_address": null,
+    "website": "http://ordynsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0034",
+    "name": "Сузунский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633621, Новосибирская обл, рп Сузун, ул Остальцова, д 25",
+    "legal_address": null,
+    "website": "http://suzunsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0035",
+    "name": "Татарский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632122, Новосибирская обл, Татарский р-н, г Татарск, ул Ленина, д 82",
+    "legal_address": null,
+    "website": "http://tatarsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0036",
+    "name": "Тогучинский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633456, Новосибирская обл, г Тогучин, ул Садовая, д 2",
+    "legal_address": null,
+    "website": "http://toguchinsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0039",
+    "name": "Чановский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632201, Новосибирская обл, рп Чаны, ул Комсомольская, д 4",
+    "legal_address": null,
+    "website": "http://chanovsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0041",
+    "name": "Черепановский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "633520, Новосибирская обл, г Черепаново, ул Республиканская, зд 49",
+    "legal_address": null,
+    "website": "http://cherepanovsky.nsk.sudrf.ru"
+  },
+  {
+    "code": "54RS0042",
+    "name": "Чулымский районный суд Новосибирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "632551, Новосибирская обл, г Чулым, ул Чулымская, д 25",
+    "legal_address": null,
+    "website": "http://chulymsky.nsk.sudrf.ru"
+  }
+]

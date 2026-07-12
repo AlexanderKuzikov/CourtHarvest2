@@ -1,0 +1,402 @@
+[
+  {
+    "code": "61RS0009",
+    "name": "Азовский городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346780, Ростовская обл, г Азов, ул Ленина, д 67",
+    "legal_address": null,
+    "website": "http://azovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0024",
+    "name": "Аксайский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346720, Ростовская обл, г Аксай, пр-кт Ленина, д 16",
+    "legal_address": null,
+    "website": "http://aksajsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0025",
+    "name": "Багаевский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346611, Ростовская обл, ст-ца Багаевская, ул Комсомольская, д 76",
+    "legal_address": null,
+    "website": "http://bagaevsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0010",
+    "name": "Батайский городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346880, Ростовская обл, г Батайск, ул Рабочая, зд 110",
+    "legal_address": null,
+    "website": "http://batajsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0011",
+    "name": "Белокалитвинский городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347040, Ростовская обл, г Белая Калитва, ул Гагарина, зд 50",
+    "legal_address": null,
+    "website": "http://belokalitvensky.ros.sudrf.ru/"
+  },
+  {
+    "code": "61RS0012",
+    "name": "Волгодонской районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347370, Ростовская обл, г Волгодонск, ул Морская, д 108",
+    "legal_address": null,
+    "website": "http://volgodonskoy.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0001",
+    "name": "Ворошиловский районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344068, г Ростов-на-Дону, ул Криворожская, зд 66",
+    "legal_address": null,
+    "website": "http://voroshilovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0013",
+    "name": "Гуковский городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347871, Ростовская обл, г Гуково, ул Карла Маркса, д 94",
+    "legal_address": null,
+    "website": "http://gukovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0014",
+    "name": "Донецкий городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346338, Ростовская обл, г Донецк, пр-кт Ленина, д 22",
+    "legal_address": null,
+    "website": "http://donecky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0031",
+    "name": "Егорлыкский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347660, Ростовская обл, ст-ца Егорлыкская, ул Мира, д 86",
+    "legal_address": null,
+    "website": "http://egorlyksky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0002",
+    "name": "Железнодорожный районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344116, г Ростов-на-Дону, ул Кулагина, д 62",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0033",
+    "name": "Зерноградский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347740, Ростовская обл, г Зерноград, ул им Чкалова, д 17А",
+    "legal_address": null,
+    "website": "http://zernogradsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0034",
+    "name": "Зимовниковский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347461, Ростовская обл, п Зимовники, пер Крестьянский, д 95",
+    "legal_address": null,
+    "website": "http://zimovnikovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0036",
+    "name": "Каменский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347810, Ростовская обл, г Каменск-Шахтинский, пр-кт Карла Маркса, д 63",
+    "legal_address": null,
+    "website": "http://kamensky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0003",
+    "name": "Кировский районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344002, г Ростов-на-Дону, пер Газетный, зд 36",
+    "legal_address": null,
+    "website": "http://kirovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0017",
+    "name": "Красносулинский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346350, Ростовская обл, г Красный Сулин, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://krasnosulinsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0004",
+    "name": "Ленинский районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344082, г Ростов-на-Дону, ул Пушкинская, д 9",
+    "legal_address": null,
+    "website": "http://leninsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0041",
+    "name": "Матвеево-Курганский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346970, Ростовская обл, п Матвеев Курган, ул Комсомольская, зд 91",
+    "legal_address": null,
+    "website": "http://mkurgansky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0018",
+    "name": "Миллеровский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346130, Ростовская обл, г Миллерово, ул Пушкина, зд 1",
+    "legal_address": null,
+    "website": "http://millerovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0043",
+    "name": "Морозовский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347210, Ростовская обл, г Морозовск, ул Карла Маркса, д 13",
+    "legal_address": null,
+    "website": "http://morozovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0005",
+    "name": "Октябрьский районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344038, г Ростов-на-Дону, пр-кт Ленина, д 81А",
+    "legal_address": null,
+    "website": "http://oktyabrsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0006",
+    "name": "Первомайский районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344029, г Ростов-на-Дону, ул Металлургическая, д 29",
+    "legal_address": null,
+    "website": "http://pervomajsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0007",
+    "name": "Пролетарский районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344019, г Ростов-на-Дону, пл Карла Маркса, д 10",
+    "legal_address": null,
+    "website": "http://proletarsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0008",
+    "name": "Советский районный суд г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "344090, г Ростов-на-Дону, пр-кт Стачки, д 200/2",
+    "legal_address": null,
+    "website": "http://sovetsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0019",
+    "name": "Новочеркасский городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346421, Ростовская обл, г Новочеркасск, пр-кт Баклановский, д 162",
+    "legal_address": null,
+    "website": "http://novocherkassky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0020",
+    "name": "Новошахтинский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346914, Ростовская обл, г Новошахтинск, ул Социалистическая, д 7Б",
+    "legal_address": null,
+    "website": "http://novoshahtinsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0022",
+    "name": "Таганрогский городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347939, Ростовская обл, г Таганрог, ул Чучева, д 42 к 2",
+    "legal_address": null,
+    "website": "http://taganrogsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0023",
+    "name": "Шахтинский городской суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Черенкова, д 17А",
+    "legal_address": null,
+    "website": "http://shahtinsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0044",
+    "name": "Мясниковский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346800, Ростовская обл, с Чалтырь, ул 6-я Линия, зд 8",
+    "legal_address": null,
+    "website": "http://myasnikovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0045",
+    "name": "Неклиновский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346830, Ростовская обл, с Покровское, пер Красный, д 39",
+    "legal_address": null,
+    "website": "http://neklinovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0046",
+    "name": "Обливский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347140, Ростовская обл, ст-ца Обливская, ул Карла Маркса, д 38",
+    "legal_address": null,
+    "website": "http://oblivsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0047",
+    "name": "Октябрьский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346480, Ростовская обл, рп Каменоломни, ул Калинина, д 6",
+    "legal_address": null,
+    "website": "http://oktyabrskys.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0050",
+    "name": "Пролетарский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347540, Ростовская обл, г Пролетарск, пр-кт 50 лет Октября, д 26А",
+    "legal_address": null,
+    "website": "http://proletarskys.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0051",
+    "name": "Ремонтненский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347480, Ростовская обл, с Ремонтное, ул Дзержинского, зд 84/1",
+    "legal_address": null,
+    "website": "http://remontnensky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0053",
+    "name": "Семикаракорский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346630, Ростовская обл, г Семикаракорск, ул Калинина, зд 5",
+    "legal_address": null,
+    "website": "http://semikarakorsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0057",
+    "name": "Усть-Донецкий районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346550, Ростовская обл, рп Усть-Донецкий, ул Строителей, влд 68",
+    "legal_address": null,
+    "website": "http://ustdonetsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0059",
+    "name": "Цимлянский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347320, Ростовская обл, г Цимлянск, ул Ленина, зд 23",
+    "legal_address": null,
+    "website": "http://cimlyansky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0062",
+    "name": "Сальский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "347630, Ростовская обл, г Сальск, ул Кирова, д 36",
+    "legal_address": null,
+    "website": "http://salskiy.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0060",
+    "name": "Чертковский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346000, Ростовская обл, п Чертково, ул Розы Люксембург, зд 106",
+    "legal_address": null,
+    "website": "http://chertkovsky.ros.sudrf.ru"
+  },
+  {
+    "code": "61RS0061",
+    "name": "Шолоховский районный суд Ростовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "346270, Ростовская обл, ст-ца Вешенская, ул Шолохова, зд 2Б",
+    "legal_address": null,
+    "website": "http://sholohonsky.ros.sudrf.ru"
+  }
+]

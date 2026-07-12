@@ -1,0 +1,222 @@
+[
+  {
+    "code": "61GV0015",
+    "name": "5 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "0043, Республика Армения, г. Ереван, ул. Араратян, д. 99",
+    "legal_address": null,
+    "website": "http://gvs.skav.sudrf.ru"
+  },
+  {
+    "code": "61GV0003",
+    "name": "Астраханский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "414040, г Астрахань, ул Академика Королева, зд 12",
+    "legal_address": null,
+    "website": "http://astrahanskygvs.ast.sudrf.ru"
+  },
+  {
+    "code": "61GV0005",
+    "name": "Буденновский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "356801, Ставропольский край, г Буденновск, ул Полющенко, д 139",
+    "legal_address": null,
+    "website": "http://bgvs.stv.sudrf.ru"
+  },
+  {
+    "code": "61GV0002",
+    "name": "Владикавказский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "362015, г Владикавказ, пр-кт Коста, д 32/34",
+    "legal_address": null,
+    "website": "http://gvs.wlk.sudrf.ru"
+  },
+  {
+    "code": "61GV0006",
+    "name": "Волгоградский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "400010, г Волгоград, ул Качинцев, д 108В",
+    "legal_address": null,
+    "website": "http://vgvs.vol.sudrf.ru"
+  },
+  {
+    "code": "61GV0012",
+    "name": "Грозненский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "364024, Чеченская Республика, г. Грозный, ул. Грибоедова, д.110, Главпочтамт-24",
+    "legal_address": null,
+    "website": "http://gvs.chn.sudrf.ru"
+  },
+  {
+    "code": "61GV0020",
+    "name": "Донецкий гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://dgvs.dnr.sudrf.ru"
+  },
+  {
+    "code": "61GV0022",
+    "name": "Запорожский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://zgvs.zpr.sudrf.ru"
+  },
+  {
+    "code": "61GV0004",
+    "name": "Краснодарский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "350049, г Краснодар, ул Северная, д 267/1",
+    "legal_address": null,
+    "website": "http://gvs.krd.sudrf.ru"
+  },
+  {
+    "code": "61GV0018",
+    "name": "Крымский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "295015, Респ Крым, г Симферополь, пер Учебный, д 8А",
+    "legal_address": null,
+    "website": "http://gvs.krm.sudrf.ru"
+  },
+  {
+    "code": "61GV0021",
+    "name": "Луганский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://lgvs.lnr.sudrf.ru"
+  },
+  {
+    "code": "61GV0010",
+    "name": "Майкопский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "385019, г Майкоп, ул Михайлова, д 6А",
+    "legal_address": null,
+    "website": "http://gvs.adg.sudrf.ru"
+  },
+  {
+    "code": "61GV0011",
+    "name": "Махачкалинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "367009, г Махачкала, ул Керимова, д 23А",
+    "legal_address": null,
+    "website": "http://mgvs.dag.sudrf.ru"
+  },
+  {
+    "code": "61GV0014",
+    "name": "Нальчикский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "360001, г Нальчик, ул Горького, д 16",
+    "legal_address": null,
+    "website": "http://nalchikskygvs.kbr.sudrf.ru"
+  },
+  {
+    "code": "61GV0013",
+    "name": "Новороссийский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "353921, Краснодарский край, г Новороссийск, ул Герцена, д 17",
+    "legal_address": null,
+    "website": "http://ngvs.krd.sudrf.ru"
+  },
+  {
+    "code": "61GV0016",
+    "name": "Новочеркасский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, пр-кт Ермака, д 39",
+    "legal_address": null,
+    "website": "http://novocherkasskygvs.ros.sudrf.ru"
+  },
+  {
+    "code": "61GV0008",
+    "name": "Пятигорский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "357532, Ставропольский край, г Пятигорск, ул Панагюриште, д 8А",
+    "legal_address": null,
+    "website": "http://pgvs.stv.sudrf.ru"
+  },
+  {
+    "code": "61GV0001",
+    "name": "Ростовский-на-Дону гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "344038, г Ростов-на-Дону, пр-кт Михаила Нагибина, д 28/1",
+    "legal_address": null,
+    "website": "http://gvs.ros.sudrf.ru"
+  },
+  {
+    "code": "61GV0019",
+    "name": "Севастопольский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "299001, г Севастополь, ул Героев Севастополя, зд 11",
+    "legal_address": null,
+    "website": "http://gvs.sev.sudrf.ru"
+  },
+  {
+    "code": "61GV0009",
+    "name": "Сочинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "354000, Краснодарский край, г Сочи, ул Горького, д 29",
+    "legal_address": null,
+    "website": "http://sgvs.krd.sudrf.ru"
+  },
+  {
+    "code": "61GV0007",
+    "name": "Ставропольский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "355003, г Ставрополь, ул Л.Толстого, д 2",
+    "legal_address": null,
+    "website": "http://sgvs.stv.sudrf.ru"
+  },
+  {
+    "code": "61GV0023",
+    "name": "Херсонский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://hgvs.hrs.sudrf.ru"
+  }
+]

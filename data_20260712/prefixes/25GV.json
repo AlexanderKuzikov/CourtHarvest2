@@ -1,0 +1,52 @@
+[
+  {
+    "code": "25GV0004",
+    "name": "35 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "683013, г Петропавловск-Камчатский, ул Океанская, д 90/1",
+    "legal_address": null,
+    "website": "http://35gvs.kam.sudrf.ru"
+  },
+  {
+    "code": "25GV0003",
+    "name": "Анадырский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "689500, Чукотский АО, пгт Угольные Копи, ул Школьная, д 13",
+    "legal_address": null,
+    "website": "http://gvs.chao.sudrf.ru"
+  },
+  {
+    "code": "25GV0001",
+    "name": "Владивостокский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "690003, г Владивосток, ул Нижнепортовая, д 3",
+    "legal_address": null,
+    "website": "http://vgvs.prm.sudrf.ru"
+  },
+  {
+    "code": "25GV0005",
+    "name": "Советско-Гаванский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "682860, Хабаровский край, рп Ванино, ул Железнодорожная, д 41",
+    "legal_address": null,
+    "website": "http://s-gavanskygvs.hbr.sudrf.ru"
+  },
+  {
+    "code": "25GV0002",
+    "name": "Фокинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "692880, Приморский край, г Фокино, ул Постникова, д 12",
+    "legal_address": null,
+    "website": "http://fgvs.prm.sudrf.ru"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "code": "79MS0002",
+    "name": "Восточный судебный участок Биробиджанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679016, г Биробиджан, пер Театральный, д 10",
+    "legal_address": null,
+    "website": "http://vostochny.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0003",
+    "name": "Западный судебный участок Биробиджанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679016, г Биробиджан, пер Театральный, д 10",
+    "legal_address": null,
+    "website": "http://zapadny.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0004",
+    "name": "Левобережный судебный участок Биробиджанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679016, г Биробиджан, пер Театральный, д 10",
+    "legal_address": null,
+    "website": "http://levoberehny.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0005",
+    "name": "Ленинский судебный участок Ленинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679370, Еврейская Аобл, с Ленинское, ул Октябрьская, д 1А",
+    "legal_address": null,
+    "website": "http://leninsky.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0006",
+    "name": "Николаевский судебный участок Смидовичского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679170, Еврейская Аобл, Смидовичский р-н, п Николаевка, ул Строительная, д 10",
+    "legal_address": null,
+    "website": "http://nikolaevsky.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0007",
+    "name": "Облученский судебный участок Облученского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679102, Еврейская Аобл, г Облучье, ул Горького, д 56",
+    "legal_address": null,
+    "website": "http://obluchensky.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0008",
+    "name": "Октябрьский судебный участок Ленинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679230, Еврейская Аобл, с Амурзет, ул Крупской, зд 9",
+    "legal_address": null,
+    "website": "http://oktyabrsky.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0009",
+    "name": "Правобережный судебный участок Биробиджанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679016, г Биробиджан, пер Театральный, д 10",
+    "legal_address": null,
+    "website": "http://pravoberezhny.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0001",
+    "name": "Районный судебный участок Биробиджанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679016, г Биробиджан, пер Театральный, д 10",
+    "legal_address": null,
+    "website": "http://birobidzhansky.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0010",
+    "name": "Смидовичский судебный участок Смидовичского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679150, Еврейская Аобл, п Смидович, ул Советская, д 65",
+    "legal_address": null,
+    "website": "http://smidovichsky.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0011",
+    "name": "Теплоозерский судебный участок Облученского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679110, Еврейская Аобл, Облученский р-н, п Теплоозерск, ул Бонивура, д 1А",
+    "legal_address": null,
+    "website": "http://teploozersky.eao.msudrf.ru"
+  },
+  {
+    "code": "79MS0012",
+    "name": "Центральный судебный участок Биробиджанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "679016, г Биробиджан, пер Театральный, д 10",
+    "legal_address": null,
+    "website": "http://centralny.eao.msudrf.ru"
+  }
+]

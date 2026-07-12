@@ -1,0 +1,202 @@
+[
+  {
+    "code": "62RS0001",
+    "name": "Железнодорожный районный суд г. Рязани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "390013, г Рязань, проезд Завражнова, д 3",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0008",
+    "name": "Кадомский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391670, Рязанская обл, рп Кадом, ул Советская, зд 19",
+    "legal_address": null,
+    "website": "http://kadomsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0010",
+    "name": "Касимовский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391300, Рязанская обл, г Касимов, ул Спортивная, зд 2",
+    "legal_address": null,
+    "website": "http://kasymovsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0011",
+    "name": "Клепиковский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391030, Рязанская обл, г Спас-Клепики, пл Ленина, зд 59А",
+    "legal_address": null,
+    "website": "http://klepikovsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0012",
+    "name": "Кораблинский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391200, Рязанская обл, г Кораблино, ул Садовая, д 4",
+    "legal_address": null,
+    "website": "http://korablinsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0014",
+    "name": "Михайловский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391710, Рязанская обл, г Михайлов, ул Рязанская, зд 18А",
+    "legal_address": null,
+    "website": "http://mihailovsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0002",
+    "name": "Московский районный суд г. Рязани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "390044, г Рязань, ш Московское, д 14",
+    "legal_address": null,
+    "website": "http://moskovsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0003",
+    "name": "Октябрьский районный суд г. Рязани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "390000, г Рязань, ул Ленина, д 61",
+    "legal_address": null,
+    "website": "http://oktiabrsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0017",
+    "name": "Пронский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391160, Рязанская обл, Пронский р-н, г Новомичуринск, ул Комсомольская, д 2",
+    "legal_address": null,
+    "website": "http://pronsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0019",
+    "name": "Рыбновский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391110, Рязанская обл, г Рыбное, ул Электротяговая, д 14А",
+    "legal_address": null,
+    "website": "http://rybnovsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0020",
+    "name": "Ряжский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391964, Рязанская обл, г Ряжск, ул Пушкина, д 4",
+    "legal_address": null,
+    "website": "http://riazhsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0005",
+    "name": "Рязанский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "390047, Рязанская обл., г. Рязань, п. Соколовка, ул. 2-я Прудная, д. 8",
+    "legal_address": null,
+    "website": "http://riazansky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0021",
+    "name": "Сапожковский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391940, Рязанская обл, рп Сапожок, ул Садовая, д 4",
+    "legal_address": null,
+    "website": "http://sapozhkovsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0022",
+    "name": "Сараевский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391870, Рязанская обл, рп Сараи, ул Ленина, зд 109А",
+    "legal_address": null,
+    "website": "http://saraevsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0023",
+    "name": "Сасовский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391434, Рязанская обл, г Сасово, пр-кт Свободы, д 19",
+    "legal_address": null,
+    "website": "http://sasovsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0025",
+    "name": "Скопинский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391800, Рязанская обл, г Скопин, ул К.Маркса, д 87",
+    "legal_address": null,
+    "website": "http://skopinski.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0004",
+    "name": "Советский районный суд г. Рязани",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "390000, г Рязань, ул Ленина, д 37",
+    "legal_address": null,
+    "website": "http://sovetsky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0026",
+    "name": "Спасский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391050, Рязанская обл, г Спасск-Рязанский, ул Рязанское шоссе, зд 23А",
+    "legal_address": null,
+    "website": "http://spassky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0030",
+    "name": "Шацкий районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391550, Рязанская обл, г Шацк, ул Красная площадь, зд 4",
+    "legal_address": null,
+    "website": "http://shacky.riz.sudrf.ru"
+  },
+  {
+    "code": "62RS0031",
+    "name": "Шиловский районный суд Рязанской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "391500, Рязанская обл, рп Шилово, ул Советская, зд 7",
+    "legal_address": null,
+    "website": "http://shilovsky.riz.sudrf.ru"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "code": "51GV0006",
+    "name": "Гаджиевский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "184670, Мурманская обл, г Гаджиево, ул Ленина, зд 100А",
+    "legal_address": null,
+    "website": "http://gadjgvs.mrm.sudrf.ru"
+  },
+  {
+    "code": "51GV0004",
+    "name": "Заозерский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "184310, Мурманская обл, г Заозерск, ул Флотская, влд 2",
+    "legal_address": null,
+    "website": "http://zaogvs.mrm.sudrf.ru"
+  },
+  {
+    "code": "51GV0007",
+    "name": "Мурманский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "183010, г Мурманск, ул Генерала Журбы, д 1",
+    "legal_address": null,
+    "website": "http://murmgvs.mrm.sudrf.ru"
+  },
+  {
+    "code": "51GV0003",
+    "name": "Полярнинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "184650, Мурманская обл, г Полярный, ул Фисановича, д 4",
+    "legal_address": null,
+    "website": "http://polgvs.mrm.sudrf.ru"
+  },
+  {
+    "code": "51GV0002",
+    "name": "Северодвинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "164500, Архангельская обл, г Северодвинск, ул Ломоносова, д 107А",
+    "legal_address": null,
+    "website": "http://sgvs.arh.sudrf.ru"
+  },
+  {
+    "code": "51GV0001",
+    "name": "Североморский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "184604, Мурманская обл, г Североморск, ул Ломоносова, д 3",
+    "legal_address": null,
+    "website": "http://sevgvs.mrm.sudrf.ru"
+  }
+]

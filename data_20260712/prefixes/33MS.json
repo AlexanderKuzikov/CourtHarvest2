@@ -1,0 +1,752 @@
+[
+  {
+    "code": "33MS0019",
+    "name": "Судебный участок № 1 г. Александрова и Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601654, Владимирская обл, г Александров, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://aleks1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0025",
+    "name": "Судебный участок № 1 г. Вязники и Вязниковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601441, Владимирская обл, г Вязники, ул Институтская, д 14",
+    "legal_address": null,
+    "website": "http://vzn1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0029",
+    "name": "Судебный участок № 1 г. Гороховец и Гороховецкого судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601480, Владимирская обл, г Гороховец, ул Ленина, д 91",
+    "legal_address": null,
+    "website": "http://gor1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0030",
+    "name": "Судебный участок № 1 г. Гусь-Хрустального и Гусь-Хрустального судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601501, Владимирская обл, г Гусь-Хрустальный, ул Добролюбова, д 6",
+    "legal_address": null,
+    "website": "http://gus1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0036",
+    "name": "Судебный участок № 1 г. Камешково и Камешковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601300, Владимирская обл, г Камешково, ул Свердлова, д 14",
+    "legal_address": null,
+    "website": "http://kam1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0038",
+    "name": "Судебный участок № 1 г. Киржач и Киржачского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601010, Владимирская обл, г Киржач, ул Гагарина, д 8",
+    "legal_address": null,
+    "website": "http://kir1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0040",
+    "name": "Судебный участок № 1 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0049",
+    "name": "Судебный участок № 1 г. Кольчугино и Кольчугинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601781, Владимирская обл, г Кольчугино, ул Поселок Лесосплава, д 23 стр 1",
+    "legal_address": null,
+    "website": "http://kol1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0052",
+    "name": "Судебный участок № 1 г. Меленки и Меленковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602102, Владимирская обл, г Меленки, ул Ленина, д 68",
+    "legal_address": null,
+    "website": "http://mel1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0054",
+    "name": "Судебный участок № 1 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0062",
+    "name": "Судебный участок № 1 г. Петушки и Петушинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601144, Владимирская обл, г Петушки, ул Строителей, д 8",
+    "legal_address": null,
+    "website": "http://pet1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0067",
+    "name": "Судебный участок № 1 г. Собинки, Собинского района и ЗАТО г. Радужный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601204, Владимирская обл, г Собинка, ул Чайковского, д 7",
+    "legal_address": null,
+    "website": "http://sob1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0070",
+    "name": "Судебный участок № 1 г. Судогды и Судогодского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601351, Владимирская обл, г Судогда, ул Муромское шоссе, д 5",
+    "legal_address": null,
+    "website": "http://sdg1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0072",
+    "name": "Судебный участок № 1 г. Суздаля и Суздальского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601293, Владимирская обл, г Суздаль, ул Васильевская, д 44",
+    "legal_address": null,
+    "website": "http://suz1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0074",
+    "name": "Судебный участок № 1 г. Юрьев-Польский и Юрьев-Польского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601803, Владимирская обл, г Юрьев-Польский, пер Авангардский, д 22",
+    "legal_address": null,
+    "website": "http://jurp1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0001",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600033, г Владимир, ул Диктора Левитана, д 27А",
+    "legal_address": null,
+    "website": "http://len1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0007",
+    "name": "Судебный участок № 1 Октябрьского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://oct1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0066",
+    "name": "Судебный участок № 1 пос. Красная Горбатка и Селивановского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602332, Владимирская обл, п Красная Горбатка, ул Красноармейская, д 4",
+    "legal_address": null,
+    "website": "http://sel1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0013",
+    "name": "Судебный участок № 1 Фрунзенского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://frun1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0020",
+    "name": "Судебный участок № 2 г. Александрова и Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601654, Владимирская обл, г Александров, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://aleks2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0002",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600033, г Владимир, ул Диктора Левитана, д 27А",
+    "legal_address": null,
+    "website": "http://len2.wld.msudrf.ru/"
+  },
+  {
+    "code": "33MS0008",
+    "name": "Судебный участок № 2 Октябрьского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://oct2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0003",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600033, г Владимир, ул Диктора Левитана, д 27А",
+    "legal_address": null,
+    "website": "http://len3.wld.msudrf.ru/"
+  },
+  {
+    "code": "33MS0009",
+    "name": "Судебный участок № 3 Октябрьского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://oct3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0004",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600033, г Владимир, ул Диктора Левитана, д 27А",
+    "legal_address": null,
+    "website": "http://len4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0005",
+    "name": "Судебный участок № 5 Ленинского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600033, г Владимир, ул Диктора Левитана, д 27А",
+    "legal_address": null,
+    "website": "http://len5.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0006",
+    "name": "Судебный участок № 6 Ленинского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600033, г Владимир, ул Диктора Левитана, д 27А",
+    "legal_address": null,
+    "website": "http://len6.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0014",
+    "name": "Судебный участок № 2 Фрунзенского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://frun2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0015",
+    "name": "Судебный участок № 3 Фрунзенского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://frun3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0010",
+    "name": "Судебный участок № 4 Октябрьского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://oct4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0016",
+    "name": "Судебный участок № 4 Фрунзенского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://frun4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0011",
+    "name": "Судебный участок № 5 Октябрьского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://oct5.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0017",
+    "name": "Судебный участок № 5 Фрунзенского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://frun5.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0012",
+    "name": "Судебный участок № 6 Октябрьского судебного района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://oct6.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0026",
+    "name": "Судебный участок № 2 г. Вязники и Вязниковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601441, Владимирская обл, г Вязники, ул Институтская, д 14",
+    "legal_address": null,
+    "website": "http://vzn2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0021",
+    "name": "Судебный участок № 3 г. Александрова и Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601654, Владимирская обл, г Александров, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://aleks3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0027",
+    "name": "Судебный участок № 3 г. Вязники и Вязниковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601441, Владимирская обл, г Вязники, ул Институтская, д 14",
+    "legal_address": null,
+    "website": "http://vzn3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0022",
+    "name": "Судебный участок № 4 г. Александрова и Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601642, Владимирская обл, Александровский р-н, г Карабаново, пл Лермонтова, д 1",
+    "legal_address": null,
+    "website": "http://aleks4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0028",
+    "name": "Судебный участок № 4 г. Вязники и Вязниковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601441, Владимирская обл, г Вязники, ул Институтская, д 14",
+    "legal_address": null,
+    "website": "http://vzn4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0023",
+    "name": "Судебный участок № 5 г. Александрова и Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601670, Владимирская обл, Александровский р-н, г Струнино, кв-л Дубки, д 13",
+    "legal_address": null,
+    "website": "http://aleks5.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0024",
+    "name": "Судебный участок № 6 г. Александрова и Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601654, Владимирская обл, г Александров, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://aleks6.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0031",
+    "name": "Судебный участок № 2 г. Гусь-Хрустального и Гусь-Хрустального судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601501, Владимирская обл, г Гусь-Хрустальный, ул Калинина, зд 15",
+    "legal_address": null,
+    "website": "http://gus2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0037",
+    "name": "Судебный участок № 2 г. Камешково и Камешковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601300, Владимирская обл, г Камешково, ул Свердлова, д 14",
+    "legal_address": null,
+    "website": "http://kam2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0039",
+    "name": "Судебный участок № 2 г. Киржач и Киржачского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601010, Владимирская обл, г Киржач, ул Гагарина, д 8",
+    "legal_address": null,
+    "website": "http://kir2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0032",
+    "name": "Судебный участок № 3 г. Гусь-Хрустального и Гусь-Хрустального судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601501, Владимирская обл, г Гусь-Хрустальный, ул Калинина, зд 15",
+    "legal_address": null,
+    "website": "http://gus3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0033",
+    "name": "Судебный участок № 4 г. Гусь-Хрустального и Гусь-Хрустального судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601501, Владимирская обл, г Гусь-Хрустальный, ул Калинина, зд 15",
+    "legal_address": null,
+    "website": "http://gus4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0034",
+    "name": "Судебный участок № 5 г. Гусь-Хрустального и Гусь-Хрустального судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601501, Владимирская обл, г Гусь-Хрустальный, ул Добролюбова, д 6",
+    "legal_address": null,
+    "website": "http://gus5.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0035",
+    "name": "Судебный участок № 6 г. Гусь-Хрустального и Гусь-Хрустального судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601501, Владимирская обл, г Гусь-Хрустальный, ул Калинина, зд 15",
+    "legal_address": null,
+    "website": "http://gus6.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0041",
+    "name": "Судебный участок № 2 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0042",
+    "name": "Судебный участок № 3 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0043",
+    "name": "Судебный участок № 4 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0044",
+    "name": "Судебный участок № 5 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov5.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0045",
+    "name": "Судебный участок № 6 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov6.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0046",
+    "name": "Судебный участок № 7 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov7.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0047",
+    "name": "Судебный участок № 8 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov8.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0048",
+    "name": "Судебный участок № 9 г. Коврова и Ковровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Октябрьская, д 22А",
+    "legal_address": null,
+    "website": "http://kov9.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0050",
+    "name": "Судебный участок № 2 г. Кольчугино и Кольчугинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601781, Владимирская обл, г Кольчугино, ул Поселок Лесосплава, д 23 стр 1",
+    "legal_address": null,
+    "website": "http://kol2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0053",
+    "name": "Судебный участок № 2 г. Меленки и Меленковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602102, Владимирская обл, г Меленки, ул Ленина, д 68",
+    "legal_address": null,
+    "website": "http://mel2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0055",
+    "name": "Судебный участок № 2 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0051",
+    "name": "Судебный участок № 3 г. Кольчугино и Кольчугинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601781, Владимирская обл, г Кольчугино, ул Поселок Лесосплава, д 23 стр 1",
+    "legal_address": null,
+    "website": "http://kol3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0056",
+    "name": "Судебный участок № 3 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0057",
+    "name": "Судебный участок № 4 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur4.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0058",
+    "name": "Судебный участок № 5 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur5.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0059",
+    "name": "Судебный участок № 6 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur6.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0063",
+    "name": "Судебный участок № 2 г. Петушки и Петушинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601120, Владимирская обл, Петушинский р-н, г Покров, ул Быкова, д 1",
+    "legal_address": null,
+    "website": "http://pet2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0068",
+    "name": "Судебный участок № 2 г. Собинки, Собинского района и ЗАТО г. Радужный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601204, Владимирская обл, г Собинка, ул Чайковского, д 7",
+    "legal_address": null,
+    "website": "http://sob2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0064",
+    "name": "Судебный участок № 3 г. Петушки и Петушинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601144, Владимирская обл, г Петушки, ул Строителей, д 8",
+    "legal_address": null,
+    "website": "http://pet3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0069",
+    "name": "Судебный участок № 3 г. Собинки, Собинского района и ЗАТО г. Радужный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601220, Владимирская обл, Собинский р-н, п Ставрово, ул Октябрьская, д 118",
+    "legal_address": null,
+    "website": "http://sob3.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0065",
+    "name": "Судебный участок № 4 г. Собинки, Собинского района и ЗАТО г. Радужный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600910, Владимирская обл, г Радужный, кв-л 17-й, д 111",
+    "legal_address": null,
+    "website": "http://rad1.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0060",
+    "name": "Судебный участок № 7 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur7.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0061",
+    "name": "Судебный участок № 8 г. Мурома и Муромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "602264, Владимирская обл, г Муром, ш Радиозаводское, д 14А",
+    "legal_address": null,
+    "website": "http://mur8.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0071",
+    "name": "Судебный участок № 2 г. Судогды и Судогодского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601351, Владимирская обл, г Судогда, ул Муромское шоссе, д 5",
+    "legal_address": null,
+    "website": "http://sdg2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0073",
+    "name": "Судебный участок № 2 г. Суздаля и Суздальского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601271, Владимирская обл, Суздальский р-н, п Садовый, ул Центральная, д 4А",
+    "legal_address": null,
+    "website": "http://suz2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0075",
+    "name": "Судебный участок № 2 г. Юрьев-Польский и Юрьев-Польского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "601803, Владимирская обл, г Юрьев-Польский, пер Авангардский, д 22",
+    "legal_address": null,
+    "website": "http://jurp2.wld.msudrf.ru"
+  },
+  {
+    "code": "33MS0076",
+    "name": "Судебный участок № 7 Октябрьского района г. Владимира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "600000, г Владимир, пр-кт Октябрьский, д 14",
+    "legal_address": null,
+    "website": "http://oct7.wld.msudrf.ru/"
+  }
+]

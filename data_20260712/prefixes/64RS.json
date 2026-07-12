@@ -1,0 +1,252 @@
+[
+  {
+    "code": "64RS0003",
+    "name": "Аркадакский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412210, Саратовская обл, г Аркадак, ул Ленина, д 69",
+    "legal_address": null,
+    "website": "http://arkadaksky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0002",
+    "name": "Аткарский городской суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412420, Саратовская обл, г Аткарск, ул Советская, д 94",
+    "legal_address": null,
+    "website": "http://atkarsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0008",
+    "name": "Базарно-Карабулакский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412602, Саратовская обл, рп Базарный Карабулак, ул Некрасова, д 33",
+    "legal_address": null,
+    "website": "http://bazarnj-karabulaksky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0004",
+    "name": "Балаковский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413857, Саратовская обл, г Балаково, ул Механизаторов, д 8",
+    "legal_address": null,
+    "website": "http://balakovsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0007",
+    "name": "Балашовский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412309, Саратовская обл, г Балашов, ул Рабочая, д 67",
+    "legal_address": null,
+    "website": "http://balashovsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0043",
+    "name": "Волжский районный суд г. Саратова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "410002, г Саратов, ул им Некрасова Н.А., д 17",
+    "legal_address": null,
+    "website": "http://volzhsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0010",
+    "name": "Вольский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412906, Саратовская обл, г Вольск, ул Чернышевского, д 79",
+    "legal_address": null,
+    "website": "http://volsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0015",
+    "name": "Ершовский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413503, Саратовская обл., г. Ершов, ул. XXV съезда КПСС, д. 40",
+    "legal_address": null,
+    "website": "http://ershovsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0044",
+    "name": "Заводской районный суд г. Саратова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "410015, г Саратов, пр-кт Энтузиастов, д 20А",
+    "legal_address": null,
+    "website": "http://zavodskoi.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0017",
+    "name": "Калининский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412484, Саратовская обл, г Калининск, ул Советская, д 3",
+    "legal_address": null,
+    "website": "http://kalininsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0045",
+    "name": "Кировский районный суд г. Саратова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "410012, г Саратов, ул Железнодорожная, д 62/66",
+    "legal_address": null,
+    "website": "http://kirovsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0019",
+    "name": "Красноармейский городской суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412800, Саратовская обл, г Красноармейск, ул Ленина, д 60",
+    "legal_address": null,
+    "website": "http://krasnoarmeisky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0018",
+    "name": "Краснокутский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413235, Саратовская обл, г Красный Кут, ул Московская, д 60",
+    "legal_address": null,
+    "website": "http://krasnokutsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0046",
+    "name": "Ленинский районный суд г. Саратова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "410086, г Саратов, ул им Благодарова К.В., д 7А",
+    "legal_address": null,
+    "website": "http://leninsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0022",
+    "name": "Марксовский городской суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413090, Саратовская обл, г Маркс, пр-кт Ленина, д 16",
+    "legal_address": null,
+    "website": "http://marksovsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0023",
+    "name": "Новоузенский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413360, Саратовская обл, г Новоузенск, ул Советская, д 3",
+    "legal_address": null,
+    "website": "http://novouzensky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0047",
+    "name": "Октябрьский районный суд г. Саратова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "410056, г Саратов, ул Советская, д 44",
+    "legal_address": null,
+    "website": "http://oktyabrsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0027",
+    "name": "Петровский городской суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412540, Саратовская обл, г Петровск, пл Ленина, д 5",
+    "legal_address": null,
+    "website": "http://petrovsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0028",
+    "name": "Пугачевский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413720, Саратовская обл, г Пугачев, ул Топорковская, д 37",
+    "legal_address": null,
+    "website": "http://pugachevsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0030",
+    "name": "Ртищевский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412031, Саратовская обл, г Ртищево, ул Железнодорожная, д 84А",
+    "legal_address": null,
+    "website": "http://rtishevsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0034",
+    "name": "Саратовский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "410530, г Саратов, п Дубки, ул Центральная, д 12",
+    "legal_address": null,
+    "website": "http://saratovsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0035",
+    "name": "Советский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413210, Саратовская обл, рп Степное, ул 50 лет Победы, д 45",
+    "legal_address": null,
+    "website": "http://sovetsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0036",
+    "name": "Татищевский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "412170, Саратовская обл, рп Татищево, ул Советская, д 10",
+    "legal_address": null,
+    "website": "http://tatishevsky.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0048",
+    "name": "Фрунзенский районный суд г. Саратова",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "410012, г Саратов, ул им Дзержинского Ф.Э., д 13/15",
+    "legal_address": null,
+    "website": "http://fr.sar.sudrf.ru"
+  },
+  {
+    "code": "64RS0042",
+    "name": "Энгельсский районный суд Саратовской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "413100, Саратовская обл, г Энгельс, ул Максима Горького, д 11",
+    "legal_address": null,
+    "website": "http://engelsky.sar.sudrf.ru"
+  }
+]

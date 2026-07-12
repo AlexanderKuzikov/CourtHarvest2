@@ -1,0 +1,1792 @@
+[
+  {
+    "code": "52MS0079",
+    "name": "Судебный участок Большеболдинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607940, Нижегородская обл, с Большое Болдино, ул Пушкинская, д 6",
+    "legal_address": null,
+    "website": "http://bbold.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0080",
+    "name": "Судебный участок Большемурашкинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606360, Нижегородская обл, рп Большое Мурашкино, ул Свободы, зд 62",
+    "legal_address": null,
+    "website": "http://bmur.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0088",
+    "name": "Судебный участок Бутурлинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607440, Нижегородская обл, рп Бутурлино, ул Спортивная, д 5",
+    "legal_address": null,
+    "website": "http://butur1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0089",
+    "name": "Судебный участок Вадского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606380, Нижегородская обл, с Вад, ул 1 Мая, зд 39А",
+    "legal_address": null,
+    "website": "http://vad.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0090",
+    "name": "Судебный участок Варнавинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606760, Нижегородская обл, рп Варнавино, ул Комсомольская, д 32Б",
+    "legal_address": null,
+    "website": "http://varnav.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0091",
+    "name": "Судебный участок Вачского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606150, Нижегородская обл, рп Вача, ул Ленина, зд 2",
+    "legal_address": null,
+    "website": "http://vacha.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0092",
+    "name": "Судебный участок Ветлужского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606860, Нижегородская обл, г Ветлуга, ул Алешкова, д 64",
+    "legal_address": null,
+    "website": "http://vetluga.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0093",
+    "name": "Судебный участок Вознесенского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607340, Нижегородская обл, рп Вознесенское, ул Водопроводная, д 2А",
+    "legal_address": null,
+    "website": "http://vozn.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0097",
+    "name": "Судебный участок Воротынского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606260, Нижегородская обл, рп Воротынец, ул М.Горького, д 100",
+    "legal_address": null,
+    "website": "http://vorot.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0098",
+    "name": "Судебный участок Воскресенского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606730, Нижегородская обл, рп Воскресенское, ул Красноармейская, д 78",
+    "legal_address": null,
+    "website": "http://voskr.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0001",
+    "name": "Судебный участок № 1 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 10А",
+    "legal_address": null,
+    "website": "http://avtoz1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0062",
+    "name": "Судебный участок № 1 Ардатовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607130, Нижегородская обл, рп Ардатов, ул Свердлова, д 14",
+    "legal_address": null,
+    "website": "http://ard1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0064",
+    "name": "Судебный участок № 1 Арзамасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607225, Нижегородская обл, г Арзамас, ул Солнечная, д 10Б",
+    "legal_address": null,
+    "website": "http://arz1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0071",
+    "name": "Судебный участок № 1 Балахнинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606400, Нижегородская обл, г Балахна, ул Ленина, д 11",
+    "legal_address": null,
+    "website": "http://balah1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0075",
+    "name": "Судебный участок № 1 Богородского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607600, Нижегородская обл, г Богородск, ул Ленина, зд 176",
+    "legal_address": null,
+    "website": "http://bogor1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0081",
+    "name": "Судебный участок № 1 Борского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 10",
+    "legal_address": null,
+    "website": "http://bor1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0094",
+    "name": "Судебный участок № 1 Володарского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606072, Нижегородская область, г. Володарск, ул. Мичурина. севернее улицы Лядова",
+    "legal_address": null,
+    "website": "http://volod1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0099",
+    "name": "Судебный участок № 1 Выксунского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607060, Нижегородская обл, г Выкса, пл Красная, зд 33",
+    "legal_address": null,
+    "website": "http://vyksa1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0014",
+    "name": "Судебный участок № 1 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603002, Нижегородская обл, г Нижний Новгород, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://kanav1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0022",
+    "name": "Судебный участок № 1 Ленинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603032, Нижегородская обл, г Нижний Новгород, ул Памирская, д 13",
+    "legal_address": null,
+    "website": "http://lenin1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0002",
+    "name": "Судебный участок № 2 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 10А",
+    "legal_address": null,
+    "website": "http://avtoz2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0003",
+    "name": "Судебный участок № 3 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 10А",
+    "legal_address": null,
+    "website": "http://avtoz3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0004",
+    "name": "Судебный участок № 4 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 10А",
+    "legal_address": null,
+    "website": "http://avtoz4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0005",
+    "name": "Судебный участок № 5 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 10А",
+    "legal_address": null,
+    "website": "http://avtoz5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0006",
+    "name": "Судебный участок № 6 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 10А",
+    "legal_address": null,
+    "website": "http://avtoz6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0007",
+    "name": "Судебный участок № 7 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 6А",
+    "legal_address": null,
+    "website": "http://avtoz7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0008",
+    "name": "Судебный участок № 8 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 6А",
+    "legal_address": null,
+    "website": "http://avtoz8.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0009",
+    "name": "Судебный участок № 9 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 6А",
+    "legal_address": null,
+    "website": "http://avtoz9.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0015",
+    "name": "Судебный участок № 2 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603002, Нижегородская обл, г Нижний Новгород, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://kanav2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0016",
+    "name": "Судебный участок № 3 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603002, Нижегородская обл, г Нижний Новгород, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://kanav3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0017",
+    "name": "Судебный участок № 4 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603116, Нижегородская обл, г Нижний Новгород, ул Гордеевская, д 42А",
+    "legal_address": null,
+    "website": "http://kanav4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0018",
+    "name": "Судебный участок № 5 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603002, Нижегородская обл, г Нижний Новгород, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://kanav5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0019",
+    "name": "Судебный участок № 6 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603116, Нижегородская обл, г Нижний Новгород, ул Гордеевская, д 42А",
+    "legal_address": null,
+    "website": "http://kanav6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0010",
+    "name": "Судебный участок № 10 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 6А",
+    "legal_address": null,
+    "website": "http://avtoz10.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0011",
+    "name": "Судебный участок № 11 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 6А",
+    "legal_address": null,
+    "website": "http://avtoz11.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0012",
+    "name": "Судебный участок № 12 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 6А",
+    "legal_address": null,
+    "website": "http://avtoz12.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0013",
+    "name": "Судебный участок № 13 Автозаводского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603101, Нижегородская обл, г Нижний Новгород, ул Ватутина, д 6А",
+    "legal_address": null,
+    "website": "http://avtoz13.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0029",
+    "name": "Судебный участок № 1 Московского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603047, Нижегородская обл, г Нижний Новгород, ул Героя Рябцева, д 29",
+    "legal_address": null,
+    "website": "http://mosk1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0023",
+    "name": "Судебный участок № 2 Ленинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603032, Нижегородская обл, г Нижний Новгород, ул Памирская, д 13",
+    "legal_address": null,
+    "website": "http://lenin2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0024",
+    "name": "Судебный участок № 3 Ленинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603032, Нижегородская обл, г Нижний Новгород, ул Памирская, д 13",
+    "legal_address": null,
+    "website": "http://lenin3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0025",
+    "name": "Судебный участок № 4 Ленинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603032, Нижегородская обл, г Нижний Новгород, ул Памирская, д 13",
+    "legal_address": null,
+    "website": "http://lenin4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0026",
+    "name": "Судебный участок № 5 Ленинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603032, Нижегородская обл, г Нижний Новгород, ул Памирская, д 13",
+    "legal_address": null,
+    "website": "http://lenin5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0027",
+    "name": "Судебный участок № 6 Ленинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603032, Нижегородская обл, г Нижний Новгород, ул Памирская, д 13",
+    "legal_address": null,
+    "website": "http://lenin6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0020",
+    "name": "Судебный участок № 7 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603124, Нижегородская обл, г Нижний Новгород, пер Камчатский, д 5",
+    "legal_address": null,
+    "website": "http://kanav7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0028",
+    "name": "Судебный участок № 7 Ленинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603032, Нижегородская обл, г Нижний Новгород, ул Памирская, д 13",
+    "legal_address": null,
+    "website": "http://lenin7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0021",
+    "name": "Судебный участок № 8 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603002, Нижегородская обл, г Нижний Новгород, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://kanav8.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0036",
+    "name": "Судебный участок № 1 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603001, Нижегородская обл, г Нижний Новгород, ул Рождественская, д 19",
+    "legal_address": null,
+    "website": "http://nizh1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0030",
+    "name": "Судебный участок № 2 Московского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603044, Нижегородская обл, г Нижний Новгород, ул Николая Гастелло, д 1",
+    "legal_address": null,
+    "website": "http://mosk2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0037",
+    "name": "Судебный участок № 2 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603001, Нижегородская обл, г Нижний Новгород, ул Рождественская, д 19",
+    "legal_address": null,
+    "website": "http://nizh2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0031",
+    "name": "Судебный участок № 3 Московского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603044, Нижегородская обл, г Нижний Новгород, ул Николая Гастелло, д 1",
+    "legal_address": null,
+    "website": "http://mosk3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0038",
+    "name": "Судебный участок № 3 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603001, Нижегородская обл, г Нижний Новгород, ул Рождественская, д 21Е",
+    "legal_address": null,
+    "website": "http://nizh3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0032",
+    "name": "Судебный участок № 4 Московского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603047, Нижегородская обл, г Нижний Новгород, ул Красных Зорь, д 14",
+    "legal_address": null,
+    "website": "http://mosk4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0039",
+    "name": "Судебный участок № 4 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603001, Нижегородская обл, г Нижний Новгород, ул Рождественская, д 19",
+    "legal_address": null,
+    "website": "http://nizh4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0033",
+    "name": "Судебный участок № 5 Московского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603044, Нижегородская обл, г Нижний Новгород, ул Николая Гастелло, д 1",
+    "legal_address": null,
+    "website": "http://mosk5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0034",
+    "name": "Судебный участок № 6 Московского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603047, Нижегородская обл, г Нижний Новгород, ул Красных Зорь, д 14",
+    "legal_address": null,
+    "website": "http://mosk6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0035",
+    "name": "Судебный участок № 7 Московского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603044, Нижегородская обл, г Нижний Новгород, ул Николая Гастелло, д 1",
+    "legal_address": null,
+    "website": "http://mosk7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0042",
+    "name": "Судебный участок № 1 Приокского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603144, Нижегородская обл, г Нижний Новгород, ш Анкудиновское, д 32",
+    "legal_address": null,
+    "website": "http://priok1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0047",
+    "name": "Судебный участок № 1 Советского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603098, Нижегородская обл, г Нижний Новгород, ул Пушкина, д 29А",
+    "legal_address": null,
+    "website": "http://sovet1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0043",
+    "name": "Судебный участок № 2 Приокского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603144, Нижегородская обл, г Нижний Новгород, ш Анкудиновское, д 32",
+    "legal_address": null,
+    "website": "http://priok2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0048",
+    "name": "Судебный участок № 2 Советского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603098, Нижегородская обл, г Нижний Новгород, ул Пушкина, д 29А",
+    "legal_address": null,
+    "website": "http://sovet2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0044",
+    "name": "Судебный участок № 3 Приокского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603144, Нижегородская обл, г Нижний Новгород, ш Анкудиновское, д 32",
+    "legal_address": null,
+    "website": "http://priok3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0049",
+    "name": "Судебный участок № 3 Советского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603122, Нижегородская обл, г Нижний Новгород, ул Козицкого, д 1 к 1",
+    "legal_address": null,
+    "website": "http://sovet3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0045",
+    "name": "Судебный участок № 4 Приокского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603152, Нижегородская обл, г Нижний Новгород, ул Петровского, д 23",
+    "legal_address": null,
+    "website": "http://priok4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0040",
+    "name": "Судебный участок № 5 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603087, Нижегородская обл, г Нижний Новгород, ул Верхне-Печерская, д 15 к 1, помещ 1",
+    "legal_address": null,
+    "website": "http://nizh5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0046",
+    "name": "Судебный участок № 5 Приокского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603152, Нижегородская обл, г Нижний Новгород, ул Петровского, д 23",
+    "legal_address": null,
+    "website": "http://priok5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0041",
+    "name": "Судебный участок № 6 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603001, Нижегородская обл, г Нижний Новгород, ул Рождественская, д 19",
+    "legal_address": null,
+    "website": "http://nizh6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0054",
+    "name": "Судебный участок № 1 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0055",
+    "name": "Судебный участок № 2 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0056",
+    "name": "Судебный участок № 3 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0050",
+    "name": "Судебный участок № 4 Советского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603122, Нижегородская обл, г Нижний Новгород, ул Козицкого, д 1 к 1",
+    "legal_address": null,
+    "website": "http://sovet4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0057",
+    "name": "Судебный участок № 4 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0051",
+    "name": "Судебный участок № 5 Советского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603098, Нижегородская обл, г Нижний Новгород, ул Пушкина, д 29А",
+    "legal_address": null,
+    "website": "http://sovet5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0058",
+    "name": "Судебный участок № 5 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0052",
+    "name": "Судебный участок № 6 Советского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603098, Нижегородская обл, г Нижний Новгород, ул Пушкина, д 29А",
+    "legal_address": null,
+    "website": "http://sovet6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0059",
+    "name": "Судебный участок № 6 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0053",
+    "name": "Судебный участок № 7 Советского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603122, Нижегородская обл, г Нижний Новгород, ул Козицкого, д 1 к 1",
+    "legal_address": null,
+    "website": "http://sovet7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0063",
+    "name": "Судебный участок № 2 Ардатовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607130, Нижегородская обл, рп Ардатов, ул Свердлова, д 14",
+    "legal_address": null,
+    "website": "http://ard2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0065",
+    "name": "Судебный участок № 2 Арзамасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607225, Нижегородская обл, г Арзамас, ул Солнечная, д 10Б",
+    "legal_address": null,
+    "website": "http://arz2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0066",
+    "name": "Судебный участок № 3 Арзамасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607225, Нижегородская обл, г Арзамас, ул Солнечная, д 10Б",
+    "legal_address": null,
+    "website": "http://arz3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0067",
+    "name": "Судебный участок № 4 Арзамасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607225, Нижегородская обл, г Арзамас, ул Солнечная, д 10Б",
+    "legal_address": null,
+    "website": "http://arz4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0068",
+    "name": "Судебный участок № 5 Арзамасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607225, Нижегородская обл, г Арзамас, ул Солнечная, д 10Б",
+    "legal_address": null,
+    "website": "http://arz5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0069",
+    "name": "Судебный участок № 6 Арзамасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607225, Нижегородская обл, г Арзамас, ул Солнечная, д 10Б",
+    "legal_address": null,
+    "website": "http://arz6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0060",
+    "name": "Судебный участок № 7 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0061",
+    "name": "Судебный участок № 8 Сормовского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603050, Нижегородская обл, г Нижний Новгород, ул Василия Иванова, д 56А",
+    "legal_address": null,
+    "website": "http://sormov8.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0072",
+    "name": "Судебный участок № 2 Балахнинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606400, Нижегородская обл, г Балахна, ул Ленина, д 11",
+    "legal_address": null,
+    "website": "http://balah2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0076",
+    "name": "Судебный участок № 2 Богородского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607600, Нижегородская обл, г Богородск, ул Ленина, зд 176",
+    "legal_address": null,
+    "website": "http://bogor2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0073",
+    "name": "Судебный участок № 3 Балахнинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606400, Нижегородская обл, г Балахна, ул Ленина, д 11",
+    "legal_address": null,
+    "website": "http://balah3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0077",
+    "name": "Судебный участок № 3 Богородского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607600, Нижегородская обл, г Богородск, ул Ленина, зд 176",
+    "legal_address": null,
+    "website": "http://bogor3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0074",
+    "name": "Судебный участок № 4 Балахнинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606400, Нижегородская обл, г Балахна, ул Ленина, д 11",
+    "legal_address": null,
+    "website": "http://balah4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0070",
+    "name": "Судебный участок № 7 Арзамасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607225, Нижегородская обл, г Арзамас, ул Солнечная, д 10Б",
+    "legal_address": null,
+    "website": "http://arz7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0082",
+    "name": "Судебный участок № 2 Борского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 10",
+    "legal_address": null,
+    "website": "http://bor2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0083",
+    "name": "Судебный участок № 3 Борского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 10",
+    "legal_address": null,
+    "website": "http://bor3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0084",
+    "name": "Судебный участок № 4 Борского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 10",
+    "legal_address": null,
+    "website": "http://bor4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0085",
+    "name": "Судебный участок № 5 Борского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 10",
+    "legal_address": null,
+    "website": "http://bor5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0086",
+    "name": "Судебный участок № 6 Борского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 10",
+    "legal_address": null,
+    "website": "http://bor6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0087",
+    "name": "Судебный участок № 7 Борского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 10",
+    "legal_address": null,
+    "website": "http://bor7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0095",
+    "name": "Судебный участок № 2 Володарского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606058, Нижегородская обл, Володарский р-н, рп Ильиногорск, ул Угарова, д 1",
+    "legal_address": null,
+    "website": "http://volod2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0096",
+    "name": "Судебный участок № 3 Володарского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606083, Нижегородская обл, Володарский р-н, сп Мулино, ул Гвардейская, д 74",
+    "legal_address": null,
+    "website": "http://volod3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0103",
+    "name": "Судебный участок Гагинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607870, Нижегородская обл, с Гагино, ул Коммунистическая, д 8",
+    "legal_address": null,
+    "website": "http://gagin.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0122",
+    "name": "Судебный участок Дальнеконстантиновского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606310, Нижегородская обл, рп Дальнее Константиново, ул Советская, д 80",
+    "legal_address": null,
+    "website": "http://dkost.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0124",
+    "name": "Судебный участок Дивеевского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607320, Нижегородская обл, с Дивеево, ул Чкалова, д 2",
+    "legal_address": null,
+    "website": "http://divo.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0125",
+    "name": "Судебный участок Княгининского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606340, Нижегородская обл, г Княгинино, ул Свободы, зд 34",
+    "legal_address": null,
+    "website": "http://knyag.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0126",
+    "name": "Судебный участок Ковернинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606570, Нижегородская обл, рп Ковернино, ул Школьная, д 30",
+    "legal_address": null,
+    "website": "http://kover.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0129",
+    "name": "Судебный участок Краснооктябрьского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607530, Нижегородская обл, с Уразовка, пер Парковый, д 3",
+    "legal_address": null,
+    "website": "http://krokt.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0149",
+    "name": "Судебный участок Первомайского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607760, Нижегородская обл, г Первомайск, ул Октябрьская, д 6",
+    "legal_address": null,
+    "website": "http://pervom.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0150",
+    "name": "Судебный участок Перевозского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607400, Нижегородская обл, г Перевоз, ул Молодежная, зд 4",
+    "legal_address": null,
+    "website": "http://perev.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0151",
+    "name": "Судебный участок Пильнинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607490, Нижегородская обл, рп Пильна, ул Урицкого, д 64",
+    "legal_address": null,
+    "website": "http://pilna.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0163",
+    "name": "Судебный участок Сеченовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607580, Нижегородская обл, с Сеченово, ул Советская, д 7",
+    "legal_address": null,
+    "website": "http://sechen.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0164",
+    "name": "Судебный участок Сокольского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606670, Нижегородская обл, рп Сокольское, ул Достоевского, д 16",
+    "legal_address": null,
+    "website": "http://sokol.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0165",
+    "name": "Судебный участок Сосновского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606170, Нижегородская обл, рп Сосновское, ул Комсомольская, д 20",
+    "legal_address": null,
+    "website": "http://sosnov.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0166",
+    "name": "Судебный участок Спасского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606280, Нижегородская обл, с Спасское, пл Революции, зд 27",
+    "legal_address": null,
+    "website": "http://spas.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0167",
+    "name": "Судебный участок Тонкинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606970, Нижегородская обл, рп Тонкино, ул Свободы, д 21",
+    "legal_address": null,
+    "website": "http://tonkin.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0168",
+    "name": "Судебный участок Тоншаевского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606950, Нижегородская обл, рп Тоншаево, ул Центральная, д 16",
+    "legal_address": null,
+    "website": "http://tonsh.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0173",
+    "name": "Судебный участок Шарангского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606840, Нижегородская обл, рп Шаранга, ул Красноармейская, д 1",
+    "legal_address": null,
+    "website": "http://shara.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0174",
+    "name": "Судебный участок Шатковского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607700, Нижегородская обл, рп Шатки, ул Федеративная, д 21",
+    "legal_address": null,
+    "website": "http://shatki.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0104",
+    "name": "Судебный участок № 1 Городецкого судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606508, Нижегородская обл, г Городец, ул Новая, д 107",
+    "legal_address": null,
+    "website": "http://gorod1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0109",
+    "name": "Судебный участок № 1 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606002, Нижегородская обл, г Дзержинск, ул Сухаренко, д 23А",
+    "legal_address": null,
+    "website": "http://dzer1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0127",
+    "name": "Судебный участок № 1 Краснобаковского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606710, Нижегородская обл, рп Красные Баки, ул Луговая, д 25",
+    "legal_address": null,
+    "website": "http://krbak1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0100",
+    "name": "Судебный участок № 2 Выксунского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607060, Нижегородская обл, г Выкса, пл Красная, зд 33",
+    "legal_address": null,
+    "website": "http://vyksa2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0105",
+    "name": "Судебный участок № 2 Городецкого судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606508, Нижегородская обл, г Городец, ул Новая, д 107",
+    "legal_address": null,
+    "website": "http://gorod2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0101",
+    "name": "Судебный участок № 3 Выксунского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607060, Нижегородская обл, г Выкса, пл Красная, зд 33",
+    "legal_address": null,
+    "website": "http://vyksa3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0106",
+    "name": "Судебный участок № 3 Городецкого судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606508, Нижегородская обл, г Городец, ул Новая, д 107",
+    "legal_address": null,
+    "website": "http://gorod3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0102",
+    "name": "Судебный участок № 4 Выксунского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607060, Нижегородская обл, г Выкса, пл Красная, зд 33",
+    "legal_address": null,
+    "website": "http://vyksa4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0107",
+    "name": "Судебный участок № 4 Городецкого судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606508, Нижегородская обл, г Городец, ул Новая, д 107",
+    "legal_address": null,
+    "website": "http://gorod4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0108",
+    "name": "Судебный участок № 5 Городецкого судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606508, Нижегородская обл, г Городец, ул Новая, д 107",
+    "legal_address": null,
+    "website": "http://gorod5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0110",
+    "name": "Судебный участок № 2 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606002, Нижегородская обл, г Дзержинск, ул Сухаренко, д 23А",
+    "legal_address": null,
+    "website": "http://dzer2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0111",
+    "name": "Судебный участок № 3 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606024, Нижегородская обл, г Дзержинск, пр-кт Чкалова, д 23А",
+    "legal_address": null,
+    "website": "http://dzer3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0112",
+    "name": "Судебный участок № 4 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606024, Нижегородская обл, г Дзержинск, пр-кт Чкалова, д 23А",
+    "legal_address": null,
+    "website": "http://dzer4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0113",
+    "name": "Судебный участок № 5 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606002, Нижегородская обл, г Дзержинск, ул Сухаренко, д 23А",
+    "legal_address": null,
+    "website": "http://dzer5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0114",
+    "name": "Судебный участок № 6 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606002, Нижегородская обл, г Дзержинск, ул Сухаренко, д 23А",
+    "legal_address": null,
+    "website": "http://dzer6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0115",
+    "name": "Судебный участок № 7 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, пр-кт Ленина, д 49А",
+    "legal_address": null,
+    "website": "http://dzer7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0116",
+    "name": "Судебный участок № 8 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, пр-кт Ленина, д 49А",
+    "legal_address": null,
+    "website": "http://dzer8.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0117",
+    "name": "Судебный участок № 9 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, пр-кт Ленина, д 49А",
+    "legal_address": null,
+    "website": "http://dzer9.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0118",
+    "name": "Судебный участок № 10 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, пр-кт Ленина, д 49А",
+    "legal_address": null,
+    "website": "http://dzer10.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0119",
+    "name": "Судебный участок № 11 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, пр-кт Ленина, д 49А",
+    "legal_address": null,
+    "website": "http://dzer11.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0128",
+    "name": "Судебный участок № 2 Краснобаковского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606710, Нижегородская обл, рп Красные Баки, ул Луговая, д 25",
+    "legal_address": null,
+    "website": "http://krbak2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0120",
+    "name": "Судебный участок № 12 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, пр-кт Ленина, д 49А",
+    "legal_address": null,
+    "website": "http://dzer12.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0121",
+    "name": "Судебный участок № 13 Дзержинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, пр-кт Ленина, д 49А",
+    "legal_address": null,
+    "website": "http://dzer13.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0130",
+    "name": "Судебный участок № 1 Кстовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607651, Нижегородская обл, г Нижний Новгород, г Кстово, ул Театральная, д 2",
+    "legal_address": null,
+    "website": "http://kstovo1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0135",
+    "name": "Судебный участок № 1 Кулебакского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607018, Нижегородская обл, г Кулебаки, ул Воровского, д 48",
+    "legal_address": null,
+    "website": "http://kuleb1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0138",
+    "name": "Судебный участок № 1 Лукояновского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607800, Нижегородская обл, г Лукоянов, ул Коммунистическая, д 32Г",
+    "legal_address": null,
+    "website": "http://luk1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0131",
+    "name": "Судебный участок № 2 Кстовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607651, Нижегородская обл, г Нижний Новгород, г Кстово, ул Театральная, д 2",
+    "legal_address": null,
+    "website": "http://kstovo2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0136",
+    "name": "Судебный участок № 2 Кулебакского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607018, Нижегородская обл, г Кулебаки, ул Воровского, д 48",
+    "legal_address": null,
+    "website": "http://kuleb2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0139",
+    "name": "Судебный участок № 2 Лукояновского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607800, Нижегородская обл, г Лукоянов, ул Коммунистическая, д 32Г",
+    "legal_address": null,
+    "website": "http://luk2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0132",
+    "name": "Судебный участок № 3 Кстовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607651, Нижегородская обл, г Нижний Новгород, г Кстово, ул Театральная, д 2",
+    "legal_address": null,
+    "website": "http://kstovo3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0137",
+    "name": "Судебный участок № 3 Кулебакского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607018, Нижегородская обл, г Кулебаки, ул Воровского, д 48",
+    "legal_address": null,
+    "website": "http://kuleb3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0133",
+    "name": "Судебный участок № 4 Кстовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607651, Нижегородская обл, г Нижний Новгород, г Кстово, ул Театральная, д 2",
+    "legal_address": null,
+    "website": "http://kstovo4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0134",
+    "name": "Судебный участок № 5 Кстовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607651, Нижегородская обл, г Нижний Новгород, г Кстово, ул Театральная, д 2",
+    "legal_address": null,
+    "website": "http://kstovo5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0140",
+    "name": "Судебный участок № 1 Лысковского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606210, Нижегородская обл, г Лысково, ул Строителей, д 10 к 1",
+    "legal_address": null,
+    "website": "http://lysk1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0142",
+    "name": "Судебный участок № 1 Навашинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607102, Нижегородская обл, г Навашино, ул Ленина, зд 28А",
+    "legal_address": null,
+    "website": "http://nav1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0144",
+    "name": "Судебный участок № 1 Павловского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606100, Нижегородская обл, г Павлово, ул Кирова, д 66А",
+    "legal_address": null,
+    "website": "http://pavlov1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0141",
+    "name": "Судебный участок № 2 Лысковского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606210, Нижегородская обл, г Лысково, ул Строителей, д 10 к 1",
+    "legal_address": null,
+    "website": "http://lysk2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0143",
+    "name": "Судебный участок № 2 Навашинского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607102, Нижегородская обл, г Навашино, ул Ленина, зд 28А",
+    "legal_address": null,
+    "website": "http://nav2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0145",
+    "name": "Судебный участок № 2 Павловского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606100, Нижегородская обл, г Павлово, ул Кирова, д 66А",
+    "legal_address": null,
+    "website": "http://pavlov2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0146",
+    "name": "Судебный участок № 3 Павловского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606100, Нижегородская обл, г Павлово, ул Кирова, д 66А",
+    "legal_address": null,
+    "website": "http://pavlov3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0147",
+    "name": "Судебный участок № 4 Павловского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606100, Нижегородская обл, г Павлово, ул Кирова, д 66А",
+    "legal_address": null,
+    "website": "http://pavlov4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0148",
+    "name": "Судебный участок № 5 Павловского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606100, Нижегородская обл, г Павлово, ул Кирова, д 66А",
+    "legal_address": null,
+    "website": "http://pavl5.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0152",
+    "name": "Судебный участок № 1 Починковского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607910, Нижегородская обл, с Починки, ул Луначарского, д 17",
+    "legal_address": null,
+    "website": "http://pochin1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0154",
+    "name": "Судебный участок № 1 Саровского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607188, Нижегородская обл, г Саров, ул Репина, д 3",
+    "legal_address": null,
+    "website": "http://sarov1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0158",
+    "name": "Судебный участок № 1 Семеновского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606650, Нижегородская обл, г Семенов, ул Ленина, д 12",
+    "legal_address": null,
+    "website": "http://semen1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0153",
+    "name": "Судебный участок № 2 Починковского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607910, Нижегородская обл, с Починки, ул Луначарского, д 17",
+    "legal_address": null,
+    "website": "http://pochin2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0155",
+    "name": "Судебный участок № 2 Саровского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607188, Нижегородская обл, г Саров, ул Репина, д 3",
+    "legal_address": null,
+    "website": "http://sarov2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0159",
+    "name": "Судебный участок № 2 Семеновского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606650, Нижегородская обл, г Семенов, ул Ленина, д 12",
+    "legal_address": null,
+    "website": "http://semen2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0156",
+    "name": "Судебный участок № 3 Саровского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607188, Нижегородская обл, г Саров, ул Репина, д 3",
+    "legal_address": null,
+    "website": "http://sarov3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0157",
+    "name": "Судебный участок № 4 Саровского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607188, Нижегородская обл, г Саров, ул Репина, д 3",
+    "legal_address": null,
+    "website": "http://sarov4.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0161",
+    "name": "Судебный участок № 1 Сергачского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607510, Нижегородская обл, г Сергач, ул Советская, д 30",
+    "legal_address": null,
+    "website": "http://serg1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0169",
+    "name": "Судебный участок № 1 Уренского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606803, Нижегородская обл, г Урень, ул Механизаторов, д 32",
+    "legal_address": null,
+    "website": "http://uren1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0162",
+    "name": "Судебный участок № 2 Сергачского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607510, Нижегородская обл, г Сергач, ул Советская, д 30",
+    "legal_address": null,
+    "website": "http://serg2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0160",
+    "name": "Судебный участок № 3 Семеновского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606650, Нижегородская обл, г Семенов, ул Ленина, д 12",
+    "legal_address": null,
+    "website": "http://semen3.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0171",
+    "name": "Судебный участок № 1 Чкаловского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606540, Нижегородская обл, г Чкаловск, ул Лесная, зд 7",
+    "legal_address": null,
+    "website": "http://chkal1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0175",
+    "name": "Судебный участок № 1 Шахунского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606910, Нижегородская обл, г Шахунья, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://shah1.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0170",
+    "name": "Судебный участок № 2 Уренского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606803, Нижегородская обл, г Урень, ул Механизаторов, д 32",
+    "legal_address": null,
+    "website": "http://uren2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0172",
+    "name": "Судебный участок № 2 Чкаловского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606540, Нижегородская обл, г Чкаловск, ул Лесная, зд 7",
+    "legal_address": null,
+    "website": "http://chkal2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0176",
+    "name": "Судебный участок № 2 Шахунского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "606910, Нижегородская обл, г Шахунья, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://shah2.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0177",
+    "name": "Судебный участок № 7 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603087, Нижегородская обл, г Нижний Новгород, ул Верхне-Печерская, д 15 к 1, помещ 1",
+    "legal_address": null,
+    "website": "http://nizh7.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0179",
+    "name": "Судебный участок № 8 Нижегородского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603001, Нижегородская обл, г Нижний Новгород, ул Рождественская, д 18",
+    "legal_address": null,
+    "website": "http://nizh8.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0178",
+    "name": "Судебный участок № 9 Канавинского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603002, Нижегородская обл, г Нижний Новгород, ул Советская, д 16",
+    "legal_address": null,
+    "website": "http://kanav9.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0180",
+    "name": "Судебный участок № 6 Кстовского судебного района Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "607651, Нижегородская обл, г Нижний Новгород, г Кстово, ул Театральная, д 2",
+    "legal_address": null,
+    "website": "http://kstovo6.nnov.msudrf.ru"
+  },
+  {
+    "code": "52MS0181",
+    "name": "Судебный участок № 6 Приокского судебного района города Нижний Новгород Нижегородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "603062, Нижегородская обл, г Нижний Новгород, пер 2-й Осташковский, д 1А",
+    "legal_address": null,
+    "website": "https://priok6.nnov.msudrf.ru/"
+  }
+]

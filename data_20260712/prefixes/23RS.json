@@ -1,0 +1,602 @@
+[
+  {
+    "code": "23RS0001",
+    "name": "Абинский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353320, Краснодарский край, г Абинск, пр-кт Комсомольский, д 108",
+    "legal_address": null,
+    "website": "http://abinsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0002",
+    "name": "Адлерский районный суд г. Сочи Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "354340, Краснодарский край, г Сочи, р-н Адлерский внутригородской, ул Кирпичная, д 1А",
+    "legal_address": null,
+    "website": "http://sochi-adler.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0003",
+    "name": "Анапский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Ленина, д 6",
+    "legal_address": null,
+    "website": "http://anapa-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0004",
+    "name": "Анапский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Шевченко, д 241",
+    "legal_address": null,
+    "website": "http://anapa.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0005",
+    "name": "Апшеронский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352690, Краснодарский край, г Апшеронск, ул Ленина, д 73",
+    "legal_address": null,
+    "website": "http://apsheronsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0006",
+    "name": "Армавирский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352901, Краснодарский край, г Армавир, ул Розы Люксембург, д 171, кв 173",
+    "legal_address": null,
+    "website": "http://armavir.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0007",
+    "name": "Белоглинский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353040, Краснодарский край, с Белая Глина, ул Красная, д 138",
+    "legal_address": null,
+    "website": "http://beloglinsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0008",
+    "name": "Белореченский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352630, Краснодарский край, г Белореченск, ул Красная, д 63",
+    "legal_address": null,
+    "website": "http://belorechensk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0009",
+    "name": "Брюховецкий районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352750, Краснодарский край, ст-ца Брюховецкая, ул Красная, д 189",
+    "legal_address": null,
+    "website": "http://bruxovecky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0010",
+    "name": "Выселковский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353100, Краснодарский край, ст-ца Выселки, ул Ленина, д 1",
+    "legal_address": null,
+    "website": "http://viselkovsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0011",
+    "name": "Геленджикский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353460, Краснодарский край, г Геленджик, ул Ленина, д 7",
+    "legal_address": null,
+    "website": "http://gelendjik-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0012",
+    "name": "Горячеключевской городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353292, Краснодарский край, г Горячий Ключ, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "http://gor-kluch.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0013",
+    "name": "Гулькевичский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352190, Краснодарский край, г Гулькевичи, ул Советская, д 11",
+    "legal_address": null,
+    "website": "http://gulkevichi.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0014",
+    "name": "Динской районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353204, Краснодарский край, ст-ца Динская, ул Луначарского, д 46",
+    "legal_address": null,
+    "website": "http://dinskoy.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0015",
+    "name": "Ейский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353680, Краснодарский край, г Ейск, ул К.Либкнехта, д 62",
+    "legal_address": null,
+    "website": "http://eisk-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0016",
+    "name": "Ейский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353680, Краснодарский край, г Ейск, ул К.Либкнехта, д 62",
+    "legal_address": null,
+    "website": "http://eisk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0017",
+    "name": "Кавказский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352140, Краснодарский край, ст-ца Кавказская, ул Ленина, д 164",
+    "legal_address": null,
+    "website": "http://kavkazsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0018",
+    "name": "Калининский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353780, Краснодарский край, ст-ца Калининская, ул Советская, д 39",
+    "legal_address": null,
+    "website": "http://kalininsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0019",
+    "name": "Каневской районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353730, Краснодарский край, ст-ца Каневская, ул Горького, д 51",
+    "legal_address": null,
+    "website": "http://kanevskay.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0020",
+    "name": "Кореновский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353180, Краснодарский край, г Кореновск, ул Красная, д 100",
+    "legal_address": null,
+    "website": "http://korenovsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0021",
+    "name": "Красноармейский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353800, Краснодарский край, ст-ца Полтавская, ул Коммунистическая, д 197",
+    "legal_address": null,
+    "website": "http://krasnoarmeisk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0022",
+    "name": "Кропоткинский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352395, Краснодарский край, Кавказский р-н, г Кропоткин, ул Красная, д 147",
+    "legal_address": null,
+    "website": "http://kropotkin-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0023",
+    "name": "Крыловской районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352080, Краснодарский край, ст-ца Крыловская, ул 151 Стрелковой дивизии, д 9",
+    "legal_address": null,
+    "website": "http://krilovskoy.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0024",
+    "name": "Крымский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353380, Краснодарский край, г Крымск, ул Коммунистическая, д 32",
+    "legal_address": null,
+    "website": "http://krimsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0025",
+    "name": "Курганинский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352430, Краснодарский край, г Курганинск, ул Первомайская, д 18",
+    "legal_address": null,
+    "website": "http://kurganinsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0026",
+    "name": "Кущевский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352030, Краснодарский край, ст-ца Кущевская, пер Первомайский, д 78",
+    "legal_address": null,
+    "website": "http://kushevskoy.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0027",
+    "name": "Лабинский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352500, Краснодарский край, г Лабинск, ул Красная, д 19",
+    "legal_address": null,
+    "website": "http://labins-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0028",
+    "name": "Лабинский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352500, Краснодарский край, г Лабинск, ул Красная, д 40",
+    "legal_address": null,
+    "website": "http://labinsk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0029",
+    "name": "Лазаревский районный суд г. Сочи Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "354200, Краснодарский край, г Сочи, р-н Лазаревский внутригородской, ул Победы, д 69",
+    "legal_address": null,
+    "website": "http://sochi-lazarevsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0030",
+    "name": "Ленинградский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353740, Краснодарский край, ст-ца Ленинградская, ул Советов, д 32 к а",
+    "legal_address": null,
+    "website": "http://leningradskay.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0031",
+    "name": "Ленинский районный суд г. Краснодара",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "350051, г Краснодар, ул им. Федора Лузана, д 38",
+    "legal_address": null,
+    "website": "http://krasnodar-leninsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0032",
+    "name": "Ленинский районный суд г. Новороссийска Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Жуковского, д 21",
+    "legal_address": null,
+    "website": "http://novorossisk-leninsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0033",
+    "name": "Мостовской районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352570, Краснодарский край, пгт Мостовской, ул Калинина, д 70",
+    "legal_address": null,
+    "website": "http://mostovskay.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0034",
+    "name": "Новокубанский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352240, Краснодарский край, г Новокубанск, ул Гагарина, д 65",
+    "legal_address": null,
+    "website": "http://novokubansk.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0035",
+    "name": "Новопокровский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353020, Краснодарский край, ст-ца Новопокровская, ул Ленина, д 89",
+    "legal_address": null,
+    "website": "http://novopokrovsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0036",
+    "name": "Октябрьский районный суд г. Краснодара",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "350001, г Краснодар, ул Ставропольская, д 75/1",
+    "legal_address": null,
+    "website": "http://krasnodar-oktybrsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0037",
+    "name": "Октябрьский районный суд г. Новороссийска Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Толстого, д 2А",
+    "legal_address": null,
+    "website": "http://novorossisk-oktybrsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0038",
+    "name": "Отрадненский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352290, Краснодарский край, ст-ца Отрадная, ул Красная, д 67/5",
+    "legal_address": null,
+    "website": "http://otradnensky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0039",
+    "name": "Павловский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352040, Краснодарский край, ст-ца Павловская, ул Ленина, д 23",
+    "legal_address": null,
+    "website": "http://pavlovsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0040",
+    "name": "Первомайский районный суд г. Краснодара",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "350010, г Краснодар, ул Колхозная, д 92",
+    "legal_address": null,
+    "website": "http://pervomaisky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0041",
+    "name": "Прикубанский районный суд г. Краснодара",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "350049, г Краснодар, ул им. Тургенева, д 111",
+    "legal_address": null,
+    "website": "http://krasnodar-prikubansky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0042",
+    "name": "Приморский районный суд г. Новороссийска Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Индустриальная, д 3А",
+    "legal_address": null,
+    "website": "http://novorossisk-primorsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0043",
+    "name": "Приморско-Ахтарский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353860, Краснодарский край, г Приморско-Ахтарск, ул Ленина, д 87",
+    "legal_address": null,
+    "website": "http://primorsko-axtarsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0044",
+    "name": "Северский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353240, Краснодарский край, ст-ца Северская, ул Ленина, д 133",
+    "legal_address": null,
+    "website": "http://seversky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0045",
+    "name": "Славянский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 32",
+    "legal_address": null,
+    "website": "http://slavynsk-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0046",
+    "name": "Славянский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 32",
+    "legal_address": null,
+    "website": null
+  },
+  {
+    "code": "23RS0047",
+    "name": "Советский районный суд г. Краснодара",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "350058, г Краснодар, ул Ставропольская, д 207",
+    "legal_address": null,
+    "website": "http://krasnodar-sovetsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0048",
+    "name": "Староминской районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353600, Краснодарский край, ст-ца Староминская, ул В.Петренко, д 6",
+    "legal_address": null,
+    "website": "http://starominskay.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0049",
+    "name": "Тбилисский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352360, Краснодарский край, ст-ца Тбилисская, ул Октябрьская, д 186",
+    "legal_address": null,
+    "website": "http://tbilissky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0050",
+    "name": "Темрюкский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353500, Краснодарский край, г Темрюк, ул Таманская, д 25",
+    "legal_address": null,
+    "website": "http://temruksky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0051",
+    "name": "Тимашевский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352700, Краснодарский край, г Тимашевск, ул Красная, д 101",
+    "legal_address": null,
+    "website": "http://timashevsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0052",
+    "name": "Тихорецкий городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Октябрьская, д 23",
+    "legal_address": null,
+    "website": "http://tixoreck-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0053",
+    "name": "Тихорецкий районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Октябрьская, д 23",
+    "legal_address": null,
+    "website": "http://tixoreck.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0054",
+    "name": "Туапсинский городской суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352800, Краснодарский край, г Туапсе, ул Победы, д 22",
+    "legal_address": null,
+    "website": "http://tuapse-gor.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0055",
+    "name": "Туапсинский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352800, Краснодарский край, г Туапсе, ул Победы, д 22",
+    "legal_address": null,
+    "website": "http://tuapse.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0056",
+    "name": "Успенский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352450, Краснодарский край, с Успенское, ул Ноздрачева, д 90",
+    "legal_address": null,
+    "website": "http://uspensky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0057",
+    "name": "Усть-Лабинский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "352330, Краснодарский край, г Усть-Лабинск, ул Коммунистическая, д 317",
+    "legal_address": null,
+    "website": "http://ust-labinsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0058",
+    "name": "Хостинский районный суд г. Сочи Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "354002, Краснодарский край, г Сочи, пр-кт Курортный, д 106",
+    "legal_address": null,
+    "website": "http://sochi-xostinsky.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0059",
+    "name": "Центральный районный суд г. Сочи Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "354000, Краснодарский край, г Сочи, ул Горького, д 20",
+    "legal_address": null,
+    "website": "http://sochi-centralny.krd.sudrf.ru"
+  },
+  {
+    "code": "23RS0060",
+    "name": "Щербиновский районный суд Краснодарского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "353620, Краснодарский край, ст-ца Старощербиновская, ул Промышленная, д 8",
+    "legal_address": null,
+    "website": "http://sherbinovsky.krd.sudrf.ru"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "code": "63GV0004",
+    "name": "Казанский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "420111, г Казань, ул Дзержинского, д 17",
+    "legal_address": null,
+    "website": "http://kazanskygvs.tat.sudrf.ru"
+  },
+  {
+    "code": "63GV0002",
+    "name": "Оренбургский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "460024, г Оренбург, ул Краснознаменная, д 52",
+    "legal_address": null,
+    "website": "http://orenburgskygvs.orb.sudrf.ru"
+  },
+  {
+    "code": "63GV0009",
+    "name": "Пензенский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "440035, г Пенза, ул Попова, стр 72А",
+    "legal_address": null,
+    "website": "http://gvs.pnz.sudrf.ru"
+  },
+  {
+    "code": "63GV0006",
+    "name": "Пермский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "614002, г Пермь, ул Чернышевского, д 41",
+    "legal_address": null,
+    "website": "http://voen.perm.sudrf.ru"
+  },
+  {
+    "code": "63GV0001",
+    "name": "Самарский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "443086, г Самара, ул Ерошевского, д 94",
+    "legal_address": null,
+    "website": "http://gvs.sam.sudrf.ru"
+  },
+  {
+    "code": "63GV0003",
+    "name": "Саратовский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "410052, г Саратов, ул Международная, д 8А",
+    "legal_address": null,
+    "website": "http://saratovgvs.sar.sudrf.ru"
+  },
+  {
+    "code": "63GV0007",
+    "name": "Ульяновский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "432000, г Ульяновск, ул Спасская, д 17 к 1",
+    "legal_address": null,
+    "website": "http://gvs.uln.sudrf.ru"
+  },
+  {
+    "code": "63GV0008",
+    "name": "Уфимский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "450071, г Уфа, ул Менделеева, д 219 к 2",
+    "legal_address": null,
+    "website": "http://gvs.bkr.sudrf.ru"
+  }
+]

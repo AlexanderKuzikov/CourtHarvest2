@@ -1,0 +1,442 @@
+[
+  {
+    "code": "52RS0001",
+    "name": "Автозаводский районный суд г. Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603043, Нижегородская обл, г Нижний Новгород, пр-кт Октября, д 28",
+    "legal_address": null,
+    "website": "http://avtozavodsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0019",
+    "name": "Ардатовский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607130, Нижегородская обл, рп Ардатов, ул Ленина, д 36",
+    "legal_address": null,
+    "website": "http://ardatovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0009",
+    "name": "Арзамасский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607223, Нижегородская обл, г Арзамас, ул Владимирского, д 14",
+    "legal_address": null,
+    "website": "http://arzamassky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0010",
+    "name": "Балахнинский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606400, Нижегородская обл, г Балахна, ул Энгельса, д 5А",
+    "legal_address": null,
+    "website": "http://balahninsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0011",
+    "name": "Богородский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607603, Нижегородская обл, г Богородск, ул Ванцетти, д 1",
+    "legal_address": null,
+    "website": "http://bogorodsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0020",
+    "name": "Большеболдинский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607940, Нижегородская обл, с Большое Болдино, ул Красная, влд 2",
+    "legal_address": null,
+    "website": "http://b-boldinsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0012",
+    "name": "Борский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606440, Нижегородская обл, г Бор, ул Профсоюзная, д 3",
+    "legal_address": null,
+    "website": "http://borsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0024",
+    "name": "Варнавинский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606760, Нижегородская обл, рп Варнавино, ул Комсомольская, д 15",
+    "legal_address": null,
+    "website": "http://varnavinsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0025",
+    "name": "Вачский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606150, Нижегородская обл, рп Вача, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://vachsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0028",
+    "name": "Володарский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606072, Нижегородская обл, г Володарск, ул Центральная, зд 3",
+    "legal_address": null,
+    "website": "http://volodarsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0029",
+    "name": "Воротынский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606260, Нижегородская обл, рп Воротынец, ул Космонавтов, д 6",
+    "legal_address": null,
+    "website": "http://vorotinsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0013",
+    "name": "Выксунский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607060, Нижегородская обл, г Выкса, ул Ленина, стр 4",
+    "legal_address": null,
+    "website": "http://viksunsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0014",
+    "name": "Городецкий городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606502, Нижегородская обл, г Городец, пл Пролетарская, д 21А",
+    "legal_address": null,
+    "website": "http://gorodecsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0033",
+    "name": "Дальнеконстантиновский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606310, Нижегородская обл, рп Дальнее Константиново, ул Советская, д 103",
+    "legal_address": null,
+    "website": "http://d-konstantinovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0015",
+    "name": "Дзержинский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606023, Нижегородская обл, г Дзержинск, ул Гайдара, д 10",
+    "legal_address": null,
+    "website": "http://dzerginsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0032",
+    "name": "Дивеевский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607320, Нижегородская обл, с Дивеево, ул Южная, д 16",
+    "legal_address": null,
+    "website": "http://diveevsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0002",
+    "name": "Канавинский районный суд г. Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603059, Нижегородская обл, г Нижний Новгород, ул Июльских Дней, д 2",
+    "legal_address": null,
+    "website": "http://kanavinsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0037",
+    "name": "Княгининский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606340, Нижегородская обл, г Княгинино, пер Красноармейский, зд 7",
+    "legal_address": null,
+    "website": "http://knyagininsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0036",
+    "name": "Ковернинский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606570, Нижегородская обл, рп Ковернино, ул Карла Маркса, зд 30",
+    "legal_address": null,
+    "website": "http://koverninsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0034",
+    "name": "Краснобаковский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606710, Нижегородская обл, рп Красные Баки, ул Луговая, зд 30",
+    "legal_address": null,
+    "website": "http://kr-bakovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0003",
+    "name": "Ленинский районный суд г. Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603076, Нижегородская обл, г Нижний Новгород, ул Космонавта Комарова, д 10А",
+    "legal_address": null,
+    "website": "http://leninsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0004",
+    "name": "Московский районный суд г. Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603079, Нижегородская обл, г Нижний Новгород, ш Московское, д 111",
+    "legal_address": null,
+    "website": "http://moskovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0005",
+    "name": "Нижегородский районный суд г.Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603000, Нижегородская обл, г Нижний Новгород, ул Большая Покровская, д 17",
+    "legal_address": null,
+    "website": "http://nizegorodsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0008",
+    "name": "Приокский районный суд г. Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603950, Нижегородская обл., г. Нижний Новгород, ГСП-258, пр. Гагарина, д. 158",
+    "legal_address": null,
+    "website": "http://prioksky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0007",
+    "name": "Советский районный суд г. Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603950, Нижегородская обл., г. Нижний Новгород, ГСП-146, ул. Бекетова, д. 75",
+    "legal_address": null,
+    "website": "http://sovetsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0006",
+    "name": "Сормовский районный суд г. Нижний Новгород",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "603096, Нижегородская обл, г Нижний Новгород, ул Станиславского, д 29",
+    "legal_address": null,
+    "website": "http://sormovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0016",
+    "name": "Кстовский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607650, Нижегородская обл, г Нижний Новгород, г Кстово, пл Ленина, д 8",
+    "legal_address": null,
+    "website": "http://kstovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0017",
+    "name": "Кулебакский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607010, Нижегородская обл, г Кулебаки, пл Ленина, д 4",
+    "legal_address": null,
+    "website": "http://kulebaksky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0018",
+    "name": "Павловский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606100, Нижегородская обл, г Павлово, ул Шмидта, д 10",
+    "legal_address": null,
+    "website": "http://pavlovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0038",
+    "name": "Лукояновский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607800, Нижегородская обл, г Лукоянов, пл Мира, д 5А",
+    "legal_address": null,
+    "website": "http://lukoyanovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0039",
+    "name": "Лысковский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606210, Нижегородская обл, г Лысково, ул Ленина, д 42",
+    "legal_address": null,
+    "website": "http://liskovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0040",
+    "name": "Навашинский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607100, Нижегородская обл, г Навашино, ул Трудовая, д 8",
+    "legal_address": null,
+    "website": "http://navashinsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0041",
+    "name": "Перевозский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607400, Нижегородская обл, г Перевоз, ул Советская, д 19",
+    "legal_address": null,
+    "website": "http://perevozsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0043",
+    "name": "Пильнинский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607490, Нижегородская обл, рп Пильна, ул Урицкого, д 8",
+    "legal_address": null,
+    "website": "http://pilninsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0044",
+    "name": "Починковский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607910, Нижегородская обл, с Починки, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://pochinkovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0045",
+    "name": "Саровский городской суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607188, Нижегородская обл, г Саров, пр-кт Мира, д 13",
+    "legal_address": null,
+    "website": "http://sarovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0047",
+    "name": "Семеновский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606650, Нижегородская обл, г Семенов, пл Ленина, д 1",
+    "legal_address": null,
+    "website": "http://semenovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0048",
+    "name": "Сергачский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607510, Нижегородская обл, г Сергач, ул Гайдара, д 11",
+    "legal_address": null,
+    "website": "http://sergachsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0052",
+    "name": "Тоншаевский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606950, Нижегородская обл, рп Тоншаево, пл Мира, д 1",
+    "legal_address": null,
+    "website": "http://tonshaevsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0053",
+    "name": "Уренский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606800, Нижегородская обл, г Урень, ул Советская, д 29",
+    "legal_address": null,
+    "website": "http://urensky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0054",
+    "name": "Чкаловский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606540, Нижегородская обл, г Чкаловск, ул Комсомольская, д 23",
+    "legal_address": null,
+    "website": "http://chkalovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0057",
+    "name": "Шарангский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606840, Нижегородская обл, рп Шаранга, ул Ленина, д 37",
+    "legal_address": null,
+    "website": "http://sharangsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0055",
+    "name": "Шатковский районный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "607700, Нижегородская обл, рп Шатки, ул Коммунальная, д 1А",
+    "legal_address": null,
+    "website": "http://shatkovsky.nnov.sudrf.ru"
+  },
+  {
+    "code": "52RS0058",
+    "name": "Шахунский межрайонный суд Нижегородской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "606910, Нижегородская обл, г Шахунья, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://shahunsky.nnov.sudrf.ru"
+  }
+]

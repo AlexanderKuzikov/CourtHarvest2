@@ -1,0 +1,142 @@
+[
+  {
+    "code": "02MS0011",
+    "name": "Судебный участок Кош-Агачского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649780, Респ Алтай, с Кош-Агач, ул Советская, зд 60А",
+    "legal_address": null,
+    "website": "http://kagachms.ralt.msudrf.ru/"
+  },
+  {
+    "code": "02MS0008",
+    "name": "Судебный участок Онгудайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649440, Респ Алтай, с Онгудай, ул Советская, зд 84",
+    "legal_address": null,
+    "website": "http://ongms.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0007",
+    "name": "Судебный участок Турочакского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649140, Респ Алтай, с Турочак, ул Тельмана, д 42",
+    "legal_address": null,
+    "website": "http://turms.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0014",
+    "name": "Судебный участок Улаганского судебного района Республики Алтай",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649750, Респ Алтай, с Улаган, ул Больничная, д 9",
+    "legal_address": null,
+    "website": "http://ulagan.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0010",
+    "name": "Судебный участок Усть-Канского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649450, Респ Алтай, с Усть-Кан, ул Первомайская, зд 4",
+    "legal_address": null,
+    "website": "http://ukansms.ralt.msudrf.ru/"
+  },
+  {
+    "code": "02MS0012",
+    "name": "Судебный участок Усть-Коксинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649490, Респ Алтай, с Усть-Кокса, ул Набережная, д 57",
+    "legal_address": null,
+    "website": "http://ukoksms.ralt.msudrf.ru/"
+  },
+  {
+    "code": "02MS0015",
+    "name": "Судебный участок Чемальского судебного района Республики Алтай",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649240, Респ Алтай, с Чемал, ул Пчелкина, д 85",
+    "legal_address": null,
+    "website": "http://chemal.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0013",
+    "name": "Судебный участок Чойского района Республики Алтай",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649180, Респ Алтай, с Чоя, ул Калинина, зд 14А",
+    "legal_address": null,
+    "website": "http://choms.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0009",
+    "name": "Судебный участок Шебалинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649220, Респ Алтай, с Шебалино, пер Социалистический, д 2А",
+    "legal_address": null,
+    "website": "http://shebms.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0001",
+    "name": "Судебный участок № 1 г. Горно-Алтайска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649000, г Горно-Алтайск, ул Эркемена Палкина, д 3",
+    "legal_address": null,
+    "website": "http://galtms1.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0005",
+    "name": "Судебный участок № 1 Майминского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649100, Респ Алтай, с Майма, ул Катунская, д 2",
+    "legal_address": null,
+    "website": "http://maimms1.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0002",
+    "name": "Судебный участок № 2 г. Горно-Алтайска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649000, г Горно-Алтайск, ул Эркемена Палкина, д 3",
+    "legal_address": null,
+    "website": "http://galtms2.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0006",
+    "name": "Судебный участок № 2 Майминского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649100, Респ Алтай, с Майма, ул Катунская, д 2",
+    "legal_address": null,
+    "website": "http://maimms2.ralt.msudrf.ru"
+  },
+  {
+    "code": "02MS0003",
+    "name": "Судебный участок № 3 г. Горно-Алтайска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "649000, г Горно-Алтайск, ул Эркемена Палкина, д 3",
+    "legal_address": null,
+    "website": "http://galtms3.ralt.msudrf.ru"
+  }
+]

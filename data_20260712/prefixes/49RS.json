@@ -1,0 +1,82 @@
+[
+  {
+    "code": "49RS0001",
+    "name": "Магаданский городской суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "685000, г Магадан, ул Набережная реки Магаданки, д 11",
+    "legal_address": null,
+    "website": "http://magadansky.mag.sudrf.ru"
+  },
+  {
+    "code": "49RS0002",
+    "name": "Ольский районный суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "685910, Магаданская обл, пгт Ола, ул Советская, влд 32",
+    "legal_address": null,
+    "website": "http://olskiy.mag.sudrf.ru"
+  },
+  {
+    "code": "49RS0003",
+    "name": "Омсукчанский районный суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "686410, Магаданская обл, пгт Омсукчан, ул Омсукчанская, д 3",
+    "legal_address": null,
+    "website": "http://omsukchansky.mag.sudrf.ru"
+  },
+  {
+    "code": "49RS0004",
+    "name": "Северо-Эвенский районный суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "686430, Магаданская обл, пгт Эвенск, ул Победы, д 19",
+    "legal_address": null,
+    "website": "http://severoevensky.mag.sudrf.ru"
+  },
+  {
+    "code": "49RS0005",
+    "name": "Среднеканский районный суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "686160, Магаданская обл, пгт Сеймчан, ул Николаева, д 2",
+    "legal_address": null,
+    "website": "http://srednekansky.mag.sudrf.ru"
+  },
+  {
+    "code": "49RS0006",
+    "name": "Сусуманский районный суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "686314, Магаданская обл, г Сусуман, ул Набережная, д 3",
+    "legal_address": null,
+    "website": "http://susumansky.mag.sudrf.ru"
+  },
+  {
+    "code": "49RS0008",
+    "name": "Хасынский районный суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "686110, Магаданская обл, пгт Палатка, ул Школьная, зд 5",
+    "legal_address": null,
+    "website": "http://hasinsky.mag.sudrf.ru"
+  },
+  {
+    "code": "49RS0009",
+    "name": "Ягоднинский районный суд Магаданской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "686230, Магаданская обл, пгт Ягодное, ул Строителей, влд 8",
+    "legal_address": null,
+    "website": "http://yagodinsky.mag.sudrf.ru"
+  }
+]

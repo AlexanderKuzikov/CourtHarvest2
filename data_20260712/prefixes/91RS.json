@@ -1,0 +1,242 @@
+[
+  {
+    "code": "91RS0004",
+    "name": "Алуштинский городской суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "298500, Респ Крым, г Алушта, ул Ленина, д 23",
+    "legal_address": null,
+    "website": "http://alushta.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0005",
+    "name": "Армянский городской суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "296012, Респ Крым, г Армянск, ул Школьная, д 4",
+    "legal_address": null,
+    "website": "http://armyanskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0006",
+    "name": "Бахчисарайский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "298400, Респ Крым, Бахчисарайский р-н, г Бахчисарай, ул Кооперативная, д 1",
+    "legal_address": null,
+    "website": "http://bahchisarai.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0007",
+    "name": "Белогорский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "297600, Респ Крым, Белогорский р-н, г Белогорск, ул Луначарского, д 39",
+    "legal_address": null,
+    "website": "http://belogorskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0008",
+    "name": "Джанкойский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "296100, Респ Крым, г Джанкой, ул Крымская, д 77А",
+    "legal_address": null,
+    "website": "http://dzhankoi.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0009",
+    "name": "Евпаторийский городской суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "297412, Респ Крым, г Евпатория, пр-кт им.В.И.Ленина, д 30",
+    "legal_address": null,
+    "website": "http://evpatoriya.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0001",
+    "name": "Железнодорожный районный суд г. Симферополя Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "295014, Респ Крым, г Симферополь, ул Хромченко, д 6А",
+    "legal_address": null,
+    "website": "http://zheleznodorozhniy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0012",
+    "name": "Керченский городской суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "298300, Респ Крым, г Керчь, ул Свердлова, д 4",
+    "legal_address": null,
+    "website": "http://kerch.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0002",
+    "name": "Киевский районный суд г. Симферополя Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "295000, Респ Крым, г Симферополь, ул Воровского, д 16",
+    "legal_address": null,
+    "website": "http://kiev-simph.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0013",
+    "name": "Кировский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "297300, Респ Крым, Кировский р-н, пгт Кировское, ул Р.Люксембург, д 25",
+    "legal_address": null,
+    "website": "http://kirovskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0011",
+    "name": "Красногвардейский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "297000, Респ Крым, Красногвардейский р-н, пгт Красногвардейское, ул Чкалова, д 6",
+    "legal_address": null,
+    "website": "http://krasnogvardeiskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0010",
+    "name": "Красноперекопский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "296000, Респ Крым, г Красноперекопск, ул Захарова, д 3А",
+    "legal_address": null,
+    "website": "http://krasnoperekopskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0014",
+    "name": "Ленинский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "298200, Респ Крым, Ленинский р-н, пгт Ленино, ул Пушкина, д 33",
+    "legal_address": null,
+    "website": "http://leninskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0015",
+    "name": "Нижнегорский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "297100, Респ Крым, Нижнегорский р-н, пгт Нижнегорский, ул Фонтанная, д 8",
+    "legal_address": null,
+    "website": "http://nizhnegorskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0016",
+    "name": "Первомайский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "296300, Респ Крым, Первомайский р-н, пгт Первомайское, ул Октябрьская, зд 116А",
+    "legal_address": null,
+    "website": "http://pervomaiskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0017",
+    "name": "Раздольненский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "296200, Респ Крым, Раздольненский р-н, пгт Раздольное, ул Ленина, д 44",
+    "legal_address": null,
+    "website": "http://razdolnenskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0018",
+    "name": "Сакский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "296500, Респ Крым, г Саки, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://saki.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0019",
+    "name": "Симферопольский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "295000, Респ Крым, г Симферополь, ул Екатерининская, д 17",
+    "legal_address": null,
+    "website": "http://simpheropolskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0020",
+    "name": "Советский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "297200, Респ Крым, Советский р-н, пгт Советский, ул 30 лет Победы, д 19",
+    "legal_address": null,
+    "website": "http://sovetskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0021",
+    "name": "Судакский городской суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "298000, Респ Крым, г Судак, ул Ленина, д 71",
+    "legal_address": null,
+    "website": "http://sudak.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0003",
+    "name": "Центральный районный суд г. Симферополя Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "295011, Респ Крым, г Симферополь, ул Турецкая, д 21/5",
+    "legal_address": null,
+    "website": "http://centr-simph.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0022",
+    "name": "Феодосийский городской суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "298108, Респ Крым, г Феодосия, ул Греческая, зд 3А",
+    "legal_address": null,
+    "website": "http://feodosiya.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0023",
+    "name": "Черноморский районный суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "296400, Респ Крым, Черноморский р-н, пгт Черноморское, ул Кирова, зд 19",
+    "legal_address": null,
+    "website": "http://chernomorskiy.krm.sudrf.ru"
+  },
+  {
+    "code": "91RS0024",
+    "name": "Ялтинский городской суд Республики Крым",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "298600, Респ Крым, г Ялта, ул Дмитриева, д 4",
+    "legal_address": null,
+    "website": "http://yalta.krm.sudrf.ru"
+  }
+]

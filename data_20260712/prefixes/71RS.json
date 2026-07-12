@@ -1,0 +1,202 @@
+[
+  {
+    "code": "71RS0001",
+    "name": "Алексинский межрайонный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301360, Тульская обл, г Алексин, ул В.Смирнова, д 35В",
+    "legal_address": null,
+    "website": "http://aleksinsky.tula.sudrf.ru"
+  },
+  {
+    "code": "71RS0004",
+    "name": "Богородицкий межрайонный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301835, Тульская обл, г Богородицк, ул Володарского, д 10",
+    "legal_address": null,
+    "website": "http://bogorodicky.tula.sudrf.ru"
+  },
+  {
+    "code": "71RS0005",
+    "name": "Веневский районный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301320, Тульская обл, г Венев, пл Ильича, д 4А",
+    "legal_address": null,
+    "website": "http://venevsky.tula.sudrf.ru"
+  },
+  {
+    "code": "71RS0007",
+    "name": "Донской городской суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301760, Тульская обл, г Донской, мкр Центральный, ул Октябрьская, д 15",
+    "legal_address": null,
+    "website": "http://donskoy.tula.sudrf.ru"
+  },
+  {
+    "code": "71RS0009",
+    "name": "Ефремовский межрайонный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301840, Тульская обл, г Ефремов, ул Свердлова, д 99",
+    "legal_address": null,
+    "website": "http://efremovsky.tula.sudrf.ru"
+  },
+  {
+    "code": "71RS0025",
+    "name": "Зареченский районный суд г.Тулы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "300002, г Тула, ул Литейная, д 8",
+    "legal_address": null,
+    "website": "http://zarechensky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0012",
+    "name": "Кимовский районный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301720, Тульская обл, г Кимовск, ул Бессолова, д 8",
+    "legal_address": null,
+    "website": "http://kimovsky.tula.sudrf.ru"
+  },
+  {
+    "code": "71RS0013",
+    "name": "Киреевский районный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301260, Тульская обл, г Киреевск, ул Школьная, д 10",
+    "legal_address": null,
+    "website": "http://kireevsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0015",
+    "name": "Ленинский районный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301130, Тульская обл, сп Ленинский, ул Ленина, зд 9А",
+    "legal_address": null,
+    "website": "http://leninsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0016",
+    "name": "Новомосковский районный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301650, Тульская обл, г Новомосковск, ул Трудовые Резервы, д 40",
+    "legal_address": null,
+    "website": "http://novomoskovsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0017",
+    "name": "Одоевский межрайонный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301440, Тульская обл, рп Одоев, ул Льва Толстого, д 26А",
+    "legal_address": null,
+    "website": "http://odoevsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0018",
+    "name": "Плавский межрайонный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301470, Тульская обл, г Плавск, пл Свободы, д 14/1",
+    "legal_address": null,
+    "website": "http://plavsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0026",
+    "name": "Привокзальный районный суд г.Тулы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "300013, г Тула, ул Болдина, д 50",
+    "legal_address": null,
+    "website": "http://privokzalny.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0027",
+    "name": "Пролетарский районный суд г.Тулы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "300004, г Тула, ул Марата, д 162А",
+    "legal_address": null,
+    "website": "http://proletarsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0028",
+    "name": "Советский районный суд г. Тулы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "300034, г Тула, ул Демонстрации, д 25",
+    "legal_address": null,
+    "website": "http://sovetsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0019",
+    "name": "Суворовский межрайонный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301430, Тульская обл, г Суворов, ул Энергетиков, д 1А",
+    "legal_address": null,
+    "website": "http://suvorovsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0021",
+    "name": "Узловский районный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301600, Тульская обл, г Узловая, ул Гагарина, д 26",
+    "legal_address": null,
+    "website": "http://uzlovsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0029",
+    "name": "Центральный районный суд г.Тулы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "300002, г Тула, ул Луначарского, д 76",
+    "legal_address": null,
+    "website": "http://centralny.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0023",
+    "name": "Щекинский межрайонный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301241, Тульская обл, г Щекино, ул Южная, д 6",
+    "legal_address": null,
+    "website": "http://schekinsky.tula.sudrf.ru/"
+  },
+  {
+    "code": "71RS0024",
+    "name": "Ясногорский районный суд Тульской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "301030, Тульская обл, г Ясногорск, ул Комсомольская, зд 5",
+    "legal_address": null,
+    "website": "http://yazsnogorsky.tula.sudrf.ru/"
+  }
+]

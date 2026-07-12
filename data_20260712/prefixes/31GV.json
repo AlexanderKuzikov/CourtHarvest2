@@ -1,0 +1,42 @@
+[
+  {
+    "code": "31GV0014",
+    "name": "26 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "468320, Республика Казахстан, Кызылординская обл., г. Байконур, ул. Советская, д. 9",
+    "legal_address": null,
+    "website": "http://26gvs.kaz.sudrf.ru"
+  },
+  {
+    "code": "31GV0015",
+    "name": "40 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "Казахстан, Карагандинская обл, Актогайский р-н, г Приозёрск",
+    "legal_address": null,
+    "website": "http://40gvs.blg.sudrf.ru/"
+  },
+  {
+    "code": "31GV0007",
+    "name": "Знаменский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "416540, Астраханская обл, г Знаменск, ул Ватутина, д 1",
+    "legal_address": null,
+    "website": "http://znamenskygvs.ast.sudrf.ru"
+  },
+  {
+    "code": "31GV0008",
+    "name": "Мирненский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "164173, Архангельская обл, г Мирный, ул Ленина, зд 16",
+    "legal_address": null,
+    "website": "http://vmgvs.arh.sudrf.ru"
+  }
+]

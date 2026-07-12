@@ -1,0 +1,162 @@
+[
+  {
+    "code": "73RS0006",
+    "name": "Барышский городской суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433750, Ульяновская обл, Барышский р-н, г Барыш, ул Пушкина, д 2",
+    "legal_address": null,
+    "website": "http://barishinskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0013",
+    "name": "Димитровградский городской суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433513, Ульяновская обл, г Димитровград, пр-кт Автостроителей, зд 51А",
+    "legal_address": null,
+    "website": "http://dimitrovgradskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0003",
+    "name": "Железнодорожный районный суд г. Ульяновска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "432012, г Ульяновск, ул Инзенская, д 4",
+    "legal_address": null,
+    "website": "http://zjeleznodorogniy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0004",
+    "name": "Заволжский районный суд г. Ульяновска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "432046, г Ульяновск, ул Мелекесская, д 4",
+    "legal_address": null,
+    "website": "http://zavolgskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0002",
+    "name": "Засвияжский районный суд г. Ульяновска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "432028, г Ульяновск, пр-кт 50-летия ВЛКСМ, д 23Б",
+    "legal_address": null,
+    "website": "http://zasvijajskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0008",
+    "name": "Инзенский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433030, Ульяновская обл, г Инза, ул Заводская, д 18",
+    "legal_address": null,
+    "website": "http://inzenskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0009",
+    "name": "Карсунский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433210, Ульяновская обл, рп Карсун, ул Октябрьская, д 2",
+    "legal_address": null,
+    "website": "http://karsunskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0001",
+    "name": "Ленинский районный суд г. Ульяновска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "432001, г Ульяновск, ул Карла Маркса, д 32",
+    "legal_address": null,
+    "website": "http://leninskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0011",
+    "name": "Майнский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433130, Ульяновская обл, рп Майна, ул Советская, д 16",
+    "legal_address": null,
+    "website": "http://mainskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0012",
+    "name": "Мелекесский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433512, Ульяновская обл, г Димитровград, пр-кт Димитрова, зд 39А",
+    "legal_address": null,
+    "website": "http://melekesskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0014",
+    "name": "Николаевский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433810, Ульяновская обл, рп Николаевка, ул Советская, д 63",
+    "legal_address": null,
+    "website": "http://nikolaevskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0015",
+    "name": "Новоспасский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433870, Ульяновская обл, рп Новоспасское, ул Калинина, д 25",
+    "legal_address": null,
+    "website": "http://novospasskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0018",
+    "name": "Радищевский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433910, Ульяновская обл, рп Радищево, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://radishevskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0021",
+    "name": "Сенгилеевский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433380, Ульяновская обл, г Сенгилей, пл 1 Мая, зд 4",
+    "legal_address": null,
+    "website": "http://sengileevskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0024",
+    "name": "Ульяновский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433310, Ульяновская обл, Ульяновский р-н, рп Ишеевка, ул Ленина, д 57",
+    "legal_address": null,
+    "website": "http://uljanovskiy.uln.sudrf.ru"
+  },
+  {
+    "code": "73RS0025",
+    "name": "Чердаклинский районный суд Ульяновской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "433400, Ульяновская обл, рп Чердаклы, ул Советская, зд 8",
+    "legal_address": null,
+    "website": "http://cherdaklinskiy.uln.sudrf.ru"
+  }
+]

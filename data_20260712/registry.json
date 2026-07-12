@@ -1,0 +1,4270 @@
+{
+  "version": "2.0",
+  "created": "2026-07-12T08:36:18.922Z",
+  "updated": "2026-07-12T09:35:20.125Z",
+  "known": {
+    "01RS": {
+      "min": 1,
+      "max": 1,
+      "count": 8,
+      "scanned": true,
+      "updated": "2026-07-12T08:38:30.589Z"
+    },
+    "01MS": {
+      "min": 21,
+      "max": 21,
+      "count": 24,
+      "scanned": true,
+      "updated": "2026-07-12T08:38:22.498Z"
+    },
+    "01AS": {
+      "min": 1,
+      "max": 1,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.075Z"
+    },
+    "01OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.212Z"
+    },
+    "02RS": {
+      "min": 1,
+      "max": 1,
+      "count": 11,
+      "scanned": true,
+      "updated": "2026-07-12T08:38:46.625Z"
+    },
+    "02MS": {
+      "min": 11,
+      "max": 11,
+      "count": 14,
+      "scanned": true,
+      "updated": "2026-07-12T08:38:38.586Z"
+    },
+    "02AS": {
+      "min": 2,
+      "max": 2,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.185Z"
+    },
+    "02OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.308Z"
+    },
+    "03RS": {
+      "min": 19,
+      "max": 19,
+      "count": 45,
+      "scanned": true,
+      "updated": "2026-07-12T08:39:05.303Z"
+    },
+    "03MS": {
+      "min": 157,
+      "max": 157,
+      "count": 215,
+      "scanned": true,
+      "updated": "2026-07-12T08:38:56.551Z"
+    },
+    "03AS": {
+      "min": 7,
+      "max": 7,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.261Z"
+    },
+    "03OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.386Z"
+    },
+    "04RS": {
+      "min": 1,
+      "max": 1,
+      "count": 21,
+      "scanned": true,
+      "updated": "2026-07-12T08:39:22.984Z"
+    },
+    "04MS": {
+      "min": 3,
+      "max": 3,
+      "count": 54,
+      "scanned": true,
+      "updated": "2026-07-12T08:39:14.194Z"
+    },
+    "04AS": {
+      "min": 10,
+      "max": 10,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.398Z"
+    },
+    "04OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.465Z"
+    },
+    "05RS": {
+      "min": 2,
+      "max": 2,
+      "count": 41,
+      "scanned": true,
+      "updated": "2026-07-12T08:39:41.458Z"
+    },
+    "05MS": {
+      "min": 1,
+      "max": 1,
+      "count": 131,
+      "scanned": true,
+      "updated": "2026-07-12T08:39:32.597Z"
+    },
+    "05AS": {
+      "min": 15,
+      "max": 15,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.491Z"
+    },
+    "05OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.544Z"
+    },
+    "06RS": {
+      "min": 4,
+      "max": 4,
+      "count": 6,
+      "scanned": true,
+      "updated": "2026-07-12T08:39:58.346Z"
+    },
+    "06MS": {
+      "min": 16,
+      "max": 16,
+      "count": 23,
+      "scanned": true,
+      "updated": "2026-07-12T08:39:50.258Z"
+    },
+    "06AS": {
+      "min": 18,
+      "max": 18,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.585Z"
+    },
+    "06OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.655Z"
+    },
+    "07RS": {
+      "min": 2,
+      "max": 2,
+      "count": 10,
+      "scanned": true,
+      "updated": "2026-07-12T08:40:15.165Z"
+    },
+    "07MS": {
+      "min": 31,
+      "max": 31,
+      "count": 50,
+      "scanned": true,
+      "updated": "2026-07-12T08:40:07.192Z"
+    },
+    "07AS": {
+      "min": 20,
+      "max": 20,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.678Z"
+    },
+    "07OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.733Z"
+    },
+    "08RS": {
+      "min": 2,
+      "max": 2,
+      "count": 11,
+      "scanned": true,
+      "updated": "2026-07-12T08:40:31.201Z"
+    },
+    "08MS": {
+      "min": 7,
+      "max": 7,
+      "count": 19,
+      "scanned": true,
+      "updated": "2026-07-12T08:40:23.248Z"
+    },
+    "08AS": {
+      "min": 22,
+      "max": 22,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.772Z"
+    },
+    "08OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.829Z"
+    },
+    "09RS": {
+      "min": 9,
+      "max": 9,
+      "count": 10,
+      "scanned": true,
+      "updated": "2026-07-12T08:40:48.318Z"
+    },
+    "09MS": {
+      "min": 24,
+      "max": 24,
+      "count": 26,
+      "scanned": true,
+      "updated": "2026-07-12T08:40:40.189Z"
+    },
+    "09AS": {
+      "min": 25,
+      "max": 25,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.851Z"
+    },
+    "09OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.923Z"
+    },
+    "10RS": {
+      "min": 106,
+      "max": 106,
+      "count": 17,
+      "scanned": true,
+      "updated": "2026-07-12T08:41:05.434Z"
+    },
+    "10MS": {
+      "min": 26,
+      "max": 26,
+      "count": 38,
+      "scanned": true,
+      "updated": "2026-07-12T08:40:57.367Z"
+    },
+    "10AS": {
+      "min": 26,
+      "max": 26,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:57.930Z"
+    },
+    "10OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.000Z"
+    },
+    "10KJ": {
+      "min": 150,
+      "max": 150,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.022Z"
+    },
+    "10VS": {
+      "min": 14,
+      "max": 14,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.115Z"
+    },
+    "11RS": {
+      "min": 2,
+      "max": 2,
+      "count": 17,
+      "scanned": true,
+      "updated": "2026-07-12T08:41:22.559Z"
+    },
+    "11MS": {
+      "min": 42,
+      "max": 42,
+      "count": 60,
+      "scanned": true,
+      "updated": "2026-07-12T08:41:14.349Z"
+    },
+    "11AS": {
+      "min": 29,
+      "max": 29,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.192Z"
+    },
+    "11OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.080Z"
+    },
+    "11KJ": {
+      "min": 11,
+      "max": 11,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.285Z"
+    },
+    "11VS": {
+      "min": 132,
+      "max": 132,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.363Z"
+    },
+    "12RS": {
+      "min": 53,
+      "max": 53,
+      "count": 8,
+      "scanned": true,
+      "updated": "2026-07-12T08:41:39.534Z"
+    },
+    "12MS": {
+      "min": 1,
+      "max": 1,
+      "count": 40,
+      "scanned": true,
+      "updated": "2026-07-12T08:41:31.468Z"
+    },
+    "12AS": {
+      "min": 38,
+      "max": 38,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.538Z"
+    },
+    "12OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.158Z"
+    },
+    "12KV": {
+      "min": 435,
+      "max": 435,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.723Z"
+    },
+    "12KJ": {
+      "min": 19,
+      "max": 19,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.629Z"
+    },
+    "12AJ": {
+      "min": 140,
+      "max": 140,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.459Z"
+    },
+    "13RS": {
+      "min": 4,
+      "max": 4,
+      "count": 16,
+      "scanned": true,
+      "updated": "2026-07-12T08:41:56.569Z"
+    },
+    "13MS": {
+      "min": 1,
+      "max": 1,
+      "count": 44,
+      "scanned": true,
+      "updated": "2026-07-12T08:41:48.485Z"
+    },
+    "13AS": {
+      "min": 39,
+      "max": 39,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.866Z"
+    },
+    "13OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.236Z"
+    },
+    "13KJ": {
+      "min": 103,
+      "max": 103,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.959Z"
+    },
+    "13AJ": {
+      "min": 134,
+      "max": 134,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:58.818Z"
+    },
+    "14RS": {
+      "min": 2,
+      "max": 2,
+      "count": 22,
+      "scanned": true,
+      "updated": "2026-07-12T08:42:14.360Z"
+    },
+    "14MS": {
+      "min": 4,
+      "max": 4,
+      "count": 63,
+      "scanned": true,
+      "updated": "2026-07-12T08:42:05.445Z"
+    },
+    "14AS": {
+      "min": 58,
+      "max": 58,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.037Z"
+    },
+    "14OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.315Z"
+    },
+    "15RS": {
+      "min": 31,
+      "max": 31,
+      "count": 10,
+      "scanned": true,
+      "updated": "2026-07-12T08:42:31.264Z"
+    },
+    "15MS": {
+      "min": 1,
+      "max": 1,
+      "count": 35,
+      "scanned": true,
+      "updated": "2026-07-12T08:42:23.195Z"
+    },
+    "15AS": {
+      "min": 61,
+      "max": 61,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.132Z"
+    },
+    "15OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.393Z"
+    },
+    "15KJ": {
+      "min": 22,
+      "max": 22,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.209Z"
+    },
+    "15VS": {
+      "min": 28,
+      "max": 28,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.302Z"
+    },
+    "16RS": {
+      "min": 45,
+      "max": 45,
+      "count": 51,
+      "scanned": true,
+      "updated": "2026-07-12T08:42:49.978Z"
+    },
+    "16MS": {
+      "min": 1,
+      "max": 1,
+      "count": 190,
+      "scanned": true,
+      "updated": "2026-07-12T08:42:41.038Z"
+    },
+    "16AS": {
+      "min": 65,
+      "max": 65,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.476Z"
+    },
+    "16OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.488Z"
+    },
+    "16KJ": {
+      "min": 213,
+      "max": 213,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.569Z"
+    },
+    "16AO": {
+      "min": 6,
+      "max": 6,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.382Z"
+    },
+    "16VS": {
+      "min": 130,
+      "max": 130,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.647Z"
+    },
+    "17RS": {
+      "min": 1,
+      "max": 1,
+      "count": 15,
+      "scanned": true,
+      "updated": "2026-07-12T08:43:07.219Z"
+    },
+    "17MS": {
+      "min": 9,
+      "max": 9,
+      "count": 26,
+      "scanned": true,
+      "updated": "2026-07-12T08:42:58.984Z"
+    },
+    "17AS": {
+      "min": 69,
+      "max": 69,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.807Z"
+    },
+    "17OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.566Z"
+    },
+    "17KJ": {
+      "min": 5,
+      "max": 5,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.884Z"
+    },
+    "17AJ": {
+      "min": 137,
+      "max": 137,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.726Z"
+    },
+    "18RS": {
+      "min": 7,
+      "max": 7,
+      "count": 21,
+      "scanned": true,
+      "updated": "2026-07-12T08:43:25.684Z"
+    },
+    "18MS": {
+      "min": 33,
+      "max": 33,
+      "count": 85,
+      "scanned": true,
+      "updated": "2026-07-12T08:43:16.545Z"
+    },
+    "18AS": {
+      "min": 71,
+      "max": 71,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.041Z"
+    },
+    "18OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.659Z"
+    },
+    "18KJ": {
+      "min": 19,
+      "max": 19,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.135Z"
+    },
+    "18AJ": {
+      "min": 18,
+      "max": 18,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:20:59.962Z"
+    },
+    "18VS": {
+      "min": 127,
+      "max": 127,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.213Z"
+    },
+    "19RS": {
+      "min": 12,
+      "max": 12,
+      "count": 13,
+      "scanned": true,
+      "updated": "2026-07-12T08:43:42.752Z"
+    },
+    "19MS": {
+      "min": 24,
+      "max": 24,
+      "count": 35,
+      "scanned": true,
+      "updated": "2026-07-12T08:43:34.736Z"
+    },
+    "19AS": {
+      "min": 74,
+      "max": 74,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.386Z"
+    },
+    "19OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.738Z"
+    },
+    "19KJ": {
+      "min": 104,
+      "max": 104,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.464Z"
+    },
+    "19AJ": {
+      "min": 19,
+      "max": 19,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.306Z"
+    },
+    "19VS": {
+      "min": 41,
+      "max": 41,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.558Z"
+    },
+    "20RS": {
+      "min": 13,
+      "max": 13,
+      "count": 15,
+      "scanned": true,
+      "updated": "2026-07-12T08:43:59.650Z"
+    },
+    "20MS": {
+      "min": 1,
+      "max": 1,
+      "count": 66,
+      "scanned": true,
+      "updated": "2026-07-12T08:43:51.638Z"
+    },
+    "20AS": {
+      "min": 77,
+      "max": 77,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.744Z"
+    },
+    "20OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.802Z"
+    },
+    "20KJ": {
+      "min": 53,
+      "max": 53,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.821Z"
+    },
+    "20AJ": {
+      "min": 20,
+      "max": 20,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.651Z"
+    },
+    "20VS": {
+      "min": 129,
+      "max": 129,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.898Z"
+    },
+    "21RS": {
+      "min": 1,
+      "max": 1,
+      "count": 19,
+      "scanned": true,
+      "updated": "2026-07-12T08:44:16.848Z"
+    },
+    "21MS": {
+      "min": 1,
+      "max": 1,
+      "count": 68,
+      "scanned": true,
+      "updated": "2026-07-12T08:44:08.598Z"
+    },
+    "21AS": {
+      "min": 79,
+      "max": 79,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:00.992Z"
+    },
+    "21OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.880Z"
+    },
+    "21KJ": {
+      "min": 109,
+      "max": 109,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.068Z"
+    },
+    "22RS": {
+      "min": 1,
+      "max": 1,
+      "count": 67,
+      "scanned": true,
+      "updated": "2026-07-12T08:44:35.712Z"
+    },
+    "22MS": {
+      "min": 42,
+      "max": 42,
+      "count": 143,
+      "scanned": true,
+      "updated": "2026-07-12T08:44:26.750Z"
+    },
+    "22AS": {
+      "min": 3,
+      "max": 3,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.132Z"
+    },
+    "22OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:13.974Z"
+    },
+    "23RS": {
+      "min": 1,
+      "max": 1,
+      "count": 60,
+      "scanned": true,
+      "updated": "2026-07-12T08:44:55.180Z"
+    },
+    "23MS": {
+      "min": 1,
+      "max": 1,
+      "count": 270,
+      "scanned": true,
+      "updated": "2026-07-12T08:44:46.330Z"
+    },
+    "23AS": {
+      "min": 32,
+      "max": 32,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.382Z"
+    },
+    "23OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.053Z"
+    },
+    "23KJ": {
+      "min": 23,
+      "max": 23,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.476Z"
+    },
+    "23AJ": {
+      "min": 2,
+      "max": 2,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.225Z"
+    },
+    "23AO": {
+      "min": 8,
+      "max": 8,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.305Z"
+    },
+    "24RS": {
+      "min": 1,
+      "max": 1,
+      "count": 59,
+      "scanned": true,
+      "updated": "2026-07-12T08:45:14.221Z"
+    },
+    "24MS": {
+      "min": 1,
+      "max": 1,
+      "count": 167,
+      "scanned": true,
+      "updated": "2026-07-12T08:45:05.161Z"
+    },
+    "24AS": {
+      "min": 33,
+      "max": 33,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.649Z"
+    },
+    "24OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.132Z"
+    },
+    "24KJ": {
+      "min": 88,
+      "max": 88,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.743Z"
+    },
+    "24AA": {
+      "min": 3,
+      "max": 3,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.570Z"
+    },
+    "25RS": {
+      "min": 103,
+      "max": 103,
+      "count": 31,
+      "scanned": true,
+      "updated": "2026-07-12T08:45:32.832Z"
+    },
+    "25MS": {
+      "min": 1,
+      "max": 1,
+      "count": 109,
+      "scanned": true,
+      "updated": "2026-07-12T08:45:23.317Z"
+    },
+    "25AS": {
+      "min": 51,
+      "max": 51,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.898Z"
+    },
+    "25OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.225Z"
+    },
+    "25GV": {
+      "min": 4,
+      "max": 4,
+      "count": 5,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.991Z"
+    },
+    "25OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.319Z"
+    },
+    "25KJ": {
+      "min": 9,
+      "max": 9,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.069Z"
+    },
+    "25AA": {
+      "min": 5,
+      "max": 5,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:01.821Z"
+    },
+    "26RS": {
+      "min": 14,
+      "max": 14,
+      "count": 35,
+      "scanned": true,
+      "updated": "2026-07-12T08:45:51.510Z"
+    },
+    "26MS": {
+      "min": 153,
+      "max": 153,
+      "count": 147,
+      "scanned": true,
+      "updated": "2026-07-12T08:45:42.697Z"
+    },
+    "26AS": {
+      "min": 63,
+      "max": 63,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.274Z"
+    },
+    "26OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.397Z"
+    },
+    "26KJ": {
+      "min": 5,
+      "max": 5,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.350Z"
+    },
+    "26AA": {
+      "min": 16,
+      "max": 16,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.195Z"
+    },
+    "27RS": {
+      "min": 13,
+      "max": 13,
+      "count": 20,
+      "scanned": true,
+      "updated": "2026-07-12T08:46:09.036Z"
+    },
+    "27MS": {
+      "min": 29,
+      "max": 29,
+      "count": 75,
+      "scanned": true,
+      "updated": "2026-07-12T08:46:00.293Z"
+    },
+    "27AS": {
+      "min": 73,
+      "max": 73,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.681Z"
+    },
+    "27OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.475Z"
+    },
+    "27GV": {
+      "min": 5,
+      "max": 5,
+      "count": 12,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.775Z"
+    },
+    "27OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.552Z"
+    },
+    "27AJ": {
+      "min": 299,
+      "max": 299,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.537Z"
+    },
+    "27AA": {
+      "min": 6,
+      "max": 6,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.443Z"
+    },
+    "27AO": {
+      "min": 3,
+      "max": 3,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.601Z"
+    },
+    "28RS": {
+      "min": 1,
+      "max": 1,
+      "count": 22,
+      "scanned": true,
+      "updated": "2026-07-12T08:46:26.645Z"
+    },
+    "28MS": {
+      "min": 1,
+      "max": 1,
+      "count": 49,
+      "scanned": true,
+      "updated": "2026-07-12T08:46:17.748Z"
+    },
+    "28AS": {
+      "min": 4,
+      "max": 4,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.855Z"
+    },
+    "28OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.631Z"
+    },
+    "29RS": {
+      "min": 1,
+      "max": 1,
+      "count": 22,
+      "scanned": true,
+      "updated": "2026-07-12T08:46:44.290Z"
+    },
+    "29MS": {
+      "min": 1,
+      "max": 1,
+      "count": 72,
+      "scanned": true,
+      "updated": "2026-07-12T08:46:35.528Z"
+    },
+    "29AS": {
+      "min": 5,
+      "max": 5,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:02.948Z"
+    },
+    "29OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.725Z"
+    },
+    "29KJ": {
+      "min": 24,
+      "max": 24,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.026Z"
+    },
+    "30RS": {
+      "min": 5,
+      "max": 5,
+      "count": 15,
+      "scanned": true,
+      "updated": "2026-07-12T08:47:01.117Z"
+    },
+    "30MS": {
+      "min": 26,
+      "max": 26,
+      "count": 53,
+      "scanned": true,
+      "updated": "2026-07-12T08:46:53.021Z"
+    },
+    "30AS": {
+      "min": 6,
+      "max": 6,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.120Z"
+    },
+    "30OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.802Z"
+    },
+    "30KJ": {
+      "min": 26,
+      "max": 26,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.198Z"
+    },
+    "31RS": {
+      "min": 1,
+      "max": 1,
+      "count": 19,
+      "scanned": true,
+      "updated": "2026-07-12T08:47:18.053Z"
+    },
+    "31MS": {
+      "min": 1,
+      "max": 1,
+      "count": 80,
+      "scanned": true,
+      "updated": "2026-07-12T08:47:10.062Z"
+    },
+    "31AS": {
+      "min": 8,
+      "max": 8,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.293Z"
+    },
+    "31OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.880Z"
+    },
+    "31GV": {
+      "min": 14,
+      "max": 14,
+      "count": 4,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.388Z"
+    },
+    "31KJ": {
+      "min": 36,
+      "max": 36,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.450Z"
+    },
+    "32RS": {
+      "min": 32,
+      "max": 32,
+      "count": 30,
+      "scanned": true,
+      "updated": "2026-07-12T08:47:36.083Z"
+    },
+    "32MS": {
+      "min": 1,
+      "max": 1,
+      "count": 76,
+      "scanned": true,
+      "updated": "2026-07-12T08:47:27.025Z"
+    },
+    "32AS": {
+      "min": 9,
+      "max": 9,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.513Z"
+    },
+    "32OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:14.959Z"
+    },
+    "32KJ": {
+      "min": 327,
+      "max": 327,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.590Z"
+    },
+    "33RS": {
+      "min": 5,
+      "max": 5,
+      "count": 19,
+      "scanned": true,
+      "updated": "2026-07-12T08:47:53.128Z"
+    },
+    "33MS": {
+      "min": 19,
+      "max": 19,
+      "count": 75,
+      "scanned": true,
+      "updated": "2026-07-12T08:47:44.961Z"
+    },
+    "33AS": {
+      "min": 11,
+      "max": 11,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.750Z"
+    },
+    "33OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.022Z"
+    },
+    "33AA": {
+      "min": 1,
+      "max": 1,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.671Z"
+    },
+    "33VS": {
+      "min": 57,
+      "max": 57,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.845Z"
+    },
+    "34RS": {
+      "min": 9,
+      "max": 9,
+      "count": 40,
+      "scanned": true,
+      "updated": "2026-07-12T08:48:12.403Z"
+    },
+    "34MS": {
+      "min": 1,
+      "max": 1,
+      "count": 145,
+      "scanned": true,
+      "updated": "2026-07-12T08:48:02.973Z"
+    },
+    "34AS": {
+      "min": 12,
+      "max": 12,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:03.938Z"
+    },
+    "34OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.100Z"
+    },
+    "35RS": {
+      "min": 2,
+      "max": 2,
+      "count": 25,
+      "scanned": true,
+      "updated": "2026-07-12T08:48:29.857Z"
+    },
+    "35MS": {
+      "min": 1,
+      "max": 1,
+      "count": 68,
+      "scanned": true,
+      "updated": "2026-07-12T08:48:20.995Z"
+    },
+    "35AS": {
+      "min": 13,
+      "max": 13,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.094Z"
+    },
+    "35OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.178Z"
+    },
+    "35AA": {
+      "min": 14,
+      "max": 14,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.015Z"
+    },
+    "36RS": {
+      "min": 7,
+      "max": 7,
+      "count": 29,
+      "scanned": true,
+      "updated": "2026-07-12T08:48:47.419Z"
+    },
+    "36MS": {
+      "min": 46,
+      "max": 46,
+      "count": 117,
+      "scanned": true,
+      "updated": "2026-07-12T08:48:38.778Z"
+    },
+    "36AS": {
+      "min": 14,
+      "max": 14,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.251Z"
+    },
+    "36OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.257Z"
+    },
+    "36KJ": {
+      "min": 1,
+      "max": 1,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.345Z"
+    },
+    "36AA": {
+      "min": 19,
+      "max": 19,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.172Z"
+    },
+    "37RS": {
+      "min": 2,
+      "max": 2,
+      "count": 15,
+      "scanned": true,
+      "updated": "2026-07-12T08:49:04.540Z"
+    },
+    "37MS": {
+      "min": 36,
+      "max": 36,
+      "count": 62,
+      "scanned": true,
+      "updated": "2026-07-12T08:48:56.387Z"
+    },
+    "37AS": {
+      "min": 17,
+      "max": 17,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.440Z"
+    },
+    "37OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.335Z"
+    },
+    "37KJ": {
+      "min": 41,
+      "max": 41,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.534Z"
+    },
+    "37VS": {
+      "min": 356,
+      "max": 356,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.613Z"
+    },
+    "38RS": {
+      "min": 1,
+      "max": 1,
+      "count": 36,
+      "scanned": true,
+      "updated": "2026-07-12T08:49:23.607Z"
+    },
+    "38MS": {
+      "min": 1,
+      "max": 1,
+      "count": 135,
+      "scanned": true,
+      "updated": "2026-07-12T08:49:14.496Z"
+    },
+    "38AS": {
+      "min": 19,
+      "max": 19,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.787Z"
+    },
+    "38OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.412Z"
+    },
+    "38KJ": {
+      "min": 42,
+      "max": 42,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.864Z"
+    },
+    "38AO": {
+      "min": 2,
+      "max": 2,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.693Z"
+    },
+    "39RS": {
+      "min": 7,
+      "max": 7,
+      "count": 20,
+      "scanned": true,
+      "updated": "2026-07-12T08:49:41.497Z"
+    },
+    "39MS": {
+      "min": 24,
+      "max": 24,
+      "count": 50,
+      "scanned": true,
+      "updated": "2026-07-12T08:49:32.551Z"
+    },
+    "39AS": {
+      "min": 21,
+      "max": 21,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:04.943Z"
+    },
+    "39OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.490Z"
+    },
+    "39GV": {
+      "min": 5,
+      "max": 5,
+      "count": 3,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.039Z"
+    },
+    "39OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.567Z"
+    },
+    "39KJ": {
+      "min": 85,
+      "max": 85,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.085Z"
+    },
+    "40RS": {
+      "min": 4,
+      "max": 4,
+      "count": 10,
+      "scanned": true,
+      "updated": "2026-07-12T08:49:59.046Z"
+    },
+    "40MS": {
+      "min": 1,
+      "max": 1,
+      "count": 55,
+      "scanned": true,
+      "updated": "2026-07-12T08:49:50.631Z"
+    },
+    "40AS": {
+      "min": 23,
+      "max": 23,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.242Z"
+    },
+    "40OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.630Z"
+    },
+    "40KJ": {
+      "min": 115,
+      "max": 115,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.321Z"
+    },
+    "40AO": {
+      "min": 10,
+      "max": 10,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.163Z"
+    },
+    "41RS": {
+      "min": 3,
+      "max": 3,
+      "count": 6,
+      "scanned": true,
+      "updated": "2026-07-12T08:50:16.257Z"
+    },
+    "41MS": {
+      "min": 1,
+      "max": 1,
+      "count": 37,
+      "scanned": true,
+      "updated": "2026-07-12T08:50:07.707Z"
+    },
+    "41AS": {
+      "min": 24,
+      "max": 24,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.417Z"
+    },
+    "41OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.709Z"
+    },
+    "41KJ": {
+      "min": 36,
+      "max": 36,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.510Z"
+    },
+    "42RS": {
+      "min": 1,
+      "max": 1,
+      "count": 41,
+      "scanned": true,
+      "updated": "2026-07-12T08:50:35.291Z"
+    },
+    "42MS": {
+      "min": 1,
+      "max": 1,
+      "count": 147,
+      "scanned": true,
+      "updated": "2026-07-12T08:50:26.327Z"
+    },
+    "42AS": {
+      "min": 27,
+      "max": 27,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.652Z"
+    },
+    "42OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.802Z"
+    },
+    "42KJ": {
+      "min": 8,
+      "max": 8,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.699Z"
+    },
+    "43RS": {
+      "min": 11,
+      "max": 11,
+      "count": 25,
+      "scanned": true,
+      "updated": "2026-07-12T08:50:53.031Z"
+    },
+    "43MS": {
+      "min": 1,
+      "max": 1,
+      "count": 80,
+      "scanned": true,
+      "updated": "2026-07-12T08:50:44.115Z"
+    },
+    "43AS": {
+      "min": 28,
+      "max": 28,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.871Z"
+    },
+    "43OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.880Z"
+    },
+    "43AA": {
+      "min": 2,
+      "max": 2,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.778Z"
+    },
+    "44RS": {
+      "min": 5,
+      "max": 5,
+      "count": 17,
+      "scanned": true,
+      "updated": "2026-07-12T08:51:09.872Z"
+    },
+    "44MS": {
+      "min": 1,
+      "max": 1,
+      "count": 49,
+      "scanned": true,
+      "updated": "2026-07-12T08:51:01.864Z"
+    },
+    "44AS": {
+      "min": 31,
+      "max": 31,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.029Z"
+    },
+    "44OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:15.958Z"
+    },
+    "44AJ": {
+      "min": 135,
+      "max": 135,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:05.949Z"
+    },
+    "45RS": {
+      "min": 1,
+      "max": 1,
+      "count": 24,
+      "scanned": true,
+      "updated": "2026-07-12T08:51:27.792Z"
+    },
+    "45MS": {
+      "min": 54,
+      "max": 54,
+      "count": 53,
+      "scanned": true,
+      "updated": "2026-07-12T08:51:18.820Z"
+    },
+    "45AS": {
+      "min": 34,
+      "max": 34,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.202Z"
+    },
+    "45OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.050Z"
+    },
+    "45AJ": {
+      "min": 27,
+      "max": 27,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.122Z"
+    },
+    "46RS": {
+      "min": 1,
+      "max": 1,
+      "count": 31,
+      "scanned": true,
+      "updated": "2026-07-12T08:51:46.735Z"
+    },
+    "46MS": {
+      "min": 1,
+      "max": 1,
+      "count": 66,
+      "scanned": true,
+      "updated": "2026-07-12T08:51:36.730Z"
+    },
+    "46AS": {
+      "min": 35,
+      "max": 35,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.266Z"
+    },
+    "46OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.112Z"
+    },
+    "46VS": {
+      "min": 396,
+      "max": 396,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.343Z"
+    },
+    "47RS": {
+      "min": 1,
+      "max": 1,
+      "count": 18,
+      "scanned": true,
+      "updated": "2026-07-12T08:52:03.560Z"
+    },
+    "47MS": {
+      "min": 1,
+      "max": 1,
+      "count": 87,
+      "scanned": true,
+      "updated": "2026-07-12T08:51:55.629Z"
+    },
+    "47OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.192Z"
+    },
+    "48RS": {
+      "min": 10,
+      "max": 10,
+      "count": 16,
+      "scanned": true,
+      "updated": "2026-07-12T08:52:20.759Z"
+    },
+    "48MS": {
+      "min": 1,
+      "max": 1,
+      "count": 64,
+      "scanned": true,
+      "updated": "2026-07-12T08:52:12.515Z"
+    },
+    "48AS": {
+      "min": 36,
+      "max": 36,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.422Z"
+    },
+    "48OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.269Z"
+    },
+    "48KJ": {
+      "min": 53,
+      "max": 53,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.515Z"
+    },
+    "49RS": {
+      "min": 1,
+      "max": 1,
+      "count": 8,
+      "scanned": true,
+      "updated": "2026-07-12T08:52:37.076Z"
+    },
+    "49MS": {
+      "min": 1,
+      "max": 1,
+      "count": 11,
+      "scanned": true,
+      "updated": "2026-07-12T08:52:28.932Z"
+    },
+    "49AS": {
+      "min": 37,
+      "max": 37,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.594Z"
+    },
+    "49OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.364Z"
+    },
+    "49KJ": {
+      "min": 54,
+      "max": 54,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.673Z"
+    },
+    "50RS": {
+      "min": 1,
+      "max": 1,
+      "count": 45,
+      "scanned": true,
+      "updated": "2026-07-12T08:52:57.403Z"
+    },
+    "50MS": {
+      "min": 1,
+      "max": 1,
+      "count": 374,
+      "scanned": true,
+      "updated": "2026-07-12T08:52:48.420Z"
+    },
+    "50AS": {
+      "min": 41,
+      "max": 41,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.752Z"
+    },
+    "50OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.533Z"
+    },
+    "50AV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.455Z"
+    },
+    "50KJ": {
+      "min": 55,
+      "max": 55,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.830Z"
+    },
+    "51RS": {
+      "min": 53,
+      "max": 53,
+      "count": 15,
+      "scanned": true,
+      "updated": "2026-07-12T08:53:14.366Z"
+    },
+    "51MS": {
+      "min": 42,
+      "max": 42,
+      "count": 48,
+      "scanned": true,
+      "updated": "2026-07-12T08:53:06.248Z"
+    },
+    "51AS": {
+      "min": 42,
+      "max": 42,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:06.926Z"
+    },
+    "51OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.627Z"
+    },
+    "51GV": {
+      "min": 6,
+      "max": 6,
+      "count": 6,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.005Z"
+    },
+    "51OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.705Z"
+    },
+    "51KJ": {
+      "min": 56,
+      "max": 56,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.081Z"
+    },
+    "52RS": {
+      "min": 1,
+      "max": 1,
+      "count": 44,
+      "scanned": true,
+      "updated": "2026-07-12T08:53:33.267Z"
+    },
+    "52MS": {
+      "min": 79,
+      "max": 79,
+      "count": 179,
+      "scanned": true,
+      "updated": "2026-07-12T08:53:24.297Z"
+    },
+    "52AS": {
+      "min": 43,
+      "max": 43,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.321Z"
+    },
+    "52OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.768Z"
+    },
+    "52KJ": {
+      "min": 57,
+      "max": 57,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.415Z"
+    },
+    "52AJ": {
+      "min": 4,
+      "max": 4,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.161Z"
+    },
+    "52AO": {
+      "min": 1,
+      "max": 1,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.240Z"
+    },
+    "53RS": {
+      "min": 2,
+      "max": 2,
+      "count": 8,
+      "scanned": true,
+      "updated": "2026-07-12T08:53:50.514Z"
+    },
+    "53MS": {
+      "min": 22,
+      "max": 22,
+      "count": 41,
+      "scanned": true,
+      "updated": "2026-07-12T08:53:42.323Z"
+    },
+    "53AS": {
+      "min": 44,
+      "max": 44,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.575Z"
+    },
+    "53OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.845Z"
+    },
+    "53AJ": {
+      "min": 0,
+      "max": 0,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.494Z"
+    },
+    "54RS": {
+      "min": 12,
+      "max": 12,
+      "count": 32,
+      "scanned": true,
+      "updated": "2026-07-12T08:54:09.227Z"
+    },
+    "54MS": {
+      "min": 126,
+      "max": 126,
+      "count": 138,
+      "scanned": true,
+      "updated": "2026-07-12T08:54:00.213Z"
+    },
+    "54AS": {
+      "min": 45,
+      "max": 45,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.716Z"
+    },
+    "54OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.016Z"
+    },
+    "54GV": {
+      "min": 2,
+      "max": 2,
+      "count": 6,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.811Z"
+    },
+    "54KV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:16.939Z"
+    },
+    "54AJ": {
+      "min": 5,
+      "max": 5,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.653Z"
+    },
+    "55RS": {
+      "min": 8,
+      "max": 8,
+      "count": 39,
+      "scanned": true,
+      "updated": "2026-07-12T08:54:27.788Z"
+    },
+    "55MS": {
+      "min": 1,
+      "max": 1,
+      "count": 114,
+      "scanned": true,
+      "updated": "2026-07-12T08:54:18.965Z"
+    },
+    "55AS": {
+      "min": 46,
+      "max": 46,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.951Z"
+    },
+    "55OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.109Z"
+    },
+    "55AA": {
+      "min": 8,
+      "max": 8,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:07.873Z"
+    },
+    "56RS": {
+      "min": 5,
+      "max": 5,
+      "count": 37,
+      "scanned": true,
+      "updated": "2026-07-12T08:54:45.624Z"
+    },
+    "56MS": {
+      "min": 107,
+      "max": 107,
+      "count": 112,
+      "scanned": true,
+      "updated": "2026-07-12T08:54:36.765Z"
+    },
+    "56AS": {
+      "min": 47,
+      "max": 47,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.031Z"
+    },
+    "56OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.187Z"
+    },
+    "56KJ": {
+      "min": 61,
+      "max": 61,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.124Z"
+    },
+    "57RS": {
+      "min": 1,
+      "max": 1,
+      "count": 21,
+      "scanned": true,
+      "updated": "2026-07-12T08:55:03.762Z"
+    },
+    "57MS": {
+      "min": 1,
+      "max": 1,
+      "count": 48,
+      "scanned": true,
+      "updated": "2026-07-12T08:54:54.684Z"
+    },
+    "57AS": {
+      "min": 48,
+      "max": 48,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.205Z"
+    },
+    "57OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.265Z"
+    },
+    "57KJ": {
+      "min": 5,
+      "max": 5,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.281Z"
+    },
+    "58RS": {
+      "min": 1,
+      "max": 1,
+      "count": 31,
+      "scanned": true,
+      "updated": "2026-07-12T08:55:21.643Z"
+    },
+    "58MS": {
+      "min": 26,
+      "max": 26,
+      "count": 76,
+      "scanned": true,
+      "updated": "2026-07-12T08:55:12.757Z"
+    },
+    "58AS": {
+      "min": 49,
+      "max": 49,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.359Z"
+    },
+    "58OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.328Z"
+    },
+    "59RS": {
+      "min": 9,
+      "max": 9,
+      "count": 34,
+      "scanned": true,
+      "updated": "2026-07-12T08:55:40.265Z"
+    },
+    "59MS": {
+      "min": 44,
+      "max": 44,
+      "count": 146,
+      "scanned": true,
+      "updated": "2026-07-12T08:55:31.340Z"
+    },
+    "59AS": {
+      "min": 50,
+      "max": 50,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.534Z"
+    },
+    "59OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.406Z"
+    },
+    "59AA": {
+      "min": 17,
+      "max": 17,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.454Z"
+    },
+    "59VS": {
+      "min": 5,
+      "max": 5,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.613Z"
+    },
+    "60RS": {
+      "min": 4,
+      "max": 4,
+      "count": 18,
+      "scanned": true,
+      "updated": "2026-07-12T08:55:57.381Z"
+    },
+    "60MS": {
+      "min": 1,
+      "max": 1,
+      "count": 43,
+      "scanned": true,
+      "updated": "2026-07-12T08:55:49.181Z"
+    },
+    "60AS": {
+      "min": 52,
+      "max": 52,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.692Z"
+    },
+    "60OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.500Z"
+    },
+    "61RS": {
+      "min": 9,
+      "max": 9,
+      "count": 40,
+      "scanned": true,
+      "updated": "2026-07-12T08:56:17.084Z"
+    },
+    "61MS": {
+      "min": 58,
+      "max": 58,
+      "count": 230,
+      "scanned": true,
+      "updated": "2026-07-12T08:56:08.149Z"
+    },
+    "61AS": {
+      "min": 53,
+      "max": 53,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.851Z"
+    },
+    "61OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.577Z"
+    },
+    "61GV": {
+      "min": 15,
+      "max": 15,
+      "count": 20,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.934Z"
+    },
+    "61OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.654Z"
+    },
+    "61AA": {
+      "min": 15,
+      "max": 15,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:08.772Z"
+    },
+    "62RS": {
+      "min": 1,
+      "max": 1,
+      "count": 20,
+      "scanned": true,
+      "updated": "2026-07-12T08:56:34.590Z"
+    },
+    "62MS": {
+      "min": 1,
+      "max": 1,
+      "count": 70,
+      "scanned": true,
+      "updated": "2026-07-12T08:56:25.839Z"
+    },
+    "62AS": {
+      "min": 54,
+      "max": 54,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.087Z"
+    },
+    "62OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.733Z"
+    },
+    "62AJ": {
+      "min": 33,
+      "max": 33,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.008Z"
+    },
+    "63RS": {
+      "min": 29,
+      "max": 29,
+      "count": 36,
+      "scanned": true,
+      "updated": "2026-07-12T08:56:53.306Z"
+    },
+    "63MS": {
+      "min": 2,
+      "max": 2,
+      "count": 162,
+      "scanned": true,
+      "updated": "2026-07-12T08:56:44.343Z"
+    },
+    "63AS": {
+      "min": 55,
+      "max": 55,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.262Z"
+    },
+    "63OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.812Z"
+    },
+    "63GV": {
+      "min": 4,
+      "max": 4,
+      "count": 8,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.341Z"
+    },
+    "63KJ": {
+      "min": 6,
+      "max": 6,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.421Z"
+    },
+    "63AA": {
+      "min": 11,
+      "max": 11,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.182Z"
+    },
+    "64RS": {
+      "min": 3,
+      "max": 3,
+      "count": 25,
+      "scanned": true,
+      "updated": "2026-07-12T08:57:12.008Z"
+    },
+    "64MS": {
+      "min": 120,
+      "max": 120,
+      "count": 134,
+      "scanned": true,
+      "updated": "2026-07-12T08:57:02.939Z"
+    },
+    "64AS": {
+      "min": 57,
+      "max": 57,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.579Z"
+    },
+    "64OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.876Z"
+    },
+    "64KJ": {
+      "min": 1,
+      "max": 1,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.641Z"
+    },
+    "64AA": {
+      "min": 12,
+      "max": 12,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.499Z"
+    },
+    "65RS": {
+      "min": 2,
+      "max": 2,
+      "count": 16,
+      "scanned": true,
+      "updated": "2026-07-12T08:57:29.365Z"
+    },
+    "65MS": {
+      "min": 1,
+      "max": 1,
+      "count": 33,
+      "scanned": true,
+      "updated": "2026-07-12T08:57:21.109Z"
+    },
+    "65AS": {
+      "min": 59,
+      "max": 59,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.720Z"
+    },
+    "65OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:17.954Z"
+    },
+    "66RS": {
+      "min": 62,
+      "max": 62,
+      "count": 52,
+      "scanned": true,
+      "updated": "2026-07-12T08:57:48.887Z"
+    },
+    "66MS": {
+      "min": 219,
+      "max": 219,
+      "count": 219,
+      "scanned": true,
+      "updated": "2026-07-12T08:57:39.959Z"
+    },
+    "66AS": {
+      "min": 60,
+      "max": 60,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.893Z"
+    },
+    "66OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.017Z"
+    },
+    "66GV": {
+      "min": 8,
+      "max": 8,
+      "count": 5,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.973Z"
+    },
+    "66OV": {
+      "min": 1,
+      "max": 1,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.052Z"
+    },
+    "66AO": {
+      "min": 9,
+      "max": 9,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:09.816Z"
+    },
+    "67RS": {
+      "min": 2,
+      "max": 2,
+      "count": 21,
+      "scanned": true,
+      "updated": "2026-07-12T08:58:06.624Z"
+    },
+    "67MS": {
+      "min": 1,
+      "max": 1,
+      "count": 56,
+      "scanned": true,
+      "updated": "2026-07-12T08:57:57.753Z"
+    },
+    "67AS": {
+      "min": 62,
+      "max": 62,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.210Z"
+    },
+    "67OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.095Z"
+    },
+    "67AJ": {
+      "min": 67,
+      "max": 67,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.133Z"
+    },
+    "68RS": {
+      "min": 5,
+      "max": 5,
+      "count": 28,
+      "scanned": true,
+      "updated": "2026-07-12T08:58:24.720Z"
+    },
+    "68MS": {
+      "min": 1,
+      "max": 1,
+      "count": 60,
+      "scanned": true,
+      "updated": "2026-07-12T08:58:15.677Z"
+    },
+    "68AS": {
+      "min": 64,
+      "max": 64,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.355Z"
+    },
+    "68OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.177Z"
+    },
+    "68AJ": {
+      "min": 68,
+      "max": 68,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.288Z"
+    },
+    "69RS": {
+      "min": 2,
+      "max": 2,
+      "count": 24,
+      "scanned": true,
+      "updated": "2026-07-12T08:58:42.553Z"
+    },
+    "69MS": {
+      "min": 21,
+      "max": 21,
+      "count": 83,
+      "scanned": true,
+      "updated": "2026-07-12T08:58:33.675Z"
+    },
+    "69AS": {
+      "min": 66,
+      "max": 66,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.433Z"
+    },
+    "69OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.250Z"
+    },
+    "70RS": {
+      "min": 11,
+      "max": 11,
+      "count": 23,
+      "scanned": true,
+      "updated": "2026-07-12T08:59:00.484Z"
+    },
+    "70MS": {
+      "min": 1,
+      "max": 1,
+      "count": 56,
+      "scanned": true,
+      "updated": "2026-07-12T08:58:51.502Z"
+    },
+    "70AS": {
+      "min": 67,
+      "max": 67,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.590Z"
+    },
+    "70OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.329Z"
+    },
+    "70AA": {
+      "min": 7,
+      "max": 7,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.512Z"
+    },
+    "71RS": {
+      "min": 1,
+      "max": 1,
+      "count": 20,
+      "scanned": true,
+      "updated": "2026-07-12T08:59:18.398Z"
+    },
+    "71MS": {
+      "min": 1,
+      "max": 1,
+      "count": 83,
+      "scanned": true,
+      "updated": "2026-07-12T08:59:09.383Z"
+    },
+    "71AS": {
+      "min": 68,
+      "max": 68,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.841Z"
+    },
+    "71OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.406Z"
+    },
+    "71AJ": {
+      "min": 71,
+      "max": 71,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.747Z"
+    },
+    "71AA": {
+      "min": 20,
+      "max": 20,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.654Z"
+    },
+    "72RS": {
+      "min": 1,
+      "max": 1,
+      "count": 24,
+      "scanned": true,
+      "updated": "2026-07-12T08:59:36.273Z"
+    },
+    "72MS": {
+      "min": 48,
+      "max": 48,
+      "count": 74,
+      "scanned": true,
+      "updated": "2026-07-12T08:59:27.407Z"
+    },
+    "72AS": {
+      "min": 70,
+      "max": 70,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.091Z"
+    },
+    "72OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.483Z"
+    },
+    "72AJ": {
+      "min": 72,
+      "max": 72,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:10.935Z"
+    },
+    "72AO": {
+      "min": 4,
+      "max": 4,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.013Z"
+    },
+    "73RS": {
+      "min": 23,
+      "max": 23,
+      "count": 16,
+      "scanned": true,
+      "updated": "2026-07-12T08:59:53.724Z"
+    },
+    "73MS": {
+      "min": 32,
+      "max": 32,
+      "count": 71,
+      "scanned": true,
+      "updated": "2026-07-12T08:59:45.141Z"
+    },
+    "73AS": {
+      "min": 72,
+      "max": 72,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.172Z"
+    },
+    "73OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.561Z"
+    },
+    "74RS": {
+      "min": 10,
+      "max": 10,
+      "count": 42,
+      "scanned": true,
+      "updated": "2026-07-12T09:00:12.544Z"
+    },
+    "74MS": {
+      "min": 65,
+      "max": 65,
+      "count": 183,
+      "scanned": true,
+      "updated": "2026-07-12T09:00:03.500Z"
+    },
+    "74AS": {
+      "min": 76,
+      "max": 76,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.344Z"
+    },
+    "74OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.640Z"
+    },
+    "74KJ": {
+      "min": 7,
+      "max": 7,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.422Z"
+    },
+    "74AA": {
+      "min": 18,
+      "max": 18,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.250Z"
+    },
+    "75RS": {
+      "min": 6,
+      "max": 6,
+      "count": 31,
+      "scanned": true,
+      "updated": "2026-07-12T09:00:30.521Z"
+    },
+    "75MS": {
+      "min": 1,
+      "max": 1,
+      "count": 68,
+      "scanned": true,
+      "updated": "2026-07-12T09:00:21.741Z"
+    },
+    "75AS": {
+      "min": 78,
+      "max": 78,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.580Z"
+    },
+    "75OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.733Z"
+    },
+    "75GV": {
+      "min": 7,
+      "max": 7,
+      "count": 5,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.675Z"
+    },
+    "75OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.811Z"
+    },
+    "75AA": {
+      "min": 4,
+      "max": 4,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.501Z"
+    },
+    "76RS": {
+      "min": 18,
+      "max": 18,
+      "count": 22,
+      "scanned": true,
+      "updated": "2026-07-12T09:00:48.367Z"
+    },
+    "76MS": {
+      "min": 33,
+      "max": 33,
+      "count": 70,
+      "scanned": true,
+      "updated": "2026-07-12T09:00:39.391Z"
+    },
+    "76AS": {
+      "min": 82,
+      "max": 82,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.849Z"
+    },
+    "76OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.888Z"
+    },
+    "76AJ": {
+      "min": 206,
+      "max": 206,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.769Z"
+    },
+    "77RS": {
+      "min": 1,
+      "max": 1,
+      "count": 35,
+      "scanned": true,
+      "updated": "2026-07-12T09:01:09.661Z"
+    },
+    "77MS": {
+      "min": 1,
+      "max": 1,
+      "count": 471,
+      "scanned": true,
+      "updated": "2026-07-12T09:01:00.683Z"
+    },
+    "77AS": {
+      "min": 40,
+      "max": 40,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.178Z"
+    },
+    "77OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:18.965Z"
+    },
+    "77GV": {
+      "min": 22,
+      "max": 22,
+      "count": 20,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.273Z"
+    },
+    "77OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.045Z"
+    },
+    "77KJ": {
+      "min": 2,
+      "max": 2,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.368Z"
+    },
+    "77AJ": {
+      "min": 1,
+      "max": 1,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.021Z"
+    },
+    "77AA": {
+      "min": 9,
+      "max": 9,
+      "count": 2,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:11.928Z"
+    },
+    "77AO": {
+      "min": 5,
+      "max": 5,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.100Z"
+    },
+    "78RS": {
+      "min": 1,
+      "max": 1,
+      "count": 22,
+      "scanned": true,
+      "updated": "2026-07-12T09:01:28.605Z"
+    },
+    "78MS": {
+      "min": 1,
+      "max": 1,
+      "count": 208,
+      "scanned": true,
+      "updated": "2026-07-12T09:01:19.528Z"
+    },
+    "78AS": {
+      "min": 56,
+      "max": 56,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.666Z"
+    },
+    "78OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.124Z"
+    },
+    "78GV": {
+      "min": 2,
+      "max": 2,
+      "count": 8,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.761Z"
+    },
+    "78OV": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.203Z"
+    },
+    "78KJ": {
+      "min": 3,
+      "max": 3,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.838Z"
+    },
+    "78AJ": {
+      "min": 2,
+      "max": 2,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.511Z"
+    },
+    "78AA": {
+      "min": 13,
+      "max": 13,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.430Z"
+    },
+    "78AO": {
+      "min": 7,
+      "max": 7,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.589Z"
+    },
+    "79RS": {
+      "min": 2,
+      "max": 2,
+      "count": 4,
+      "scanned": true,
+      "updated": "2026-07-12T09:01:44.887Z"
+    },
+    "79MS": {
+      "min": 2,
+      "max": 2,
+      "count": 12,
+      "scanned": true,
+      "updated": "2026-07-12T09:01:36.618Z"
+    },
+    "79AS": {
+      "min": 16,
+      "max": 16,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.917Z"
+    },
+    "79OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.281Z"
+    },
+    "80RS": {
+      "min": 1,
+      "max": 1,
+      "count": 3,
+      "scanned": true,
+      "updated": "2026-07-12T09:01:52.884Z"
+    },
+    "81RS": {
+      "min": 5,
+      "max": 5,
+      "count": 3,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:01.039Z"
+    },
+    "82RS": {
+      "min": 1,
+      "max": 1,
+      "count": 2,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:09.306Z"
+    },
+    "83RS": {
+      "min": 1,
+      "max": 1,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:17.352Z"
+    },
+    "83OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.360Z"
+    },
+    "84RS": {
+      "min": 4,
+      "max": 4,
+      "count": 4,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:25.415Z"
+    },
+    "85RS": {
+      "min": 5,
+      "max": 5,
+      "count": 6,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:33.471Z"
+    },
+    "85KJ": {
+      "min": 85,
+      "max": 85,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.073Z"
+    },
+    "85AJ": {
+      "min": 18,
+      "max": 18,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:12.993Z"
+    },
+    "86RS": {
+      "min": 11,
+      "max": 11,
+      "count": 19,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:50.617Z"
+    },
+    "86MS": {
+      "min": 1,
+      "max": 1,
+      "count": 78,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:42.503Z"
+    },
+    "86AS": {
+      "min": 75,
+      "max": 75,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.152Z"
+    },
+    "86OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.439Z"
+    },
+    "87RS": {
+      "min": 1,
+      "max": 1,
+      "count": 7,
+      "scanned": true,
+      "updated": "2026-07-12T09:03:06.816Z"
+    },
+    "87MS": {
+      "min": 2,
+      "max": 2,
+      "count": 4,
+      "scanned": true,
+      "updated": "2026-07-12T09:02:58.718Z"
+    },
+    "87AS": {
+      "min": 80,
+      "max": 80,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.231Z"
+    },
+    "87OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.518Z"
+    },
+    "88RS": {
+      "min": 2,
+      "max": 2,
+      "count": 3,
+      "scanned": true,
+      "updated": "2026-07-12T09:03:14.944Z"
+    },
+    "89RS": {
+      "min": 13,
+      "max": 13,
+      "count": 12,
+      "scanned": true,
+      "updated": "2026-07-12T09:03:31.859Z"
+    },
+    "89MS": {
+      "min": 22,
+      "max": 22,
+      "count": 31,
+      "scanned": true,
+      "updated": "2026-07-12T09:03:23.800Z"
+    },
+    "89AS": {
+      "min": 81,
+      "max": 81,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.310Z"
+    },
+    "89OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.596Z"
+    },
+    "89KJ": {
+      "min": 18,
+      "max": 18,
+      "count": 0,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.389Z"
+    },
+    "90RS": {
+      "min": 1,
+      "max": 1,
+      "count": 5,
+      "scanned": true,
+      "updated": "2026-07-12T09:03:39.765Z"
+    },
+    "90OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.674Z"
+    },
+    "91RS": {
+      "min": 69,
+      "max": 69,
+      "count": 24,
+      "scanned": true,
+      "updated": "2026-07-12T09:03:57.824Z"
+    },
+    "91MS": {
+      "min": 1,
+      "max": 1,
+      "count": 100,
+      "scanned": true,
+      "updated": "2026-07-12T09:03:48.782Z"
+    },
+    "91AS": {
+      "min": 83,
+      "max": 83,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.483Z"
+    },
+    "91OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.767Z"
+    },
+    "92RS": {
+      "min": 1,
+      "max": 1,
+      "count": 4,
+      "scanned": true,
+      "updated": "2026-07-12T09:04:15.078Z"
+    },
+    "92MS": {
+      "min": 1,
+      "max": 1,
+      "count": 21,
+      "scanned": true,
+      "updated": "2026-07-12T09:04:06.787Z"
+    },
+    "92AS": {
+      "min": 84,
+      "max": 84,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.655Z"
+    },
+    "92OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.862Z"
+    },
+    "92AA": {
+      "min": 21,
+      "max": 21,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:21:13.561Z"
+    },
+    "93RS": {
+      "min": 10,
+      "max": 10,
+      "count": 39,
+      "scanned": true,
+      "updated": "2026-07-12T09:04:24.163Z"
+    },
+    "93OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:19.955Z"
+    },
+    "94RS": {
+      "min": 5,
+      "max": 5,
+      "count": 31,
+      "scanned": true,
+      "updated": "2026-07-12T09:04:33.074Z"
+    },
+    "94OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:20.048Z"
+    },
+    "96RS": {
+      "min": 1,
+      "max": 1,
+      "count": 13,
+      "scanned": true,
+      "updated": "2026-07-12T09:04:41.037Z"
+    },
+    "96OS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:20.125Z"
+    },
+    "00VS": {
+      "min": 0,
+      "max": 0,
+      "count": 1,
+      "scanned": true,
+      "updated": "2026-07-12T09:35:12.118Z"
+    }
+  },
+  "empty": [
+    "01GV",
+    "01OV",
+    "01KV",
+    "01AV",
+    "01KJ",
+    "01AJ",
+    "01AA",
+    "01AO",
+    "01VS",
+    "01AI",
+    "02GV",
+    "02OV",
+    "02KV",
+    "02AV",
+    "02KJ",
+    "02AJ",
+    "02AA",
+    "02AO",
+    "02VS",
+    "02AI",
+    "03GV",
+    "03OV",
+    "03KV",
+    "03AV",
+    "03KJ",
+    "03AJ",
+    "03AA",
+    "03AO",
+    "03VS",
+    "03AI",
+    "04GV",
+    "04OV",
+    "04KV",
+    "04AV",
+    "04KJ",
+    "04AJ",
+    "04AA",
+    "04AO",
+    "04VS",
+    "04AI",
+    "05GV",
+    "05OV",
+    "05KV",
+    "05AV",
+    "05KJ",
+    "05AJ",
+    "05AA",
+    "05AO",
+    "05VS",
+    "05AI",
+    "06GV",
+    "06OV",
+    "06KV",
+    "06AV",
+    "06KJ",
+    "06AJ",
+    "06AA",
+    "06AO",
+    "06VS",
+    "06AI",
+    "07GV",
+    "07OV",
+    "07KV",
+    "07AV",
+    "07KJ",
+    "07AJ",
+    "07AA",
+    "07AO",
+    "07VS",
+    "07AI",
+    "08GV",
+    "08OV",
+    "08KV",
+    "08AV",
+    "08KJ",
+    "08AJ",
+    "08AA",
+    "08AO",
+    "08VS",
+    "08AI",
+    "09GV",
+    "09OV",
+    "09KV",
+    "09AV",
+    "09KJ",
+    "09AJ",
+    "09AA",
+    "09AO",
+    "09VS",
+    "09AI",
+    "10GV",
+    "10OV",
+    "10KV",
+    "10AV",
+    "10AJ",
+    "10AA",
+    "10AO",
+    "10AI",
+    "11GV",
+    "11OV",
+    "11KV",
+    "11AV",
+    "11AJ",
+    "11AA",
+    "11AO",
+    "11AI",
+    "12GV",
+    "12OV",
+    "12AV",
+    "12AA",
+    "12AO",
+    "12VS",
+    "12AI",
+    "13GV",
+    "13OV",
+    "13KV",
+    "13AV",
+    "13AA",
+    "13AO",
+    "13VS",
+    "13AI",
+    "14GV",
+    "14OV",
+    "14KV",
+    "14AV",
+    "14KJ",
+    "14AJ",
+    "14AA",
+    "14AO",
+    "14VS",
+    "14AI",
+    "15GV",
+    "15OV",
+    "15KV",
+    "15AV",
+    "15AJ",
+    "15AA",
+    "15AO",
+    "15AI",
+    "16GV",
+    "16OV",
+    "16KV",
+    "16AV",
+    "16AJ",
+    "16AA",
+    "16AI",
+    "17GV",
+    "17OV",
+    "17KV",
+    "17AV",
+    "17AA",
+    "17AO",
+    "17VS",
+    "17AI",
+    "18GV",
+    "18OV",
+    "18KV",
+    "18AV",
+    "18AA",
+    "18AO",
+    "18AI",
+    "19GV",
+    "19OV",
+    "19KV",
+    "19AV",
+    "19AA",
+    "19AO",
+    "19AI",
+    "20GV",
+    "20OV",
+    "20KV",
+    "20AV",
+    "20AA",
+    "20AO",
+    "20AI",
+    "21GV",
+    "21OV",
+    "21KV",
+    "21AV",
+    "21AJ",
+    "21AA",
+    "21AO",
+    "21VS",
+    "21AI",
+    "22GV",
+    "22OV",
+    "22KV",
+    "22AV",
+    "22KJ",
+    "22AJ",
+    "22AA",
+    "22AO",
+    "22VS",
+    "22AI",
+    "23GV",
+    "23OV",
+    "23KV",
+    "23AV",
+    "23AA",
+    "23VS",
+    "23AI",
+    "24GV",
+    "24OV",
+    "24KV",
+    "24AV",
+    "24AJ",
+    "24AO",
+    "24VS",
+    "24AI",
+    "25KV",
+    "25AV",
+    "25AJ",
+    "25AO",
+    "25VS",
+    "25AI",
+    "26GV",
+    "26OV",
+    "26KV",
+    "26AV",
+    "26AJ",
+    "26AO",
+    "26VS",
+    "26AI",
+    "27KV",
+    "27AV",
+    "27KJ",
+    "27VS",
+    "27AI",
+    "28GV",
+    "28OV",
+    "28KV",
+    "28AV",
+    "28KJ",
+    "28AJ",
+    "28AA",
+    "28AO",
+    "28VS",
+    "28AI",
+    "29GV",
+    "29OV",
+    "29KV",
+    "29AV",
+    "29AJ",
+    "29AA",
+    "29AO",
+    "29VS",
+    "29AI",
+    "30GV",
+    "30OV",
+    "30KV",
+    "30AV",
+    "30AJ",
+    "30AA",
+    "30AO",
+    "30VS",
+    "30AI",
+    "31OV",
+    "31KV",
+    "31AV",
+    "31AJ",
+    "31AA",
+    "31AO",
+    "31VS",
+    "31AI",
+    "32GV",
+    "32OV",
+    "32KV",
+    "32AV",
+    "32AJ",
+    "32AA",
+    "32AO",
+    "32VS",
+    "32AI",
+    "33GV",
+    "33OV",
+    "33KV",
+    "33AV",
+    "33KJ",
+    "33AJ",
+    "33AO",
+    "33AI",
+    "34GV",
+    "34OV",
+    "34KV",
+    "34AV",
+    "34KJ",
+    "34AJ",
+    "34AA",
+    "34AO",
+    "34VS",
+    "34AI",
+    "35GV",
+    "35OV",
+    "35KV",
+    "35AV",
+    "35KJ",
+    "35AJ",
+    "35AO",
+    "35VS",
+    "35AI",
+    "36GV",
+    "36OV",
+    "36KV",
+    "36AV",
+    "36AJ",
+    "36AO",
+    "36VS",
+    "36AI",
+    "37GV",
+    "37OV",
+    "37KV",
+    "37AV",
+    "37AJ",
+    "37AA",
+    "37AO",
+    "37AI",
+    "38GV",
+    "38OV",
+    "38KV",
+    "38AV",
+    "38AJ",
+    "38AA",
+    "38VS",
+    "38AI",
+    "39KV",
+    "39AV",
+    "39AJ",
+    "39AA",
+    "39AO",
+    "39VS",
+    "39AI",
+    "40GV",
+    "40OV",
+    "40KV",
+    "40AV",
+    "40AJ",
+    "40AA",
+    "40VS",
+    "40AI",
+    "41GV",
+    "41OV",
+    "41KV",
+    "41AV",
+    "41AJ",
+    "41AA",
+    "41AO",
+    "41VS",
+    "41AI",
+    "42GV",
+    "42OV",
+    "42KV",
+    "42AV",
+    "42AJ",
+    "42AA",
+    "42AO",
+    "42VS",
+    "42AI",
+    "43GV",
+    "43OV",
+    "43KV",
+    "43AV",
+    "43KJ",
+    "43AJ",
+    "43AO",
+    "43VS",
+    "43AI",
+    "44GV",
+    "44OV",
+    "44KV",
+    "44AV",
+    "44KJ",
+    "44AA",
+    "44AO",
+    "44VS",
+    "44AI",
+    "45GV",
+    "45OV",
+    "45KV",
+    "45AV",
+    "45KJ",
+    "45AA",
+    "45AO",
+    "45VS",
+    "45AI",
+    "46GV",
+    "46OV",
+    "46KV",
+    "46AV",
+    "46KJ",
+    "46AJ",
+    "46AA",
+    "46AO",
+    "46AI",
+    "47AS",
+    "47GV",
+    "47OV",
+    "47KV",
+    "47AV",
+    "47KJ",
+    "47AJ",
+    "47AA",
+    "47AO",
+    "47VS",
+    "47AI",
+    "48GV",
+    "48OV",
+    "48KV",
+    "48AV",
+    "48AJ",
+    "48AA",
+    "48AO",
+    "48VS",
+    "48AI",
+    "49GV",
+    "49OV",
+    "49KV",
+    "49AV",
+    "49AJ",
+    "49AA",
+    "49AO",
+    "49VS",
+    "49AI",
+    "50GV",
+    "50OV",
+    "50KV",
+    "50AJ",
+    "50AA",
+    "50AO",
+    "50VS",
+    "50AI",
+    "51KV",
+    "51AV",
+    "51AJ",
+    "51AA",
+    "51AO",
+    "51VS",
+    "51AI",
+    "52GV",
+    "52OV",
+    "52KV",
+    "52AV",
+    "52AA",
+    "52VS",
+    "52AI",
+    "53GV",
+    "53OV",
+    "53KV",
+    "53AV",
+    "53KJ",
+    "53AA",
+    "53AO",
+    "53VS",
+    "53AI",
+    "54OV",
+    "54AV",
+    "54KJ",
+    "54AA",
+    "54AO",
+    "54VS",
+    "54AI",
+    "55GV",
+    "55OV",
+    "55KV",
+    "55AV",
+    "55KJ",
+    "55AJ",
+    "55AO",
+    "55VS",
+    "55AI",
+    "56GV",
+    "56OV",
+    "56KV",
+    "56AV",
+    "56AJ",
+    "56AA",
+    "56AO",
+    "56VS",
+    "56AI",
+    "57GV",
+    "57OV",
+    "57KV",
+    "57AV",
+    "57AJ",
+    "57AA",
+    "57AO",
+    "57VS",
+    "57AI",
+    "58GV",
+    "58OV",
+    "58KV",
+    "58AV",
+    "58KJ",
+    "58AJ",
+    "58AA",
+    "58AO",
+    "58VS",
+    "58AI",
+    "59GV",
+    "59OV",
+    "59KV",
+    "59AV",
+    "59KJ",
+    "59AJ",
+    "59AO",
+    "59AI",
+    "60GV",
+    "60OV",
+    "60KV",
+    "60AV",
+    "60KJ",
+    "60AJ",
+    "60AA",
+    "60AO",
+    "60VS",
+    "60AI",
+    "61KV",
+    "61AV",
+    "61KJ",
+    "61AJ",
+    "61AO",
+    "61VS",
+    "61AI",
+    "62GV",
+    "62OV",
+    "62KV",
+    "62AV",
+    "62KJ",
+    "62AA",
+    "62AO",
+    "62VS",
+    "62AI",
+    "63OV",
+    "63KV",
+    "63AV",
+    "63AJ",
+    "63AO",
+    "63VS",
+    "63AI",
+    "64GV",
+    "64OV",
+    "64KV",
+    "64AV",
+    "64AJ",
+    "64AO",
+    "64VS",
+    "64AI",
+    "65GV",
+    "65OV",
+    "65KV",
+    "65AV",
+    "65KJ",
+    "65AJ",
+    "65AA",
+    "65AO",
+    "65VS",
+    "65AI",
+    "66KV",
+    "66AV",
+    "66KJ",
+    "66AJ",
+    "66AA",
+    "66VS",
+    "66AI",
+    "67GV",
+    "67OV",
+    "67KV",
+    "67AV",
+    "67KJ",
+    "67AA",
+    "67AO",
+    "67VS",
+    "67AI",
+    "68GV",
+    "68OV",
+    "68KV",
+    "68AV",
+    "68KJ",
+    "68AA",
+    "68AO",
+    "68VS",
+    "68AI",
+    "69GV",
+    "69OV",
+    "69KV",
+    "69AV",
+    "69KJ",
+    "69AJ",
+    "69AA",
+    "69AO",
+    "69VS",
+    "69AI",
+    "70GV",
+    "70OV",
+    "70KV",
+    "70AV",
+    "70KJ",
+    "70AJ",
+    "70AO",
+    "70VS",
+    "70AI",
+    "71GV",
+    "71OV",
+    "71KV",
+    "71AV",
+    "71KJ",
+    "71AO",
+    "71VS",
+    "71AI",
+    "72GV",
+    "72OV",
+    "72KV",
+    "72AV",
+    "72KJ",
+    "72AA",
+    "72VS",
+    "72AI",
+    "73GV",
+    "73OV",
+    "73KV",
+    "73AV",
+    "73KJ",
+    "73AJ",
+    "73AA",
+    "73AO",
+    "73VS",
+    "73AI",
+    "74GV",
+    "74OV",
+    "74KV",
+    "74AV",
+    "74AJ",
+    "74AO",
+    "74VS",
+    "74AI",
+    "75KV",
+    "75AV",
+    "75KJ",
+    "75AJ",
+    "75AO",
+    "75VS",
+    "75AI",
+    "76GV",
+    "76OV",
+    "76KV",
+    "76AV",
+    "76KJ",
+    "76AA",
+    "76AO",
+    "76VS",
+    "76AI",
+    "77KV",
+    "77AV",
+    "77VS",
+    "77AI",
+    "78KV",
+    "78AV",
+    "78VS",
+    "78AI",
+    "79GV",
+    "79OV",
+    "79KV",
+    "79AV",
+    "79KJ",
+    "79AJ",
+    "79AA",
+    "79AO",
+    "79VS",
+    "79AI",
+    "80MS",
+    "80AS",
+    "80OS",
+    "80GV",
+    "80OV",
+    "80KV",
+    "80AV",
+    "80KJ",
+    "80AJ",
+    "80AA",
+    "80AO",
+    "80VS",
+    "80AI",
+    "81MS",
+    "81AS",
+    "81OS",
+    "81GV",
+    "81OV",
+    "81KV",
+    "81AV",
+    "81KJ",
+    "81AJ",
+    "81AA",
+    "81AO",
+    "81VS",
+    "81AI",
+    "82MS",
+    "82AS",
+    "82OS",
+    "82GV",
+    "82OV",
+    "82KV",
+    "82AV",
+    "82KJ",
+    "82AJ",
+    "82AA",
+    "82AO",
+    "82VS",
+    "82AI",
+    "83MS",
+    "83AS",
+    "83GV",
+    "83OV",
+    "83KV",
+    "83AV",
+    "83KJ",
+    "83AJ",
+    "83AA",
+    "83AO",
+    "83VS",
+    "83AI",
+    "84MS",
+    "84AS",
+    "84OS",
+    "84GV",
+    "84OV",
+    "84KV",
+    "84AV",
+    "84KJ",
+    "84AJ",
+    "84AA",
+    "84AO",
+    "84VS",
+    "84AI",
+    "85MS",
+    "85AS",
+    "85OS",
+    "85GV",
+    "85OV",
+    "85KV",
+    "85AV",
+    "85AA",
+    "85AO",
+    "85VS",
+    "85AI",
+    "86GV",
+    "86OV",
+    "86KV",
+    "86AV",
+    "86KJ",
+    "86AJ",
+    "86AA",
+    "86AO",
+    "86VS",
+    "86AI",
+    "87GV",
+    "87OV",
+    "87KV",
+    "87AV",
+    "87KJ",
+    "87AJ",
+    "87AA",
+    "87AO",
+    "87VS",
+    "87AI",
+    "88MS",
+    "88AS",
+    "88OS",
+    "88GV",
+    "88OV",
+    "88KV",
+    "88AV",
+    "88KJ",
+    "88AJ",
+    "88AA",
+    "88AO",
+    "88VS",
+    "88AI",
+    "89GV",
+    "89OV",
+    "89KV",
+    "89AV",
+    "89AJ",
+    "89AA",
+    "89AO",
+    "89VS",
+    "89AI",
+    "90MS",
+    "90AS",
+    "90GV",
+    "90OV",
+    "90KV",
+    "90AV",
+    "90KJ",
+    "90AJ",
+    "90AA",
+    "90AO",
+    "90VS",
+    "90AI",
+    "91GV",
+    "91OV",
+    "91KV",
+    "91AV",
+    "91KJ",
+    "91AJ",
+    "91AA",
+    "91AO",
+    "91VS",
+    "91AI",
+    "92GV",
+    "92OV",
+    "92KV",
+    "92AV",
+    "92KJ",
+    "92AJ",
+    "92AO",
+    "92VS",
+    "92AI",
+    "93MS",
+    "93AS",
+    "93GV",
+    "93OV",
+    "93KV",
+    "93AV",
+    "93KJ",
+    "93AJ",
+    "93AA",
+    "93AO",
+    "93VS",
+    "93AI",
+    "94MS",
+    "94AS",
+    "94GV",
+    "94OV",
+    "94KV",
+    "94AV",
+    "94KJ",
+    "94AJ",
+    "94AA",
+    "94AO",
+    "94VS",
+    "94AI",
+    "95RS",
+    "95MS",
+    "95AS",
+    "95OS",
+    "95GV",
+    "95OV",
+    "95KV",
+    "95AV",
+    "95KJ",
+    "95AJ",
+    "95AA",
+    "95AO",
+    "95VS",
+    "95AI",
+    "96MS",
+    "96AS",
+    "96GV",
+    "96OV",
+    "96KV",
+    "96AV",
+    "96KJ",
+    "96AJ",
+    "96AA",
+    "96AO",
+    "96VS",
+    "96AI",
+    "97RS",
+    "97MS",
+    "97AS",
+    "97OS",
+    "97GV",
+    "97OV",
+    "97KV",
+    "97AV",
+    "97KJ",
+    "97AJ",
+    "97AA",
+    "97AO",
+    "97VS",
+    "97AI",
+    "98RS",
+    "98MS",
+    "98AS",
+    "98OS",
+    "98GV",
+    "98OV",
+    "98KV",
+    "98AV",
+    "98KJ",
+    "98AJ",
+    "98AA",
+    "98AO",
+    "98VS",
+    "98AI",
+    "99RS",
+    "99MS",
+    "99AS",
+    "99OS",
+    "99GV",
+    "99OV",
+    "99KV",
+    "99AV",
+    "99KJ",
+    "99AJ",
+    "99AA",
+    "99AO",
+    "99VS",
+    "99AI"
+  ]
+}

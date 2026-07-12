@@ -1,0 +1,62 @@
+[
+  {
+    "code": "54GV0002",
+    "name": "Абаканский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "655017, г Абакан, ул Ивана Ярыгина, д 20",
+    "legal_address": null,
+    "website": "http://gvs.hak.sudrf.ru"
+  },
+  {
+    "code": "54GV0003",
+    "name": "Барнаульский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "656056, г Барнаул, ул Короленко, зд 5",
+    "legal_address": null,
+    "website": "http://bgvs.alt.sudrf.ru"
+  },
+  {
+    "code": "54GV0007",
+    "name": "Красноярский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "660004, г Красноярск, ул 26 Бакинских Комиссаров, зд 25А",
+    "legal_address": null,
+    "website": "http://kgvs.krk.sudrf.ru"
+  },
+  {
+    "code": "54GV0001",
+    "name": "Новосибирский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "630001, г Новосибирск, ул Союза Молодежи, д 2",
+    "legal_address": null,
+    "website": "http://gvs.nsk.sudrf.ru"
+  },
+  {
+    "code": "54GV0008",
+    "name": "Омский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "644099, г Омск, ул Спартаковская, д 7",
+    "legal_address": null,
+    "website": "http://ogvs.oms.sudrf.ru"
+  },
+  {
+    "code": "54GV0009",
+    "name": "Томский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "634050, г Томск, ул Набережная реки Ушайки, д 4",
+    "legal_address": null,
+    "website": "http://tomskygvs.tms.sudrf.ru"
+  }
+]

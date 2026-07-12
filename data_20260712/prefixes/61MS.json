@@ -1,0 +1,2302 @@
+[
+  {
+    "code": "61MS0058",
+    "name": "Судебный участок № 1 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346780, Ростовская обл, г Азов, ул Макаровского, д 29Б",
+    "legal_address": null,
+    "website": "http://azov1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0066",
+    "name": "Судебный участок № 1 Аксайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346720, Ростовская обл, г Аксай, пр-кт Ленина, зд 12",
+    "legal_address": null,
+    "website": "http://aksaisky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0075",
+    "name": "Судебный участок № 1 Багаевского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346610, Ростовская обл, ст-ца Багаевская, ул Красноармейская, зд 9",
+    "legal_address": null,
+    "website": "http://bagaevsky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0070",
+    "name": "Судебный участок № 1 Батайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346892, Ростовская обл, г Батайск, ул Куйбышева, д 186",
+    "legal_address": null,
+    "website": "http://bataisk1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0078",
+    "name": "Судебный участок № 1 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347042, Ростовская обл, г Белая Калитва, ул Калинина, д 27",
+    "legal_address": null,
+    "website": "http://kalitvinsky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0084",
+    "name": "Судебный участок № 1 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Ленина, д 21А",
+    "legal_address": null,
+    "website": "http://volgodonsk1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0001",
+    "name": "Судебный участок № 1 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344068, г Ростов-на-Дону, ул Криворожская, д 56",
+    "legal_address": null,
+    "website": "http://vrsh1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0098",
+    "name": "Судебный участок № 1 Гуковский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347871, Ростовская обл, г Гуково, ул Мира, д 29",
+    "legal_address": null,
+    "website": "http://gukovo1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0010",
+    "name": "Судебный участок № 1 Железнодорожного судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344116, г Ростов-на-Дону, ул Кулагина, д 62/45Б",
+    "legal_address": null,
+    "website": "http://zhldr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0016",
+    "name": "Судебный участок № 1 Кировского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344 002, г. Ростов-на-Дону, ул, Большая садовая, д. 88",
+    "legal_address": null,
+    "website": "http://kir1-1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0017",
+    "name": "Судебный участок № 1 Кировского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344 002, г. Ростов-на-Дону, ул, Большая садовая, д. 88",
+    "legal_address": null,
+    "website": "http://kir1-2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0022",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344011, г Ростов-на-Дону, ул Лермонтовская, д 11",
+    "legal_address": null,
+    "website": "http://len1-1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0023",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344011, г Ростов-на-Дону, ул Лермонтовская, д 11",
+    "legal_address": null,
+    "website": "http://len1-2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0028",
+    "name": "Судебный участок № 1 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344003, г Ростов-на-Дону, пр-кт Ворошиловский, д 91/2",
+    "legal_address": null,
+    "website": "http://okt1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0035",
+    "name": "Судебный участок № 1 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 8",
+    "legal_address": null,
+    "website": "http://prvm1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0044",
+    "name": "Судебный участок № 1 Пролетарского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344037, г Ростов-на-Дону, ул 20-я линия, д 32-34/27",
+    "legal_address": null,
+    "website": "http://prlt1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0051",
+    "name": "Судебный участок № 1 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0059",
+    "name": "Судебный участок № 2 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346780, Ростовская обл, г Азов, ул Макаровского, д 29Б",
+    "legal_address": null,
+    "website": "http://azov2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0067",
+    "name": "Судебный участок № 2 Аксайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346720, Ростовская обл, г Аксай, пр-кт Ленина, зд 12",
+    "legal_address": null,
+    "website": "http://aksaisky2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0076",
+    "name": "Судебный участок № 2 Багаевского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346610, Ростовская обл, ст-ца Багаевская, ул Красноармейская, зд 9",
+    "legal_address": null,
+    "website": "http://bagaevsky2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0002",
+    "name": "Судебный участок № 2 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344068, г Ростов-на-Дону, ул Криворожская, д 56",
+    "legal_address": null,
+    "website": "http://vrsh2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0003",
+    "name": "Судебный участок № 3 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344068, г Ростов-на-Дону, ул Криворожская, д 56",
+    "legal_address": null,
+    "website": "http://vrsh3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0004",
+    "name": "Судебный участок № 4 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344068, г Ростов-на-Дону, ул Криворожская, д 56",
+    "legal_address": null,
+    "website": "http://vrsh4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0005",
+    "name": "Судебный участок № 5 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344068, г Ростов-на-Дону, ул Криворожская, д 56",
+    "legal_address": null,
+    "website": "http://vrsh5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0006",
+    "name": "Судебный участок № 6 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344068, г Ростов-на-Дону, ул Криворожская, д 56",
+    "legal_address": null,
+    "website": "http://vrsh6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0007",
+    "name": "Судебный участок № 7 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344092, г Ростов-на-Дону, пр-кт Космонавтов, д 2/1",
+    "legal_address": null,
+    "website": "http://vrsh7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0008",
+    "name": "Судебный участок № 8 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344092, г Ростов-на-Дону, пр-кт Космонавтов, д 2/1",
+    "legal_address": null,
+    "website": "http://vrsh8.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0009",
+    "name": "Судебный участок № 9 Ворошиловского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344092, г Ростов-на-Дону, пр-кт Космонавтов, д 2/1",
+    "legal_address": null,
+    "website": "http://vrsh9.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0011",
+    "name": "Судебный участок № 2 Железнодорожного судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344116, г Ростов-на-Дону, ул Кулагина, д 62/45Б",
+    "legal_address": null,
+    "website": "http://zhldr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0018",
+    "name": "Судебный участок № 2 Кировского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344 002, г. Ростов-на-Дону, ул, Большая садовая, д. 88",
+    "legal_address": null,
+    "website": "http://kir2-1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0019",
+    "name": "Судебный участок № 2 Кировского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344 002, г. Ростов-на-Дону, ул, Большая садовая, д. 88",
+    "legal_address": null,
+    "website": "http://kir2-2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0012",
+    "name": "Судебный участок № 3 Железнодорожного судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344116, г Ростов-на-Дону, ул Кулагина, д 62/45Б",
+    "legal_address": null,
+    "website": "http://zhldr3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0013",
+    "name": "Судебный участок № 4 Железнодорожного судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344116, г Ростов-на-Дону, ул Кулагина, д 62/45Б",
+    "legal_address": null,
+    "website": "http://zhldr4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0014",
+    "name": "Судебный участок № 5 Железнодорожного судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344116, г Ростов-на-Дону, ул Кулагина, д 62/45Б",
+    "legal_address": null,
+    "website": "http://zhldr5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0015",
+    "name": "Судебный участок № 6 Железнодорожного судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344116, г Ростов-на-Дону, ул Кулагина, д 62/45Б",
+    "legal_address": null,
+    "website": "http://zhldr6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0024",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344011, г Ростов-на-Дону, ул Лермонтовская, д 11",
+    "legal_address": null,
+    "website": "http://len2-1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0025",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344011, г Ростов-на-Дону, ул Лермонтовская, д 11",
+    "legal_address": null,
+    "website": "http://len2-2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0029",
+    "name": "Судебный участок № 2 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344003, г Ростов-на-Дону, пр-кт Ворошиловский, д 91/2",
+    "legal_address": null,
+    "website": "http://okt2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0020",
+    "name": "Судебный участок № 3 Кировского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344 002, г. Ростов-на-Дону, ул, Большая садовая, д. 88",
+    "legal_address": null,
+    "website": "http://kir3-1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0021",
+    "name": "Судебный участок № 3 Кировского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344 002, г. Ростов-на-Дону, ул, Большая садовая, д. 88",
+    "legal_address": null,
+    "website": "http://kir3-2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0026",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344011, г Ростов-на-Дону, ул Лермонтовская, д 11",
+    "legal_address": null,
+    "website": "http://len3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0027",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344011, г Ростов-на-Дону, ул Лермонтовская, д 11",
+    "legal_address": null,
+    "website": "http://len4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0036",
+    "name": "Судебный участок № 2 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 23",
+    "legal_address": null,
+    "website": "http://prvm2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0030",
+    "name": "Судебный участок № 3 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344012, г Ростов-на-Дону, ул Юфимцева, д 12/2",
+    "legal_address": null,
+    "website": "http://okt3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0037",
+    "name": "Судебный участок № 3 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 8",
+    "legal_address": null,
+    "website": "http://prvm3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0031",
+    "name": "Судебный участок № 4 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344003, г Ростов-на-Дону, пр-кт Ворошиловский, д 91/2",
+    "legal_address": null,
+    "website": "http://okt4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0038",
+    "name": "Судебный участок № 4 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 8",
+    "legal_address": null,
+    "website": "http://prvm4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0032",
+    "name": "Судебный участок № 5 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344003, г Ростов-на-Дону, пр-кт Ворошиловский, д 91/2",
+    "legal_address": null,
+    "website": "http://okt5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0039",
+    "name": "Судебный участок № 5 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 8",
+    "legal_address": null,
+    "website": "http://prvm5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0033",
+    "name": "Судебный участок № 6 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344012, г Ростов-на-Дону, ул Юфимцева, д 12/2",
+    "legal_address": null,
+    "website": "http://okt6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0034",
+    "name": "Судебный участок № 7 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344003, г Ростов-на-Дону, пр-кт Ворошиловский, д 91/2",
+    "legal_address": null,
+    "website": "http://okt7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0045",
+    "name": "Судебный участок № 2 Пролетарского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344037, г Ростов-на-Дону, ул 20-я линия, д 32-34/27",
+    "legal_address": null,
+    "website": "http://prlt2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0046",
+    "name": "Судебный участок № 3 Пролетарского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344037, г Ростов-на-Дону, ул 20-я линия, д 32-34/27",
+    "legal_address": null,
+    "website": "http://prlt3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0047",
+    "name": "Судебный участок № 4 Пролетарского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344037, г Ростов-на-Дону, ул 20-я линия, д 32-34/27",
+    "legal_address": null,
+    "website": "http://prlt4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0048",
+    "name": "Судебный участок № 5 Пролетарского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344037, г Ростов-на-Дону, ул 20-я линия, д 32-34/27",
+    "legal_address": null,
+    "website": "http://prlt5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0040",
+    "name": "Судебный участок № 6 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 23",
+    "legal_address": null,
+    "website": "http://prvm6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0049",
+    "name": "Судебный участок № 6 Пролетарского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344037, г Ростов-на-Дону, ул 20-я линия, д 32-34/27",
+    "legal_address": null,
+    "website": "http://prlt6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0041",
+    "name": "Судебный участок № 7 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 23",
+    "legal_address": null,
+    "website": "http://prvm7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0042",
+    "name": "Судебный участок № 8 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 8",
+    "legal_address": null,
+    "website": "http://prvm8.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0043",
+    "name": "Судебный участок № 9 Первомайского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344029, г Ростов-на-Дону, пр-кт Мира, д 8",
+    "legal_address": null,
+    "website": "http://prvm9.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0052",
+    "name": "Судебный участок № 2 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0053",
+    "name": "Судебный участок № 3 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0054",
+    "name": "Судебный участок № 4 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0055",
+    "name": "Судебный участок № 5 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0056",
+    "name": "Судебный участок № 6 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0050",
+    "name": "Судебный участок № 7 Пролетарского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344037, г Ростов-на-Дону, ул 20-я линия, д 32-34/27",
+    "legal_address": null,
+    "website": "http://prlt7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0057",
+    "name": "Судебный участок № 7 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0060",
+    "name": "Судебный участок № 3 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346780, Ростовская обл, г Азов, ул Макаровского, д 29Б",
+    "legal_address": null,
+    "website": "http://azov3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0068",
+    "name": "Судебный участок № 3 Аксайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346720, Ростовская обл, г Аксай, пр-кт Ленина, зд 12",
+    "legal_address": null,
+    "website": "http://aksaisky3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0061",
+    "name": "Судебный участок № 4 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346780, Ростовская обл, г Азов, ул Макаровского, д 29Б",
+    "legal_address": null,
+    "website": "http://azov4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0069",
+    "name": "Судебный участок № 4 Аксайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346720, Ростовская обл, г Аксай, пр-кт Ленина, зд 12",
+    "legal_address": null,
+    "website": "http://aksaisky4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0062",
+    "name": "Судебный участок № 5 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346780, Ростовская область, г. Азов, ул. Ленинградская/Чехова, д. 36/7",
+    "legal_address": null,
+    "website": "http://azov5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0063",
+    "name": "Судебный участок № 6 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346780, Ростовская область, г. Азов, ул. Ленинградская/Чехова, д. 36/7",
+    "legal_address": null,
+    "website": "http://azov6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0064",
+    "name": "Судебный участок № 7 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346751, Ростовская область, г. Азов, с. Самарское, К. Маркса, д. 35",
+    "legal_address": null,
+    "website": "http://azov7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0065",
+    "name": "Судебный участок № 8 Азовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346780, Ростовская обл, г Азов, ул Макаровского, д 29Б",
+    "legal_address": null,
+    "website": "http://azov8.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0071",
+    "name": "Судебный участок № 2 Батайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346892, Ростовская обл, г Батайск, ул Куйбышева, д 186",
+    "legal_address": null,
+    "website": "http://bataisk2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0079",
+    "name": "Судебный участок № 2 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347042, Ростовская обл, г Белая Калитва, ул Калинина, д 27",
+    "legal_address": null,
+    "website": "http://kalitvinsky2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0072",
+    "name": "Судебный участок № 3 Батайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346892, Ростовская обл, г Батайск, ул Куйбышева, д 186",
+    "legal_address": null,
+    "website": "http://bataisk3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0077",
+    "name": "Судебный участок № 3 Шолоховского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346250, Ростовская обл, ст-ца Боковская, пер Чкалова, д 17",
+    "legal_address": null,
+    "website": "http://bokovsky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0073",
+    "name": "Судебный участок № 4 Батайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346892, Ростовская обл, г Батайск, ул Куйбышева, д 186",
+    "legal_address": null,
+    "website": "http://bataisk4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0074",
+    "name": "Судебный участок № 5 Батайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346892, Ростовская обл, г Батайск, ул Куйбышева, д 186",
+    "legal_address": null,
+    "website": "http://bataisk5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0085",
+    "name": "Судебный участок № 2 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Ленина, д 21А",
+    "legal_address": null,
+    "website": "http://volgodonsk2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0080",
+    "name": "Судебный участок № 3 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347022, Ростовская обл, Белокалитвинский р-н, рп Шолоховский, ул Комсомольская, зд 21",
+    "legal_address": null,
+    "website": "http://kalitvinsky3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0086",
+    "name": "Судебный участок № 3 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Ленина, д 21А",
+    "legal_address": null,
+    "website": "http://volgodonsk3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0081",
+    "name": "Судебный участок № 4 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347027, Ростовская обл, Белокалитвинский р-н, п Синегорский, мкр ВГСЧ, зд 9",
+    "legal_address": null,
+    "website": "http://kalitvinsky4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0087",
+    "name": "Судебный участок № 4 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Ленина, д 21А",
+    "legal_address": null,
+    "website": "http://volgodonsk4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0082",
+    "name": "Судебный участок № 5 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347023, Ростовская область, п. Восточно-Горняцкий, ул. Центральная, д. 8",
+    "legal_address": null,
+    "website": "http://kalitvinsky5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0088",
+    "name": "Судебный участок № 5 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Ленина, д 21А",
+    "legal_address": null,
+    "website": "http://volgodonsk5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0083",
+    "name": "Судебный участок № 6 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347042, Ростовская обл, г Белая Калитва, ул Калинина, д 27",
+    "legal_address": null,
+    "website": "http://kalitvinsky6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0089",
+    "name": "Судебный участок № 6-1 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Ленина, д 21А",
+    "legal_address": null,
+    "website": "http://volgodonsk6-1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0099",
+    "name": "Судебный участок № 2 Гуковский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347871, Ростовская обл, г Гуково, ул Мира, д 29",
+    "legal_address": null,
+    "website": "http://gukovo2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0096",
+    "name": "Судебный участок № 3 Багаевского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347781, Ростовская обл, п Веселый, ул Ленинская, стр 90",
+    "legal_address": null,
+    "website": "http://veselovsky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0095",
+    "name": "Судебный участок № 4 Шолоховского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346170, Ростовская обл, ст-ца Казанская, ул Ленина, зд 27",
+    "legal_address": null,
+    "website": "http://vrhd1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0090",
+    "name": "Судебный участок № 6-2 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Ленина, д 21А",
+    "legal_address": null,
+    "website": "http://volgodonsk6-2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0091",
+    "name": "Судебный участок № 7-1 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Морская, д 7",
+    "legal_address": null,
+    "website": "http://volgodonsk7-1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0092",
+    "name": "Судебный участок № 7-2 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347366, Ростовская обл, г Волгодонск, ул Морская, д 7",
+    "legal_address": null,
+    "website": "http://volgodonsk7-2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0093",
+    "name": "Судебный участок № 8 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347350, Ростовская обл, ст-ца Романовская, пер Кожанова, зд 45",
+    "legal_address": null,
+    "website": "http://vlgd-r1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0094",
+    "name": "Судебный участок № 9 Волгодонского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347350, Ростовская обл, ст-ца Романовская, пер Кожанова, зд 45",
+    "legal_address": null,
+    "website": "http://vlgd-r2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0102",
+    "name": "Судебный участок № 1 Донецкий судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346338, Ростовская обл, г Донецк, кв-л 12-й, д 10",
+    "legal_address": null,
+    "website": "http://donetsk1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0107",
+    "name": "Судебный участок № 1 Егорлыкского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347660, Ростовская обл, ст-ца Егорлыкская, ул Орджоникидзе, д 55",
+    "legal_address": null,
+    "website": "http://egrl1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0112",
+    "name": "Судебный участок № 1 Зерноградского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347740, Ростовская обл, г Зерноград, ул Мира, д 18",
+    "legal_address": null,
+    "website": "http://zrng1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0115",
+    "name": "Судебный участок № 1 Зимовниковского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347460, Ростовская обл, п Зимовники, ул Скибы, д 147",
+    "legal_address": null,
+    "website": "http://zim1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0117",
+    "name": "Судебный участок № 1 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347809, Ростовская обл, г Каменск-Шахтинский, ул Героев Пионеров, д 11",
+    "legal_address": null,
+    "website": "http://k-h1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0129",
+    "name": "Судебный участок № 1 Красносулинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346350, Ростовская обл, г Красный Сулин, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://krsn1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0136",
+    "name": "Судебный участок № 1 Матвеево-Курганского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346970, Ростовская обл, п Матвеев Курган, ул Таганрогская, д 112А",
+    "legal_address": null,
+    "website": "http://m-k1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0141",
+    "name": "Судебный участок № 1 Миллеровского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346130, Ростовская обл, г Миллерово, ул Плеханова, зд 6",
+    "legal_address": null,
+    "website": "http://mlrn1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0145",
+    "name": "Судебный участок № 1 Морозовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347210, Ростовская обл, г Морозовск, ул Ленина, зд 206",
+    "legal_address": null,
+    "website": "http://morozovsky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0147",
+    "name": "Судебный участок № 1 Мясниковского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346800, Ростовская обл, с Чалтырь, ул 6-я Линия, зд 8",
+    "legal_address": null,
+    "website": "http://msnk1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0149",
+    "name": "Судебный участок № 1 Неклиновского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346830, Ростовская обл, с Покровское, ул Ленина, д 286А",
+    "legal_address": null,
+    "website": "http://nkln1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0159",
+    "name": "Судебный участок № 1 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0153",
+    "name": "Судебный участок № 1 Новошахтинский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346919, Ростовская обл, г Новошахтинск, ул Социалистическая, д 29",
+    "legal_address": null,
+    "website": "http://nshht1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0169",
+    "name": "Судебный участок № 1 Обливского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347140, Ростовская обл, ст-ца Обливская, ул Ленина, д 40",
+    "legal_address": null,
+    "website": "http://oblv1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0170",
+    "name": "Судебный участок № 1 Октябрьского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346480, Ростовская обл, рп Каменоломни, ул 40 лет Октября, д 84",
+    "legal_address": null,
+    "website": "http://oktbr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0176",
+    "name": "Судебный участок № 1 Пролетарского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347540, Ростовская обл, г Пролетарск, ул Пионерская, зд 72",
+    "legal_address": null,
+    "website": "http://prltr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0180",
+    "name": "Судебный участок № 1 Ремонтненского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347480, Ростовская обл, с Ремонтное, ул Дзержинского, зд 40",
+    "legal_address": null,
+    "website": "http://remr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0182",
+    "name": "Судебный участок № 1 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347630, Ростовская обл, г Сальск, ул Ленина, д 29",
+    "legal_address": null,
+    "website": "http://salsky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0189",
+    "name": "Судебный участок № 1 Семикаракорского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346630, Ростовская обл, г Семикаракорск, ул Набережная, зд 13/1",
+    "legal_address": null,
+    "website": "http://smkrk1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0194",
+    "name": "Судебный участок № 1 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0103",
+    "name": "Судебный участок № 2 Донецкий судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346338, Ростовская обл, г Донецк, кв-л 12-й, д 10",
+    "legal_address": null,
+    "website": "http://donetsk2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0108",
+    "name": "Судебный участок № 2 Егорлыкского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347660, Ростовская обл, ст-ца Егорлыкская, ул Орджоникидзе, д 55",
+    "legal_address": null,
+    "website": "http://egrl2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0109",
+    "name": "Судебный участок № 2 Ремонтненского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347430, Ростовская обл, с Заветное, ул Ломоносова, д 21",
+    "legal_address": null,
+    "website": "http://zvt1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0100",
+    "name": "Судебный участок № 3 Гуковский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347871, Ростовская обл, г Гуково, ул Мира, д 29",
+    "legal_address": null,
+    "website": "http://gukovo3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0104",
+    "name": "Судебный участок № 3 Донецкий судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346338, Ростовская обл, г Донецк, кв-л 12-й, д 10",
+    "legal_address": null,
+    "website": "http://donetsk3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0105",
+    "name": "Судебный участок № 3 Зимовниковского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347410, Ростовская обл, с Дубовское, ул Первомайская, стр 5",
+    "legal_address": null,
+    "website": "http://dubovsky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0101",
+    "name": "Судебный участок № 4 Гуковский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347871, Ростовская обл, г Гуково, ул Мира, д 29",
+    "legal_address": null,
+    "website": "http://gukovo4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0113",
+    "name": "Судебный участок № 2 Зерноградского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347740, Ростовская обл, г Зерноград, ул Мира, д 18",
+    "legal_address": null,
+    "website": "http://zrng2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0116",
+    "name": "Судебный участок № 2 Зимовниковского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347460, Ростовская обл, п Зимовники, ул Скибы, д 147",
+    "legal_address": null,
+    "website": "http://zim2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0118",
+    "name": "Судебный участок № 2 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347809, Ростовская обл, г Каменск-Шахтинский, ул Героев Пионеров, д 11",
+    "legal_address": null,
+    "website": "http://k-h2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0114",
+    "name": "Судебный участок № 3 Зерноградского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347740, Ростовская обл, г Зерноград, ул Мира, д 18",
+    "legal_address": null,
+    "website": "http://znrg3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0119",
+    "name": "Судебный участок № 3 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347809, Ростовская обл, г Каменск-Шахтинский, ул Героев Пионеров, д 11",
+    "legal_address": null,
+    "website": "http://k-h3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0110",
+    "name": "Судебный участок № 5 Красносулинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346312, Ростовская обл, г Зверево, ул Малышева, д 27",
+    "legal_address": null,
+    "website": "http://zverevo1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0111",
+    "name": "Судебный участок № 6 Красносулинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346312, Ростовская обл, г Зверево, ул Малышева, д 27",
+    "legal_address": null,
+    "website": "http://zverevo2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0125",
+    "name": "Судебный участок № 4 Зерноградского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347700, Ростовская обл, ст-ца Кагальницкая, ул Степная, д 1",
+    "legal_address": null,
+    "website": "http://kgln1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0120",
+    "name": "Судебный участок № 4 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347809, Ростовская обл, г Каменск-Шахтинский, ул Героев Пионеров, д 11",
+    "legal_address": null,
+    "website": "http://k-h4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0126",
+    "name": "Судебный участок № 5 Зерноградского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347700, Ростовская обл, ст-ца Кагальницкая, ул Степная, д 1",
+    "legal_address": null,
+    "website": "http://kgln2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0121",
+    "name": "Судебный участок № 5 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347820, Ростовская обл, г Каменск-Шахтинский, мкр Лиховской, ул Гагарина, д 16",
+    "legal_address": null,
+    "website": "http://k-h5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0127",
+    "name": "Судебный участок № 5 Миллеровского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346200, Ростовская обл, сл Кашары, ул Ленина, д 61",
+    "legal_address": null,
+    "website": "http://kshr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0122",
+    "name": "Судебный участок № 6 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347830, Ростовская обл, Каменский р-н, х Старая Станица, ул Сосновая, д 1А",
+    "legal_address": null,
+    "website": "http://kamensky1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0123",
+    "name": "Судебный участок № 7 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347850, Ростовская обл, рп Глубокий, ул Ленина, зд 16",
+    "legal_address": null,
+    "website": "http://kamensky2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0124",
+    "name": "Судебный участок № 8 Каменского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347830, Ростовская обл, Каменский р-н, х Старая Станица, ул Сосновая, д 1А",
+    "legal_address": null,
+    "website": "http://kamensky3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0130",
+    "name": "Судебный участок № 2 Красносулинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346350, Ростовская обл, г Красный Сулин, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://krsn2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0137",
+    "name": "Судебный участок № 2 Матвеево-Курганского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346970, Ростовская обл, п Матвеев Курган, ул 1-я Пятилетка, зд 100",
+    "legal_address": null,
+    "website": "http://m-k2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0131",
+    "name": "Судебный участок № 3 Красносулинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346350, Ростовская обл, г Красный Сулин, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://krsn3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0135",
+    "name": "Судебный участок № 3 Матвеево-Курганского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346940, Ростовская обл, с Куйбышево, ул Пролетарская, зд 2Б",
+    "legal_address": null,
+    "website": "http://kbsh1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0133",
+    "name": "Судебный участок № 3 Усть-Донецкого судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347250, Ростовская обл, г Константиновск, ул 25 Октября, д 47/25",
+    "legal_address": null,
+    "website": "http://knstn1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0132",
+    "name": "Судебный участок № 4 Красносулинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346350, Ростовская обл, г Красный Сулин, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://krsn4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0138",
+    "name": "Судебный участок № 4 Семикаракорского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346660, Ростовская обл, сл Большая Мартыновка, ул Ленина, д 88",
+    "legal_address": null,
+    "website": "http://mrtn1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0134",
+    "name": "Судебный участок № 4 Усть-Донецкого судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347250, Ростовская обл, г Константиновск, ул 25 Октября, д 47/25",
+    "legal_address": null,
+    "website": "http://knstn2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0139",
+    "name": "Судебный участок № 5 Семикаракорского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346660, Ростовская обл, сл Большая Мартыновка, ул Ленина, д 88",
+    "legal_address": null,
+    "website": "http://mrtn2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0142",
+    "name": "Судебный участок № 2 Миллеровского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346130, Ростовская обл, г Миллерово, ул Плеханова, зд 6",
+    "legal_address": null,
+    "website": "http://mlrn2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0146",
+    "name": "Судебный участок № 2 Морозовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347210, Ростовская обл, г Морозовск, ул Ленина, зд 206",
+    "legal_address": null,
+    "website": "http://morozovsky2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0148",
+    "name": "Судебный участок № 2 Мясниковского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346800, Ростовская обл, с Чалтырь, ул 6-я Линия, зд 8",
+    "legal_address": null,
+    "website": "http://msnk2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0143",
+    "name": "Судебный участок № 3 Миллеровского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346130, Ростовская обл, г Миллерово, ул Плеханова, зд 6",
+    "legal_address": null,
+    "website": "http://mlrn3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0140",
+    "name": "Судебный участок № 3 Морозовского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347120, Ростовская обл, ст-ца Милютинская, ул Комсомольская, д 14",
+    "legal_address": null,
+    "website": "http://mltn1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0144",
+    "name": "Судебный участок № 4 Миллеровского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346130, Ростовская обл, г Миллерово, ул Плеханова, зд 6",
+    "legal_address": null,
+    "website": "http://mlrn4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0150",
+    "name": "Судебный участок № 2 Неклиновского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346831, Ростовская обл, с Покровское, ул Привокзальная, д 82",
+    "legal_address": null,
+    "website": "http://nkln2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0154",
+    "name": "Судебный участок № 2 Новошахтинский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346919, Ростовская обл, г Новошахтинск, ул Социалистическая, д 29",
+    "legal_address": null,
+    "website": "http://nshht2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0151",
+    "name": "Судебный участок № 3 Неклиновского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346830, Ростовская обл, с Покровское, ул Ленина, д 286А",
+    "legal_address": null,
+    "website": "http://nkln3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0155",
+    "name": "Судебный участок № 3 Новошахтинский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346919, Ростовская обл, г Новошахтинск, ул Социалистическая, д 29",
+    "legal_address": null,
+    "website": "http://nshht3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0152",
+    "name": "Судебный участок № 4 Неклиновского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346831, Ростовская обл, с Покровское, ул Привокзальная, д 82",
+    "legal_address": null,
+    "website": "http://nkln4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0156",
+    "name": "Судебный участок № 4 Новошахтинский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346919, Ростовская обл, г Новошахтинск, ул Социалистическая, д 29",
+    "legal_address": null,
+    "website": "http://nshht4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0157",
+    "name": "Судебный участок № 5 Новошахтинский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346919, Ростовская обл, г Новошахтинск, ул Социалистическая, д 29",
+    "legal_address": null,
+    "website": "http://nshht5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0158",
+    "name": "Судебный участок № 6 Новошахтинский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346919, Ростовская обл, г Новошахтинск, ул Социалистическая, д 29",
+    "legal_address": null,
+    "website": "http://nshht6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0160",
+    "name": "Судебный участок № 2 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0161",
+    "name": "Судебный участок № 3 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0162",
+    "name": "Судебный участок № 4 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0163",
+    "name": "Судебный участок № 5 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0164",
+    "name": "Судебный участок № 6 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0165",
+    "name": "Судебный участок № 7 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0166",
+    "name": "Судебный участок № 8 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr8.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0167",
+    "name": "Судебный участок № 9 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr9.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0168",
+    "name": "Судебный участок № 10 Новочеркасский судебный район Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346410, Ростовская обл, г Новочеркасск, ул Маяковского, д 67",
+    "legal_address": null,
+    "website": "http://nchr10.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0171",
+    "name": "Судебный участок № 2 Октябрьского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346480, Ростовская обл, рп Каменоломни, ул 40 лет Октября, д 84",
+    "legal_address": null,
+    "website": "http://oktbr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0177",
+    "name": "Судебный участок № 2 Пролетарского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347540, Ростовская обл, г Пролетарск, ул Пионерская, зд 72",
+    "legal_address": null,
+    "website": "http://prtlr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0172",
+    "name": "Судебный участок № 3 Октябрьского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346480, Ростовская обл, рп Каменоломни, ул 40 лет Октября, д 84",
+    "legal_address": null,
+    "website": "http://oktbr3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0174",
+    "name": "Судебный участок № 3 Пролетарского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347510, Ростовская обл, п Орловский, ул Пионерская, зд 60А",
+    "legal_address": null,
+    "website": "http://orlv1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0173",
+    "name": "Судебный участок № 4 Октябрьского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346480, Ростовская обл, рп Каменоломни, ул 40 лет Октября, д 84",
+    "legal_address": null,
+    "website": "http://oktbr4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0175",
+    "name": "Судебный участок № 4 Пролетарского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347510, Ростовская обл, п Орловский, ул Пионерская, зд 60А",
+    "legal_address": null,
+    "website": "http://orlv2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0178",
+    "name": "Судебный участок № 7 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347572, Ростовская обл, с Песчанокопское, ул Суворова, д 14",
+    "legal_address": null,
+    "website": "http://pschr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0179",
+    "name": "Судебный участок № 8 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347572, Ростовская обл, с Песчанокопское, ул Суворова, д 14",
+    "legal_address": null,
+    "website": "http://pschr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0188",
+    "name": "Судебный участок № 2 Обливского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347180, Ростовская обл, ст-ца Советская, ул Орджоникидзе, зд 11А",
+    "legal_address": null,
+    "website": "http://svtr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0183",
+    "name": "Судебный участок № 2 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347630, Ростовская обл, г Сальск, ул Ленина, д 21",
+    "legal_address": null,
+    "website": "http://salsky2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0184",
+    "name": "Судебный участок № 3 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347630, Ростовская обл, г Сальск, ул Ленина, д 29",
+    "legal_address": null,
+    "website": "http://salsky3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0185",
+    "name": "Судебный участок № 4 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347630, Ростовская обл, г Сальск, ул Ленина, д 29",
+    "legal_address": null,
+    "website": "http://salsky4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0186",
+    "name": "Судебный участок № 5 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347630, Ростовская обл, г Сальск, ул Ленина, д 21",
+    "legal_address": null,
+    "website": "http://salsky5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0187",
+    "name": "Судебный участок № 6 Сальского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347630, Ростовская обл, г Сальск, ул Ленина, д 29",
+    "legal_address": null,
+    "website": "http://salsky6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0181",
+    "name": "Судебный участок № 7 Новошахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346580, Ростовская обл, сл Родионово-Несветайская, ул Пушкинская, д 23",
+    "legal_address": null,
+    "website": "http://r-n1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0190",
+    "name": "Судебный участок № 2 Семикаракорского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346630, Ростовская обл, г Семикаракорск, ул Набережная, зд 13/1",
+    "legal_address": null,
+    "website": "http://smkrk2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0195",
+    "name": "Судебный участок № 2 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0191",
+    "name": "Судебный участок № 3 Семикаракорского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346630, Ростовская обл, г Семикаракорск, ул Набережная, зд 13/1",
+    "legal_address": null,
+    "website": "http://smkrk3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0196",
+    "name": "Судебный участок № 3 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0197",
+    "name": "Судебный участок № 4 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0198",
+    "name": "Судебный участок № 5 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0192",
+    "name": "Судебный участок № 6 Миллеровского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346050, Ростовская обл, п Тарасовский, ул Вишневая, д 26",
+    "legal_address": null,
+    "website": "http://trsv1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0199",
+    "name": "Судебный участок № 6 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0193",
+    "name": "Судебный участок № 7 Миллеровского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346050, Ростовская обл, п Тарасовский, ул Вишневая, д 26",
+    "legal_address": null,
+    "website": "http://trsv2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0209",
+    "name": "Судебный участок № 1 Усть-Донецкого судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346550, Ростовская обл, рп Усть-Донецкий, ул Строителей, д 85А",
+    "legal_address": null,
+    "website": "http://u-d1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0213",
+    "name": "Судебный участок № 1 Цимлянского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347320, Ростовская обл, г Цимлянск, ул Советская, д 6/24",
+    "legal_address": null,
+    "website": "http://cmlnr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0215",
+    "name": "Судебный участок № 1 Чертковского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346000, Ростовская обл, п Чертково, ул Розы Люксембург, д 106А",
+    "legal_address": null,
+    "website": "http://chrtkr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0217",
+    "name": "Судебный участок № 1 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0229",
+    "name": "Судебный участок № 1 Шолоховского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346270, Ростовская обл, ст-ца Вешенская, ул Ленина, зд 66",
+    "legal_address": null,
+    "website": "http://shlhvr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0210",
+    "name": "Судебный участок № 2 Усть-Донецкого судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346550, Ростовская обл, рп Усть-Донецкий, ул Строителей, д 85А",
+    "legal_address": null,
+    "website": "http://u-d2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0214",
+    "name": "Судебный участок № 2 Цимлянского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347320, Ростовская обл, г Цимлянск, ул Советская, д 6/24",
+    "legal_address": null,
+    "website": "http://cmlnr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0216",
+    "name": "Судебный участок № 2 Чертковского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346000, Ростовская обл, п Чертково, ул Розы Люксембург, д 106А",
+    "legal_address": null,
+    "website": "http://chrtkr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0218",
+    "name": "Судебный участок № 2 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0230",
+    "name": "Судебный участок № 2 Шолоховского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346270, Ростовская обл, ст-ца Вешенская, ул Ленина, зд 66",
+    "legal_address": null,
+    "website": "http://shlhvr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0211",
+    "name": "Судебный участок № 3 Егорлыкского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347760, Ростовская обл, п Целина, ул Советская, д 19",
+    "legal_address": null,
+    "website": "http://clnr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0219",
+    "name": "Судебный участок № 3 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti3.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0212",
+    "name": "Судебный участок № 4 Егорлыкского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347760, Ростовская обл, п Целина, ул Советская, д 19",
+    "legal_address": null,
+    "website": "http://clnr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0220",
+    "name": "Судебный участок № 4 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti4.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0233",
+    "name": "Судебный участок № 5 Аксайского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346720, Ростовская обл, г Аксай, пр-кт Ленина, зд 12",
+    "legal_address": null,
+    "website": "http://aksaisky5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0221",
+    "name": "Судебный участок № 5 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti5.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0222",
+    "name": "Судебный участок № 6 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti6.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0207",
+    "name": "Судебный участок № 7 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347060, Ростовская обл, ст-ца Тацинская, ул Лесная, д 33",
+    "legal_address": null,
+    "website": "http://tcnr1.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0200",
+    "name": "Судебный участок № 7 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0223",
+    "name": "Судебный участок № 7 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti7.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0208",
+    "name": "Судебный участок № 8 Белокалитвинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347060, Ростовская обл, ст-ца Тацинская, ул Лесная, д 33",
+    "legal_address": null,
+    "website": "http://tcnr2.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0201",
+    "name": "Судебный участок № 8 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog8.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0202",
+    "name": "Судебный участок № 9 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog9.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0203",
+    "name": "Судебный участок № 10 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog10.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0204",
+    "name": "Судебный участок № 11 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog11.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0205",
+    "name": "Судебный участок № 12 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog12.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0206",
+    "name": "Судебный участок № 13 Таганрогского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "347913, Ростовская обл, г Таганрог, ул Большая Бульварная, д 8 к 3",
+    "legal_address": null,
+    "website": "http://taganrog13.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0224",
+    "name": "Судебный участок № 8 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti8.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0225",
+    "name": "Судебный участок № 9 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti9.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0226",
+    "name": "Судебный участок № 10 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti10.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0227",
+    "name": "Судебный участок № 11 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti11.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0228",
+    "name": "Судебный участок № 12 Шахтинского судебного района Ростовской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "346500, Ростовская обл, г Шахты, пер Короткий, д 50А",
+    "legal_address": null,
+    "website": "http://shahti12.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0232",
+    "name": "Судебный участок № 8 Октябрьского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344012, г Ростов-на-Дону, ул Юфимцева, д 12/2",
+    "legal_address": null,
+    "website": "http://okt8.ros.msudrf.ru"
+  },
+  {
+    "code": "61MS0231",
+    "name": "Судебный участок № 8 Советского судебного района г. Ростова-на-Дону",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "344103, г Ростов-на-Дону, ул Содружества, д 84",
+    "legal_address": null,
+    "website": "http://sov8.ros.msudrf.ru"
+  }
+]

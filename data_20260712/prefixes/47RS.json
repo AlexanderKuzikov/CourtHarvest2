@@ -1,0 +1,182 @@
+[
+  {
+    "code": "47RS0001",
+    "name": "Бокситогорский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187650, Ленинградская обл, г Бокситогорск, ул Воронина, д 2",
+    "legal_address": null,
+    "website": "http://boksiti.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0002",
+    "name": "Волосовский районный суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188410, Ленинградская обл, г Волосово, пр-кт Вингиссара, д 74",
+    "legal_address": null,
+    "website": "http://volosov.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0003",
+    "name": "Волховский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187401, Ленинградская обл, г Волхов, пр-кт Державина, д 56",
+    "legal_address": null,
+    "website": "http://volhovsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0004",
+    "name": "Всеволожский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188640, Ленинградская обл, г Всеволожск, пер Вахрушева, д 8",
+    "legal_address": null,
+    "website": "http://vsevgorsud.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0005",
+    "name": "Выборгский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188800, Ленинградская обл, г Выборг, ул Пионерская, д 4",
+    "legal_address": null,
+    "website": "http://vyborgsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0006",
+    "name": "Гатчинский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188300, Ленинградская обл, г Гатчина, ул Горького, д 8",
+    "legal_address": null,
+    "website": "http://gatchinsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0007",
+    "name": "Кингисеппский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188480, Ленинградская обл, г Кингисепп, пр-кт Карла Маркса, д 2А",
+    "legal_address": null,
+    "website": "http://kingisepp.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0008",
+    "name": "Киришский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187110, Ленинградская обл, г Кириши, пр-кт Победы, д 10",
+    "legal_address": null,
+    "website": "http://kirishsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0009",
+    "name": "Кировский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187342, Ленинградская обл, г Кировск, ул Ладожская, д 1",
+    "legal_address": null,
+    "website": "http://kirovsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0010",
+    "name": "Лодейнопольский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187700, Ленинградская обл, г Лодейное Поле, пр-кт Урицкого, д 2",
+    "legal_address": null,
+    "website": "http://lodeynopolsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0011",
+    "name": "Ломоносовский районный суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "198412, г Санкт-Петербург, г Ломоносов, ул Александровская, д 11",
+    "legal_address": null,
+    "website": "http://lomonosovsky.lo.sudrf.ru/"
+  },
+  {
+    "code": "47RS0012",
+    "name": "Лужский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188230, Ленинградская обл, г Луга, пр-кт Кирова, д 105/3 литера б",
+    "legal_address": null,
+    "website": "http://lugasud.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0013",
+    "name": "Подпорожский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187780, Ленинградская обл, г Подпорожье, ул Планеристов, д 5",
+    "legal_address": null,
+    "website": "http://podporozhsky.lo.sudrf.ru/"
+  },
+  {
+    "code": "47RS0014",
+    "name": "Приозерский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188760, Ленинградская обл, г Приозерск, ул Калинина, д 21",
+    "legal_address": null,
+    "website": "http://priozersky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0015",
+    "name": "Сланцевский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188560, Ленинградская обл, г Сланцы, ул Кирова, д 23",
+    "legal_address": null,
+    "website": "http://slancevsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0016",
+    "name": "Сосновоборский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "188540, Ленинградская обл, г Сосновый Бор, ул Пионерская, д 6",
+    "legal_address": null,
+    "website": "http://sosnovoborsky.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0017",
+    "name": "Тихвинский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187553, Ленинградская обл, г Тихвин, мкр 2, д 17",
+    "legal_address": null,
+    "website": "http://tikhvin.lo.sudrf.ru"
+  },
+  {
+    "code": "47RS0018",
+    "name": "Тосненский городской суд Ленинградской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "187000, Ленинградская обл, г Тосно, пр-кт Ленина, д 34",
+    "legal_address": null,
+    "website": "http://tosnensky.lo.sudrf.ru"
+  }
+]

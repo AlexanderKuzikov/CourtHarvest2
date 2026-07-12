@@ -1,0 +1,222 @@
+[
+  {
+    "code": "14RS0002",
+    "name": "Алданский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678901, Респ Саха (Якутия), г Алдан, ул Пролетарская, д 15",
+    "legal_address": null,
+    "website": "http://aldan.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0006",
+    "name": "Булунский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678400, Респ Саха (Якутия), п Тикси, ул Трусова, д 7",
+    "legal_address": null,
+    "website": "http://bulun.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0007",
+    "name": "Верхневилюйский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678230, Респ Саха (Якутия), с Верхневилюйск, ул И.Н.Барахова, зд 9",
+    "legal_address": null,
+    "website": "http://vvilyui.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0008",
+    "name": "Верхнеколымский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678770, Респ Саха (Якутия), п Зырянка, ул Асямова, д 13",
+    "legal_address": null,
+    "website": "http://vkoliyma.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0010",
+    "name": "Вилюйский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678200, Респ Саха (Якутия), г Вилюйск, ул Чиряева, д 19",
+    "legal_address": null,
+    "website": "http://vilyui.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0013",
+    "name": "Кобяйский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678300, Респ Саха (Якутия), пгт Сангар, ул Ленина, зд 23",
+    "legal_address": null,
+    "website": "http://kob.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0014",
+    "name": "Ленский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678144, Респ Саха (Якутия), г Ленск, ул Ленина, д 51",
+    "legal_address": null,
+    "website": "http://lensk.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0015",
+    "name": "Мегино-Кангаласский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678070, Респ Саха (Якутия), с Майя, ул Алданская, д 7",
+    "legal_address": null,
+    "website": "http://mkang.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0016",
+    "name": "Мирнинский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678174, Респ Саха (Якутия), г Мирный, ул Тихонова, д 29",
+    "legal_address": null,
+    "website": "http://mirny.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0018",
+    "name": "Намский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678380, Респ Саха (Якутия), с Намцы, ул С.Платонова, д 4",
+    "legal_address": null,
+    "website": "http://nam.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0019",
+    "name": "Нерюнгринский городской суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678960, Респ Саха (Якутия), Нерюнгринский р-н, г Нерюнгри, пр-кт Ленина, д 23",
+    "legal_address": null,
+    "website": "http://nerungry.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0021",
+    "name": "Нюрбинский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678450, Респ Саха (Якутия), г Нюрба, ул Ленина, зд 30",
+    "legal_address": null,
+    "website": "http://nyurba.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0022",
+    "name": "Оймяконский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678730, Респ Саха (Якутия), пгт Усть-Нера, ул Мацкепладзе, д 8",
+    "legal_address": null,
+    "website": "http://nera.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0023",
+    "name": "Олёкминский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678100, Респ Саха (Якутия), г Олекминск, ул Пионерская, д 2",
+    "legal_address": null,
+    "website": "http://olekma.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0026",
+    "name": "Сунтарский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678290, Респ Саха (Якутия), с Сунтар, ул Октябрьская, д 90",
+    "legal_address": null,
+    "website": "http://suntar.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0028",
+    "name": "Томпонский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678720, Респ Саха (Якутия), п Хандыга, ул Молодежная, стр 10",
+    "legal_address": null,
+    "website": "http://tompo.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0029",
+    "name": "Усть-Алданский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678350, Респ Саха (Якутия), с Борогонцы, ул Ленина, зд 65",
+    "legal_address": null,
+    "website": "http://bor.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0030",
+    "name": "Усть-Майский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678620, Респ Саха (Якутия), п Усть-Мая, ул Советская, д 6",
+    "legal_address": null,
+    "website": "http://uma.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0031",
+    "name": "Усть-Янский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678540, Респ Саха (Якутия), мкр Арктика (пгт Депутатский), д 32",
+    "legal_address": null,
+    "website": "http://dep.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0032",
+    "name": "Хангаласский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678000, Респ Саха (Якутия), г Покровск, ул Орджоникидзе, д 24",
+    "legal_address": null,
+    "website": "http://pokrovsk.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0033",
+    "name": "Чурапчинский районный суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "678670, Респ Саха (Якутия), с Чурапча, ул Дзержинского, д 4",
+    "legal_address": null,
+    "website": "http://chur.jak.sudrf.ru"
+  },
+  {
+    "code": "14RS0035",
+    "name": "Якутский городской суд Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "677000, г Якутск, ул Ярославского, д 18",
+    "legal_address": null,
+    "website": "http://jakutsky.jak.sudrf.ru/"
+  }
+]

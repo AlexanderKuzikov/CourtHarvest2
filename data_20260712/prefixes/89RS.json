@@ -1,0 +1,122 @@
+[
+  {
+    "code": "89RS0013",
+    "name": "Губкинский районный суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629832, Ямало-Ненецкий АО, г Губкинский, мкр № 7, д 1",
+    "legal_address": null,
+    "website": "http://gubkinskiy.ynao.sudrf.ru/"
+  },
+  {
+    "code": "89RS0009",
+    "name": "Красноселькупский районный суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629380, Ямало-Ненецкий АО, с Красноселькуп, ул Ленина, зд 2Б",
+    "legal_address": null,
+    "website": "http://krasnoselkupsky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0002",
+    "name": "Лабытнангский городской суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629400, Ямало-Ненецкий АО, Приуральский р-н, г Лабытнанги, ул Школьная, д 34",
+    "legal_address": null,
+    "website": "http://labytnangsky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0006",
+    "name": "Муравленковский городской суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629602, Ямало-Ненецкий АО, г Муравленко, ул Ленина, зд 57",
+    "legal_address": null,
+    "website": "http://muravlenkovsky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0003",
+    "name": "Надымский городской суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629736, Ямало-Ненецкий АО, г Надым, ул Пионерская, стр 11",
+    "legal_address": null,
+    "website": "http://nadymsky.ynao.sudrf.ru/"
+  },
+  {
+    "code": "89RS0004",
+    "name": "Новоуренгойский городской суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629309, Ямало-Ненецкий АО, г Новый Уренгой, мкр Советский, д 9 к 1а",
+    "legal_address": null,
+    "website": "http://novourengoysky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0005",
+    "name": "Ноябрьский городской суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629805, Ямало-Ненецкий АО, г Ноябрьск, пр-кт Мира, д 39",
+    "legal_address": null,
+    "website": "http://noyabrsky.ynao.sudrf.ru/"
+  },
+  {
+    "code": "89RS0007",
+    "name": "Пуровский районный суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629851, Ямало-Ненецкий АО, г Тарко-Сале, ул Мира, д 5",
+    "legal_address": null,
+    "website": "http://purovsky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0001",
+    "name": "Салехардский городской суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629007, г Салехард, ул Чубынина, д 37А",
+    "legal_address": null,
+    "website": "http://salehardsky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0012",
+    "name": "Тазовский районный суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629350, Ямало-Ненецкий АО, п Тазовский, мкр Геолог, зд 7",
+    "legal_address": null,
+    "website": "http://tazovsky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0011",
+    "name": "Шурышкарский районный суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629640, Ямало-Ненецкий АО, с Мужи, ул Совхозная, зд 2",
+    "legal_address": null,
+    "website": "http://shuryshkarsky.ynao.sudrf.ru"
+  },
+  {
+    "code": "89RS0008",
+    "name": "Ямальский районный суд Ямало-Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "629700, Ямало-Ненецкий АО, с Яр-Сале, ул Советская, д 31А",
+    "legal_address": null,
+    "website": "http://yamalsky.ynao.sudrf.ru"
+  }
+]

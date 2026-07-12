@@ -1,0 +1,672 @@
+[
+  {
+    "code": "22RS0001",
+    "name": "Алейский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658130, Алтайский край, г Алейск, ул Советская, д 98",
+    "legal_address": null,
+    "website": "http://aleysky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0002",
+    "name": "Алтайский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659650, Алтайский край, с Алтайское, ул Советская, д 180",
+    "legal_address": null,
+    "website": "http://altaisky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0070",
+    "name": "Баевский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658510, Алтайский край, с Баево, ул Ленина, д 41",
+    "legal_address": null,
+    "website": "http://baevsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0007",
+    "name": "Белокурихинский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659900, Алтайский край, г Белокуриха, ул Братьев Ждановых, д 23",
+    "legal_address": null,
+    "website": "http://belokurihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0013",
+    "name": "Бийский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659300, Алтайский край, г Бийск, ул Владимира Ленина, д 149",
+    "legal_address": null,
+    "website": "http://biyskygor.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0003",
+    "name": "Бийский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659316, Алтайский край, г Бийск, ул Социалистическая, д 5/2",
+    "legal_address": null,
+    "website": "http://biysky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0004",
+    "name": "Благовещенский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658670, Алтайский край, рп Благовещенка, пер Кучеровых, д 65",
+    "legal_address": null,
+    "website": "http://blagovechensky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0005",
+    "name": "Бурлинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658810, Алтайский край, с Бурла, ул Победы, зд 27",
+    "legal_address": null,
+    "website": "http://burlinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0006",
+    "name": "Быстроистокский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659560, Алтайский край, с Быстрый Исток, ул Ленина, д 43",
+    "legal_address": null,
+    "website": "http://istoksky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0016",
+    "name": "Волчихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658930, Алтайский край, с Волчиха, ул 1 Мая, зд 80",
+    "legal_address": null,
+    "website": "http://volchihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0017",
+    "name": "Егорьевский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658280, Алтайский край, с Новоегорьевское, ул Машинцева, влд 21",
+    "legal_address": null,
+    "website": "http://egorevsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0066",
+    "name": "Железнодорожный районный суд г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "656031, г Барнаул, ул Папанинцев, д 130",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0019",
+    "name": "Завьяловский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658620, Алтайский край, с Завьялово, ул Школьная, влд 1",
+    "legal_address": null,
+    "website": "http://zavialovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0020",
+    "name": "Залесовский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659220, Алтайский край, с Залесово, ул Партизанская, д 13",
+    "legal_address": null,
+    "website": "http://zalesovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0008",
+    "name": "Заринский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659100, Алтайский край, г Заринск, ул Металлургов, влд 2",
+    "legal_address": null,
+    "website": "http://zarynsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0021",
+    "name": "Заринский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659106, Алтайский край, г Заринск, ул Комсомольская, зд 15",
+    "legal_address": null,
+    "website": "http://zarinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0009",
+    "name": "Змеиногорский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658481, Алтайский край, г Змеиногорск, ул Ленина, зд 41",
+    "legal_address": null,
+    "website": "http://zmeinogorsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0022",
+    "name": "Зональный районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659400, Алтайский край, с Зональное, ул Ленина, зд 9",
+    "legal_address": null,
+    "website": "http://zonalny.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0065",
+    "name": "Индустриальный районный суд г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "656006, г Барнаул, ул Балтийская, д 28",
+    "legal_address": null,
+    "website": "http://industrialny.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0023",
+    "name": "Калманский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659040, Алтайский край, с Калманка, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://kalmansky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0010",
+    "name": "Каменский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658700, Алтайский край, г Камень-на-Оби, ул Пушкина, д 20",
+    "legal_address": null,
+    "website": "http://kamensky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0015",
+    "name": "Новоалтайский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658087, Алтайский край, г Новоалтайск, ул Красноармейская, д 20",
+    "legal_address": null,
+    "website": "http://novaltaisky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0011",
+    "name": "Рубцовский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658201, Алтайский край, г Рубцовск, пр-кт Ленина, д 1",
+    "legal_address": null,
+    "website": "http://rubtcovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0012",
+    "name": "Славгородский городской суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658820, Алтайский край, г Славгород, ул Урицкого, д 143",
+    "legal_address": null,
+    "website": "http://slavgorodsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0024",
+    "name": "Ключевский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658980, Алтайский край, с Ключи, ул Делегатская, д 4",
+    "legal_address": null,
+    "website": "http://kluchevsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0025",
+    "name": "Косихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659820, Алтайский край, с Косиха, ул Комсомольская, д 1",
+    "legal_address": null,
+    "website": "http://kosihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0026",
+    "name": "Красногорский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659500, Алтайский край, с Красногорское, ул Советская, д 89",
+    "legal_address": null,
+    "website": "http://krasnogorsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0027",
+    "name": "Краснощековский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658340, Алтайский край, с Краснощёково, ул Ленина, зд 141",
+    "legal_address": null,
+    "website": "http://krasnochekovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0028",
+    "name": "Крутихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658750, Алтайский край, с Крутиха, ул Ленинградская, влд 35",
+    "legal_address": null,
+    "website": "http://krutihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0029",
+    "name": "Кулундинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658920, Алтайский край, Кулундинский р-н, с Кулунда, ул Советская, д 32",
+    "legal_address": null,
+    "website": "http://kulundinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0030",
+    "name": "Курьинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658320, Алтайский край, с Курья, ул Центральная, влд 84",
+    "legal_address": null,
+    "website": "http://kyrinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0031",
+    "name": "Кытмановский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659240, Алтайский край, с Кытманово, ул Советская, зд 15",
+    "legal_address": null,
+    "website": "http://kytmanovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0032",
+    "name": "Локтевский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658422, Алтайский край, г Горняк, ул Миронова, д 130А",
+    "legal_address": null,
+    "website": "http://loktevsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0033",
+    "name": "Мамонтовский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658560, Алтайский край, с Мамонтово, ул Партизанская, влд 163",
+    "legal_address": null,
+    "website": "http://mamontovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0034",
+    "name": "Михайловский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658960, Алтайский край, с Михайловское, ул Центральная, д 9",
+    "legal_address": null,
+    "website": "http://mihalovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0037",
+    "name": "Павловский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659000, Алтайский край, с Павловск, ул Мелиораторов, влд 19",
+    "legal_address": null,
+    "website": "http://pavlovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0038",
+    "name": "Панкрушихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658760, Алтайский край, с Панкрушиха, ул Советская, влд 18",
+    "legal_address": null,
+    "website": "http://pankrushihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0039",
+    "name": "Петропавловский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659660, Алтайский край, с Петропавловское, ул Ленина, влд 95",
+    "legal_address": null,
+    "website": "http://petropavlovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0035",
+    "name": "Районный суд Немецкого национального района Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658870, Алтайский край, с Гальбштадт, ул Тракторная, д 6",
+    "legal_address": null,
+    "website": "http://nemecky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0040",
+    "name": "Поспелихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659700, Алтайский край, с Поспелиха, ул Ленинская, д 76",
+    "legal_address": null,
+    "website": "http://pospelihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0041",
+    "name": "Ребрихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658540, Алтайский край, с Ребриха, ул Ленина, зд 136",
+    "legal_address": null,
+    "website": "http://rebrihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0042",
+    "name": "Родинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659780, Алтайский край, с Родино, ул Ворошилова, д 4",
+    "legal_address": null,
+    "website": "http://rodinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0043",
+    "name": "Романовский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658640, Алтайский край, с. Романово, ул. Советская, д. 91 А",
+    "legal_address": null,
+    "website": "http://romanovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0044",
+    "name": "Рубцовский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658200, Алтайский край, г Рубцовск, пер Бульварный, д 13",
+    "legal_address": null,
+    "website": "http://rubcovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0045",
+    "name": "Смоленский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659600, Алтайский край, с Смоленское, ул Титова, д 3",
+    "legal_address": null,
+    "website": "http://smolensky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0046",
+    "name": "Советский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659540, Алтайский край, с Советское, ул Ленина, влд 86",
+    "legal_address": null,
+    "website": "http://sovetsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0047",
+    "name": "Солонешенский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659690, Алтайский край, с Солонешное, ул Советская, д 6",
+    "legal_address": null,
+    "website": "http://soloneshensky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0048",
+    "name": "Солтонский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659520, Алтайский край, с Солтон, ул Ленина, влд 15",
+    "legal_address": null,
+    "website": "http://soltonsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0050",
+    "name": "Табунский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658860, Алтайский край, с Табуны, пер Центральный, д 6",
+    "legal_address": null,
+    "website": "http://tabunsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0051",
+    "name": "Тальменский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658030, Алтайский край, рп Тальменка, ул Кирова, д 82",
+    "legal_address": null,
+    "website": "http://talmensky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0052",
+    "name": "Тогульский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659450, Алтайский край, с Тогул, ул Октябрьская, зд 6А",
+    "legal_address": null,
+    "website": "http://togulsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0053",
+    "name": "Топчихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659070, Алтайский край, с Топчиха, ул Куйбышева, д 35",
+    "legal_address": null,
+    "website": "http://topchihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0054",
+    "name": "Третьяковский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658450, Алтайский край, с Староалейское, ул Октябрьская, д 38А",
+    "legal_address": null,
+    "website": "http://tretiakovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0055",
+    "name": "Троицкий районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659840, Алтайский край, с Троицкое, ул Пушкина, д 12",
+    "legal_address": null,
+    "website": "http://troicky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0056",
+    "name": "Тюменцевский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658580, Алтайский край, с Тюменцево, ул Ленина, д 7А",
+    "legal_address": null,
+    "website": "http://tumencevsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0057",
+    "name": "Угловский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658270, Алтайский край, с Угловское, ул Ленина, влд 36",
+    "legal_address": null,
+    "website": "http://uglovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0058",
+    "name": "Усть-Калманский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658150, Алтайский край, с Усть-Калманка, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://ukalmansky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0059",
+    "name": "Усть-Пристанский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659580, Алтайский край, с Усть-Чарышская Пристань, ул 1 Мая, зд 9",
+    "legal_address": null,
+    "website": "http://upristansky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0069",
+    "name": "Ленинский районный суд г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "656055, г Барнаул, ул Георгия Исакова, д 204",
+    "legal_address": null,
+    "website": "http://leninsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0067",
+    "name": "Октябрьский районный суд г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "656038, г Барнаул, б-р 9 Января, д 19",
+    "legal_address": null,
+    "website": "http://oktabrsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0060",
+    "name": "Хабарский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658780, Алтайский край, с Хабары, ул Ленина, д 67",
+    "legal_address": null,
+    "website": "http://habarsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0061",
+    "name": "Целинный районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659430, Алтайский край, с Целинное, ул Победы, влд 25",
+    "legal_address": null,
+    "website": "http://celinniy.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0068",
+    "name": "Центральный районный суд г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "656031, г Барнаул, ул Папанинцев, д 130",
+    "legal_address": null,
+    "website": "http://centralny.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0062",
+    "name": "Чарышский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658170, Алтайский край, с Чарышское, пер Строительный, зд 11",
+    "legal_address": null,
+    "website": "http://charishsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0063",
+    "name": "Шелаболихинский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "659050, Алтайский край, с Шелаболиха, ул 50 лет Алтая, зд 6",
+    "legal_address": null,
+    "website": "http://shelabolihinsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0064",
+    "name": "Шипуновский районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658390, Алтайский край, с Шипуново, ул Луначарского, влд 72",
+    "legal_address": null,
+    "website": "http://shipunovsky.alt.sudrf.ru"
+  },
+  {
+    "code": "22RS0071",
+    "name": "Яровской районный суд Алтайского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "658837, Алтайский край, г Яровое, ул Ленина, д 16",
+    "legal_address": null,
+    "website": "http://yarovsky.alt.sudrf.ru/"
+  }
+]

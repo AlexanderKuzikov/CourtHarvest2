@@ -1,0 +1,342 @@
+[
+  {
+    "code": "59RS0009",
+    "name": "Александровский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618320, Пермский край, г Александровск, ул Машиностроителей, зд 2",
+    "legal_address": null,
+    "website": "http://aleks.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0010",
+    "name": "Бардымский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618150, Пермский край, с Барда, ул Советская, д 12",
+    "legal_address": null,
+    "website": "http://barda.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0011",
+    "name": "Березниковский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618419, Пермский край, г Березники, ул Свободы, д 43А",
+    "legal_address": null,
+    "website": "http://berezn.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0013",
+    "name": "Большесосновский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617080, Пермский край, с Большая Соснова, пер Торговый, зд 2",
+    "legal_address": null,
+    "website": "http://bolshesos.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0014",
+    "name": "Верещагинский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617120, Пермский край, г Верещагино, ул Фрунзе, д 74",
+    "legal_address": null,
+    "website": "http://veresh.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0017",
+    "name": "Губахинский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618250, Пермский край, г Губаха, ул Никонова, д 42",
+    "legal_address": null,
+    "website": "http://gubacha.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0001",
+    "name": "Дзержинский районный суд г. Перми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614068, г Пермь, ул Плеханова, д 40",
+    "legal_address": null,
+    "website": "http://dzerjin.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0018",
+    "name": "Добрянский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618740, Пермский край, г Добрянка, ул Советская, д 96/1",
+    "legal_address": null,
+    "website": "http://dobryan.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0020",
+    "name": "Ильинский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617020, Пермский край, п Ильинский, ул Комсомольская, д 4",
+    "legal_address": null,
+    "website": "http://ilinsk.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0002",
+    "name": "Индустриальный районный суд г. Перми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614095, г Пермь, ул Мира, д 17",
+    "legal_address": null,
+    "website": "http://industry.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0021",
+    "name": "Карагайский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617210, Пермский край, с Карагай, ул Юбилейная, д 1",
+    "legal_address": null,
+    "website": "http://karagai.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0022",
+    "name": "Кизеловский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618353, Пермский край, г Кизел, ул Луначарского, д 10А",
+    "legal_address": null,
+    "website": "http://kizel.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0003",
+    "name": "Кировский районный суд г. Перми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614042, г Пермь, ул Кировоградская, д 37",
+    "legal_address": null,
+    "website": "http://kirov.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0024",
+    "name": "Красновишерский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618590, Пермский край, г Красновишерск, ул Дзержинского, д 9",
+    "legal_address": null,
+    "website": "http://krasnovish.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0025",
+    "name": "Краснокамский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617066, Пермский край, г Краснокамск, ул Калинина, д 5",
+    "legal_address": null,
+    "website": "http://krasnokam.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0026",
+    "name": "Куединский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617700, Пермский край, п Куеда, ул Ленина, д 2",
+    "legal_address": null,
+    "website": "http://kueda.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0027",
+    "name": "Кунгурский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617470, Пермский край, г Кунгур, ул Матросская, д 1",
+    "legal_address": null,
+    "website": "http://kungur.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0004",
+    "name": "Ленинский районный суд г. Перми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614000, г Пермь, ул Пермская, стр 11А",
+    "legal_address": null,
+    "website": "http://lenin.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0028",
+    "name": "Лысьвенский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618900, Пермский край, г Лысьва, ул Коммунаров, д 36",
+    "legal_address": null,
+    "website": "http://lysva.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0005",
+    "name": "Мотовилихинский районный суд г. Перми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614014, г Пермь, ул 1905 года, д 5",
+    "legal_address": null,
+    "website": "http://motovil.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0006",
+    "name": "Орджоникидзевский районный суд г. Перми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614026, г Пермь, ул Кавказская, д 11",
+    "legal_address": null,
+    "website": "http://ordgonik.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0008",
+    "name": "Пермский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614500, г Пермь, ул 2-я Красавинская, стр 86А",
+    "legal_address": null,
+    "website": "http://permsk.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0007",
+    "name": "Свердловский районный суд г. Перми",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "614010, г Пермь, ул Куйбышева, д 111В",
+    "legal_address": null,
+    "website": "http://sverdlov.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0029",
+    "name": "Нытвенский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617000, Пермский край, г Нытва, ул Карла Либкнехта, д 4",
+    "legal_address": null,
+    "website": "http://nytva.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0034",
+    "name": "Октябрьский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617860, Пермский край, рп Октябрьский, ул Ленина, д 65",
+    "legal_address": null,
+    "website": "http://oktyabr.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0033",
+    "name": "Ординский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617500, Пермский край, с Орда, ул Советская, д 24",
+    "legal_address": null,
+    "website": "http://orda.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0030",
+    "name": "Осинский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618120, Пермский край, г Оса, ул Ленина, зд 29",
+    "legal_address": null,
+    "website": "http://osa.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0032",
+    "name": "Очерский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617140, Пермский край, г Очер, ул Октябрьская, д 35",
+    "legal_address": null,
+    "website": "http://ocher.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0035",
+    "name": "Соликамский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618554, Пермский край, г Соликамск, ул Марины Расковой, д 16",
+    "legal_address": null,
+    "website": "http://solikam.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0037",
+    "name": "Суксунский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617560, Пермский край, рп Суксун, ул Карла Маркса, д 13",
+    "legal_address": null,
+    "website": "http://suksun.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0040",
+    "name": "Чайковский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617760, Пермский край, г Чайковский, ул Ленина, д 47/1",
+    "legal_address": null,
+    "website": "http://chaikov.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0043",
+    "name": "Чердынский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618601, Пермский край, г Чердынь, мкр Нефтяников, д 5",
+    "legal_address": null,
+    "website": "http://cherdyn.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0042",
+    "name": "Чернушинский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "617830, Пермский край, г Чернушка, пер Банковский, д 6",
+    "legal_address": null,
+    "website": "http://chernush.perm.sudrf.ru"
+  },
+  {
+    "code": "59RS0044",
+    "name": "Чусовской городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "618204, Пермский край, г Чусовой, ул 50 лет ВЛКСМ, д 13Б",
+    "legal_address": null,
+    "website": "http://chusovoi.perm.sudrf.ru"
+  }
+]

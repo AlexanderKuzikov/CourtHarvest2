@@ -1,0 +1,352 @@
+[
+  {
+    "code": "77RS0001",
+    "name": "Бабушкинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "129281, г Москва, ул Лётчика Бабушкина, д 39А",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/babushkinskij"
+  },
+  {
+    "code": "77RS0002",
+    "name": "Басманный районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "107078, г Москва, ул Каланчевская, д 11",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/basmannyj"
+  },
+  {
+    "code": "77RS0003",
+    "name": "Бутырский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "127018, г Москва, ул Образцова, д 26",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/butyrskij"
+  },
+  {
+    "code": "77RS0004",
+    "name": "Гагаринский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "119049, г Москва, ул Донская, д 11 стр 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/gagarinskij"
+  },
+  {
+    "code": "77RS0005",
+    "name": "Головинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "125130, г Москва, ул Зои и Александра Космодемьянских, д 31 к 2",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/golovinskij"
+  },
+  {
+    "code": "77RS0006",
+    "name": "Дорогомиловский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "121165, г Москва, ул Студенческая, д 36",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/dorogomilovskij"
+  },
+  {
+    "code": "77RS0007",
+    "name": "Замоскворецкий районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "115184, г Москва, ул Татарская, д 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/zamoskvoreckij"
+  },
+  {
+    "code": "77RS0008",
+    "name": "Зеленоградский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "124365, г Москва, г Зеленоград, к 2001",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/zelenogradskij"
+  },
+  {
+    "code": "77RS0009",
+    "name": "Зюзинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "117218, г Москва, ул Кржижановского, д 20/30 к 4",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/zyuzinskij"
+  },
+  {
+    "code": "77RS0010",
+    "name": "Измайловский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "105037, г Москва, ул Первомайская, д 12",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/izmajlovskij"
+  },
+  {
+    "code": "77RS0011",
+    "name": "Коптевский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "125130, г Москва, ул Зои и Александра Космодемьянских, д 31 к 2",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/koptevskij"
+  },
+  {
+    "code": "77RS0012",
+    "name": "Кузьминский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 8/13",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/kuzminskij"
+  },
+  {
+    "code": "77RS0013",
+    "name": "Кунцевский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "121351, г Москва, ул Ярцевская, д 12 стр 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/kuncevskij"
+  },
+  {
+    "code": "77RS0014",
+    "name": "Лефортовский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "105120, г Москва, пл Андроньевская, д 5/9",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/lefortovskij"
+  },
+  {
+    "code": "77RS0015",
+    "name": "Люблинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "109559, г Москва, ул Марьинский Парк, д 29",
+    "legal_address": null,
+    "website": "http://lublinsky.msk.sudrf.ru"
+  },
+  {
+    "code": "77RS0016",
+    "name": "Мещанский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "129090, г Москва, ул Каланчевская, д 43А",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/meshchanskij"
+  },
+  {
+    "code": "77RS0017",
+    "name": "Нагатинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "115201, г Москва, проезд Каширский, д 3",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/nagatinskij"
+  },
+  {
+    "code": "77RS0018",
+    "name": "Никулинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "119192, г Москва, пр-кт Мичуринский, д 17 к 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/nikulinskij"
+  },
+  {
+    "code": "77RS0019",
+    "name": "Останкинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "129515, г Москва, ул 1-я Останкинская, д 35",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/ostankinskij"
+  },
+  {
+    "code": "77RS0020",
+    "name": "Перовский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "111398, г Москва, ул Кусковская, д 8 стр 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/perovskij"
+  },
+  {
+    "code": "77RS0022",
+    "name": "Преображенский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "107076, г Москва, ул 2-я Бухвостова, д 4",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/preobrazhenskij"
+  },
+  {
+    "code": "77RS0021",
+    "name": "Пресненский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "123242, г Москва, ул Зоологическая, д 20",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/presnenskij"
+  },
+  {
+    "code": "77RS0023",
+    "name": "Савеловский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "125196, г Москва, ул Бутырский Вал, д 7 стр 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/savyolovskij"
+  },
+  {
+    "code": "77RS0024",
+    "name": "Симоновский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "115068, г Москва, ул Восточная, д 2 стр 6",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/simonovskij"
+  },
+  {
+    "code": "77RS0025",
+    "name": "Солнцевский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "119618, г Москва, ул 50 лет Октября, д 6 к 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/solncevskij"
+  },
+  {
+    "code": "77RS0026",
+    "name": "Таганский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "109147, г Москва, пер Марксистский, д 1/32",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/taganskij"
+  },
+  {
+    "code": "77RS0027",
+    "name": "Тверской районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "129090, г Москва, ул Каланчевская, д 43А",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/tverskoj"
+  },
+  {
+    "code": "77RS0028",
+    "name": "Тимирязевский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "127238, г Москва, ш Дмитровское, д 65",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/timiryazevskij"
+  },
+  {
+    "code": "77RS0029",
+    "name": "Тушинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "125373, г Москва, ул Героев Панфиловцев, д 26 к 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/tushinskij"
+  },
+  {
+    "code": "77RS0035",
+    "name": "Троицкий районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "108818, г Москва, Троицк р-н, ул Дмитрия Кабалевского, д 6",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/troickij"
+  },
+  {
+    "code": "77RS0030",
+    "name": "Хамовнический районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "119121, г Москва, пер 7-й Ростовский, д 21",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/hamovnicheskij"
+  },
+  {
+    "code": "77RS0031",
+    "name": "Хорошевский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "123154, г Москва, ул Маршала Тухачевского, д 25 стр 1",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/horoshevskij"
+  },
+  {
+    "code": "77RS0032",
+    "name": "Черемушкинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "117218, г Москва, ул Кржижановского, д 20/30 к 3",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/cheryomushkinskij"
+  },
+  {
+    "code": "77RS0033",
+    "name": "Чертановский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "117556, г Москва, ул Артековская, д 3А",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/chertanovskij"
+  },
+  {
+    "code": "77RS0034",
+    "name": "Щербинский районный суд города Москвы",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "117148, г Москва, ул Маршала Савицкого, д 2",
+    "legal_address": null,
+    "website": "https://mos-gorsud.ru/rs/shcherbinskij"
+  }
+]

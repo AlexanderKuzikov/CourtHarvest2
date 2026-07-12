@@ -1,0 +1,112 @@
+[
+  {
+    "code": "49MS0001",
+    "name": "Судебный участок № 1 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://1.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0002",
+    "name": "Судебный участок № 2 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://2.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0003",
+    "name": "Судебный участок № 3 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://3.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0004",
+    "name": "Судебный участок № 4 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://4.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0005",
+    "name": "Судебный участок № 5 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://5.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0006",
+    "name": "Судебный участок № 6 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://6.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0007",
+    "name": "Судебный участок № 7 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://7.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0008",
+    "name": "Судебный участок № 8 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "685000, г Магадан, ул Парковая, д 9/12",
+    "legal_address": null,
+    "website": "http://8.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0009",
+    "name": "Судебный участок № 9 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "686314, Магаданская обл, г Сусуман, ул Билибина, д 15",
+    "legal_address": null,
+    "website": "http://9.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0010",
+    "name": "Судебный участок № 10 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "686110, Магаданская обл, пгт Палатка, ул Центральная, д 24",
+    "legal_address": null,
+    "website": "http://10.mag.msudrf.ru"
+  },
+  {
+    "code": "49MS0011",
+    "name": "Судебный участок № 11 Магаданской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "686230, Магаданская обл, пгт Ягодное, ул Спортивная, д 12",
+    "legal_address": null,
+    "website": "http://11.mag.msudrf.ru"
+  }
+]

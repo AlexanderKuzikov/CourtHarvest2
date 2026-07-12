@@ -1,0 +1,132 @@
+[
+  {
+    "code": "19RS0012",
+    "name": "Абазинский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655750, Респ Хакасия, г Абаза, ул Больничная, д 9А",
+    "legal_address": null,
+    "website": "http://abazinsky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0001",
+    "name": "Абаканский городской суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655017, г Абакан, ул Чертыгашева, д 80",
+    "legal_address": null,
+    "website": "http://abakansky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0005",
+    "name": "Алтайский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655650, Респ Хакасия, с Белый Яр, ул Советская, зд 15",
+    "legal_address": null,
+    "website": "http://altaysky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0004",
+    "name": "Аскизский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655700, Респ Хакасия, с Аскиз, ул Советская, зд 11",
+    "legal_address": null,
+    "website": "http://akzisky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0006",
+    "name": "Бейский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655770, Респ Хакасия, с Бея, ул Лесная, д 3А",
+    "legal_address": null,
+    "website": "http://beysky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0007",
+    "name": "Боградский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655340, Респ Хакасия, с Боград, ул Горная, д 2",
+    "legal_address": null,
+    "website": "http://bogradsky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0008",
+    "name": "Орджоникидзевский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655250, Респ Хакасия, п Копьево, ул Чкалова, д 36",
+    "legal_address": null,
+    "website": "http://ordzhonikidzevsky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0003",
+    "name": "Саяногорский городской суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655603, Респ Хакасия, г Саяногорск, ул Дорожная, стр 7",
+    "legal_address": null,
+    "website": "http://saianogorsky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0013",
+    "name": "Сорский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655111, Респ Хакасия, г Сорск, ул Больничная, д 2",
+    "legal_address": null,
+    "website": "http://sorsky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0009",
+    "name": "Таштыпский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655740, Респ Хакасия, с Таштып, ул Ленина, д 34",
+    "legal_address": null,
+    "website": "http://tashtipsky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0011",
+    "name": "Усть-Абаканский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655100, Респ Хакасия, рп Усть-Абакан, ул Октябрьская, д 16",
+    "legal_address": null,
+    "website": "http://ust-abakansky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0002",
+    "name": "Черногорский городской суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655154, Респ Хакасия, г Черногорск, ул Советская, д 83А",
+    "legal_address": null,
+    "website": "http://chernogorsky.hak.sudrf.ru"
+  },
+  {
+    "code": "19RS0010",
+    "name": "Ширинский районный суд Республики Хакасия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "655200, Респ Хакасия, с Шира, ул Октябрьская, д 75",
+    "legal_address": null,
+    "website": "http://sharinsky.hak.sudrf.ru"
+  }
+]

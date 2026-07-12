@@ -1,0 +1,212 @@
+[
+  {
+    "code": "04RS0001",
+    "name": "Баргузинский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671610, Респ Бурятия, с Баргузин, ул Ленина, зд 24",
+    "legal_address": null,
+    "website": "http://barguzinsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0002",
+    "name": "Баунтовский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671510, Респ Бурятия, с Багдарин, ул Ленина, зд 14",
+    "legal_address": null,
+    "website": "http://bautovsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0003",
+    "name": "Бичурский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671360, Респ Бурятия, с Бичура, ул Советская, зд 1Б",
+    "legal_address": null,
+    "website": "http://bichursky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0004",
+    "name": "Гусиноозерский городской суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671160, Респ Бурятия, г Гусиноозерск, мкр 6-й, д 23",
+    "legal_address": null,
+    "website": "http://gusinoozersky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0005",
+    "name": "Джидинский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671920, Респ Бурятия, с Петропавловка, ул Кирова, д 8",
+    "legal_address": null,
+    "website": "http://dzhidinsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0006",
+    "name": "Еравнинский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671430, Респ Бурятия, с Сосново-Озерское, ул Бадеева, д 52",
+    "legal_address": null,
+    "website": "http://eravninsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0007",
+    "name": "Железнодорожный районный суд г. Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "670045, г Улан-Удэ, ул Ботаническая, д 3Б",
+    "legal_address": null,
+    "website": "http://zheleznodorozhniy.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0008",
+    "name": "Заиграевский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671310, Респ Бурятия, пгт Заиграево, ул Серова, д 11",
+    "legal_address": null,
+    "website": "http://zaigraevsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0009",
+    "name": "Закаменский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671950, Респ Бурятия, г Закаменск, ул Клубная, д 1",
+    "legal_address": null,
+    "website": "http://zakamensky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0010",
+    "name": "Иволгинский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671050, Респ Бурятия, с Иволгинск, ул Куйбышева, д 2А",
+    "legal_address": null,
+    "website": "http://ivolginsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0011",
+    "name": "Кабанский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671200, Респ Бурятия, с Кабанск, ул Кирова, зд 2",
+    "legal_address": null,
+    "website": "http://kabansky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0014",
+    "name": "Кяхтинский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671840, Респ Бурятия, г Кяхта, ул Рабочая, д 59",
+    "legal_address": null,
+    "website": "http://kyahtinsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0015",
+    "name": "Муйский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671560, Респ Бурятия, п Таксимо, ул 70 лет Октября, д 16",
+    "legal_address": null,
+    "website": "http://muisky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0016",
+    "name": "Мухоршибирский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671340, Респ Бурятия, с Мухоршибирь, ул 30 лет Победы, зд 17",
+    "legal_address": null,
+    "website": "http://muhorshibirsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0018",
+    "name": "Октябрьский районный суд г. Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "670031, г Улан-Удэ, ул Геологическая, д 9А",
+    "legal_address": null,
+    "website": "http://oktiabrsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0019",
+    "name": "Прибайкальский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671260, Респ Бурятия, Прибайкальский р-н, с Турунтаево, ул Молодежная, д 15",
+    "legal_address": null,
+    "website": "http://pribaikalsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0020",
+    "name": "Северобайкальский городской суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671700, Респ Бурятия, г Северобайкальск, пер Пролетарский, д 3",
+    "legal_address": null,
+    "website": "http://severobaikalsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0021",
+    "name": "Советский районный суд г. Улан-Удэ Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "670000, г Улан-Удэ, ул Ленина, д 16",
+    "legal_address": null,
+    "website": "http://sovetsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0022",
+    "name": "Тарбагатайский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671110, Респ Бурятия, с Тарбагатай, ул Ленина, д 8",
+    "legal_address": null,
+    "website": "http://tarbagataisky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0023",
+    "name": "Тункинский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671010, Респ Бурятия, с Кырен, ул Ленина, д 73",
+    "legal_address": null,
+    "website": "http://tunkinsky.bur.sudrf.ru"
+  },
+  {
+    "code": "04RS0024",
+    "name": "Хоринский районный суд Республики Бурятия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "671410, Респ Бурятия, с Хоринск, ул Первомайская, д 36",
+    "legal_address": null,
+    "website": "http://horinsky.bur.sudrf.ru"
+  }
+]

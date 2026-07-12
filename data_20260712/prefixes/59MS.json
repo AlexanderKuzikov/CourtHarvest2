@@ -1,0 +1,1462 @@
+[
+  {
+    "code": "59MS0044",
+    "name": "Судебный участок № 1 Александровского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618320, Пермский край, г Александровск, ул Калинина, зд 3",
+    "legal_address": null,
+    "website": "http://44.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0085",
+    "name": "Судебный участок № 1 Бардымского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618150, Пермский край, с Барда, ул Ленина, д 50А",
+    "legal_address": null,
+    "website": "http://85.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0046",
+    "name": "Судебный участок № 1 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://46.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0088",
+    "name": "Судебный участок № 1 Большесосновского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617080, Пермский край, с Большая Соснова, ул Набережная, зд 42",
+    "legal_address": null,
+    "website": "http://88.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0089",
+    "name": "Судебный участок № 1 Верещагинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617120, Пермский край, г Верещагино, ул О.Кошевого, д 22А",
+    "legal_address": null,
+    "website": "http://89.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0055",
+    "name": "Судебный участок № 1 Губахинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618250, Пермский край, г Губаха, ул Дегтярева, д 16А",
+    "legal_address": null,
+    "website": "http://55.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0001",
+    "name": "Судебный участок № 1 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://1.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0057",
+    "name": "Судебный участок № 1 Добрянского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618740, Пермский край, г Добрянка, ул Советская, д 36",
+    "legal_address": null,
+    "website": "http://57.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0094",
+    "name": "Судебный участок № 1 Ильинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617020, Пермский край, п Ильинский, ул Теплоуховых, д 5",
+    "legal_address": null,
+    "website": "http://94.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0007",
+    "name": "Судебный участок № 1 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614036, г Пермь, ул Мира, д 76",
+    "legal_address": null,
+    "website": "http://7.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0060",
+    "name": "Судебный участок № 1 Кизеловского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618353, Пермский край, г Кизел, ул Пролетарская, зд 19",
+    "legal_address": null,
+    "website": "http://60.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0013",
+    "name": "Судебный участок № 1 Кировского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614042, г Пермь, ул Богдана Хмельницкого, д 21",
+    "legal_address": null,
+    "website": "http://13.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0097",
+    "name": "Судебный участок № 1 Красновишерского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618590, Пермский край, г Красновишерск, ул Дзержинского, д 6",
+    "legal_address": null,
+    "website": "http://97.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0062",
+    "name": "Судебный участок № 1 Краснокамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617060, Пермский край, г Краснокамск, пр-кт Мира, д 14",
+    "legal_address": null,
+    "website": "http://62.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0099",
+    "name": "Судебный участок № 1 Куединского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617700, Пермский край, п Куеда, ул Трактовая, д 4",
+    "legal_address": null,
+    "website": "http://99.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0065",
+    "name": "Судебный участок № 1 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617470, Пермский край, г Кунгур, ул Степана Разина, д 21",
+    "legal_address": null,
+    "website": "http://65.perm.msudrf.ru/"
+  },
+  {
+    "code": "59MS0018",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Советская, д 104",
+    "legal_address": null,
+    "website": "http://18.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0068",
+    "name": "Судебный участок № 1 Лысьвенского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618905, Пермский край, г Лысьва, ул Шмидта, д 8/2",
+    "legal_address": null,
+    "website": "http://68.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0022",
+    "name": "Судебный участок № 1 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614070, г Пермь, ул Дружбы, д 12",
+    "legal_address": null,
+    "website": "http://22.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0030",
+    "name": "Судебный участок № 1 Орджоникидзевского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614026, г Пермь, ул Песочная, д 1А",
+    "legal_address": null,
+    "website": "http://30.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0002",
+    "name": "Судебный участок № 2 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://2.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0008",
+    "name": "Судебный участок № 2 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614066, г Пермь, ул Мира, д 78",
+    "legal_address": null,
+    "website": "http://8.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0003",
+    "name": "Судебный участок № 3 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://3.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0009",
+    "name": "Судебный участок № 3 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614066, г Пермь, ул Стахановская, д 51",
+    "legal_address": null,
+    "website": "http://9.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0004",
+    "name": "Судебный участок № 4 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://4.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0005",
+    "name": "Судебный участок № 5 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://5.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0006",
+    "name": "Судебный участок № 6 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614067, г Пермь, ул Хабаровская, д 64",
+    "legal_address": null,
+    "website": "http://6.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0014",
+    "name": "Судебный участок № 2 Кировского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614042, г Пермь, ул Богдана Хмельницкого, д 21",
+    "legal_address": null,
+    "website": "http://14.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0019",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Советская, д 104",
+    "legal_address": null,
+    "website": "http://19.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0015",
+    "name": "Судебный участок № 3 Кировского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614101, г Пермь, ул Федосеева, д 15",
+    "legal_address": null,
+    "website": "http://15.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0010",
+    "name": "Судебный участок № 4 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614066, г Пермь, ул Мира, д 78",
+    "legal_address": null,
+    "website": "http://10.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0016",
+    "name": "Судебный участок № 4 Кировского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614034, г Пермь, ул Генерала Панфилова, д 16",
+    "legal_address": null,
+    "website": "http://16.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0011",
+    "name": "Судебный участок № 5 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614066, г Пермь, ул Стахановская, д 51",
+    "legal_address": null,
+    "website": "http://11.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0017",
+    "name": "Судебный участок № 5 Кировского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614042, г Пермь, ул 4-й Пятилетки, д 2А",
+    "legal_address": null,
+    "website": "http://17.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0012",
+    "name": "Судебный участок № 6 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614066, г Пермь, ул Мира, д 78",
+    "legal_address": null,
+    "website": "http://12.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0023",
+    "name": "Судебный участок № 2 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614107, г Пермь, ул Уральская, д 81",
+    "legal_address": null,
+    "website": "http://23.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0020",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Советская, д 104",
+    "legal_address": null,
+    "website": "http://20.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0024",
+    "name": "Судебный участок № 3 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614014, г Пермь, ул Восстания, д 35",
+    "legal_address": null,
+    "website": "http://24.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0021",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Советская, д 104",
+    "legal_address": null,
+    "website": "http://21.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0025",
+    "name": "Судебный участок № 4 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614014, г Пермь, ул Восстания, д 35",
+    "legal_address": null,
+    "website": "http://25.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0026",
+    "name": "Судебный участок № 5 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614070, г Пермь, ул Дружбы, д 12",
+    "legal_address": null,
+    "website": "http://26.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0027",
+    "name": "Судебный участок № 6 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614014, г Пермь, ул Восстания, д 35",
+    "legal_address": null,
+    "website": "http://27.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0028",
+    "name": "Судебный участок № 7 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614014, г Пермь, ул Восстания, д 35",
+    "legal_address": null,
+    "website": "http://28.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0029",
+    "name": "Судебный участок № 8 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614014, г Пермь, ул Восстания, д 35",
+    "legal_address": null,
+    "website": "http://29.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0035",
+    "name": "Судебный участок № 1 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614007, г Пермь, ул Рабоче-крестьянская, д 2",
+    "legal_address": null,
+    "website": "http://35.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0031",
+    "name": "Судебный участок № 2 Орджоникидзевского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614026, г Пермь, ул Ереванская, д 35",
+    "legal_address": null,
+    "website": "http://31.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0036",
+    "name": "Судебный участок № 2 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614021, г. Пермь, ул. Бородинская, 31/ Лодыгина, 41",
+    "legal_address": null,
+    "website": "http://36.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0032",
+    "name": "Судебный участок № 3 Орджоникидзевского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614026, г Пермь, ул Песочная, д 1А",
+    "legal_address": null,
+    "website": "http://32.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0037",
+    "name": "Судебный участок № 3 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Екатерининская, д 80",
+    "legal_address": null,
+    "website": "http://37.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0033",
+    "name": "Судебный участок № 4 Орджоникидзевского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614030, г Пермь, ул Лобвинская, д 5",
+    "legal_address": null,
+    "website": "http://33.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0038",
+    "name": "Судебный участок № 4 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614010, г Пермь, пр-кт Комсомольский, д 81",
+    "legal_address": null,
+    "website": "http://38.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0034",
+    "name": "Судебный участок № 5 Орджоникидзевского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614030, г Пермь, ул Лобвинская, д 5",
+    "legal_address": null,
+    "website": "http://34.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0039",
+    "name": "Судебный участок № 5 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Екатерининская, д 80",
+    "legal_address": null,
+    "website": "http://39.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0045",
+    "name": "Судебный участок № 2 Александровского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618340, Пермский край, п. Яйва, Александровского района, ул. Энергетиков, д. 3",
+    "legal_address": null,
+    "website": "http://45.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0047",
+    "name": "Судебный участок № 2 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://47.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0048",
+    "name": "Судебный участок № 3 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://48.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0049",
+    "name": "Судебный участок № 4 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://49.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0040",
+    "name": "Судебный участок № 6 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Екатерининская, д 80",
+    "legal_address": null,
+    "website": "http://40.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0041",
+    "name": "Судебный участок № 7 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614010, г Пермь, пр-кт Комсомольский, д 81",
+    "legal_address": null,
+    "website": "http://41.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0042",
+    "name": "Судебный участок № 8 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614021, г. Пермь, ул. Бородинская, 31/ Лодыгина, 41",
+    "legal_address": null,
+    "website": "http://42.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0043",
+    "name": "Судебный участок № 9 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614105, г Пермь, мкр Новые Ляды, ул Транспортная, д 2",
+    "legal_address": null,
+    "website": "http://43.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0056",
+    "name": "Судебный участок № 2 Губахинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618250, Пермский край, г Губаха, ул Дегтярева, д 16А",
+    "legal_address": null,
+    "website": "http://56.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0058",
+    "name": "Судебный участок № 2 Добрянского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618740, Пермский край, г Добрянка, ул Советская, д 36",
+    "legal_address": null,
+    "website": "http://58.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0054",
+    "name": "Судебный участок № 3 Губахинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618270, Пермский край, г Гремячинск, ул Ленина, д 192 к 2",
+    "legal_address": null,
+    "website": "http://54.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0059",
+    "name": "Судебный участок № 3 Добрянского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618740, Пермский край, г Добрянка, ул Советская, д 36",
+    "legal_address": null,
+    "website": "http://59.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0050",
+    "name": "Судебный участок № 5 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://50.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0051",
+    "name": "Судебный участок № 6 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://51.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0052",
+    "name": "Судебный участок № 7 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://52.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0053",
+    "name": "Судебный участок № 8 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618400, Пермский край, г Березники, ул Юбилейная, д 11",
+    "legal_address": null,
+    "website": "http://53.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0061",
+    "name": "Судебный участок № 2 Кизеловского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618353, Пермский край, г Кизел, ул Пролетарская, зд 19",
+    "legal_address": null,
+    "website": "http://61.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0063",
+    "name": "Судебный участок № 2 Краснокамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617060, Пермский край, г Краснокамск, пр-кт Мира, д 14",
+    "legal_address": null,
+    "website": "http://63.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0066",
+    "name": "Судебный участок № 2 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617470, Пермский край, г Кунгур, ул Степана Разина, д 21",
+    "legal_address": null,
+    "website": "http://66.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0069",
+    "name": "Судебный участок № 2 Лысьвенского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618905, Пермский край, г Лысьва, ул Шмидта, д 8/2",
+    "legal_address": null,
+    "website": "http://69.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0064",
+    "name": "Судебный участок № 3 Краснокамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617060, Пермский край, г Краснокамск, пр-кт Мира, д 14",
+    "legal_address": null,
+    "website": "http://64.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0067",
+    "name": "Судебный участок № 3 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617470, Пермский край, г Кунгур, ул Степана Разина, д 21",
+    "legal_address": null,
+    "website": "http://67.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0072",
+    "name": "Судебный участок № 1 Соликамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618554, Пермский край, г Соликамск, ул Калийная, д 134",
+    "legal_address": null,
+    "website": "http://72.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0076",
+    "name": "Судебный участок № 1 Чайковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617762, Пермский край, г Чайковский, ул Промышленная, д 4",
+    "legal_address": null,
+    "website": "http://76.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0073",
+    "name": "Судебный участок № 2 Соликамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618556, Пермский край, г Соликамск, ул Фрунзе, д 18",
+    "legal_address": null,
+    "website": "http://73.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0077",
+    "name": "Судебный участок № 2 Чайковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617762, Пермский край, г Чайковский, ул Промышленная, д 4",
+    "legal_address": null,
+    "website": "http://77.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0070",
+    "name": "Судебный участок № 3 Лысьвенского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618900, Пермский край, г Лысьва, ул Федосеева, д 7",
+    "legal_address": null,
+    "website": "http://70.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0074",
+    "name": "Судебный участок № 3 Соликамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618556, Пермский край, г Соликамск, ул Фрунзе, д 18",
+    "legal_address": null,
+    "website": "http://74.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0071",
+    "name": "Судебный участок № 4 Лысьвенского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618900, Пермский край, г Лысьва, ул Федосеева, д 7",
+    "legal_address": null,
+    "website": "http://71.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0075",
+    "name": "Судебный участок № 4 Соликамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618556, Пермский край, г Соликамск, ул Фрунзе, д 18",
+    "legal_address": null,
+    "website": "http://75.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0079",
+    "name": "Судебный участок № 4 Чайковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617762, Пермский край, г Чайковский, ул Промышленная, д 4",
+    "legal_address": null,
+    "website": "http://79.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0081",
+    "name": "Судебный участок № 1 Чусовского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618204, Пермский край, г Чусовой, ул Мира, д 9",
+    "legal_address": null,
+    "website": "http://81.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0086",
+    "name": "Судебный участок № 2 Бардымского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618150, Пермский край, с Барда, ул Ленина, д 50А",
+    "legal_address": null,
+    "website": "http://86.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0082",
+    "name": "Судебный участок № 2 Чусовского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618204, Пермский край, г Чусовой, ул 50 лет ВЛКСМ, д 13Б/1",
+    "legal_address": null,
+    "website": "http://82.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0083",
+    "name": "Судебный участок № 3 Чусовского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618204, Пермский край, г Чусовой, ул Мира, д 9",
+    "legal_address": null,
+    "website": "http://83.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0084",
+    "name": "Судебный участок № 4 Чусовского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618204, Пермский край, г Чусовой, ул 50 лет ВЛКСМ, д 13Б/1",
+    "legal_address": null,
+    "website": "http://84.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0080",
+    "name": "Судебный участок № 5 Чайковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617762, Пермский край, г Чайковский, ул Промышленная, д 4",
+    "legal_address": null,
+    "website": "http://80.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0087",
+    "name": "Судебный участок № 8 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617570, Пермский край, с Березовка, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://87.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0090",
+    "name": "Судебный участок № 2 Верещагинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617120, Пермский край, г Верещагино, ул О.Кошевого, д 22А",
+    "legal_address": null,
+    "website": "http://90.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0093",
+    "name": "Судебный участок № 3 Осинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618170, Пермский край, с Елово, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://93.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0091",
+    "name": "Судебный участок № 5 Чусовского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618820, Пермский край, г Горнозаводск, ул Мира, д 15",
+    "legal_address": null,
+    "website": "http://91.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0096",
+    "name": "Судебный участок № 7 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617600, Пермский край, с Усть-Кишерть, ул Набережная, д 35",
+    "legal_address": null,
+    "website": "http://96.perm.msudrf.ru/"
+  },
+  {
+    "code": "59MS0129",
+    "name": "Судебный участок № 1 Гайнского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619650, Пермский край, п Гайны, ул Кашина, зд 40",
+    "legal_address": null,
+    "website": "http://129.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0143",
+    "name": "Судебный участок № 1 Карагайского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617210, Пермский край, с Карагай, ул Карла Маркса, зд 23",
+    "legal_address": null,
+    "website": "http://143.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0131",
+    "name": "Судебный участок № 1 Кочевского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619320, Пермский край, с Кочево, ул Надежды Крупской, д 2",
+    "legal_address": null,
+    "website": "http://131.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0127",
+    "name": "Судебный участок № 1 Кудымкарского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619000, Пермский край, г Кудымкар, ул Загородная, д 4",
+    "legal_address": null,
+    "website": "http://127.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0103",
+    "name": "Судебный участок № 1 Нытвенского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617000, Пермский край, г Нытва, ул Карла Маркса, зд 84",
+    "legal_address": null,
+    "website": "http://103.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0105",
+    "name": "Судебный участок № 1 Октябрьского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617860, Пермский край, рп Октябрьский, ул Ленина, д 51",
+    "legal_address": null,
+    "website": "http://105.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0107",
+    "name": "Судебный участок № 1 Ординского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617500, Пермский край, с Орда, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://107.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0108",
+    "name": "Судебный участок № 1 Осинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618120, Пермский край, г Оса, ул Ленина, д 59",
+    "legal_address": null,
+    "website": "http://108.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0111",
+    "name": "Судебный участок № 1 Очерского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617140, Пермский край, г Очер, ул Октябрьская, д 26",
+    "legal_address": null,
+    "website": "http://111.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0112",
+    "name": "Судебный участок № 1 Пермского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614506, Пермский край, Пермский р-н, д Кондратово, ул Садовое Кольцо, д 8",
+    "legal_address": null,
+    "website": "http://112.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0118",
+    "name": "Судебный участок № 1 Суксунского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617560, Пермский край, рп Суксун, ул Карла Маркса, д 17",
+    "legal_address": null,
+    "website": "http://118.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0123",
+    "name": "Судебный участок № 1 Чердынского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618601, Пермский край, г Чердынь, ул Яборова, д 7А",
+    "legal_address": null,
+    "website": "http://123.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0124",
+    "name": "Судебный участок № 1 Чернушинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617832, Пермский край, г. Чернушка, пос. Пермдорстрой, ул. Ленина, 141",
+    "legal_address": null,
+    "website": "http://124.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0121",
+    "name": "Судебный участок № 2 Большесосновского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617170, Пермский край, с Частые, ул Ленина, д 54",
+    "legal_address": null,
+    "website": "http://121.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0155",
+    "name": "Судебный участок № 2 Кочевского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619430, Пермский край, с Коса, ул Ленина, д 102",
+    "legal_address": null,
+    "website": "https://155.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0128",
+    "name": "Судебный участок № 2 Кудымкарского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619000, Пермский край, г Кудымкар, ул Загородная, д 4",
+    "legal_address": null,
+    "website": "http://128.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0100",
+    "name": "Судебный участок № 2 Куединского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617700, Пермский край, п Куеда, ул Трактовая, д 4",
+    "legal_address": null,
+    "website": "http://100.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0104",
+    "name": "Судебный участок № 2 Нытвенского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617000, Пермский край, г Нытва, ул Карла Маркса, зд 84",
+    "legal_address": null,
+    "website": "http://104.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0106",
+    "name": "Судебный участок № 2 Октябрьского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617860, Пермский край, рп Октябрьский, ул Ленина, д 51",
+    "legal_address": null,
+    "website": "http://106.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0119",
+    "name": "Судебный участок № 2 Ординского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617520, Пермский край, с Уинское, ул Свободы, д 43",
+    "legal_address": null,
+    "website": "http://119.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0109",
+    "name": "Судебный участок № 2 Осинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618120, Пермский край, г Оса, ул Ленина, д 59",
+    "legal_address": null,
+    "website": "http://109.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0101",
+    "name": "Судебный участок № 5 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617410, Пермский край, Кунгурский р-н, с Плеханово, ул Центральная, зд 1",
+    "legal_address": null,
+    "website": "http://101.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0102",
+    "name": "Судебный участок № 6 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617470, Пермский край, г Кунгур, ул Полетаевская, д 2",
+    "legal_address": null,
+    "website": "http://102.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0113",
+    "name": "Судебный участок № 2 Пермского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614506, Пермский край, Пермский р-н, д Кондратово, ул Садовое Кольцо, д 8",
+    "legal_address": null,
+    "website": "http://113.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0116",
+    "name": "Судебный участок № 3 Верещагинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617240, Пермский край, с Сива, ул Ленина, д 49",
+    "legal_address": null,
+    "website": "http://116.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0110",
+    "name": "Судебный участок № 3 Нытвенского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618100, Пермский край, г Оханск, ул Первомайская, д 31",
+    "legal_address": null,
+    "website": "http://110.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0114",
+    "name": "Судебный участок № 3 Пермского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614506, Пермский край, Пермский р-н, д Кондратово, ул Садовое Кольцо, д 8",
+    "legal_address": null,
+    "website": "http://114.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0115",
+    "name": "Судебный участок № 4 Пермского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614551, Пермский край, Пермский р-н, с Бершеть, ул Школьная, зд 9",
+    "legal_address": null,
+    "website": "http://115.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0117",
+    "name": "Судебный участок № 6 Соликамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618554, Пермский край, г Соликамск, ул Калийная, д 134",
+    "legal_address": null,
+    "website": "http://117.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0125",
+    "name": "Судебный участок № 2 Чернушинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617832, Пермский край, г. Чернушка, пос. Пермдорстрой, ул. Ленина, 141",
+    "legal_address": null,
+    "website": "http://125.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0126",
+    "name": "Судебный участок № 3 Чернушинского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617832, Пермский край, г. Чернушка, пос. Пермдорстрой, ул. Ленина, 141",
+    "legal_address": null,
+    "website": "http://126.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0120",
+    "name": "Судебный участок № 9 Березниковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618409, Пермский край, г Березники, ул Ивана Дощеникова, д 22",
+    "legal_address": null,
+    "website": "http://120.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0134",
+    "name": "Судебный участок № 3 Кудымкарского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619200, Пермский край, с Юрла, ул Топоркова, зд 18",
+    "legal_address": null,
+    "website": "http://134.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0139",
+    "name": "Судебный участок № 4 Краснокамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617060, Пермский край, г Краснокамск, пр-кт Мира, д 14",
+    "legal_address": null,
+    "website": "http://139.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0133",
+    "name": "Судебный участок № 4 Кудымкарского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619000, Пермский край, г Кудымкар, ул Загородная, д 4",
+    "legal_address": null,
+    "website": "http://133.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0135",
+    "name": "Судебный участок № 5 Кудымкарского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "619170, Пермский край, с Юсьва, ул Чечулина, д 18",
+    "legal_address": null,
+    "website": "http://135.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0138",
+    "name": "Судебный участок № 5 Ленинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614000, г Пермь, ул Советская, д 104",
+    "legal_address": null,
+    "website": "http://138.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0136",
+    "name": "Судебный участок № 7 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://136.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0137",
+    "name": "Судебный участок № 7 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614036, г Пермь, ул Мира, д 76",
+    "legal_address": null,
+    "website": "http://137.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0142",
+    "name": "Судебный участок № 3 Чайковского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617762, Пермский край, г Чайковский, ул Промышленная, д 4",
+    "legal_address": null,
+    "website": "http://142.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0144",
+    "name": "Судебный участок № 4 Кунгурского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "617470, Пермский край, г Кунгур, ул Полетаевская, д 2",
+    "legal_address": null,
+    "website": "http://144.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0146",
+    "name": "Судебный участок № 5 Пермского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://146.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0141",
+    "name": "Судебный участок № 5 Соликамского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "618554, Пермский край, г Соликамск, ул Калийная, д 134",
+    "legal_address": null,
+    "website": "http://141.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0148",
+    "name": "Судебный участок № 6 Кировского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614042, г Пермь, ул Богдана Хмельницкого, д 21",
+    "legal_address": null,
+    "website": "http://148.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0149",
+    "name": "Судебный участок № 6 Орджоникидзевского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614026, г Пермь, ул Ереванская, д 35",
+    "legal_address": null,
+    "website": "http://149.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0147",
+    "name": "Судебный участок № 8 Дзержинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614067, г Пермь, ул Ветлужская, д 62",
+    "legal_address": null,
+    "website": "http://147.perm.msudrf.ru/"
+  },
+  {
+    "code": "59MS0151",
+    "name": "Судебный участок № 6 Пермского судебного района Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614095, г Пермь, ул Танкистов, стр 50",
+    "legal_address": null,
+    "website": "http://151.perm.msudrf.ru/"
+  },
+  {
+    "code": "59MS0154",
+    "name": "Судебный участок № 7 Орджоникидзевского судебного района г. Перми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614107, г Пермь, ул Уральская, д 81",
+    "legal_address": null,
+    "website": "http://154.perm.msudrf.ru"
+  },
+  {
+    "code": "59MS0153",
+    "name": "Судебный участок № 8 Индустриального судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614066, г Пермь, ул Стахановская, д 51",
+    "legal_address": null,
+    "website": "http://153.perm.msudrf.ru/"
+  },
+  {
+    "code": "59MS0152",
+    "name": "Судебный участок № 9 Мотовилихинского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614107, г Пермь, ул Уральская, д 81",
+    "legal_address": null,
+    "website": "http://152.perm.msudrf.ru/"
+  },
+  {
+    "code": "59MS0150",
+    "name": "Судебный участок № 10 Свердловского судебного района г. Перми Пермского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "614021, г Пермь, ул Лодыгина, д 41",
+    "legal_address": null,
+    "website": "http://150.perm.msudrf.ru/"
+  }
+]

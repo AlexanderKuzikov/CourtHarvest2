@@ -1,0 +1,592 @@
+[
+  {
+    "code": "24RS0001",
+    "name": "Абанский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663740, Красноярский край, п Абан, ул Советская, д 60",
+    "legal_address": null,
+    "website": "http://aban.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0002",
+    "name": "Ачинский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662150, Красноярский край, Ачинский р-н, г Ачинск, ул Назарова, зд 28Б",
+    "legal_address": null,
+    "website": "http://achinsk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0003",
+    "name": "Балахтинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662340, Красноярский край, гп Балахта, ул Комсомольская, зд 28",
+    "legal_address": null,
+    "website": "http://balahta.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0004",
+    "name": "Березовский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662520, Красноярский край, г Красноярск, гп Березовка, ул Центральная, д 60",
+    "legal_address": null,
+    "website": "http://berez.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0005",
+    "name": "Бирилюсский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662120, Красноярский край, с Новобирилюссы, ул Советская, стр 149",
+    "legal_address": null,
+    "website": "http://birilus.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0006",
+    "name": "Боготольский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662060, Красноярский край, Боготольский р-н, г Боготол, ул Шикунова, д 1",
+    "legal_address": null,
+    "website": "http://bogotol.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0007",
+    "name": "Богучанский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663431, Красноярский край, с Богучаны, ул Партизанская, д 113",
+    "legal_address": null,
+    "website": "http://boguchan.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0008",
+    "name": "Большемуртинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663060, Красноярский край, гп Большая Мурта, ул Партизанская, д 96",
+    "legal_address": null,
+    "website": "http://murta.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0009",
+    "name": "Большеулуйский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662110, Красноярский край, с Большой Улуй, ул Революции, д 11",
+    "legal_address": null,
+    "website": "http://uluy.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0060",
+    "name": "Бородинский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663981, Красноярский край, Рыбинский р-н, г Бородино, ул Ленина, д 6",
+    "legal_address": null,
+    "website": "http://borodino.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0011",
+    "name": "Дзержинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663700, Красноярский край, с Дзержинское, ул Кирова, зд 3А",
+    "legal_address": null,
+    "website": "http://dzerjinsk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0012",
+    "name": "Дивногорский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663090, Красноярский край, г Дивногорск, ул Комсомольская, зд 2",
+    "legal_address": null,
+    "website": "http://divnogorsk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0013",
+    "name": "Емельяновский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663020, Красноярский край, гп Емельяново, ул Московская, зд 170",
+    "legal_address": null,
+    "website": "http://emel.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0014",
+    "name": "Енисейский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663180, Красноярский край, Енисейский р-н, г Енисейск, ул Худзинского, д 10",
+    "legal_address": null,
+    "website": "http://eniseysk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0015",
+    "name": "Ермаковский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662820, Красноярский край, с Ермаковское, ул Карла Маркса, д 120",
+    "legal_address": null,
+    "website": "http://ermak.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0016",
+    "name": "Железногорский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662971, Красноярский край, г Железногорск, ул Свердлова, зд 9, помещ 1",
+    "legal_address": null,
+    "website": "http://gelgor.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0017",
+    "name": "Железнодорожный районный суд г. Красноярска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "660021, г Красноярск, ул Ленина, д 158",
+    "legal_address": null,
+    "website": "http://geldor.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0018",
+    "name": "Зеленогорский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663690, Красноярский край, г Зеленогорск, ул Бортникова, д 24",
+    "legal_address": null,
+    "website": "http://zelen.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0019",
+    "name": "Игарский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663200, Красноярский край, Туруханский р-н, г Игарка, мкр 2-й, д 3А",
+    "legal_address": null,
+    "website": "http://igarka.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0020",
+    "name": "Идринский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662680, Красноярский край, с Идринское, ул Мира, д 14",
+    "legal_address": null,
+    "website": "http://idra.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0021",
+    "name": "Иланский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663800, Красноярский край, г Иланский, ул Красная, д 25",
+    "legal_address": null,
+    "website": "http://ilansk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0022",
+    "name": "Ирбейский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663650, Красноярский край, с Ирбейское, ул Ленина, д 73",
+    "legal_address": null,
+    "website": "http://irbey.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0023",
+    "name": "Казачинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663100, Красноярский край, с Казачинское, ул Советская, зд 97",
+    "legal_address": null,
+    "website": "http://kazach.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0024",
+    "name": "Канский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул 30 лет ВЛКСМ, д 11",
+    "legal_address": null,
+    "website": "http://kanskgor.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0025",
+    "name": "Канский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663600, Красноярский край, Канский р-н, г Канск, ул Коростелева, д 36",
+    "legal_address": null,
+    "website": "http://kanskray.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0026",
+    "name": "Каратузский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662850, Красноярский край, с Каратузское, ул Ленина, зд 11",
+    "legal_address": null,
+    "website": "http://karatuz.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0027",
+    "name": "Кежемский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663491, Красноярский край, г Кодинск, ул Михайлова, д 1",
+    "legal_address": null,
+    "website": "http://kegma.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0028",
+    "name": "Кировский районный суд г. Красноярска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "660025, г Красноярск, ул Академика Вавилова, д 43Б",
+    "legal_address": null,
+    "website": "http://kirovsk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0029",
+    "name": "Козульский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662050, Красноярский край, гп Козулька, ул Пролетарская, д 34, помещ 4",
+    "legal_address": null,
+    "website": "http://kozul.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0030",
+    "name": "Краснотуранский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662660, Красноярский край, Краснотуранский р-н, с Краснотуранск, ул Ленина, д 57",
+    "legal_address": null,
+    "website": "http://krastur.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0031",
+    "name": "Курагинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662910, Красноярский край, гп Курагино, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://kuragino.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0032",
+    "name": "Ленинский районный суд г. Красноярска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "660037, г Красноярск, ул Коломенская, зд 4А",
+    "legal_address": null,
+    "website": "http://lenins.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0033",
+    "name": "Лесосибирский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662547, Красноярский край, Енисейский р-н, г Лесосибирск, ул Горького, д 114",
+    "legal_address": null,
+    "website": "http://lesosib.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0034",
+    "name": "Манский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663510, Красноярский край, с Шалинское, ул Манская, зд 23",
+    "legal_address": null,
+    "website": "http://mansk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0035",
+    "name": "Минусинский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662608, Красноярский край, Минусинский р-н, г Минусинск, ул Гоголя, д 66А",
+    "legal_address": null,
+    "website": "http://minusa.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0036",
+    "name": "Мотыгинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663400, Красноярский край, гп Мотыгино, ул Дачная, д 14А",
+    "legal_address": null,
+    "website": "http://motig.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0037",
+    "name": "Назаровский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662200, Красноярский край, Назаровский р-н, г Назарово, ул Арбузова, д 112",
+    "legal_address": null,
+    "website": "http://nazarovo.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0038",
+    "name": "Нижнеингашский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663850, Красноярский край, гп Нижний Ингаш, ул Ленина, д 218",
+    "legal_address": null,
+    "website": "http://ingash.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0039",
+    "name": "Новоселовский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662430, Красноярский край, с Новоселово, ул Ленина, зд 19",
+    "legal_address": null,
+    "website": "http://novosel.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0040",
+    "name": "Норильский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663302, Красноярский край, г Норильск, ул Комсомольская, д 21А",
+    "legal_address": null,
+    "website": "http://norilsk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0041",
+    "name": "Октябрьский районный суд г. Красноярска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "660062, г Красноярск, ул Высотная, зд 2Г",
+    "legal_address": null,
+    "website": "http://oktyabr.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0042",
+    "name": "Партизанский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663540, Красноярский край, с Партизанское, ул Гагарина, д 29",
+    "legal_address": null,
+    "website": "http://partiz.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0043",
+    "name": "Пировский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663120, Красноярский край, с Пировское, ул Ленина, стр 27",
+    "legal_address": null,
+    "website": "http://pirovsk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0044",
+    "name": "Рыбинский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663960, Красноярский край, Рыбинский р-н, г Заозерный, ул 40 лет Октября, д 44",
+    "legal_address": null,
+    "website": "http://ribinsk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0045",
+    "name": "Саянский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663580, Красноярский край, с Агинское, ул Советская, зд 106",
+    "legal_address": null,
+    "website": "http://sayansk.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0046",
+    "name": "Свердловский районный суд г. Красноярска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "660064, г Красноярск, пр-кт им.газеты \"Красноярский рабочий\", д 183Б",
+    "legal_address": null,
+    "website": "http://sverdl.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0047",
+    "name": "Северо-Енисейский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663282, Красноярский край, гп Северо-Енисейский, ул Маяковского, зд 14",
+    "legal_address": null,
+    "website": "http://sev-enis.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0048",
+    "name": "Советский районный суд г. Красноярска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "660111, г Красноярск, пр-кт Ульяновский, д 4И",
+    "legal_address": null,
+    "website": "http://sovet.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0049",
+    "name": "Сосновоборский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662500, Красноярский край, г Сосновоборск, ул Энтузиастов, д 28",
+    "legal_address": null,
+    "website": "http://sosnov.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0050",
+    "name": "Сухобузимский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663040, Красноярский край, с Сухобузимское, ул Комсомольская, д 42",
+    "legal_address": null,
+    "website": "http://suhbuz.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0051",
+    "name": "Тасеевский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663770, Красноярский край, с Тасеево, ул Луначарского, зд 35",
+    "legal_address": null,
+    "website": "http://taseevo.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0052",
+    "name": "Туруханский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663230, Красноярский край, с Туруханск, ул Спандаряна, зд 32",
+    "legal_address": null,
+    "website": "http://turuh.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0053",
+    "name": "Тюхтетский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662010, Красноярский край, с Тюхтет, ул Кирова, д 53",
+    "legal_address": null,
+    "website": "http://tuhtet.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0054",
+    "name": "Ужурский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662252, Красноярский край, г Ужур, ул Гоголя, д 1",
+    "legal_address": null,
+    "website": "http://ujur.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0055",
+    "name": "Уярский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "663920, Красноярский край, г Уяр, ул Советская, д 82",
+    "legal_address": null,
+    "website": "http://uyar.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0056",
+    "name": "Центральный районный суд г. Красноярска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "660049, г Красноярск, ул Коммунистическая, зд 1",
+    "legal_address": null,
+    "website": "http://centr.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0057",
+    "name": "Шарыповский городской суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662311, Красноярский край, Шарыповский р-н, г Шарыпово, мкр Пионерный, д 11",
+    "legal_address": null,
+    "website": "http://shargor.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0058",
+    "name": "Шарыповский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662311, Красноярский край, Шарыповский р-н, г Шарыпово, мкр Пионерный, д 11",
+    "legal_address": null,
+    "website": "http://sharray.krk.sudrf.ru"
+  },
+  {
+    "code": "24RS0059",
+    "name": "Шушенский районный суд Красноярского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "662710, Красноярский край, гп Шушенское, ул Вокзальная, зд 1",
+    "legal_address": null,
+    "website": "http://shush.krk.sudrf.ru"
+  }
+]

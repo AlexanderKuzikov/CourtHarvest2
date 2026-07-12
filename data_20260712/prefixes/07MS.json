@@ -1,0 +1,502 @@
+[
+  {
+    "code": "07MS0031",
+    "name": "Судебный участок № 1 Баксанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361535, Респ Кабардино-Балкарская, г Баксан, пр-кт Ленина, д 54",
+    "legal_address": null,
+    "website": "http://bakms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0001",
+    "name": "Судебный участок № 1 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0041",
+    "name": "Судебный участок № 1 Зольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361701, Респ Кабардино-Балкарская, Зольский р-н, п Залукокоаже, ул Комсомольская, д 75",
+    "legal_address": null,
+    "website": "http://zolms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0027",
+    "name": "Судебный участок № 1 Лескенского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361350, Респ Кабардино-Балкарская, с Анзорей, ул Шинахова, д 1В/1",
+    "legal_address": null,
+    "website": "http://leskms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0039",
+    "name": "Судебный участок № 1 Майского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361114, Респ Кабардино-Балкарская, г Майский, ул Комарова, д 15",
+    "legal_address": null,
+    "website": "http://mayms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0020",
+    "name": "Судебный участок № 1 Прохладненского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361045, Респ Кабардино-Балкарская, г Прохладный, ул Ленина, д 104/1",
+    "legal_address": null,
+    "website": "http://prms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0037",
+    "name": "Судебный участок № 1 Терского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361203, Респ Кабардино-Балкарская, г Терек, ул Ленина, д 47",
+    "legal_address": null,
+    "website": "http://terms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0023",
+    "name": "Судебный участок № 1 Урванского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361335, Респ Кабардино-Балкарская, г Нарткала, ул Яхогоева, д 14",
+    "legal_address": null,
+    "website": "http://urvms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0033",
+    "name": "Судебный участок № 1 Чегемского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361401, Респ Кабардино-Балкарская, г Чегем, ш Баксанское, д 1В",
+    "legal_address": null,
+    "website": "http://chegms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0043",
+    "name": "Судебный участок № 1 Черекского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361801, Респ Кабардино-Балкарская, пгт Кашхатау, ул Мечиева, д 193",
+    "legal_address": null,
+    "website": "http://cherms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0045",
+    "name": "Судебный участок № 1 Эльбрусского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361624, Респ Кабардино-Балкарская, г Тырныауз, пр-кт Эльбрусский, зд 39А",
+    "legal_address": null,
+    "website": "http://elbms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0032",
+    "name": "Судебный участок № 2 Баксанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361535, Респ Кабардино-Балкарская, г Баксан, пр-кт Ленина, д 54",
+    "legal_address": null,
+    "website": "http://bakms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0002",
+    "name": "Судебный участок № 2 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360051, г Нальчик, ул Пушкина, д 85",
+    "legal_address": null,
+    "website": "http://nalms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0042",
+    "name": "Судебный участок № 2 Зольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361701, Респ Кабардино-Балкарская, Зольский р-н, п Залукокоаже, ул Комсомольская, д 75",
+    "legal_address": null,
+    "website": "http://zolms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0028",
+    "name": "Судебный участок № 2 Лескенского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361350, Респ Кабардино-Балкарская, с Анзорей, ул Шинахова, д 1В/1",
+    "legal_address": null,
+    "website": "http://leskms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0040",
+    "name": "Судебный участок № 2 Майского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361114, Респ Кабардино-Балкарская, г Майский, ул Комарова, д 15",
+    "legal_address": null,
+    "website": "http://mayms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0021",
+    "name": "Судебный участок № 2 Прохладненского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361045, Респ Кабардино-Балкарская, г Прохладный, ул Ленина, д 104/1",
+    "legal_address": null,
+    "website": "http://prms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0038",
+    "name": "Судебный участок № 2 Терского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361203, Респ Кабардино-Балкарская, г Терек, ул Ленина, д 47",
+    "legal_address": null,
+    "website": "http://terms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0024",
+    "name": "Судебный участок № 2 Урванского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361335, Респ Кабардино-Балкарская, г Нарткала, ул Яхогоева, д 14",
+    "legal_address": null,
+    "website": "http://urvms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0034",
+    "name": "Судебный участок № 2 Чегемского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361401, Респ Кабардино-Балкарская, г Чегем, ш Баксанское, д 1В",
+    "legal_address": null,
+    "website": "http://chegms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0003",
+    "name": "Судебный участок № 3 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms3.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0004",
+    "name": "Судебный участок № 4 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms4.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0005",
+    "name": "Судебный участок № 5 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360051, г Нальчик, ул Пушкина, д 85",
+    "legal_address": null,
+    "website": "http://nalms5.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0006",
+    "name": "Судебный участок № 6 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms6.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0007",
+    "name": "Судебный участок № 7 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360051, г Нальчик, ул Пушкина, д 85",
+    "legal_address": null,
+    "website": "http://nalms7.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0008",
+    "name": "Судебный участок № 8 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms8.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0009",
+    "name": "Судебный участок № 9 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360022, г Нальчик, ул Пушкина, д 101",
+    "legal_address": null,
+    "website": "http://nalms9.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0018",
+    "name": "Судебный участок № 4 Прохладненского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361045, Респ Кабардино-Балкарская, г Прохладный, ул Ленина, д 104/1",
+    "legal_address": null,
+    "website": "http://prohms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0019",
+    "name": "Судебный участок № 5 Прохладненского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361045, Респ Кабардино-Балкарская, г Прохладный, ул Ленина, д 104/1",
+    "legal_address": null,
+    "website": "http://prohms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0010",
+    "name": "Судебный участок № 10 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms10.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0011",
+    "name": "Судебный участок № 11 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms11.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0012",
+    "name": "Судебный участок № 12 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360022, г Нальчик, ул Пушкина, д 101",
+    "legal_address": null,
+    "website": "http://nalms12.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0013",
+    "name": "Судебный участок № 13 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms13.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0014",
+    "name": "Судебный участок № 14 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms14.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0015",
+    "name": "Судебный участок № 15 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms15.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0016",
+    "name": "Судебный участок № 16 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360004, г Нальчик, ул Ногмова, д 72",
+    "legal_address": null,
+    "website": "http://nalms16.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0017",
+    "name": "Судебный участок № 17 г. Нальчика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "360051, г Нальчик, ул Пушкина, д 85",
+    "legal_address": null,
+    "website": "http://nalms17.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0029",
+    "name": "Судебный участок № 3 Баксанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361535, Респ Кабардино-Балкарская, г Баксан, пр-кт Ленина, д 54",
+    "legal_address": null,
+    "website": "http://bakrms1.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0022",
+    "name": "Судебный участок № 3 Прохладненского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361045, Респ Кабардино-Балкарская, г Прохладный, ул Ленина, д 104/1",
+    "legal_address": null,
+    "website": "http://prms3.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0025",
+    "name": "Судебный участок № 3 Урванского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361335, Респ Кабардино-Балкарская, г Нарткала, ул Яхогоева, д 14",
+    "legal_address": null,
+    "website": "http://urvms3.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0026",
+    "name": "Судебный участок № 4 Урванского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361335, Респ Кабардино-Балкарская, г Нарткала, ул Яхогоева, д 14",
+    "legal_address": null,
+    "website": "http://urvms4.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0035",
+    "name": "Судебный участок № 3 Чегемского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361401, Респ Кабардино-Балкарская, г Чегем, ш Баксанское, д 1В",
+    "legal_address": null,
+    "website": "http://chegms3.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0030",
+    "name": "Судебный участок № 4 Баксанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361535, Респ Кабардино-Балкарская, г Баксан, пр-кт Ленина, д 54",
+    "legal_address": null,
+    "website": "http://bakrms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0036",
+    "name": "Судебный участок № 4 Чегемского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361401, Респ Кабардино-Балкарская, г Чегем, ш Баксанское, д 1В",
+    "legal_address": null,
+    "website": "http://chegms4.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0044",
+    "name": "Судебный участок № 2 Черекского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361801, Респ Кабардино-Балкарская, пгт Кашхатау, ул Мечиева, д 193",
+    "legal_address": null,
+    "website": "http://cherms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0046",
+    "name": "Судебный участок № 2 Эльбрусского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361624, Респ Кабардино-Балкарская, г Тырныауз, пр-кт Эльбрусский, зд 39А",
+    "legal_address": null,
+    "website": "http://elbms2.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0049",
+    "name": "Судебный участок № 3 Зольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361701, Респ Кабардино-Балкарская, Зольский р-н, п Залукокоаже, ул Комсомольская, д 75",
+    "legal_address": null,
+    "website": "http://zolms3.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0047",
+    "name": "Судебный участок № 5 Баксанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361535, Респ Кабардино-Балкарская, г Баксан, пр-кт Ленина, д 54",
+    "legal_address": null,
+    "website": "http://bakms5.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0048",
+    "name": "Судебный участок № 6 Баксанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361535, Респ Кабардино-Балкарская, г Баксан, пр-кт Ленина, д 54",
+    "legal_address": null,
+    "website": "http://bakms6.kbr.msudrf.ru"
+  },
+  {
+    "code": "07MS0050",
+    "name": "Судебный участок № 3 Терского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "361203, Респ Кабардино-Балкарская, г Терек, ул Ленина, д 47",
+    "legal_address": null,
+    "website": "http://terms3.kbr.msudrf.ru"
+  }
+]

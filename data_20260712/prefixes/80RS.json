@@ -1,0 +1,32 @@
+[
+  {
+    "code": "80RS0001",
+    "name": "Агинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "687000, Забайкальский край, Агинский р-н, пгт Агинское, ул Базара Ринчино, д 84А",
+    "legal_address": null,
+    "website": "http://aginsky.abao.sudrf.ru"
+  },
+  {
+    "code": "80RS0003",
+    "name": "Дульдургинский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "687200, Забайкальский край, с Дульдурга, ул 8 Марта, зд 22",
+    "legal_address": null,
+    "website": "http://duldurginsky.abao.sudrf.ru"
+  },
+  {
+    "code": "80RS0002",
+    "name": "Могойтуйский районный суд Забайкальского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "687420, Забайкальский край, пгт Могойтуй, ул Первомайская, д 33Б",
+    "legal_address": null,
+    "website": "http://mogoytuysky.abao.sudrf.ru"
+  }
+]

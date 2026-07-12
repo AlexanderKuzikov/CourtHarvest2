@@ -1,0 +1,362 @@
+[
+  {
+    "code": "63RS0029",
+    "name": "Автозаводский районный суд г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "445037, Самарская обл, г Тольятти, проезд Новый, влд 4",
+    "legal_address": null,
+    "website": "http://avtozavodsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0004",
+    "name": "Безенчукский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446250, Самарская обл, пгт Безенчук, ул Советская, д 38",
+    "legal_address": null,
+    "website": "http://bezenchuksky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0002",
+    "name": "Богатовский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446630, Самарская обл, с Богатое, ул Чапаева, зд 12",
+    "legal_address": null,
+    "website": "http://bogatovsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0005",
+    "name": "Большеглушицкий районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446180, Самарская обл., с. Большая Глушица, пл. им. 60-летия Октября, д. 1",
+    "legal_address": null,
+    "website": "http://bolsheglushitsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0007",
+    "name": "Волжский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443051, г Самара, ул Путейская, влд 29",
+    "legal_address": null,
+    "website": "http://volzhsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0044",
+    "name": "Железнодорожный районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443013, г Самара, ул Тухачевского, д 226",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.sam.sudrf.ru/"
+  },
+  {
+    "code": "63RS0009",
+    "name": "Жигулевский городской суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "445350, Самарская обл, г Жигулевск, ул Интернационалистов, д 21А",
+    "legal_address": null,
+    "website": "http://zhigulevsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0010",
+    "name": "Исаклинский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446910, Самарская обл., ст. Шентала, ул. Советская, д. 5 А",
+    "legal_address": null,
+    "website": "http://isaklinsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0013",
+    "name": "Кинель-Черкасский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446350, Самарская обл, с Кинель-Черкассы, ул Красноармейская, д 48",
+    "legal_address": null,
+    "website": "http://kinel-cherkassky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0012",
+    "name": "Кинельский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446430, Самарская обл, г Кинель, ул Крымская, д 18",
+    "legal_address": null,
+    "website": "http://kinelsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0038",
+    "name": "Кировский районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443035, г Самара, пр-кт Кирова, зд 100",
+    "legal_address": null,
+    "website": "http://kirovsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0016",
+    "name": "Клявлинский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446960, Самарская обл, ж/д_ст Клявлино, пр-кт Ленина, д 5",
+    "legal_address": null,
+    "website": "http://klivliansky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0030",
+    "name": "Комсомольский районный суд г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "445012, Самарская обл, г Тольятти, ул Коммунистическая, влд 43",
+    "legal_address": null,
+    "website": "http://komsomolsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0015",
+    "name": "Кошкинский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446800, Самарская обл, с Кошки, ул 60 лет Октября, влд 19",
+    "legal_address": null,
+    "website": "http://koshkinsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0017",
+    "name": "Красноармейский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446140, Самарская обл, с Красноармейское, ул Октябрьская, д 1",
+    "legal_address": null,
+    "website": "http://krasnoarmeisky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0043",
+    "name": "Красноглинский районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443026, г Самара, п Управленческий, ш Красноглинское, д 21",
+    "legal_address": null,
+    "website": "http://krasnoglinsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0014",
+    "name": "Красноярский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446370, Самарская обл, с Красный Яр, ул Кооперативная, зд 107",
+    "legal_address": null,
+    "website": "http://krasnoiarsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0042",
+    "name": "Куйбышевский районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443101, г Самара, тракт Пугачевский, д 65",
+    "legal_address": null,
+    "website": "http://kuibyshevsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0039",
+    "name": "Ленинский районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443013, г Самара, ул Тухачевского, д 226",
+    "legal_address": null,
+    "website": "http://leninsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0019",
+    "name": "Нефтегорский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446600, Самарская обл, г Нефтегорск, ул Ленина, д 16",
+    "legal_address": null,
+    "website": "http://neftegorsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0018",
+    "name": "Новокуйбышевский городской суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446206, Самарская обл, г Новокуйбышевск, ул Сафразьяна, д 7",
+    "legal_address": null,
+    "website": "http://novokuibyshevsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0021",
+    "name": "Октябрьский городской суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "445240, Самарская обл, г Октябрьск, пер Кирпичный, д 9",
+    "legal_address": null,
+    "website": "http://oktiabrsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0020",
+    "name": "Отрадненский городской суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446304, Самарская обл, г Отрадный, ул Советская, д 38",
+    "legal_address": null,
+    "website": "http://otradnensky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0022",
+    "name": "Похвистневский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446450, Самарская обл, г Похвистнево, ул Лермонтова, д 18А",
+    "legal_address": null,
+    "website": "http://pohvestnensky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0024",
+    "name": "Приволжский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "445560, Самарская обл, с Приволжье, пер Северный, д 3",
+    "legal_address": null,
+    "website": "http://privolzhsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0028",
+    "name": "Сергиевский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446540, Самарская обл, с Сергиевск, ул Советская, зд 35",
+    "legal_address": null,
+    "website": "http://sergievsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0027",
+    "name": "Ставропольский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "445011, Самарская обл, г Тольятти, ул Горького, д 1",
+    "legal_address": null,
+    "website": "http://stavropolsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0025",
+    "name": "Сызранский городской суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Советская, д 41",
+    "legal_address": null,
+    "website": "http://syzransky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0026",
+    "name": "Сызранский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446001, Самарская обл, г Сызрань, ул Ульяновская, д 127",
+    "legal_address": null,
+    "website": "http://sizransky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0037",
+    "name": "Самарский районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443041, г Самара, ул Рабочая, д 21",
+    "legal_address": null,
+    "website": "http://samarsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0031",
+    "name": "Центральный районный суд г. Тольятти Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "445020, Самарская обл, г Тольятти, ул Белорусская, влд 16",
+    "legal_address": null,
+    "website": "http://centralny.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0033",
+    "name": "Чапаевский городской суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446100, Самарская обл, г Чапаевск, ул Ленина, зд 64А",
+    "legal_address": null,
+    "website": "http://chapaevsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0035",
+    "name": "Шигонский районный суд Самарской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "446720, Самарская обл, Шигонский р-н, с Шигоны, пл Ленина, зд 4",
+    "legal_address": null,
+    "website": "http://shigonsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0040",
+    "name": "Октябрьский районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443056, г Самара, ул Мичурина, д 125А",
+    "legal_address": null,
+    "website": "http://oktyabrsky.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0045",
+    "name": "Промышленный районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443111, г Самара, ул Фадеева, д 58А",
+    "legal_address": null,
+    "website": "http://promyshleny.sam.sudrf.ru"
+  },
+  {
+    "code": "63RS0041",
+    "name": "Советский районный суд г. Самары",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "443090, г Самара, ул Советской Армии, д 125",
+    "legal_address": null,
+    "website": "http://sovetsky.sam.sudrf.ru"
+  }
+]

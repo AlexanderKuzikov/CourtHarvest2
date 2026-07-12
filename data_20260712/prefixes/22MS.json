@@ -1,0 +1,1432 @@
+[
+  {
+    "code": "22MS0042",
+    "name": "Судебный участок Алейского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658135, Алтайский край, г Алейск, ул Сердюка, д 154",
+    "legal_address": null,
+    "website": "http://alern.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0043",
+    "name": "Судебный участок Баевского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658510, Алтайский край, с Баево, ул Ленина, д 41",
+    "legal_address": null,
+    "website": "http://baern.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0052",
+    "name": "Судебный участок Бурлинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658810, Алтайский край, с Бурла, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://brlrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0053",
+    "name": "Судебный участок Быстроистокского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659560, Алтайский край, с Быстрый Исток, ул Ленина, д 48",
+    "legal_address": null,
+    "website": "http://bistrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0054",
+    "name": "Судебный участок Волчихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658930, Алтайский край, с Волчиха, ул Ленина, д 89",
+    "legal_address": null,
+    "website": "http://volchrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0049",
+    "name": "Судебный участок г. Белокуриха Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659900, Алтайский край, г Белокуриха, ул Братьев Ждановых, д 23",
+    "legal_address": null,
+    "website": "http://blk.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0055",
+    "name": "Судебный участок Егорьевского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658280, Алтайский край, с Новоегорьевское, ул Машинцева, влд 13",
+    "legal_address": null,
+    "website": "http://egrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0056",
+    "name": "Судебный участок Ельцовского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659470, Алтайский край, с Ельцовка, ул им Шацкого, д 17",
+    "legal_address": null,
+    "website": "http://elrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0057",
+    "name": "Судебный участок Завьяловского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658620, Алтайский край, с Завьялово, ул Коммунаров, влд 37",
+    "legal_address": null,
+    "website": "http://zavrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0058",
+    "name": "Судебный участок Залесовского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659220, Алтайский край, с Залесово, ул Партизанская, д 24А",
+    "legal_address": null,
+    "website": "http://zalrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0038",
+    "name": "Судебный участок Заринского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659100, Алтайский край, г Заринск, ул 25 Партсъезда, зд 38/1",
+    "legal_address": null,
+    "website": "http://zarrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0063",
+    "name": "Судебный участок Змеиногорского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658481, Алтайский край, г Змеиногорск, ул Ленина, зд 41",
+    "legal_address": null,
+    "website": "http://zmrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0064",
+    "name": "Судебный участок Зонального района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659400, Алтайский край, с Зональное, ул Ленина, зд 9",
+    "legal_address": null,
+    "website": "http://zonrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0065",
+    "name": "Судебный участок Калманского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659040, Алтайский край, с Калманка, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://kalmrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0069",
+    "name": "Судебный участок Ключевского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658980, Алтайский край, с Ключи, ул Урицкого, д 5",
+    "legal_address": null,
+    "website": "http://klrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0070",
+    "name": "Судебный участок Косихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659820, Алтайский край, с Косиха, ул Комсомольская, д 1А",
+    "legal_address": null,
+    "website": "http://ksxrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0071",
+    "name": "Судебный участок Красногорского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659500, Алтайский край, с Красногорское, ул Советская, влд 85",
+    "legal_address": null,
+    "website": "http://kragrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0072",
+    "name": "Судебный участок Краснощековского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658340, Алтайский край, с Краснощёково, ул Садовая, зд 24",
+    "legal_address": null,
+    "website": "http://kraw.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0073",
+    "name": "Судебный участок Крутихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658750, Алтайский край, с Крутиха, ул Ленинградская, влд 35",
+    "legal_address": null,
+    "website": "http://krurn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0074",
+    "name": "Судебный участок Кулундинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658920, Алтайский край, Кулундинский р-н, с Кулунда, ул Советская, д 32",
+    "legal_address": null,
+    "website": "http://kulrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0008",
+    "name": "Судебный участок № 1 Железнодорожного района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://zd1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0001",
+    "name": "Судебный участок № 1 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0009",
+    "name": "Судебный участок № 2 Железнодорожного района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://zd2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0002",
+    "name": "Судебный участок № 2 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0003",
+    "name": "Судебный участок № 3 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0004",
+    "name": "Судебный участок № 4 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0005",
+    "name": "Судебный участок № 5 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr5.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0006",
+    "name": "Судебный участок № 6 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr6.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0007",
+    "name": "Судебный участок № 7 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr7.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0015",
+    "name": "Судебный участок № 1 Октябрьского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://okt1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0016",
+    "name": "Судебный участок № 2 Октябрьского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://okt2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0010",
+    "name": "Судебный участок № 3 Железнодорожного района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://zd3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0017",
+    "name": "Судебный участок № 3 Октябрьского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://okt3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0011",
+    "name": "Судебный участок № 4 Железнодорожного района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://zd4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0018",
+    "name": "Судебный участок № 4 Октябрьского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://okt4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0012",
+    "name": "Судебный участок № 5 Железнодорожного района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://zd5.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0019",
+    "name": "Судебный участок № 5 Октябрьского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://okt5.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0013",
+    "name": "Судебный участок № 6 Железнодорожного района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://zd6.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0014",
+    "name": "Судебный участок № 7 Железнодорожного района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://zd7.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0029",
+    "name": "Судебный участок № 1 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0021",
+    "name": "Судебный участок № 1 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0022",
+    "name": "Судебный участок № 2 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0023",
+    "name": "Судебный участок № 3 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0024",
+    "name": "Судебный участок № 4 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0025",
+    "name": "Судебный участок № 5 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk5.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0026",
+    "name": "Судебный участок № 6 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk6.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0020",
+    "name": "Судебный участок № 6 Октябрьского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://okt6.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0027",
+    "name": "Судебный участок № 7 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk7.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0028",
+    "name": "Судебный участок № 8 г. Рубцовска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubcovsk8.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0039",
+    "name": "Судебный участок Смоленского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659600, Алтайский край, с Смоленское, ул Советская, д 107А",
+    "legal_address": null,
+    "website": "http://smolrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0037",
+    "name": "Судебный участок № 1 Алтайского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659650, Алтайский край, с Алтайское, ул Советская, влд 124",
+    "legal_address": null,
+    "website": "http://altrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0035",
+    "name": "Судебный участок № 1 Бийского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biyskrn1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0036",
+    "name": "Судебный участок № 2 Бийского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biyskrn2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0030",
+    "name": "Судебный участок № 2 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0031",
+    "name": "Судебный участок № 3 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0032",
+    "name": "Судебный участок № 4 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0033",
+    "name": "Судебный участок № 10 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk10.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0034",
+    "name": "Судебный участок № 11 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk11.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0040",
+    "name": "Судебный участок № 1 г. Алейска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658135, Алтайский край, г Алейск, ул Сердюка, д 154",
+    "legal_address": null,
+    "website": "http://ale1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0041",
+    "name": "Судебный участок № 2 г. Алейска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658135, Алтайский край, г Алейск, ул Сердюка, д 154",
+    "legal_address": null,
+    "website": "http://ale2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0044",
+    "name": "Судебный участок № 5 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk5.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0045",
+    "name": "Судебный участок № 6 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk6.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0046",
+    "name": "Судебный участок № 7 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk7.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0047",
+    "name": "Судебный участок № 8 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk8.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0048",
+    "name": "Судебный участок № 9 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk9.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0050",
+    "name": "Судебный участок № 1 Благовещенского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658670, Алтайский край, рп Благовещенка, пер Кучеровых, д 79",
+    "legal_address": null,
+    "website": "http://blag1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0059",
+    "name": "Судебный участок № 1 г. Заринска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659100, Алтайский край, г Заринск, ул 25 Партсъезда, зд 38/1",
+    "legal_address": null,
+    "website": "http://zar1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0051",
+    "name": "Судебный участок № 2 Благовещенского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658670, Алтайский край, рп Благовещенка, пер Кучеровых, д 79",
+    "legal_address": null,
+    "website": "http://blag2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0066",
+    "name": "Судебный участок № 1 Каменского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658700, Алтайский край, г Камень-на-Оби, ул Громова, д 49",
+    "legal_address": null,
+    "website": "http://kno1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0060",
+    "name": "Судебный участок № 2 г. Заринска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659100, Алтайский край, г Заринск, ул 25 Партсъезда, зд 38/1",
+    "legal_address": null,
+    "website": "http://zar2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0067",
+    "name": "Судебный участок № 2 Каменского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658700, Алтайский край, г Камень-на-Оби, ул Громова, д 49",
+    "legal_address": null,
+    "website": "http://kno2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0061",
+    "name": "Судебный участок № 3 г. Заринска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659100, Алтайский край, г Заринск, ул 25 Партсъезда, зд 38/1",
+    "legal_address": null,
+    "website": "http://zar3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0068",
+    "name": "Судебный участок № 3 Каменского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658700, Алтайский край, г Камень-на-Оби, ул Громова, д 49",
+    "legal_address": null,
+    "website": "http://kamrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0076",
+    "name": "Судебный участок Курьинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658320, Алтайский край, с Курья, ул Центральная, влд 86",
+    "legal_address": null,
+    "website": "http://kurrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0077",
+    "name": "Судебный участок Кытмановского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659240, Алтайский край, с Кытманово, пер Садовый, влд 8",
+    "legal_address": null,
+    "website": "http://ktmrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0078",
+    "name": "Судебный участок № 1 Локтевского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658420, Алтайский край, г Горняк, ул Маяковского, влд 132А",
+    "legal_address": null,
+    "website": "http://lokt1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0079",
+    "name": "Судебный участок № 2 Локтевского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658420, Алтайский край, г Горняк, ул Маяковского, влд 132А",
+    "legal_address": null,
+    "website": "http://lokt2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0080",
+    "name": "Судебный участок Мамонтовского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658560, Алтайский край, с Мамонтово, ул Партизанская, зд 125",
+    "legal_address": null,
+    "website": "http://mam1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0082",
+    "name": "Судебный участок Михайловского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658960, Алтайский край, с Михайловское, пр-кт Октябрьский, зд 3",
+    "legal_address": null,
+    "website": "http://mix.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0084",
+    "name": "Судебный участок Немецкого национального района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658870, Алтайский край, с Гальбштадт, ул Клубная, влд 6",
+    "legal_address": null,
+    "website": "http://nemrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0085",
+    "name": "Судебный участок Новичихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659730, Алтайский край, с Новичиха, ул Ленинская, влд 22",
+    "legal_address": null,
+    "website": "http://nvchrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0086",
+    "name": "Судебный участок № 1 г. Новоалтайска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658080, Алтайский край, г Новоалтайск, ул Хлебозаводская, влд 12",
+    "legal_address": null,
+    "website": "http://nalt1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0087",
+    "name": "Судебный участок № 2 г. Новоалтайска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658080, Алтайский край, г Новоалтайск, ул Хлебозаводская, влд 12",
+    "legal_address": null,
+    "website": "http://nalt2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0088",
+    "name": "Судебный участок № 3 г. Новоалтайска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658080, Алтайский край, г Новоалтайск, ул Хлебозаводская, влд 12",
+    "legal_address": null,
+    "website": "http://nalt3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0089",
+    "name": "Судебный участок № 4 г. Новоалтайска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658080, Алтайский край, г Новоалтайск, ул Хлебозаводская, влд 12",
+    "legal_address": null,
+    "website": "http://nalt4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0092",
+    "name": "Судебный участок Панкрушихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658760, Алтайский край, с Панкрушиха, ул Ленина, влд 19",
+    "legal_address": null,
+    "website": "http://pankrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0096",
+    "name": "Судебный участок Петропавловского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659660, Алтайский край, с Петропавловское, ул Ленина, д 81А",
+    "legal_address": null,
+    "website": "http://ppav1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0097",
+    "name": "Судебный участок Поспелихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659700, Алтайский край, с Поспелиха, ул Советская, зд 89",
+    "legal_address": null,
+    "website": "http://posp.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0099",
+    "name": "Судебный участок Ребрихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658540, Алтайский край, с Ребриха, пр-кт Победы, д 43",
+    "legal_address": null,
+    "website": "http://rebrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0090",
+    "name": "Судебный участок № 1 Павловского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659000, Алтайский край, с Павловск, ул Ленина, д 32А",
+    "legal_address": null,
+    "website": "http://pav1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0093",
+    "name": "Судебный участок № 1 Первомайского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658080, Алтайский край, г Новоалтайск, ул Хлебозаводская, влд 12",
+    "legal_address": null,
+    "website": "http://perv1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0091",
+    "name": "Судебный участок № 2 Павловского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659000, Алтайский край, с Павловск, ул Ленина, д 32А",
+    "legal_address": null,
+    "website": "http://pav2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0094",
+    "name": "Судебный участок № 2 Первомайского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658080, Алтайский край, г Новоалтайск, ул Хлебозаводская, влд 12",
+    "legal_address": null,
+    "website": "http://perv2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0095",
+    "name": "Судебный участок № 3 Первомайского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658080, Алтайский край, г Новоалтайск, ул Хлебозаводская, влд 12",
+    "legal_address": null,
+    "website": "http://perv3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0128",
+    "name": "Судебный участок г. Яровое Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658837, Алтайский край, г Яровое, ул Ленина, д 16",
+    "legal_address": null,
+    "website": "http://yrvg.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0100",
+    "name": "Судебный участок Родинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659780, Алтайский край, с Родино, ул Шевченко, зд 5",
+    "legal_address": null,
+    "website": "http://rodrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0101",
+    "name": "Судебный участок Романовского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658640, Алтайский край, с Романово, ул Советская, влд 71",
+    "legal_address": null,
+    "website": "http://romrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0102",
+    "name": "Судебный участок Рубцовского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658201, Алтайский край, г Рубцовск, ул Октябрьская, д 159",
+    "legal_address": null,
+    "website": "http://rubrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0106",
+    "name": "Судебный участок Советского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659540, Алтайский край, с Советское, ул Кирова, влд 96",
+    "legal_address": null,
+    "website": "http://sovrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0107",
+    "name": "Судебный участок Солонешенского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659690, Алтайский край, с Солонешное, ул Горная, д 2",
+    "legal_address": null,
+    "website": "http://solnrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0108",
+    "name": "Судебный участок Солтонского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659520, Алтайский край, с Солтон, ул Ленина, д 32",
+    "legal_address": null,
+    "website": "http://soltrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0109",
+    "name": "Судебный участок Суетского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658690, Алтайский край, с Верх-Суетка, ул Ленина, д 99",
+    "legal_address": null,
+    "website": "http://suetrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0110",
+    "name": "Судебный участок Табунского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658860, Алтайский край, с Табуны, пер Центральный, д 6",
+    "legal_address": null,
+    "website": "http://tabrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0113",
+    "name": "Судебный участок Тогульского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659450, Алтайский край, с Тогул, ул Пролетарская, зд 21",
+    "legal_address": null,
+    "website": "http://togrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0114",
+    "name": "Судебный участок Топчихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659070, Алтайский край, с Топчиха, ул Куйбышева, д 35",
+    "legal_address": null,
+    "website": "http://toprn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0115",
+    "name": "Судебный участок Третьяковского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658450, Алтайский край, с Староалейское, ул Калашникова, зд 40А",
+    "legal_address": null,
+    "website": "http://trtrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0118",
+    "name": "Судебный участок Тюменцевского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658580, Алтайский край, с Тюменцево, ул Барнаульская, д 7",
+    "legal_address": null,
+    "website": "http://tumrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0119",
+    "name": "Судебный участок Угловского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658270, Алтайский край, с Угловское, ул Чапаева, влд 149",
+    "legal_address": null,
+    "website": "http://uglrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0120",
+    "name": "Судебный участок Усть-Калманского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658150, Алтайский край, с Усть-Калманка, ул Ленина, д 19",
+    "legal_address": null,
+    "website": "http://ukalm.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0121",
+    "name": "Судебный участок Усть-Пристанского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659580, Алтайский край, с Усть-Чарышская Пристань, ул 1 Мая, зд 13",
+    "legal_address": null,
+    "website": "http://uprist.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0122",
+    "name": "Судебный участок Хабарского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658780, Алтайский край, с Хабары, ул Ленина, д 67",
+    "legal_address": null,
+    "website": "http://habrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0123",
+    "name": "Судебный участок Целинного района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659430, Алтайский край, с Целинное, ул Победы, влд 25",
+    "legal_address": null,
+    "website": "http://celrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0124",
+    "name": "Судебный участок Чарышского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658170, Алтайский край, с Чарышское, ул Центральная, д 26/1",
+    "legal_address": null,
+    "website": "http://chrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0125",
+    "name": "Судебный участок Шелаболихинского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659050, Алтайский край, с Шелаболиха, ул 50 лет Алтая, зд 1",
+    "legal_address": null,
+    "website": "http://shlbrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0103",
+    "name": "Судебный участок № 1 г. Славгорода Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658820, Алтайский край, г Славгород, ул Ленина, влд 198",
+    "legal_address": null,
+    "website": "http://slavg1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0104",
+    "name": "Судебный участок № 2 г. Славгорода Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658820, Алтайский край, г Славгород, ул Ленина, влд 198",
+    "legal_address": null,
+    "website": "http://slavg2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0105",
+    "name": "Судебный участок № 3 г. Славгорода Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658820, Алтайский край, г Славгород, ул Ленина, влд 198",
+    "legal_address": null,
+    "website": "http://skavgrn.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0111",
+    "name": "Судебный участок № 1 Тальменского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658030, Алтайский край, рп Тальменка, ул Партизанская, д 78",
+    "legal_address": null,
+    "website": "http://tlmrn1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0116",
+    "name": "Судебный участок № 1 Троицкого района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659840, Алтайский край, с Троицкое, пр-кт Ленина, д 9",
+    "legal_address": null,
+    "website": "http://troirn1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0112",
+    "name": "Судебный участок № 2 Тальменского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658030, Алтайский край, рп Тальменка, ул Партизанская, д 78",
+    "legal_address": null,
+    "website": "http://tlmrn2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0117",
+    "name": "Судебный участок № 2 Троицкого района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659840, Алтайский край, с Троицкое, пр-кт Ленина, д 9",
+    "legal_address": null,
+    "website": "http://troirn2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0129",
+    "name": "Судебный участок № 1 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0126",
+    "name": "Судебный участок № 1 Шипуновского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658390, Алтайский край, с Шипуново, пр-кт Комсомольский, влд 46",
+    "legal_address": null,
+    "website": "http://ship1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0127",
+    "name": "Судебный участок № 2 Шипуновского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "658390, Алтайский край, с Шипуново, пр-кт Комсомольский, влд 46",
+    "legal_address": null,
+    "website": "http://ship2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0137",
+    "name": "Судебный участок № 1 Ленинского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://len1.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0130",
+    "name": "Судебный участок № 2 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0138",
+    "name": "Судебный участок № 2 Ленинского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://len2.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0131",
+    "name": "Судебный участок № 3 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0139",
+    "name": "Судебный участок № 3 Ленинского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://len3.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0132",
+    "name": "Судебный участок № 4 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0133",
+    "name": "Судебный участок № 5 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind5.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0134",
+    "name": "Судебный участок № 6 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind6.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0135",
+    "name": "Судебный участок № 7 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind7.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0136",
+    "name": "Судебный участок № 8 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind8.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0144",
+    "name": "Судебный участок № 2 Алтайского района Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659650, Алтайский край, с Алтайское, ул Советская, влд 124",
+    "legal_address": null,
+    "website": "http://altrn2.alt.msudrf.ru/"
+  },
+  {
+    "code": "22MS0140",
+    "name": "Судебный участок № 4 Ленинского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://len4.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0141",
+    "name": "Судебный участок № 5 Ленинского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://len5.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0142",
+    "name": "Судебный участок № 6 Ленинского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://len6.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0143",
+    "name": "Судебный участок № 7 Ленинского района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://len7.alt.msudrf.ru"
+  },
+  {
+    "code": "22MS0145",
+    "name": "Судебный участок № 8 Центрального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656031, г Барнаул, ул Силикатная, д 5",
+    "legal_address": null,
+    "website": "http://centr8.alt.msudrf.ru/"
+  },
+  {
+    "code": "22MS0146",
+    "name": "Судебный участок № 9 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind9.alt.msudrf.ru/"
+  },
+  {
+    "code": "22MS0147",
+    "name": "Судебный участок № 10 Индустриального района г. Барнаула Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "656062, г Барнаул, ул Попова, д 68",
+    "legal_address": null,
+    "website": "http://ind10.alt.msudrf.ru/"
+  },
+  {
+    "code": "22MS0148",
+    "name": "Судебный участок № 12 г. Бийска Алтайского края",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "659300, Алтайский край, г Бийск, ул Валериана Куйбышева, д 106",
+    "legal_address": null,
+    "website": "http://biysk12.alt.msudrf.ru"
+  }
+]

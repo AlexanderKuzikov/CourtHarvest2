@@ -1,0 +1,162 @@
+[
+  {
+    "code": "65RS0002",
+    "name": "Александровск-Сахалинский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694420, Сахалинская обл, г Александровск-Сахалинский, ул Советская, д 7А",
+    "legal_address": null,
+    "website": "http://aleksandrovsk.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0003",
+    "name": "Анивский районный суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694030, Сахалинская обл, г Анива, ул Ленина, д 39",
+    "legal_address": null,
+    "website": "http://anivskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0004",
+    "name": "Долинский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694051, Сахалинская обл, г Долинск, ул Сахалинская, влд 8",
+    "legal_address": null,
+    "website": "http://dolinskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0005",
+    "name": "Корсаковский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694020, Сахалинская обл., г. Корсаков, ул. Флотская, д. 62 Б, (гражд.), 694020, г. Корсаков, ул. Флотская, д. 19",
+    "legal_address": null,
+    "website": "http://korsakovskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0006",
+    "name": "Курильский районный суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694530, Сахалинская обл, г Курильск, ул Сахалинская, д 1 к а",
+    "legal_address": null,
+    "website": "http://kurilskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0008",
+    "name": "Невельский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694740, Сахалинская обл, г Невельск, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://nevelskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0009",
+    "name": "Ногликский районный суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694450, Сахалинская обл, пгт Ноглики, ул Пограничная, зд 6",
+    "legal_address": null,
+    "website": "http://noglikskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0010",
+    "name": "Охинский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694496, Сахалинская обл, г Оха, ул Ленина, д 8",
+    "legal_address": null,
+    "website": "http://ohinskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0011",
+    "name": "Поронайский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694240, Сахалинская обл, г Поронайск, ул Октябрьская, д 66",
+    "legal_address": null,
+    "website": "http://poronaiskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0012",
+    "name": "Северо-Курильский районный суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694550, Сахалинская обл, г Северо-Курильск, ул Вилкова, д 4",
+    "legal_address": null,
+    "website": "http://s-kurilskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0013",
+    "name": "Смирныховский районный суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694350, Сахалинская обл, пгт Смирных, ул Пирогова, зд 6А",
+    "legal_address": null,
+    "website": "http://smirnihovskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0015",
+    "name": "Тымовский районный суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694400, Сахалинская обл, пгт Тымовское, ул Кировская, д 88А",
+    "legal_address": null,
+    "website": "http://timovskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0016",
+    "name": "Углегорский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694920, Сахалинская обл, г Углегорск, ул Бумажная, д 1",
+    "legal_address": null,
+    "website": "http://uglegorskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0017",
+    "name": "Холмский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694620, Сахалинская обл, г Холмск, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://holmskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0018",
+    "name": "Южно-Курильский районный суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "694500, Сахалинская обл, пгт Южно-Курильск, кв-л Ильичева, д 7",
+    "legal_address": null,
+    "website": "http://u-kurilskiy.sah.sudrf.ru"
+  },
+  {
+    "code": "65RS0001",
+    "name": "Южно-Сахалинский городской суд Сахалинской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "693020, г Южно-Сахалинск, ул Бумажная, д 34",
+    "legal_address": null,
+    "website": "http://u-sahalinsky.sah.sudrf.ru"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "code": "16RS0045",
+    "name": "Авиастроительный районный суд г. Казани Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "420127, г Казань, ул Чайковского, д 19",
+    "legal_address": null,
+    "website": "http://aviastroitelny.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0001",
+    "name": "Агрызский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422233, Респ Татарстан, г Агрыз, ул Казанская, д 67",
+    "legal_address": null,
+    "website": "http://agryzsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0035",
+    "name": "Азнакаевский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423330, Респ Татарстан, г Азнакаево, ул Булгар, д 15",
+    "legal_address": null,
+    "website": "http://aznakaevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0002",
+    "name": "Аксубаевский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423060, Респ Татарстан, пгт Аксубаево, ул Ленина, зд 10",
+    "legal_address": null,
+    "website": "http://aksubaevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0003",
+    "name": "Актанышский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423740, Респ Татарстан, с Актаныш, пр-кт Ленина, д 13",
+    "legal_address": null,
+    "website": "http://aktanyshsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0004",
+    "name": "Алексеевский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422900, Респ Татарстан, пгт Алексеевское, пл Советская, зд 11Б",
+    "legal_address": null,
+    "website": "http://alekseevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0005",
+    "name": "Алькеевский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422870, Респ Татарстан, с Базарные Матаки, ул Мусы Джалиля, д 21",
+    "legal_address": null,
+    "website": "http://alkeevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0036",
+    "name": "Альметьевский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423455, Респ Татарстан, г Альметьевск, ул Ленина, д 121",
+    "legal_address": null,
+    "website": "http://almetevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0006",
+    "name": "Апастовский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422350, Респ Татарстан, пгт Апастово, ул Шоссейная, зд 7",
+    "legal_address": null,
+    "website": "http://apastovsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0007",
+    "name": "Арский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422000, Респ Татарстан, г Арск, пл Советская, д 9",
+    "legal_address": null,
+    "website": "http://arsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0008",
+    "name": "Атнинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422750, Респ Татарстан, с Большая Атня, ул Б.Зиганшина, д 10",
+    "legal_address": null,
+    "website": "http://atninsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0009",
+    "name": "Бавлинский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423930, Респ Татарстан, г Бавлы, ул Х.Такташа, д 28",
+    "legal_address": null,
+    "website": "http://bavlinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0010",
+    "name": "Балтасинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422250, Респ Татарстан, пгт Балтаси, ул В.Булатова, зд 24/4",
+    "legal_address": null,
+    "website": "http://baltasinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0037",
+    "name": "Бугульминский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423230, Респ Татарстан, г Бугульма, ул Владимира Ленина, д 18",
+    "legal_address": null,
+    "website": "http://bugulminsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0011",
+    "name": "Буинский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422433, Респ Татарстан, г Буинск, ул Ленина, д 45",
+    "legal_address": null,
+    "website": "http://buinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0046",
+    "name": "Вахитовский районный суд г. Казани Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "420043, г Казань, ул Лесгафта, д 33",
+    "legal_address": null,
+    "website": "http://vahitovsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0012",
+    "name": "Верхнеуслонский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422570, Респ Татарстан, с Верхний Услон, ул Советская, д 55",
+    "legal_address": null,
+    "website": "http://verhne-uslonsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0013",
+    "name": "Высокогорский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422700, Респ Татарстан, п ж/д станции Высокая Гора, ул Советская, д 11",
+    "legal_address": null,
+    "website": "http://vysogorsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0014",
+    "name": "Дрожжановский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422470, Респ Татарстан, с Старое Дрожжаное, ул С.Нафиева, зд 17",
+    "legal_address": null,
+    "website": "http://drozhanovsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0038",
+    "name": "Елабужский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423603, Респ Татарстан, г Елабуга, ул Молодежная, д 18",
+    "legal_address": null,
+    "website": "http://elabuzhsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0015",
+    "name": "Кайбицкий районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422330, Респ Татарстан, с Большие Кайбицы, ул Солнечный бульвар, д 14",
+    "legal_address": null,
+    "website": "http://kaibicky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0016",
+    "name": "Камско-Устьинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422820, Респ Татарстан, пгт Камское Устье, ул Советская, зд 9",
+    "legal_address": null,
+    "website": "http://kamsko-ustinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0017",
+    "name": "Кукморский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422110, Респ Татарстан, г Кукмор, ул Октябрьская, д 2",
+    "legal_address": null,
+    "website": "http://kukmorsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0018",
+    "name": "Лаишевский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422610, Респ Татарстан, г Лаишево, ул Космонавтов, д 5",
+    "legal_address": null,
+    "website": "http://laishevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0019",
+    "name": "Мамадышский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422191, Респ Татарстан, г Мамадыш, ул Давыдова, д 38А",
+    "legal_address": null,
+    "website": "http://mamadyshsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0020",
+    "name": "Менделеевский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423650, Респ Татарстан, г Менделеевск, ул Пионерская, д 7",
+    "legal_address": null,
+    "website": "http://mendeleevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0021",
+    "name": "Мензелинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423702, Респ Татарстан, г Мензелинск, ул Изыскателей, зд 1/39",
+    "legal_address": null,
+    "website": "http://menzelinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0022",
+    "name": "Муслюмовский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423970, Респ Татарстан, с Муслюмово, ул Пушкина, зд 28",
+    "legal_address": null,
+    "website": "http://musliumovsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0023",
+    "name": "Новошешминский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423190, Респ Татарстан, с Новошешминск, ул Ленина, влд 40",
+    "legal_address": null,
+    "website": "http://novosheshminsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0024",
+    "name": "Нурлатский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423040, Респ Татарстан, г Нурлат, ул Г.Кариева, д 1В",
+    "legal_address": null,
+    "website": "http://nurlatsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0025",
+    "name": "Пестречинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422770, Респ Татарстан, с Пестрецы, ул Советская, д 16А",
+    "legal_address": null,
+    "website": "http://pestrechinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0026",
+    "name": "Рыбно-Слободский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422650, Респ Татарстан, пгт Рыбная Слобода, ул Советская, зд 64",
+    "legal_address": null,
+    "website": "http://rybno-slobodsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0027",
+    "name": "Сабинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422060, Респ Татарстан, пгт Богатые Сабы, ул Тукая, зд 12А",
+    "legal_address": null,
+    "website": "http://sabinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0028",
+    "name": "Сармановский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423350, Респ Татарстан, с Сарманово, ул В.Терешковой, д 6",
+    "legal_address": null,
+    "website": "http://sarmanovsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0029",
+    "name": "Спасский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422840, Респ Татарстан, г Болгар, ул Горького, зд 16А",
+    "legal_address": null,
+    "website": "http://spassky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0039",
+    "name": "Заинский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423520, Респ Татарстан, г Заинск, пр-кт Нефтяников, д 27А",
+    "legal_address": null,
+    "website": "http://zainsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0030",
+    "name": "Тетюшский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422370, Респ Татарстан, г Тетюши, ул Некрасова, д 24",
+    "legal_address": null,
+    "website": "http://tetiushsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0031",
+    "name": "Тукаевский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423800, Респ Татарстан, г Набережные Челны, наб им Габдуллы Тукая, зд 31А",
+    "legal_address": null,
+    "website": "http://tukaevsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0032",
+    "name": "Тюлячинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422080, Респ Татарстан, с Тюлячи, ул Садовая, зд 11",
+    "legal_address": null,
+    "website": "http://tiuliachinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0033",
+    "name": "Черемшанский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423100, Респ Татарстан, с Черемшан, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://cheremshansky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0034",
+    "name": "Ютазинский районный суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423950, Респ Татарстан, пгт Уруссу, ул Альберта Шамкина, д 47",
+    "legal_address": null,
+    "website": "http://utazinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0040",
+    "name": "Зеленодольский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422545, Респ Татарстан, г Зеленодольск, ул Сайдашева, д 4",
+    "legal_address": null,
+    "website": "http://zelenodolsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0047",
+    "name": "Кировский районный суд г. Казани Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "420066, г Казань, ул Правосудия, д 4",
+    "legal_address": null,
+    "website": "http://kirovsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0041",
+    "name": "Лениногорский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423251, Респ Татарстан, г Лениногорск, ул Агадуллина, д 12",
+    "legal_address": null,
+    "website": "http://leninogorsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0048",
+    "name": "Московский районный суд г. Казани Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "420034, г Казань, ул Правосудия, д 2",
+    "legal_address": null,
+    "website": "http://moskovsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0042",
+    "name": "Набережночелнинский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423827, Респ Татарстан, г Набережные Челны, ул 40 лет Победы, зд 102",
+    "legal_address": null,
+    "website": "http://naberezhno-chelninsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0043",
+    "name": "Нижнекамский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, пр-кт Вахитова, зд 24",
+    "legal_address": null,
+    "website": "http://nizhnekamsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0049",
+    "name": "Ново-Савиновский районный суд г. Казани Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "420094, г Казань, ул Короленко, д 58А",
+    "legal_address": null,
+    "website": "http://novo-savinsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0044",
+    "name": "Чистопольский городской суд Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "422986, Респ Татарстан, г Чистополь, ул Энгельса, д 152Б",
+    "legal_address": null,
+    "website": "http://chistopolsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0050",
+    "name": "Приволжский районный суд г. Казани Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "420101, г Казань, ул Хусаина Мавлютова, д 50",
+    "legal_address": null,
+    "website": "http://privolzhsky.tat.sudrf.ru"
+  },
+  {
+    "code": "16RS0051",
+    "name": "Советский районный суд г. Казани Республики Татарстан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "420081, г Казань, ул Патриса Лумумбы, зд 48",
+    "legal_address": null,
+    "website": "http://sovetsky.tat.sudrf.ru"
+  }
+]

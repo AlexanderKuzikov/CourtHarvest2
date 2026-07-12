@@ -1,0 +1,162 @@
+[
+  {
+    "code": "13RS0004",
+    "name": "Ардатовский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431860, Респ Мордовия, г Ардатов, пер Луначарского, д 12А",
+    "legal_address": null,
+    "website": "http://ardatovsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0006",
+    "name": "Атяшевский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431800, Респ Мордовия, рп Атяшево, ул Центральная, д 22",
+    "legal_address": null,
+    "website": "http://atyashevsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0011",
+    "name": "Зубово-Полянский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431110, Респ Мордовия, рп Зубова Поляна, ул Советская, д 30",
+    "legal_address": null,
+    "website": "http://zubovo-polyansky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0012",
+    "name": "Инсарский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431430, Респ Мордовия, г Инсар, ул Красноармейская, зд 1",
+    "legal_address": null,
+    "website": "http://insarsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0001",
+    "name": "Ичалковский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431640, Респ Мордовия, с Кемля, пер Больничный, д 2",
+    "legal_address": null,
+    "website": "http://ichalkovsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0013",
+    "name": "Ковылкинский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431350, Респ Мордовия, г Ковылкино, ул Первомайская, д 5",
+    "legal_address": null,
+    "website": "http://kovilkinsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0015",
+    "name": "Краснослободский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431260, Респ Мордовия, г Краснослободск, ул Кирова, д 2А",
+    "legal_address": null,
+    "website": "http://krasnoslobodsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0023",
+    "name": "Ленинский районный суд г. Саранска Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "430027, г Саранск, ул Республиканская, д 94",
+    "legal_address": null,
+    "website": "http://leninsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0017",
+    "name": "Лямбирский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431510, Респ Мордовия, с Лямбирь, ул Ленина, зд 1В",
+    "legal_address": null,
+    "website": "http://lyambirsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0025",
+    "name": "Октябрьский районный суд г. Саранска Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "430033, г Саранск, пр-кт 70 лет Октября, д 77",
+    "legal_address": null,
+    "website": "http://oktyabrsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0024",
+    "name": "Пролетарский районный суд г. Саранска Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "430034, г Саранск, ул Коваленко, д 47А",
+    "legal_address": null,
+    "website": "http://proletarsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0018",
+    "name": "Ромодановский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431602, Респ Мордовия, п Ромоданово, ул Кирова, зд 9",
+    "legal_address": null,
+    "website": "http://romodanovsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0019",
+    "name": "Рузаевский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431440, Респ Мордовия, г Рузаевка, ул Карла Маркса, д 6",
+    "legal_address": null,
+    "website": "http://ruzaevsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0002",
+    "name": "Темниковский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431220, Респ Мордовия, г Темников, ул Бараева, д 3",
+    "legal_address": null,
+    "website": "http://temnikovsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0022",
+    "name": "Торбеевский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431030, Респ Мордовия, рп Торбеево, ул Водная, д 1Б",
+    "legal_address": null,
+    "website": "http://torbeevsky.mor.sudrf.ru"
+  },
+  {
+    "code": "13RS0003",
+    "name": "Чамзинский районный суд Республики Мордовия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "431722, Респ Мордовия, рп Чамзинка, ул Республиканская, д 25",
+    "legal_address": null,
+    "website": "http://chamzinsky.mor.sudrf.ru"
+  }
+]

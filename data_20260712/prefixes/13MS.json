@@ -1,0 +1,442 @@
+[
+  {
+    "code": "13MS0001",
+    "name": "Судебный участок мирового судьи Ардатовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431860, Респ Мордовия, г Ардатов, пер Луначарского, д 12А",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/1"
+  },
+  {
+    "code": "13MS0002",
+    "name": "Судебный участок мирового судьи Атюрьевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431050, Респ Мордовия, с Атюрьево, ул Кирова, д 1",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/2"
+  },
+  {
+    "code": "13MS0003",
+    "name": "Судебный участок мирового судьи Атяшевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431800, Респ Мордовия, рп Атяшево, ул Центральная, д 22",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/3"
+  },
+  {
+    "code": "13MS0004",
+    "name": "Судебный участок мирового судьи Большеберезниковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431750, Респ Мордовия, с Большие Березники, ул Ульяновская, д 19",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/4"
+  },
+  {
+    "code": "13MS0005",
+    "name": "Судебный участок мирового судьи Большеигнатовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431670, Респ Мордовия, с Большое Игнатово, ул Советская, д 19",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/5"
+  },
+  {
+    "code": "13MS0006",
+    "name": "Судебный участок мирового судьи Дубенского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431770, Респ Мордовия, с Дубенки, ул Денисова, д 2",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/6"
+  },
+  {
+    "code": "13MS0007",
+    "name": "Судебный участок мирового судьи Ельниковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431370, Респ Мордовия, с Ельники, пл 1 Мая, стр 17",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/7"
+  },
+  {
+    "code": "13MS0010",
+    "name": "Судебный участок мирового судьи Инсарского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431430, Респ Мордовия, г Инсар, ул Красноармейская, зд 1",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/10"
+  },
+  {
+    "code": "13MS0011",
+    "name": "Судебный участок мирового судьи Ичалковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431640, Респ Мордовия, с Кемля, ул Советская, д 33",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/11"
+  },
+  {
+    "code": "13MS0012",
+    "name": "Судебный участок мирового судьи Кадошкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431900, Респ Мордовия, рп Кадошкино, ул Октябрьская, д 1",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/12"
+  },
+  {
+    "code": "13MS0016",
+    "name": "Судебный участок мирового судьи Кочкуровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431580, Респ Мордовия, Кочкуровский р-н, с Кочкурово, ул Нагорная, д 6",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/16"
+  },
+  {
+    "code": "13MS0017",
+    "name": "Судебный участок мирового судьи Краснослободского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431260, Респ Мордовия, г Краснослободск, пл Советская, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/17"
+  },
+  {
+    "code": "13MS0032",
+    "name": "Судебный участок мирового судьи Ромодановского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431600, Респ Мордовия, п Ромоданово, ул Центральная, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/32"
+  },
+  {
+    "code": "13MS0037",
+    "name": "Судебный участок мирового судьи Старошайговского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431540, Респ Мордовия, с Старое Шайгово, ул Ленина, зд 9",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/37"
+  },
+  {
+    "code": "13MS0038",
+    "name": "Судебный участок мирового судьи Темниковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431220, Респ Мордовия, г Темников, ул Ленина, д 49",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/38"
+  },
+  {
+    "code": "13MS0039",
+    "name": "Судебный участок мирового судьи Теньгушевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431210, Респ Мордовия, с Теньгушево, ул Ленина, д 72А",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/39"
+  },
+  {
+    "code": "13MS0040",
+    "name": "Судебный участок мирового судьи Торбеевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431030, Респ Мордовия, рп Торбеево, ул Водная, д 1Б",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/40"
+  },
+  {
+    "code": "13MS0008",
+    "name": "Судебный участок № 1 мирового судьи Зубово-Полянского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431110, Респ Мордовия, рп Зубова Поляна, пер Почтовый, д 17",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/8"
+  },
+  {
+    "code": "13MS0013",
+    "name": "Судебный участок № 1 мирового судьи Ковылкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431350, Респ Мордовия, г Ковылкино, ул Первомайская, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/13"
+  },
+  {
+    "code": "13MS0018",
+    "name": "Судебный участок № 1 мирового судьи Ленинского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430032, г Саранск, ул Энгельса, д 15 к 8",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/18"
+  },
+  {
+    "code": "13MS0009",
+    "name": "Судебный участок № 2 мирового судьи Зубово-Полянского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431110, Респ Мордовия, рп Зубова Поляна, пер Почтовый, д 17",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/9"
+  },
+  {
+    "code": "13MS0014",
+    "name": "Судебный участок № 2 мирового судьи Ковылкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431350, Респ Мордовия, г Ковылкино, ул Первомайская, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/14"
+  },
+  {
+    "code": "13MS0019",
+    "name": "Судебный участок № 2 мирового судьи Ленинского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430032, г Саранск, ул Энгельса, д 15 к 8",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/19"
+  },
+  {
+    "code": "13MS0015",
+    "name": "Судебный участок № 5 мирового судьи Ленинского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430032, г Саранск, ул Энгельса, д 15 к 8",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/15"
+  },
+  {
+    "code": "13MS0022",
+    "name": "Судебный участок № 1 мирового судьи Лямбирского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431510, Респ Мордовия, с Лямбирь, ул Ленина, д 1Б",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/22"
+  },
+  {
+    "code": "13MS0024",
+    "name": "Судебный участок № 1 мирового судьи Октябрьского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430004, г Саранск, ул Республиканская, д 46",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/24"
+  },
+  {
+    "code": "13MS0028",
+    "name": "Судебный участок № 1 мирового судьи Пролетарского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430034, г Саранск, ул Коваленко, д 47А",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/28"
+  },
+  {
+    "code": "13MS0023",
+    "name": "Судебный участок № 2 мирового судьи Лямбирского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431510, Респ Мордовия, с Лямбирь, ул Ленина, д 1Б",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/23"
+  },
+  {
+    "code": "13MS0025",
+    "name": "Судебный участок № 2 мирового судьи Октябрьского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430004, г Саранск, ул Республиканская, д 46",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/25"
+  },
+  {
+    "code": "13MS0029",
+    "name": "Судебный участок № 2 мирового судьи Пролетарского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430034, г Саранск, ул Коваленко, д 47А",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/29"
+  },
+  {
+    "code": "13MS0020",
+    "name": "Судебный участок № 3 мирового судьи Ленинского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430032, г Саранск, ул Энгельса, д 15 к 8",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/20"
+  },
+  {
+    "code": "13MS0026",
+    "name": "Судебный участок № 3 мирового судьи Октябрьского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430004, г Саранск, ул Республиканская, д 46",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/26"
+  },
+  {
+    "code": "13MS0021",
+    "name": "Судебный участок № 4 мирового судьи Ленинского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430032, г Саранск, ул Энгельса, д 15 к 8",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/21"
+  },
+  {
+    "code": "13MS0027",
+    "name": "Судебный участок № 4 мирового судьи Октябрьского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430004, г Саранск, ул Республиканская, д 46",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/27"
+  },
+  {
+    "code": "13MS0036",
+    "name": "Судебный участок № 1 мирового судьи Рузаевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431440, Респ Мордовия, г Рузаевка, ул Карла Маркса, д 7",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/36"
+  },
+  {
+    "code": "13MS0034",
+    "name": "Судебный участок № 2 мирового судьи Рузаевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431440, Респ Мордовия, г Рузаевка, ул Карла Маркса, д 7",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/34"
+  },
+  {
+    "code": "13MS0030",
+    "name": "Судебный участок № 3 мирового судьи Пролетарского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430034, г Саранск, ул Коваленко, д 47А",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/30"
+  },
+  {
+    "code": "13MS0035",
+    "name": "Судебный участок № 3 мирового судьи Рузаевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431440, Респ Мордовия, г Рузаевка, ул Карла Маркса, д 7",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/35"
+  },
+  {
+    "code": "13MS0031",
+    "name": "Судебный участок № 4 мирового судьи Пролетарского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "430034, г Саранск, ул Коваленко, д 47А",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/31"
+  },
+  {
+    "code": "13MS0041",
+    "name": "Судебный участок № 1 мирового судьи Чамзинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431722, Респ Мордовия, рп Чамзинка, ул Республиканская, д 25",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/41"
+  },
+  {
+    "code": "13MS0042",
+    "name": "Судебный участок № 2 мирового судьи Чамзинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "431722, Респ Мордовия, рп Чамзинка, ул Республиканская, д 25",
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/42"
+  },
+  {
+    "code": "13MS0044",
+    "name": "Судебный участок № 5 мирового судьи Октябрьского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/44"
+  },
+  {
+    "code": "13MS0043",
+    "name": "Судебный участок № 6 мирового судьи Ленинского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/43"
+  },
+  {
+    "code": "13MS0045",
+    "name": "Судебный участок № 6 мирового судьи Октябрьского района г. Саранска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "http://mirsud.e-mordovia.ru/Home/Index/45"
+  }
+]

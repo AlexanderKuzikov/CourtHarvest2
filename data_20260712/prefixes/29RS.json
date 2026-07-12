@@ -1,0 +1,222 @@
+[
+  {
+    "code": "29RS0001",
+    "name": "Вельский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "165150, Архангельская обл, г Вельск, ул Дзержинского, д 36А",
+    "legal_address": null,
+    "website": "http://velsksud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0003",
+    "name": "Вилегодский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "165680, Архангельская обл, с Ильинско-Подомское, ул Комсомольская, д 8",
+    "legal_address": null,
+    "website": "http://vilegsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0004",
+    "name": "Виноградовский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164570, Архангельская обл., Виноградовский р-н, п. Двинской Березник, ул. Хаджи Мурата, д. 17",
+    "legal_address": null,
+    "website": "http://vinogsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0005",
+    "name": "Исакогорский районный суд г. Архангельска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "163000, г Архангельск, пр-кт Ломоносова, д 203",
+    "legal_address": null,
+    "website": "http://sudis.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0007",
+    "name": "Коношский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164010, Архангельская обл, рп Коноша, пр-кт Октябрьский, д 22",
+    "legal_address": null,
+    "website": "http://konoshasud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0010",
+    "name": "Коряжемский городской суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "165654, Архангельская обл, г Коряжма, ул Кутузова, д 4",
+    "legal_address": null,
+    "website": "http://koryazhmasud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0008",
+    "name": "Котласский городской суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "165300, Архангельская обл, г Котлас, ул Мелентьева, д 27, кв 3",
+    "legal_address": null,
+    "website": "http://kotlasgrsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0011",
+    "name": "Красноборский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "165430, Архангельская обл, с Красноборск, ул Красная, д 5",
+    "legal_address": null,
+    "website": "http://krasnsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0013",
+    "name": "Лешуконский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164670, Архангельская обл, с Лешуконское, ул Победы, д 16",
+    "legal_address": null,
+    "website": "http://leshksud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0014",
+    "name": "Ломоносовский районный суд г. Архангельска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "163002, г Архангельск, ул Романа Куликова, д 15",
+    "legal_address": null,
+    "website": "http://lomonosovsky.arh.sudrf.ru/"
+  },
+  {
+    "code": "29RS0028",
+    "name": "Мирнинский городской суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164170, Архангельская обл, г Мирный, ул Чайковского, д 12А/1",
+    "legal_address": null,
+    "website": "http://mirnsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0016",
+    "name": "Новодвинский городской суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164900, Архангельская обл, г Новодвинск, ул Ворошилова, д 3А",
+    "legal_address": null,
+    "website": "http://novodvdsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0017",
+    "name": "Няндомский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164200, Архангельская обл, г Няндома, ул Леваневского, зд 41А",
+    "legal_address": null,
+    "website": "http://nyandomasud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0018",
+    "name": "Октябрьский районный суд г. Архангельска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "163000, г Архангельск, наб Северной Двины, д 112",
+    "legal_address": null,
+    "website": "http://oktsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0019",
+    "name": "Онежский городской суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164840, Архангельская обл, г Онега, пр-кт Кирова, д 132",
+    "legal_address": null,
+    "website": "http://onegasud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0020",
+    "name": "Пинежский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164600, Архангельская обл, с Карпогоры, ул Федора Абрамова, д 49А",
+    "legal_address": null,
+    "website": "http://pinegasud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0021",
+    "name": "Плесецкий районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164262, Архангельская обл, рп Плесецк, ул Ленина, д 24",
+    "legal_address": null,
+    "website": "http://pleseck.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0022",
+    "name": "Приморский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "163000, г Архангельск, пр-кт Ломоносова, д 203",
+    "legal_address": null,
+    "website": "http://primsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0023",
+    "name": "Северодвинский городской суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164500, Архангельская обл, г Северодвинск, ул Ломоносова, д 107А",
+    "legal_address": null,
+    "website": "http://seversud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0024",
+    "name": "Соломбальский районный суд г. Архангельска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "163020, г Архангельск, пр-кт Никольский, д 46",
+    "legal_address": null,
+    "website": "http://solombsud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0025",
+    "name": "Устьянский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "165210, Архангельская обл, рп Октябрьский, ул Ленина, зд 19",
+    "legal_address": null,
+    "website": "http://ustyansud.arh.sudrf.ru"
+  },
+  {
+    "code": "29RS0026",
+    "name": "Холмогорский районный суд Архангельской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "164530, Архангельская обл, с Холмогоры, ул Ломоносова, д 36А",
+    "legal_address": null,
+    "website": "http://holmsud.arh.sudrf.ru"
+  }
+]

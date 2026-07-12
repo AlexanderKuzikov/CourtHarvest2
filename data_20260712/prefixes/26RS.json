@@ -1,0 +1,352 @@
+[
+  {
+    "code": "26RS0004",
+    "name": "Александровский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356300, Ставропольский край, с Александровское, ул Войтика, д 9",
+    "legal_address": null,
+    "website": "http://aleksandrovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0007",
+    "name": "Андроповский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357070, Ставропольский край, с Курсавка, ул Стратийчука, д 126А",
+    "legal_address": null,
+    "website": "http://andropovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0005",
+    "name": "Апанасенковский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356720, Ставропольский край, с Дивное, ул Советская, д 35",
+    "legal_address": null,
+    "website": "http://apanasenkovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0006",
+    "name": "Арзгирский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356570, Ставропольский край, с Арзгир, ул Шоссейная, д 9",
+    "legal_address": null,
+    "website": "http://arzgirsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0009",
+    "name": "Благодарненский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356420, Ставропольский край, г Благодарный, ул Ленина, д 174",
+    "legal_address": null,
+    "website": "http://blagodarnensky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0008",
+    "name": "Буденновский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356809, Ставропольский край, г Буденновск, мкр 8, д 13А",
+    "legal_address": null,
+    "website": "http://budenovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0010",
+    "name": "Георгиевский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357827, Ставропольский край, г Георгиевск, ул Калинина, д 117",
+    "legal_address": null,
+    "website": "http://georgievsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0011",
+    "name": "Грачевский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356250, Ставропольский край, с Грачевка, ул Советская, д 2А",
+    "legal_address": null,
+    "website": "http://grachevsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0012",
+    "name": "Ессентукский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357601, Ставропольский край, г Ессентуки, ул Вокзальная, зд 57/1",
+    "legal_address": null,
+    "website": "http://essentuksky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0013",
+    "name": "Железноводский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357400, Ставропольский край, г Железноводск, ул Ленина, д 69",
+    "legal_address": null,
+    "website": "http://zheleznovodsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0014",
+    "name": "Изобильненский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356140, Ставропольский край, г Изобильный, ул Ленина, д 3",
+    "legal_address": null,
+    "website": "http://izobylnensky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0015",
+    "name": "Ипатовский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356630, Ставропольский край, г Ипатово, ул Орджоникидзе, зд 99",
+    "legal_address": null,
+    "website": "http://ipatovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0016",
+    "name": "Кировский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357300, Ставропольский край, г Новопавловск, ул Ставропольская, д 56",
+    "legal_address": null,
+    "website": "http://kirovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0017",
+    "name": "Кисловодский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357700, Ставропольский край, г Кисловодск, пр-кт Ленина, д 22",
+    "legal_address": null,
+    "website": "http://kislovodsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0020",
+    "name": "Кочубеевский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357000, Ставропольский край, с Кочубеевское, ул Братская, зд 104",
+    "legal_address": null,
+    "website": "http://kochubeevsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0018",
+    "name": "Красногвардейский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356030, Ставропольский край, с Красногвардейское, ул Ленина, д 91",
+    "legal_address": null,
+    "website": "http://krasnogvardeysky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0019",
+    "name": "Курский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357851, Ставропольский край, ст-ца Курская, ул Комарова, д 2А",
+    "legal_address": null,
+    "website": "http://kursky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0022",
+    "name": "Левокумский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357961, Ставропольский край, с Левокумское, ул Молодогвардейская, д 15",
+    "legal_address": null,
+    "website": "http://levokumsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0002",
+    "name": "Ленинский районный суд г. Ставрополя",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "355035, г Ставрополь, ул Дзержинского, д 235",
+    "legal_address": null,
+    "website": "http://lenynsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0021",
+    "name": "Лермонтовский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357342, Ставропольский край, г Лермонтов, ул Пятигорская, д 11",
+    "legal_address": null,
+    "website": "http://lermontovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0003",
+    "name": "Октябрьский районный суд г. Ставрополя",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "355035, г Ставрополь, ул Дзержинского, д 235",
+    "legal_address": null,
+    "website": "http://oktyabrsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0001",
+    "name": "Промышленный районный суд г. Ставрополя",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "355035, г Ставрополь, ул Дзержинского, д 235",
+    "legal_address": null,
+    "website": "http://promyshleny.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0023",
+    "name": "Минераловодский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357202, Ставропольский край, г Минеральные Воды, пр-кт Карла Маркса, д 58",
+    "legal_address": null,
+    "website": "http://mineralovodsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0024",
+    "name": "Невинномысский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357100, Ставропольский край, г Невинномысск, ул Степная, д 16Б",
+    "legal_address": null,
+    "website": "http://nevinnomysky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0026",
+    "name": "Нефтекумский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356882, Ставропольский край, г Нефтекумск, ул Дзержинского, д 11",
+    "legal_address": null,
+    "website": "http://neftekumsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0025",
+    "name": "Новоалександровский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356000, Ставропольский край, г Новоалександровск, ул Ленина, д 123",
+    "legal_address": null,
+    "website": "http://novoaleksandrovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0027",
+    "name": "Новоселицкий районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356350, Ставропольский край, с Новоселицкое, ул Школьная, д 8",
+    "legal_address": null,
+    "website": "http://novoselicky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0028",
+    "name": "Петровский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356530, Ставропольский край, г Светлоград, ул Ленина, зд 24",
+    "legal_address": null,
+    "website": "http://petrovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0029",
+    "name": "Пятигорский городской суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357502, Ставропольский край, г Пятигорск, ул Университетская, д 34А",
+    "legal_address": null,
+    "website": "http://piatigorsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0030",
+    "name": "Предгорный районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357350, Ставропольский край, ст-ца Ессентукская, ул Гагарина, д 74",
+    "legal_address": null,
+    "website": "http://predgorny.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0031",
+    "name": "Советский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357911, Ставропольский край, г Зеленокумск, ул Советская, д 12А",
+    "legal_address": null,
+    "website": "http://sovetsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0032",
+    "name": "Степновский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "357930, Ставропольский край, с Степное, ул П.Явецкого, д 61",
+    "legal_address": null,
+    "website": "http://stepnovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0033",
+    "name": "Труновский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356170, Ставропольский край, с Донское, ул Ленина, д 1",
+    "legal_address": null,
+    "website": "http://trunovsky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0034",
+    "name": "Туркменский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356540, Ставропольский край, с Летняя Ставка, ул Советская, д 128А",
+    "legal_address": null,
+    "website": "http://turkmensky.stv.sudrf.ru"
+  },
+  {
+    "code": "26RS0035",
+    "name": "Шпаковский районный суд Ставропольского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "356240, Ставропольский край, г Михайловск, ул Гагарина, д 372",
+    "legal_address": null,
+    "website": "http://shpakovsky.stv.sudrf.ru"
+  }
+]

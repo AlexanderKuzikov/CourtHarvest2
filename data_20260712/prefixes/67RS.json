@@ -1,0 +1,212 @@
+[
+  {
+    "code": "67RS0009",
+    "name": "Велижский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216290, Смоленская обл, г Велиж, ул Энгельса, д 32",
+    "legal_address": null,
+    "website": "http://velizh.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0004",
+    "name": "Вяземский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "215110, Смоленская обл, г Вязьма, ул 1 Мая, д 2",
+    "legal_address": null,
+    "website": "http://vyazma.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0005",
+    "name": "Гагаринский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "215010, Смоленская обл, г Гагарин, ул Солнцева, д 3",
+    "legal_address": null,
+    "website": "http://gagarin.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0010",
+    "name": "Демидовский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216240, Смоленская обл, г Демидов, ул Коммунистическая, д 15",
+    "legal_address": null,
+    "website": "http://demidov.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0029",
+    "name": "Десногорский городской суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216400, Смоленская обл, г Десногорск, мкр 3, д 14 общ",
+    "legal_address": null,
+    "website": "http://desnogorsk.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0011",
+    "name": "Дорогобужский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "215710, Смоленская обл, г Дорогобуж, ул Пушкина, д 11",
+    "legal_address": null,
+    "website": "http://dorogobuzh.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0012",
+    "name": "Духовщинский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216200, Смоленская обл, г Духовщина, ул Луначарского, д 32",
+    "legal_address": null,
+    "website": "http://duhovschina.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0013",
+    "name": "Ельнинский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216330, Смоленская обл, г Ельня, ул Советская, д 48А",
+    "legal_address": null,
+    "website": "http://elnya.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0001",
+    "name": "Заднепровский районный суд г. Смоленска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "214018, г Смоленск, пр-кт Гагарина, д 15",
+    "legal_address": null,
+    "website": "http://zadnepr.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0015",
+    "name": "Краснинский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216100, Смоленская обл, пгт Красный, ул Карла Маркса, д 27",
+    "legal_address": null,
+    "website": "http://krasny.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0002",
+    "name": "Ленинский районный суд г. Смоленска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "214001, г Смоленск, пр-кт Гагарина, д 46",
+    "legal_address": null,
+    "website": "http://leninsky.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0017",
+    "name": "Монастырщинский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216130, Смоленская обл, пгт Монастырщина, пл Комсомольская, д 3",
+    "legal_address": null,
+    "website": "http://monastyrschina.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0019",
+    "name": "Починковский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216450, Смоленская обл, г Починок, ул Советская, д 25",
+    "legal_address": null,
+    "website": "http://pochinok.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0003",
+    "name": "Промышленный районный суд г. Смоленска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "214001, г Смоленск, пр-кт Гагарина, д 46",
+    "legal_address": null,
+    "website": "http://prom.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0006",
+    "name": "Рославльский городской суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216500, Смоленская обл, г Рославль, ул Урицкого, д 18",
+    "legal_address": null,
+    "website": "http://roslavl.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0020",
+    "name": "Руднянский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216790, Смоленская обл, г Рудня, ул Киреева, д 81",
+    "legal_address": null,
+    "website": "http://rudnya.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0007",
+    "name": "Сафоновский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "215500, Смоленская обл, г Сафоново, ул Красногвардейская, д 41",
+    "legal_address": null,
+    "website": "http://safonovo.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0021",
+    "name": "Смоленский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "214001, г Смоленск, пр-кт Гагарина, д 46",
+    "legal_address": null,
+    "website": "http://smol.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0022",
+    "name": "Сычевский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "215280, Смоленская обл, г Сычевка, ул Карла Маркса, д 7",
+    "legal_address": null,
+    "website": "http://sychevka.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0027",
+    "name": "Шумячский районный суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "216410, Смоленская обл, пгт Шумячи, ул Советская, д 94",
+    "legal_address": null,
+    "website": "http://shumyachi.sml.sudrf.ru"
+  },
+  {
+    "code": "67RS0008",
+    "name": "Ярцевский городской суд Смоленской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "215800, Смоленская обл, г Ярцево, ул Советская, д 28",
+    "legal_address": null,
+    "website": "http://yarcevo.sml.sudrf.ru"
+  }
+]

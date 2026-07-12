@@ -1,0 +1,482 @@
+[
+  {
+    "code": "51MS0042",
+    "name": "Судебный участок ЗАТО г. Заозерск Кольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184310, Мурманская обл, г Заозерск, ул Ленинского Комсомола, д 14",
+    "legal_address": null,
+    "website": "http://zzk.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0043",
+    "name": "Судебный участок ЗАТО п. Видяево Кольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184372, Мурманская область, ЗАТО п. Видяево, ул. Центральная, д. 12",
+    "legal_address": null,
+    "website": "http://vid.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0031",
+    "name": "Судебный участок Ковдорского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184143, Мурманская обл, г Ковдор, ул Баштыркова, д 5 к 2",
+    "legal_address": null,
+    "website": "http://kov.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0020",
+    "name": "Судебный участок Ловозерского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184580, Мурманская обл, Ловозерский р-н, пгт Ревда, ул Умбозерская, д 1",
+    "legal_address": null,
+    "website": "http://lvz.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0048",
+    "name": "Судебный участок мирового судьи ЗАТО г. Островной Североморского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184640, Мурманская обл, г Островной, ул Соловья, д 3",
+    "legal_address": null,
+    "website": "http://ostr.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0032",
+    "name": "Судебный участок Полярнозоринского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184230, Мурманская обл, г Полярные Зори, пр-кт Нивский, д 11",
+    "legal_address": null,
+    "website": "http://pzr.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0036",
+    "name": "Судебный участок Терского района Кандалакшского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184703, Мурманская обл, пгт Умба, ул Беломорская, д 1Е",
+    "legal_address": null,
+    "website": "http://ter.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0039",
+    "name": "Судебный участок № 1 Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184653, Мурманская обл, г Полярный, ул Душенова, д 7",
+    "legal_address": null,
+    "website": "http://1alsk.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0026",
+    "name": "Судебный участок № 1 Апатитского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184209, Мурманская обл, г Апатиты, ул Козлова, влд 6",
+    "legal_address": null,
+    "website": "http://1ap.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0033",
+    "name": "Судебный участок № 1 Кандалакшского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184042, Мурманская обл, г Кандалакша, ул Первомайская, д 81А",
+    "legal_address": null,
+    "website": "http://1knd.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0029",
+    "name": "Судебный участок № 1 Кировского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184250, Мурманская обл, г Кировск, ул Мира, д 8",
+    "legal_address": null,
+    "website": "http://1krv.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0017",
+    "name": "Судебный участок № 1 Кольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184381, Мурманская обл, г Кола, ул Андрусенко, д 10/2",
+    "legal_address": null,
+    "website": "http://1kol.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0001",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, проезд Ивана Халатина, д 3",
+    "legal_address": null,
+    "website": "http://1len.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0023",
+    "name": "Судебный участок № 1 Мончегорского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184511, Мурманская обл, г Мончегорск, ул Комсомольская, д 9",
+    "legal_address": null,
+    "website": "http://1mcg.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0006",
+    "name": "Судебный участок № 1 Октябрьского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Софьи Перовской, д 25/26",
+    "legal_address": null,
+    "website": "http://1oct.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0021",
+    "name": "Судебный участок № 1 Оленегорского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184536, Мурманская обл, г Оленегорск, ул Мира, д 23",
+    "legal_address": null,
+    "website": "http://1oln.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0011",
+    "name": "Судебный участок № 1 Первомайского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Куйбышева, д 2А",
+    "legal_address": null,
+    "website": "http://1pvm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0037",
+    "name": "Судебный участок № 1 Печенгского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184433, Мурманская обл, Печенгский р-н, г Заполярный, ул Ленинградская, д 4",
+    "legal_address": null,
+    "website": "http://1pch.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0047",
+    "name": "Судебный участок № 1 Североморского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184606, Мурманская обл, г Североморск, ул Пионерская, д 26",
+    "legal_address": null,
+    "website": "http://1svm.mrm.msudrf.ru/"
+  },
+  {
+    "code": "51MS0040",
+    "name": "Судебный участок № 2 Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184670, Мурманская обл, г Гаджиево, наб Сергея Преминина, д 106",
+    "legal_address": null,
+    "website": "http://2alsk.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0002",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, проезд Ивана Халатина, д 3",
+    "legal_address": null,
+    "website": "http://2len.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0007",
+    "name": "Судебный участок № 2 Октябрьского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Софьи Перовской, д 25/26",
+    "legal_address": null,
+    "website": "http://2oct.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0003",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, проезд Ивана Халатина, д 3",
+    "legal_address": null,
+    "website": "http://3len.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0008",
+    "name": "Судебный участок № 3 Октябрьского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Софьи Перовской, д 25/26",
+    "legal_address": null,
+    "website": "http://3oct.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0004",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, проезд Ивана Халатина, д 3",
+    "legal_address": null,
+    "website": "http://4len.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0009",
+    "name": "Судебный участок № 4 Октябрьского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Софьи Перовской, д 25/26",
+    "legal_address": null,
+    "website": "http://4oct.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0005",
+    "name": "Судебный участок № 5 Ленинского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, проезд Ивана Халатина, д 3",
+    "legal_address": null,
+    "website": "http://5len.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0018",
+    "name": "Судебный участок № 2 Кольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184381, Мурманская обл, г Кола, ул Андрусенко, д 10/2",
+    "legal_address": null,
+    "website": "http://2kol.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0012",
+    "name": "Судебный участок № 2 Первомайского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Куйбышева, д 2А",
+    "legal_address": null,
+    "website": "http://2pvm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0019",
+    "name": "Судебный участок № 3 Кольского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184381, Мурманская обл, г Кола, ул Андрусенко, д 10/2",
+    "legal_address": null,
+    "website": "http://3kol.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0013",
+    "name": "Судебный участок № 3 Первомайского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Куйбышева, д 2А",
+    "legal_address": null,
+    "website": "http://3pvm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0014",
+    "name": "Судебный участок № 4 Первомайского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Куйбышева, д 2А",
+    "legal_address": null,
+    "website": "http://4pvm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0010",
+    "name": "Судебный участок № 5 Октябрьского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Софьи Перовской, д 25/26",
+    "legal_address": null,
+    "website": "http://5oct.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0015",
+    "name": "Судебный участок № 5 Первомайского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Куйбышева, д 2А",
+    "legal_address": null,
+    "website": "http://5pvm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0016",
+    "name": "Судебный участок № 6 Первомайского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, ул Куйбышева, д 2А",
+    "legal_address": null,
+    "website": "http://6pvm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0027",
+    "name": "Судебный участок № 2 Апатитского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184209, Мурманская обл, г Апатиты, ул Козлова, влд 6",
+    "legal_address": null,
+    "website": "http://2ap.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0024",
+    "name": "Судебный участок № 2 Мончегорского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184511, Мурманская обл, г Мончегорск, ул Комсомольская, д 9",
+    "legal_address": null,
+    "website": "http://2mcg.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0022",
+    "name": "Судебный участок № 2 Оленегорского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184536, Мурманская обл, г Оленегорск, ул Мира, д 23",
+    "legal_address": null,
+    "website": "http://2oln.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0028",
+    "name": "Судебный участок № 3 Апатитского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184209, Мурманская обл, г Апатиты, ул Козлова, влд 6",
+    "legal_address": null,
+    "website": "http://3ap.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0025",
+    "name": "Судебный участок № 3 Мончегорского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184511, Мурманская обл, г Мончегорск, ул Комсомольская, д 9",
+    "legal_address": null,
+    "website": "http://3mcg.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0034",
+    "name": "Судебный участок № 2 Кандалакшского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184042, Мурманская обл, г Кандалакша, ул Первомайская, д 81А",
+    "legal_address": null,
+    "website": "http://2knd.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0030",
+    "name": "Судебный участок № 2 Кировского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184250, Мурманская обл, г Кировск, ул Мира, д 8",
+    "legal_address": null,
+    "website": "http://2krv.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0038",
+    "name": "Судебный участок № 2 Печенгского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184421, Мурманская обл, пгт Никель, ул Сидоровича, д 14",
+    "legal_address": null,
+    "website": "http://2pch.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0035",
+    "name": "Судебный участок № 3 Кандалакшского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184042, Мурманская обл, г Кандалакша, ул Первомайская, д 81А",
+    "legal_address": null,
+    "website": "http://3knd.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0045",
+    "name": "Судебный участок № 2 Североморского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184606, Мурманская обл, г Североморск, ул Пионерская, д 26",
+    "legal_address": null,
+    "website": "http://2svm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0041",
+    "name": "Судебный участок № 3 Александровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184682, Мурманская обл, г Снежногорск, ул Победы, д 1/1",
+    "legal_address": null,
+    "website": "http://3alsk.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0046",
+    "name": "Судебный участок № 3 Североморского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "184606, Мурманская обл, г Североморск, ул Пионерская, д 26",
+    "legal_address": null,
+    "website": "http://3svm.mrm.msudrf.ru"
+  },
+  {
+    "code": "51MS0049",
+    "name": "Судебный участок № 6 Ленинского судебного района г. Мурманска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "183038, г Мурманск, проезд Ивана Халатина, д 3",
+    "legal_address": null,
+    "website": "http://6len.mrm.msudrf.ru"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "code": "08RS0002",
+    "name": "Городовиковский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359050, Респ Калмыкия, г Городовиковск, ул Ленина, зд 27",
+    "legal_address": null,
+    "website": "http://gorodovikovsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0005",
+    "name": "Лаганский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359220, Респ Калмыкия, г Лагань, ул Куйбышева, д 121",
+    "legal_address": null,
+    "website": "http://lagansky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0006",
+    "name": "Малодербетовский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359420, Респ Калмыкия, с Малые Дербеты, ул Советская, д 54",
+    "legal_address": null,
+    "website": "http://maloderbetovsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0008",
+    "name": "Приютненский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359030, Респ Калмыкия, с Приютное, ул Московская, д 2",
+    "legal_address": null,
+    "website": "http://priyutninsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0009",
+    "name": "Сарпинский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359410, Респ Калмыкия, с Садовое, ул Дорожная, д 24",
+    "legal_address": null,
+    "website": "http://sarpinsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0010",
+    "name": "Целинный районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359180, Респ Калмыкия, с Троицкое, ул А.С.Пушкина, д 8",
+    "legal_address": null,
+    "website": "http://celinny.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0011",
+    "name": "Черноземельский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359240, Респ Калмыкия, п Комсомольский, ул Аллея Памяти, д 41А",
+    "legal_address": null,
+    "website": "http://chernozemelsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0001",
+    "name": "Элистинский городской суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "358000, г Элиста, ул В.И.Ленина, д 315А",
+    "legal_address": null,
+    "website": "http://elistinsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0012",
+    "name": "Юстинский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359300, Респ Калмыкия, п Цаган Аман, ул Элистинская, д 75",
+    "legal_address": null,
+    "website": "http://yustinsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0014",
+    "name": "Яшалтинский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359010, Респ Калмыкия, с Яшалта, пер Ульяновский, д 20",
+    "legal_address": null,
+    "website": "http://yashaltinsky.kalm.sudrf.ru"
+  },
+  {
+    "code": "08RS0013",
+    "name": "Яшкульский районный суд Республики Калмыкия",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "359150, Респ Калмыкия, п Яшкуль, ул Н.К.Лиджиева, д 5",
+    "legal_address": null,
+    "website": "http://yashkulsky.kalm.sudrf.ru"
+  }
+]

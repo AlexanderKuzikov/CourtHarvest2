@@ -1,0 +1,242 @@
+[
+  {
+    "code": "69RS0002",
+    "name": "Бежецкий межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171980, Тверская обл, г Бежецк, ул Красноармейская, д 12",
+    "legal_address": null,
+    "website": "http://bezhecky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0004",
+    "name": "Бологовский городской суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171080, Тверская обл, г Бологое, ул Кирова, д 9",
+    "legal_address": null,
+    "website": "http://bologovsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0006",
+    "name": "Вышневолоцкий межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171163, Тверская обл, г Вышний Волочек, пр-кт Казанский, д 18",
+    "legal_address": null,
+    "website": "http://vyshnevolocky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0036",
+    "name": "Заволжский районный суд г. Твери",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "170100, г Тверь, ул Московская, д 115",
+    "legal_address": null,
+    "website": "http://zavolzhsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0008",
+    "name": "Западнодвинский межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "172610, Тверская обл, г Западная Двина, ул Фадеева, зд 16",
+    "legal_address": null,
+    "website": "http://zapadnodvinsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0009",
+    "name": "Зубцовский районный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "172332, Тверская обл, г Зубцов, ул Победы, д 12А",
+    "legal_address": null,
+    "website": "http://zubcovsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0037",
+    "name": "Калининский районный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "170100, г Тверь, наб Реки Лазури, д 5",
+    "legal_address": null,
+    "website": "http://kalininsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0010",
+    "name": "Калязинский районный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171573, Тверская обл, г Калязин, ул Красноармейская, зд 1/23",
+    "legal_address": null,
+    "website": "http://kaliazinsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0011",
+    "name": "Кашинский межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171640, Тверская обл, г Кашин, наб Судейская, д 1/2",
+    "legal_address": null,
+    "website": "http://kashinsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0013",
+    "name": "Кимрский городской суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171501, Тверская обл, г Кимры, ул Володарского, д 102А",
+    "legal_address": null,
+    "website": "http://kimrsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0014",
+    "name": "Конаковский городской суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171255, Тверская обл, г Конаково, ул Васильковского, д 13",
+    "legal_address": null,
+    "website": "http://konakovsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0018",
+    "name": "Лихославльский районный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171210, Тверская обл, г Лихославль, ул Гагарина, д 51",
+    "legal_address": null,
+    "website": "http://lihoslavlsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0019",
+    "name": "Максатихинский межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171900, Тверская обл, пгт Максатиха, ул имени Василенкова, д 20",
+    "legal_address": null,
+    "website": "http://maksatihinsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0038",
+    "name": "Московский районный суд г. Твери",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "170100, г Тверь, ул Московская, д 115",
+    "legal_address": null,
+    "website": "http://moskovsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0021",
+    "name": "Нелидовский межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "172521, Тверская обл, г Нелидово, ул Советская, д 21",
+    "legal_address": null,
+    "website": "http://nelidovsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0023",
+    "name": "Осташковский межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "172735, Тверская обл, г Осташков, ул Тимофеевская, д 58",
+    "legal_address": null,
+    "website": "http://ostashkovsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0039",
+    "name": "Пролетарский районный суд г. Твери",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "170001, г Тверь, пр-кт Калинина, д 16",
+    "legal_address": null,
+    "website": "http://proletarsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0025",
+    "name": "Рамешковский районный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171400, Тверская обл, пгт Рамешки, ул Советская, д 22",
+    "legal_address": null,
+    "website": "http://rameshkovsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0026",
+    "name": "Ржевский городской суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "172390, Тверская обл, г Ржев, ул Кирова, д 2",
+    "legal_address": null,
+    "website": "http://rzhevsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0031",
+    "name": "Старицкий районный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171360, Тверская обл, г Старица, ул Советская, д 4",
+    "legal_address": null,
+    "website": "http://staricky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0032",
+    "name": "Торжокский межрайонный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "172008, Тверская обл, г Торжок, ул Дзержинского, д 42",
+    "legal_address": null,
+    "website": "http://torzhoksky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0033",
+    "name": "Торопецкий районный суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "172840, Тверская обл, г Торопец, ул Советская, д 33",
+    "legal_address": null,
+    "website": "http://toropecky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0034",
+    "name": "Удомельский городской суд Тверской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "171841, Тверская обл, г Удомля, пр-кт Курчатова, д 20",
+    "legal_address": null,
+    "website": "http://udomelsky.twr.sudrf.ru"
+  },
+  {
+    "code": "69RS0040",
+    "name": "Центральный районный суд г. Твери",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "170033, г Тверь, пр-кт Волоколамский, д 31",
+    "legal_address": null,
+    "website": "http://centralny.twr.sudrf.ru"
+  }
+]

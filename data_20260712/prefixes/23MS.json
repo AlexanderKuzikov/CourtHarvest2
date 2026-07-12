@@ -1,0 +1,2702 @@
+[
+  {
+    "code": "23MS0001",
+    "name": "Судебный участок № 1 г. Анапы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Парковая, д 82",
+    "legal_address": null,
+    "website": "http://msud1.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0002",
+    "name": "Судебный участок № 2 г. Анапы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Парковая, д 82",
+    "legal_address": null,
+    "website": "http://msud2.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0003",
+    "name": "Судебный участок № 3 г. Анапы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Парковая, д 82",
+    "legal_address": null,
+    "website": "http://msud3.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0004",
+    "name": "Судебный участок № 4 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud4.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0005",
+    "name": "Судебный участок № 5 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud5.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0006",
+    "name": "Судебный участок № 6 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud6.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0007",
+    "name": "Судебный участок № 7 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud7.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0008",
+    "name": "Судебный участок № 8 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud8.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0009",
+    "name": "Судебный участок № 9 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud9.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0010",
+    "name": "Судебный участок № 10 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud10.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0011",
+    "name": "Судебный участок № 11 г. Белореченска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352630, Краснодарский край, г Белореченск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://msud11.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0012",
+    "name": "Судебный участок № 12 г. Белореченска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352630, Краснодарский край, г Белореченск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://msud12.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0013",
+    "name": "Судебный участок № 13 г. Геленджика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353460, Краснодарский край, г Геленджик, ул Херсонская, д 65А",
+    "legal_address": null,
+    "website": "http://msud13.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0014",
+    "name": "Судебный участок № 14 г. Геленджика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353460, Краснодарский край, г Геленджик, ул Херсонская, д 65А",
+    "legal_address": null,
+    "website": "http://msud14.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0015",
+    "name": "Судебный участок № 15 г. Геленджика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353460, Краснодарский край, г Геленджик, ул Тельмана, д 104А",
+    "legal_address": null,
+    "website": "http://msud15.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0016",
+    "name": "Судебный участок № 16 г. Геленджика",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353460, Краснодарский край, г Геленджик, ул Тельмана, д 104А",
+    "legal_address": null,
+    "website": "http://msud16.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0017",
+    "name": "Судебный участок № 17 г. Горячего Ключа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353292, Краснодарский край, г Горячий Ключ, ул Кучерявого, д 52Б",
+    "legal_address": null,
+    "website": "http://msud17.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0018",
+    "name": "Судебный участок № 18 г. Горячего Ключа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353292, Краснодарский край, г Горячий Ключ, ул Кучерявого, д 52Б",
+    "legal_address": null,
+    "website": "http://msud18.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0019",
+    "name": "Судебный участок № 19 г. Ейска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353680, Краснодарский край, г Ейск, ул Свердлова, д 150",
+    "legal_address": null,
+    "website": "http://msud19.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0020",
+    "name": "Судебный участок № 20 г. Ейска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353680, Краснодарский край, г Ейск, ул Свердлова, д 150",
+    "legal_address": null,
+    "website": "http://msud20.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0021",
+    "name": "Судебный участок № 21 г. Ейска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353680, Краснодарский край, г Ейск, ул Свердлова, д 150",
+    "legal_address": null,
+    "website": "http://msud21.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0022",
+    "name": "Судебный участок № 22 г. Ейска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353680, Краснодарский край, г Ейск, ул Свердлова, д 150",
+    "legal_address": null,
+    "website": "http://msud22.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0023",
+    "name": "Судебный участок № 23 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud23.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0024",
+    "name": "Судебный участок № 24 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud24.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0025",
+    "name": "Судебный участок № 25 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350020, г Краснодар, ул Красных Партизан, д 567Б",
+    "legal_address": null,
+    "website": "http://msud25.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0026",
+    "name": "Судебный участок № 26 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud26.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0027",
+    "name": "Судебный участок № 27 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350020, г Краснодар, ул Красных Партизан, д 567Б",
+    "legal_address": null,
+    "website": "http://msud27.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0028",
+    "name": "Судебный участок № 28 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud28.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0029",
+    "name": "Судебный участок № 29 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud29.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0030",
+    "name": "Судебный участок № 30 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350020, г Краснодар, ул Красных Партизан, д 567Б",
+    "legal_address": null,
+    "website": "http://msud30.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0031",
+    "name": "Судебный участок № 31 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350075, г Краснодар, ул Старокубанская, д 125",
+    "legal_address": null,
+    "website": "http://msud31.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0032",
+    "name": "Судебный участок № 32 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud32.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0033",
+    "name": "Судебный участок № 33 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud33.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0034",
+    "name": "Судебный участок № 34 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud34.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0035",
+    "name": "Судебный участок № 35 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud35.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0036",
+    "name": "Судебный участок № 36 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud36.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0037",
+    "name": "Судебный участок № 37 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud37.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0038",
+    "name": "Судебный участок № 38 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350075, г Краснодар, ул Старокубанская, д 125",
+    "legal_address": null,
+    "website": "http://msud38.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0039",
+    "name": "Судебный участок № 39 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud39.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0040",
+    "name": "Судебный участок № 40 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud40.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0041",
+    "name": "Судебный участок № 41 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350075, г Краснодар, ул Старокубанская, д 125",
+    "legal_address": null,
+    "website": "http://msud41.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0042",
+    "name": "Судебный участок № 42 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud42.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0043",
+    "name": "Судебный участок № 43 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud43.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0044",
+    "name": "Судебный участок № 44 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud44.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0045",
+    "name": "Судебный участок № 45 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud45.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0046",
+    "name": "Судебный участок № 46 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud46.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0047",
+    "name": "Судебный участок № 47 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud47.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0048",
+    "name": "Судебный участок № 48 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud48.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0049",
+    "name": "Судебный участок № 49 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud49.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0050",
+    "name": "Судебный участок № 50 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud50.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0051",
+    "name": "Судебный участок № 51 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud51.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0052",
+    "name": "Судебный участок № 52 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud52.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0053",
+    "name": "Судебный участок № 53 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud53.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0054",
+    "name": "Судебный участок № 54 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud54.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0055",
+    "name": "Судебный участок № 55 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350000, г Краснодар, ул Красная, д 89/3",
+    "legal_address": null,
+    "website": "http://msud55.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0056",
+    "name": "Судебный участок № 56 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350000, г Краснодар, ул Красная, д 89/3",
+    "legal_address": null,
+    "website": "http://msud56.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0057",
+    "name": "Судебный участок № 57 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud57.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0058",
+    "name": "Судебный участок № 58 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул им. Захарова, д 11",
+    "legal_address": null,
+    "website": "http://msud58.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0059",
+    "name": "Судебный участок № 59 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул Индустриальная, д 10",
+    "legal_address": null,
+    "website": "http://msud59.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0060",
+    "name": "Судебный участок № 60 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул Индустриальная, д 10",
+    "legal_address": null,
+    "website": "http://msud60.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0061",
+    "name": "Судебный участок № 61 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул Индустриальная, д 10",
+    "legal_address": null,
+    "website": "http://msud61.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0062",
+    "name": "Судебный участок № 62 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул Индустриальная, д 10",
+    "legal_address": null,
+    "website": "http://msud62.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0063",
+    "name": "Судебный участок № 63 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул Индустриальная, д 10",
+    "legal_address": null,
+    "website": "http://msud63.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0064",
+    "name": "Судебный участок № 64 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350007, г Краснодар, ул Индустриальная, д 10",
+    "legal_address": null,
+    "website": "http://msud64.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0065",
+    "name": "Судебный участок № 65 г. Кропоткина",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352382, Краснодарский край, Кавказский р-н, г Кропоткин, ул Пушкина, д 55",
+    "legal_address": null,
+    "website": "http://msud65.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0066",
+    "name": "Судебный участок № 66 г. Кропоткина",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352382, Краснодарский край, Кавказский р-н, г Кропоткин, ул Пушкина, д 55",
+    "legal_address": null,
+    "website": "http://msud66.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0067",
+    "name": "Судебный участок № 67 г. Кропоткина",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352382, Краснодарский край, Кавказский р-н, г Кропоткин, ул Пушкина, д 55",
+    "legal_address": null,
+    "website": "http://msud67.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0068",
+    "name": "Судебный участок № 68 г. Кропоткина",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352392, Краснодарский край, Кавказский р-н, г Кропоткин, проезд Березовый, д 7",
+    "legal_address": null,
+    "website": "http://msud68.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0069",
+    "name": "Судебный участок № 69 г. Крымска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353383, Краснодарский край, г Крымск, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://msud69.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0070",
+    "name": "Судебный участок № 70 г. Крымска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353383, Краснодарский край, г Крымск, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://msud70.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0071",
+    "name": "Судебный участок № 71 г. Лабинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352500, Краснодарский край, г Лабинск, ул Халтурина, д 22/3",
+    "legal_address": null,
+    "website": "http://msud71.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0072",
+    "name": "Судебный участок № 72 г. Лабинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352500, Краснодарский край, г Лабинск, ул Халтурина, д 22/3",
+    "legal_address": null,
+    "website": "http://msud72.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0073",
+    "name": "Судебный участок № 73 г. Лабинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352500, Краснодарский край, г Лабинск, ул Халтурина, д 22/3",
+    "legal_address": null,
+    "website": "http://msud73.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0074",
+    "name": "Судебный участок № 74 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud74.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0075",
+    "name": "Судебный участок № 75 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud75.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0076",
+    "name": "Судебный участок № 76 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud76.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0077",
+    "name": "Судебный участок № 77 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud77.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0078",
+    "name": "Судебный участок № 78 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud78.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0079",
+    "name": "Судебный участок № 79 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud79.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0080",
+    "name": "Судебный участок № 80 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud80.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0081",
+    "name": "Судебный участок № 81 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud81.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0082",
+    "name": "Судебный участок № 82 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud82.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0083",
+    "name": "Судебный участок № 83 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud83.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0084",
+    "name": "Судебный участок № 84 г. Славянска-на-Кубани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 30/2",
+    "legal_address": null,
+    "website": "http://msud84.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0085",
+    "name": "Судебный участок № 85 г. Славянска-на-Кубани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 30/2",
+    "legal_address": null,
+    "website": "http://msud85.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0086",
+    "name": "Судебный участок № 86 г. Славянска-на-Кубани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 30/2",
+    "legal_address": null,
+    "website": "http://msud86.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0087",
+    "name": "Судебный участок № 87 Адлерского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354340, Краснодарский край, г Сочи, р-н Адлерский внутригородской, ул Кирова, д 58А",
+    "legal_address": null,
+    "website": "http://msud87.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0088",
+    "name": "Судебный участок № 88 Адлерского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354340, Краснодарский край, г Сочи, р-н Адлерский внутригородской, ул Кирова, д 58А",
+    "legal_address": null,
+    "website": "http://msud88.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0089",
+    "name": "Судебный участок № 89 Адлерского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354340, Краснодарский край, г Сочи, р-н Адлерский внутригородской, ул Кирова, д 58А",
+    "legal_address": null,
+    "website": "http://msud89.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0090",
+    "name": "Судебный участок № 90 Адлерского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354340, Краснодарский край, г Сочи, р-н Адлерский внутригородской, ул Кирова, д 58А",
+    "legal_address": null,
+    "website": "http://msud90.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0091",
+    "name": "Судебный участок № 91 Адлерского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354340, Краснодарский край, г Сочи, р-н Адлерский внутригородской, ул Кирова, д 58А",
+    "legal_address": null,
+    "website": "http://msud91.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0092",
+    "name": "Судебный участок № 92 Адлерского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354340, Краснодарский край, г Сочи, р-н Адлерский внутригородской, ул Кирова, д 58А",
+    "legal_address": null,
+    "website": "http://msud92.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0093",
+    "name": "Судебный участок № 93 Лазаревского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354200, Краснодарский край, г Сочи, р-н Лазаревский внутригородской, ул Родниковая, д 23",
+    "legal_address": null,
+    "website": "http://msud93.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0094",
+    "name": "Судебный участок № 94 Лазаревского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354200, Краснодарский край, г Сочи, р-н Лазаревский внутригородской, ул Родниковая, д 23",
+    "legal_address": null,
+    "website": "http://msud94.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0095",
+    "name": "Судебный участок № 95 Лазаревского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354200, Краснодарский край, г Сочи, р-н Лазаревский внутригородской, ул Родниковая, д 23",
+    "legal_address": null,
+    "website": "http://msud95.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0096",
+    "name": "Судебный участок № 96 Лазаревского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354200, Краснодарский край, г Сочи, р-н Лазаревский внутригородской, ул Родниковая, д 23",
+    "legal_address": null,
+    "website": "http://msud96.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0097",
+    "name": "Судебный участок № 97 Хостинского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354067, Краснодарский край, г. Сочи, п. Хоста, ул. 50 лет СССР, д. 14",
+    "legal_address": null,
+    "website": "http://msud97.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0098",
+    "name": "Судебный участок № 98 Хостинского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354067, Краснодарский край, г. Сочи, п. Хоста, ул. 50 лет СССР, д. 14",
+    "legal_address": null,
+    "website": "http://msud98.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0099",
+    "name": "Судебный участок № 99 Хостинского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354067, Краснодарский край, г. Сочи, п. Хоста, ул. 50 лет СССР, д. 14",
+    "legal_address": null,
+    "website": "http://msud99.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0100",
+    "name": "Судебный участок № 100 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354000, Краснодарский край, г Сочи, ул Тоннельная, д 16",
+    "legal_address": null,
+    "website": "http://msud100.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0101",
+    "name": "Судебный участок № 101 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354057, Краснодарский край, г Сочи, ул Туапсинская, д 13",
+    "legal_address": null,
+    "website": "http://msud101.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0102",
+    "name": "Судебный участок № 102 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354068, Краснодарский край, г Сочи, пер Строительный, д 9",
+    "legal_address": null,
+    "website": "http://msud102.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0103",
+    "name": "Судебный участок № 103 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354057, Краснодарский край, г Сочи, ул Туапсинская, д 13",
+    "legal_address": null,
+    "website": "http://msud103.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0104",
+    "name": "Судебный участок № 104 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354057, Краснодарский край, г Сочи, ул Туапсинская, д 13",
+    "legal_address": null,
+    "website": "http://msud104.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0105",
+    "name": "Судебный участок № 105 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354057, Краснодарский край, г Сочи, ул Туапсинская, д 13",
+    "legal_address": null,
+    "website": "http://msud105.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0106",
+    "name": "Судебный участок № 106 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354000, Краснодарский край, г Сочи, ул Тоннельная, д 16",
+    "legal_address": null,
+    "website": "http://msud106.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0107",
+    "name": "Судебный участок № 107 г. Тихорецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Калинина, д 55",
+    "legal_address": null,
+    "website": "http://msud107.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0108",
+    "name": "Судебный участок № 108 г. Тихорецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Калинина, д 55",
+    "legal_address": null,
+    "website": "http://msud108.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0109",
+    "name": "Судебный участок № 109 г. Тихорецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Калинина, д 55",
+    "legal_address": null,
+    "website": "http://msud109.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0110",
+    "name": "Судебный участок № 110 г. Туапсе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352800, Краснодарский край, г Туапсе, ул Красной Армии, д 12",
+    "legal_address": null,
+    "website": "http://msud110.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0111",
+    "name": "Судебный участок № 111 г. Туапсе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352800, Краснодарский край, г Туапсе, ул Красной Армии, д 12",
+    "legal_address": null,
+    "website": "http://msud111.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0112",
+    "name": "Судебный участок № 112 г. Туапсе",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352800, г. Краснодарский край, г.Туапсе, ул. Красной Армии, д. 12",
+    "legal_address": null,
+    "website": "http://msud112.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0113",
+    "name": "Судебный участок № 113 Абинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353320, Краснодарский край, г Абинск, пр-кт Комсомольский, д 83",
+    "legal_address": null,
+    "website": "http://msud113.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0114",
+    "name": "Судебный участок № 114 Абинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353320, Краснодарский край, г Абинск, пр-кт Комсомольский, д 83",
+    "legal_address": null,
+    "website": "http://msud114.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0115",
+    "name": "Судебный участок № 115 Абинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353320, Краснодарский край, г Абинск, пр-кт Комсомольский, д 83",
+    "legal_address": null,
+    "website": "http://msud115.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0116",
+    "name": "Судебный участок № 116 Абинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353320, Краснодарский край, г Абинск, ул Пролетарская, д 65А",
+    "legal_address": null,
+    "website": "http://msud116.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0117",
+    "name": "Судебный участок № 117 Анапского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Шевченко, д 241",
+    "legal_address": null,
+    "website": "http://msud117.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0118",
+    "name": "Судебный участок № 118 Анапского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353451, Краснодарский край, г Анапа, ул Чехова, д 44",
+    "legal_address": null,
+    "website": "http://msud118.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0119",
+    "name": "Судебный участок № 119 Анапского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Шевченко, д 241",
+    "legal_address": null,
+    "website": "http://msud119.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0120",
+    "name": "Судебный участок № 120 Апшеронского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352690, Краснодарский край, г Апшеронск, ул Ленина, д 112",
+    "legal_address": null,
+    "website": "http://msud120.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0121",
+    "name": "Судебный участок № 121 Апшеронского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352680, Краснодарский край, Апшеронский р-н, г Хадыженск, ул Ленина, д 54",
+    "legal_address": null,
+    "website": "http://msud121.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0122",
+    "name": "Судебный участок № 122 Апшеронского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352690, Краснодарский край, г Апшеронск, ул Ленина, д 112",
+    "legal_address": null,
+    "website": "http://msud122.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0123",
+    "name": "Судебный участок № 123 Апшеронского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352690, Краснодарский край, г Апшеронск, ул Ленина, д 121",
+    "legal_address": null,
+    "website": "http://msud123.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0124",
+    "name": "Судебный участок № 124 Белоглинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353040, Краснодарский край, с Белая Глина, ул Красная, д 109",
+    "legal_address": null,
+    "website": "http://msud124.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0125",
+    "name": "Судебный участок № 125 Белоглинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353040, Краснодарский край, с Белая Глина, ул Красная, д 109",
+    "legal_address": null,
+    "website": "http://msud125.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0126",
+    "name": "Судебный участок № 126 Белореченского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352630, Краснодарский край, г Белореченск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://msud126.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0127",
+    "name": "Судебный участок № 127 Белореченского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352630, Краснодарский край, г Белореченск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://msud127.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0128",
+    "name": "Судебный участок № 128 Брюховецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352750, Краснодарский край, ст-ца Брюховецкая, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "http://msud128.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0129",
+    "name": "Судебный участок № 129 Брюховецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352750, Краснодарский край, ст-ца Брюховецкая, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "http://msud129.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0130",
+    "name": "Судебный участок № 130 Выселковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353100, Краснодарский край, ст-ца Выселки, ул Ленина, д 63",
+    "legal_address": null,
+    "website": "http://msud130.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0131",
+    "name": "Судебный участок № 131 Выселковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353100, Краснодарский край, ст-ца Выселки, ул Широкая, д 265",
+    "legal_address": null,
+    "website": "http://msud131.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0132",
+    "name": "Судебный участок № 132 Выселковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353100, Краснодарский край, ст-ца Выселки, ул Широкая, д 265",
+    "legal_address": null,
+    "website": "http://msud132.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0133",
+    "name": "Судебный участок № 133 Гулькевичского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352190, Краснодарский край, г Гулькевичи, ул Советская, д 11",
+    "legal_address": null,
+    "website": "http://msud133.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0134",
+    "name": "Судебный участок № 134 Гулькевичского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352192, Краснодарский край, г Гулькевичи, ул Энергетиков, д 16",
+    "legal_address": null,
+    "website": "http://msud134.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0135",
+    "name": "Судебный участок № 135 Гулькевичского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352189, Краснодарский край, Гулькевичский р-н, пгт Красносельский, ул Строителей, д 46",
+    "legal_address": null,
+    "website": "http://msud135.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0136",
+    "name": "Судебный участок № 136 Гулькевичского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352189, Краснодарский край, Гулькевичский р-н, пгт Красносельский, ул Строителей, д 46",
+    "legal_address": null,
+    "website": "http://msud136.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0137",
+    "name": "Судебный участок № 137 Динского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353204, Краснодарский край, ст-ца Динская, ул Красная, д 21/2",
+    "legal_address": null,
+    "website": "http://msud137.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0138",
+    "name": "Судебный участок № 138 Динского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353204, Краснодарский край, ст-ца Динская, ул Красная, д 21/2",
+    "legal_address": null,
+    "website": "http://msud138.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0139",
+    "name": "Судебный участок № 139 Динского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353204, Краснодарский край, ст-ца Динская, ул Красная, д 21/2",
+    "legal_address": null,
+    "website": "http://msud139.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0140",
+    "name": "Судебный участок № 140 Динского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353204, Краснодарский край, ст-ца Динская, ул Красная, д 21/2",
+    "legal_address": null,
+    "website": "http://msud140.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0141",
+    "name": "Судебный участок № 141 Динского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353204, Краснодарский край, ст-ца Динская, ул Красная, д 21/2",
+    "legal_address": null,
+    "website": "http://msud141.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0142",
+    "name": "Судебный участок № 142 Ейского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353680, Краснодарский край, г Ейск, ул Свердлова, д 150",
+    "legal_address": null,
+    "website": "http://msud142.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0143",
+    "name": "Судебный участок № 143 Ейского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353680, Краснодарский край, г Ейск, ул Свердлова, д 150",
+    "legal_address": null,
+    "website": "http://msud143.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0144",
+    "name": "Судебный участок № 144 Кавказского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352140, Краснодарский край, ст-ца Кавказская, ул Ленина, д 164",
+    "legal_address": null,
+    "website": "http://msud144.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0145",
+    "name": "Судебный участок № 145 Кавказского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352140, Краснодарский край, ст-ца Кавказская, ул Ленина, д 164",
+    "legal_address": null,
+    "website": "http://msud145.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0146",
+    "name": "Судебный участок № 146 Калининского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353780, Краснодарский край, ст-ца Калининская, ул Ленина, д 142",
+    "legal_address": null,
+    "website": "http://msud146.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0147",
+    "name": "Судебный участок № 147 Калининского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353780, Краснодарский край, ст-ца Калининская, ул Ленина, д 142",
+    "legal_address": null,
+    "website": "http://msud147.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0148",
+    "name": "Судебный участок № 148 Калининского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353780, Краснодарский край, ст-ца Калининская, ул Ленина, д 142",
+    "legal_address": null,
+    "website": "http://msud148.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0149",
+    "name": "Судебный участок № 149 Каневского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353730, Краснодарский край, ст-ца Каневская, ул Горького, д 49",
+    "legal_address": null,
+    "website": "http://msud149.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0150",
+    "name": "Судебный участок № 150 Каневского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353730, Краснодарский край, ст-ца Каневская, ул Горького, д 49",
+    "legal_address": null,
+    "website": "http://msud150.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0151",
+    "name": "Судебный участок № 151 Каневского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353730, Краснодарский край, ст-ца Каневская, ул Горького, д 49",
+    "legal_address": null,
+    "website": "http://msud151.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0152",
+    "name": "Судебный участок № 152 Каневского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353730, Краснодарский край, ст-ца Каневская, ул Горького, д 49",
+    "legal_address": null,
+    "website": "http://msud152.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0153",
+    "name": "Судебный участок № 153 Кореновского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353182, Краснодарский край, г Кореновск, пер Линейный, д 1",
+    "legal_address": null,
+    "website": "http://msud153.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0154",
+    "name": "Судебный участок № 154 Кореновского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353182, Краснодарский край, г Кореновск, пер Линейный, д 1",
+    "legal_address": null,
+    "website": "http://msud154.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0155",
+    "name": "Судебный участок № 155 Кореновского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353182, Краснодарский край, г Кореновск, пер Линейный, д 1",
+    "legal_address": null,
+    "website": "http://msud155.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0156",
+    "name": "Судебный участок № 156 Красноармейского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353800, Краснодарский край, ст-ца Полтавская, ул Коммунистическая, д 201",
+    "legal_address": null,
+    "website": "http://msud156.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0157",
+    "name": "Судебный участок № 157 Красноармейского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353800, Краснодарский край, ст-ца Полтавская, ул Коммунистическая, д 201",
+    "legal_address": null,
+    "website": "http://msud157.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0158",
+    "name": "Судебный участок № 158 Красноармейского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353800, Краснодарский край, ст-ца Полтавская, ул Коммунистическая, д 201",
+    "legal_address": null,
+    "website": "http://msud158.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0159",
+    "name": "Судебный участок № 159 Красноармейского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353800, Краснодарский край, ст-ца Полтавская, ул Коммунистическая, д 201",
+    "legal_address": null,
+    "website": "http://msud159.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0160",
+    "name": "Судебный участок № 160 Крыловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352080, Краснодарский край, ст-ца Крыловская, ул Орджоникидзе, д 44",
+    "legal_address": null,
+    "website": "http://msud160.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0161",
+    "name": "Судебный участок № 161 Крыловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352080, Краснодарский край, ст-ца Крыловская, ул Орджоникидзе, д 44",
+    "legal_address": null,
+    "website": "http://msud161.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0163",
+    "name": "Судебный участок № 163 Крымского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353383, Краснодарский край, г Крымск, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://msud163.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0164",
+    "name": "Судебный участок № 164 Крымского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353383, Краснодарский край, г Крымск, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://msud164.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0165",
+    "name": "Судебный участок № 165 Курганинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352430, Краснодарский край, г Курганинск, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://msud165.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0166",
+    "name": "Судебный участок № 166 Курганинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352430, Краснодарский край, г Курганинск, ул Первомайская, д 18А",
+    "legal_address": null,
+    "website": "http://msud166.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0167",
+    "name": "Судебный участок № 167 Курганинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352430, Краснодарский край, г Курганинск, ул Первомайская, д 18А",
+    "legal_address": null,
+    "website": "http://msud167.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0168",
+    "name": "Судебный участок № 168 Курганинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352430, Краснодарский край, г Курганинск, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://msud168.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0169",
+    "name": "Судебный участок № 169 Кущевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352030, Краснодарский край, ст-ца Кущевская, ул Красная, д 33",
+    "legal_address": null,
+    "website": "http://msud169.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0171",
+    "name": "Судебный участок № 171 Кущевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352030, Краснодарский край, ст-ца Кущевская, ул Красная, д 31",
+    "legal_address": null,
+    "website": "http://msud171.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0172",
+    "name": "Судебный участок № 172 Лабинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352500, Краснодарский край, г Лабинск, ул Халтурина, д 22/3",
+    "legal_address": null,
+    "website": "http://msud172.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0173",
+    "name": "Судебный участок № 173 Лабинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352500, Краснодарский край, г Лабинск, ул Халтурина, д 22/3",
+    "legal_address": null,
+    "website": "http://msud173.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0174",
+    "name": "Судебный участок № 174 Ленинградского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353740, Краснодарский край, ст-ца Ленинградская, ул Красная, д 137",
+    "legal_address": null,
+    "website": "http://msud174.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0175",
+    "name": "Судебный участок № 175 Ленинградского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353740, Краснодарский край, ст-ца Ленинградская, ул Красная, д 137",
+    "legal_address": null,
+    "website": "http://msud175.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0176",
+    "name": "Судебный участок № 176 Ленинградского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353740, Краснодарский край, ст-ца Ленинградская, ул Красная, д 137",
+    "legal_address": null,
+    "website": "http://msud176.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0177",
+    "name": "Судебный участок № 177 Мостовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352570, Краснодарский край, пгт Мостовской, ул Горького, д 124",
+    "legal_address": null,
+    "website": "http://msud177.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0178",
+    "name": "Судебный участок № 178 Мостовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352570, Краснодарский край, пгт Мостовской, ул Горького, д 124",
+    "legal_address": null,
+    "website": "http://msud178.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0180",
+    "name": "Судебный участок № 180 Новокубанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352240, Краснодарский край, г Новокубанск, ул Первомайская, влд 122",
+    "legal_address": null,
+    "website": "http://msud180.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0181",
+    "name": "Судебный участок № 181 Новокубанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352240, Краснодарский край, г Новокубанск, ул Первомайская, влд 122",
+    "legal_address": null,
+    "website": "http://msud181.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0182",
+    "name": "Судебный участок № 182 Новокубанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352240, Краснодарский край, г Новокубанск, ул Лермонтова, влд 63",
+    "legal_address": null,
+    "website": "http://msud182.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0183",
+    "name": "Судебный участок № 183 Новокубанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352240, Краснодарский край, г Новокубанск, ул Лермонтова, влд 63",
+    "legal_address": null,
+    "website": "http://msud183.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0184",
+    "name": "Судебный участок № 184 Новопокровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353020, Краснодарский край, ст-ца Новопокровская, ул Первомайская, д 159",
+    "legal_address": null,
+    "website": "http://msud184.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0186",
+    "name": "Судебный участок № 186 Отрадненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352290, Краснодарский край, ст-ца Отрадная, ул Братская, д 69А",
+    "legal_address": null,
+    "website": "http://msud186.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0187",
+    "name": "Судебный участок № 187 Отрадненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352290, Краснодарский край, ст-ца Отрадная, ул Братская, д 69А",
+    "legal_address": null,
+    "website": "http://msud187.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0188",
+    "name": "Судебный участок № 188 Отрадненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352290, Краснодарский край, ст-ца Отрадная, ул Братская, д 69А",
+    "legal_address": null,
+    "website": "http://msud188.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0189",
+    "name": "Судебный участок № 189 Павловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352040, Краснодарский край, ст-ца Павловская, ул Крупской, д 239",
+    "legal_address": null,
+    "website": "http://msud189.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0190",
+    "name": "Судебный участок № 190 Павловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352040, Краснодарский край, ст-ца Павловская, ул Крупской, д 239",
+    "legal_address": null,
+    "website": "http://msud190.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0191",
+    "name": "Судебный участок № 191 Павловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352040, Краснодарский край, ст-ца Павловская, ул Крупской, д 239",
+    "legal_address": null,
+    "website": "http://msud191.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0192",
+    "name": "Судебный участок № 192 Приморско-Ахтарского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353860, Краснодарский край, г Приморско-Ахтарск, ул Тамаровского, д 7",
+    "legal_address": null,
+    "website": "http://msud192.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0193",
+    "name": "Судебный участок № 193 Приморско-Ахтарского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353860, Краснодарский край, г Приморско-Ахтарск, ул Тамаровского, д 7",
+    "legal_address": null,
+    "website": "http://msud193.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0194",
+    "name": "Судебный участок № 194 Приморско-Ахтарского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353860, Краснодарский край, г Приморско-Ахтарск, ул Тамаровского, д 7",
+    "legal_address": null,
+    "website": "http://msud194.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0195",
+    "name": "Судебный участок № 195 Северского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353240, Краснодарский край, ст-ца Северская, ул Петровского, д 56",
+    "legal_address": null,
+    "website": "http://msud195.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0196",
+    "name": "Судебный участок № 196 Северского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353240, Краснодарский край, ст-ца Северская, ул Петровского, д 56",
+    "legal_address": null,
+    "website": "http://msud196.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0197",
+    "name": "Судебный участок № 197 Северского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353240, Краснодарский край, ст-ца Северская, ул Петровского, д 56",
+    "legal_address": null,
+    "website": "http://msud197.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0198",
+    "name": "Судебный участок № 198 Северского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353240, Краснодарский край, ст-ца Северская, ул Петровского, д 56",
+    "legal_address": null,
+    "website": "http://msud198.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0199",
+    "name": "Судебный участок № 199 Славянского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 30/2, офис 31",
+    "legal_address": null,
+    "website": "http://msud199.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0271",
+    "name": "Судебный участок № 162 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud271.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0272",
+    "name": "Судебный участок № 170 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354068, Краснодарский край, г Сочи, ул Чехова, д 58",
+    "legal_address": null,
+    "website": "http://msud272.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0273",
+    "name": "Судебный участок № 179 г. Анапы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353440, Краснодарский край, г Анапа, ул Парковая, д 82",
+    "legal_address": null,
+    "website": "http://msud273.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0274",
+    "name": "Судебный участок № 185 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud274.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0200",
+    "name": "Судебный участок № 200 Славянского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 30/2, офис 37",
+    "legal_address": null,
+    "website": "http://msud200.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0201",
+    "name": "Судебный участок № 201 Славянского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353560, Краснодарский край, г Славянск-на-Кубани, ул Красная, д 30/2",
+    "legal_address": null,
+    "website": "http://msud201.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0202",
+    "name": "Судебный участок № 202 Староминского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353600, Краснодарский край, ст-ца Староминская, ул В.Петренко, д 12",
+    "legal_address": null,
+    "website": "http://msud202.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0203",
+    "name": "Судебный участок № 203 Староминского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353600, Краснодарский край, ст-ца Староминская, ул В.Петренко, д 12",
+    "legal_address": null,
+    "website": "http://msud203.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0204",
+    "name": "Судебный участок № 204 Тбилисского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352350, Краснодарский край, Тбилисский р-н, х Северин, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://msud204.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0205",
+    "name": "Судебный участок № 205 Тбилисского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352350, Краснодарский край, Тбилисский р-н, х Северин, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://msud205.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0206",
+    "name": "Судебный участок № 206 Темрюкского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353500, Краснодарский край, г Темрюк, ул Таманская, д 9А",
+    "legal_address": null,
+    "website": "http://msud206.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0207",
+    "name": "Судебный участок № 207 Темрюкского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353500, Краснодарский край, г Темрюк, ул Таманская, д 9А",
+    "legal_address": null,
+    "website": "http://msud207.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0208",
+    "name": "Судебный участок № 208 Темрюкского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353500, Краснодарский край, г Темрюк, ул Ленина, д 23/2",
+    "legal_address": null,
+    "website": "http://msud208.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0209",
+    "name": "Судебный участок № 209 Темрюкского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353500, Краснодарский край, г Темрюк, ул Таманская, д 9А",
+    "legal_address": null,
+    "website": "http://msud209.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0210",
+    "name": "Судебный участок № 210 Тимашевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352708, Краснодарский край, г Тимашевск, ул Пионерская, д 90",
+    "legal_address": null,
+    "website": "http://msud210.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0211",
+    "name": "Судебный участок № 211 Тимашевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352708, Краснодарский край, г Тимашевск, ул Пионерская, д 90",
+    "legal_address": null,
+    "website": "http://msud211.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0212",
+    "name": "Судебный участок № 212 Тимашевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352708, Краснодарский край, г Тимашевск, ул Пионерская, д 90",
+    "legal_address": null,
+    "website": "http://msud212.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0213",
+    "name": "Судебный участок № 213 Тимашевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352708, Краснодарский край, г Тимашевск, ул Пионерская, д 90",
+    "legal_address": null,
+    "website": "http://msud213.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0214",
+    "name": "Судебный участок № 214 Тихорецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Калинина, д 55",
+    "legal_address": null,
+    "website": "http://msud214.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0215",
+    "name": "Судебный участок № 215 Тихорецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Калинина, д 55",
+    "legal_address": null,
+    "website": "http://msud215.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0216",
+    "name": "Судебный участок № 216 Туапсинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352800, Краснодарский край, г Туапсе, ул Полетаева, д 7А",
+    "legal_address": null,
+    "website": "http://msud216.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0217",
+    "name": "Судебный участок № 217 Туапсинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352800, Краснодарский край, г Туапсе, ул Полетаева, д 7",
+    "legal_address": null,
+    "website": "http://msud217.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0218",
+    "name": "Судебный участок № 218 Туапсинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352800, Краснодарский край, г Туапсе, ул Полетаева, д 7",
+    "legal_address": null,
+    "website": "http://msud218.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0219",
+    "name": "Судебный участок № 219 Успенского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352450, Краснодарский край, с Успенское, ул Ленина, д 119",
+    "legal_address": null,
+    "website": "http://msud219.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0220",
+    "name": "Судебный участок № 220 Успенского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352450, Краснодарский край, с Успенское, ул Ленина, д 119",
+    "legal_address": null,
+    "website": "http://msud220.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0221",
+    "name": "Судебный участок № 221 Усть-Лабинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352330, Краснодарский край, г Усть-Лабинск, ул Ленина, д 24",
+    "legal_address": null,
+    "website": "http://msud221.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0222",
+    "name": "Судебный участок № 222 Усть-Лабинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352330, Краснодарский край, г Усть-Лабинск, ул Мира, д 60",
+    "legal_address": null,
+    "website": "http://msud222.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0223",
+    "name": "Судебный участок № 223 Усть-Лабинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352330, Краснодарский край, г Усть-Лабинск, ул Мира, д 60",
+    "legal_address": null,
+    "website": "http://msud223.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0224",
+    "name": "Судебный участок № 224 Усть-Лабинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352330, Краснодарский край, г Усть-Лабинск, ул Мира, д 60",
+    "legal_address": null,
+    "website": "http://msud224.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0225",
+    "name": "Судебный участок № 225 Щербиновского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353620, Краснодарский край, ст-ца Старощербиновская, ул Первомайская, д 87",
+    "legal_address": null,
+    "website": "http://msud225.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0226",
+    "name": "Судебный участок № 226 Щербиновского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353620, Краснодарский край, ст-ца Старощербиновская, ул Первомайская, д 87",
+    "legal_address": null,
+    "website": "http://msud226.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0227",
+    "name": "Судебный участок № 227 г. Армавира",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352900, Краснодарский край, г Армавир, ул Розы Люксембург, д 146",
+    "legal_address": null,
+    "website": "http://msud227.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0228",
+    "name": "Судебный участок № 228 г. Белореченска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352630, Краснодарский край, г Белореченск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://msud228.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0229",
+    "name": "Судебный участок № 229 г. Горячего Ключа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353292, Краснодарский край, г Горячий Ключ, ул Кучерявого, д 52Б",
+    "legal_address": null,
+    "website": "http://msud229.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0230",
+    "name": "Судебный участок № 230 г. Ейска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353680, Краснодарский край, г Ейск, ул Свердлова, д 150",
+    "legal_address": null,
+    "website": "http://msud230.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0231",
+    "name": "Судебный участок № 231 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350051, г Краснодар, ул им. Федора Лузана, д 8",
+    "legal_address": null,
+    "website": "http://msud231.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0232",
+    "name": "Судебный участок № 232 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350051, г Краснодар, ул им. Федора Лузана, д 8",
+    "legal_address": null,
+    "website": "http://msud232.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0233",
+    "name": "Судебный участок № 233 Западного внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350051, г Краснодар, ул им. Федора Лузана, д 8",
+    "legal_address": null,
+    "website": "http://msud233.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0234",
+    "name": "Судебный участок № 234 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud234.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0235",
+    "name": "Судебный участок № 235 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350075, г Краснодар, ул Старокубанская, д 125",
+    "legal_address": null,
+    "website": "http://msud235.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0236",
+    "name": "Судебный участок № 236 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud236.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0237",
+    "name": "Судебный участок № 237 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud237.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0238",
+    "name": "Судебный участок № 238 Карасунского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350088, г Краснодар, ул Уральская, д 186",
+    "legal_address": null,
+    "website": "http://msud238.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0239",
+    "name": "Судебный участок № 239 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud239.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0240",
+    "name": "Судебный участок № 240 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud240.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0241",
+    "name": "Судебный участок № 241 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud241.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0242",
+    "name": "Судебный участок № 242 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud242.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0243",
+    "name": "Судебный участок № 243 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud243.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0244",
+    "name": "Судебный участок № 244 Прикубанского внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350010, г Краснодар, ул Зиповская, д 5/7",
+    "legal_address": null,
+    "website": "http://msud244.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0245",
+    "name": "Судебный участок № 245 Центрального внутригородского округа г. Краснодара",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "350000, г Краснодар, ул Красная, д 89/3",
+    "legal_address": null,
+    "website": "http://msud245.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0246",
+    "name": "Судебный участок № 246 г. Крымска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353383, Краснодарский край, г Крымск, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://msud246.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0247",
+    "name": "Судебный участок № 247 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud247.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0248",
+    "name": "Судебный участок № 248 г. Новороссийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353900, Краснодарский край, г Новороссийск, ул Героев Десантников, д 77",
+    "legal_address": null,
+    "website": "http://msud248.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0249",
+    "name": "Судебный участок № 249 Хостинского района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354067, Краснодарский край, г. Сочи, п. Хоста, ул. Ялтинская, д. 12",
+    "legal_address": null,
+    "website": "http://msud249.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0250",
+    "name": "Судебный участок № 250 Центрального района г. Сочи",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "354057, Краснодарский край, г Сочи, ул Туапсинская, д 13",
+    "legal_address": null,
+    "website": "http://msud250.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0251",
+    "name": "Судебный участок № 251 Анапского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353451, Краснодарский край, г Анапа, ул Чехова, д 44",
+    "legal_address": null,
+    "website": "http://msud251.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0252",
+    "name": "Судебный участок № 252 Апшеронского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352690, Краснодарский край, г Апшеронск, ул Ленина, д 112",
+    "legal_address": null,
+    "website": "http://msud252.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0253",
+    "name": "Судебный участок № 253 Брюховецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352750, Краснодарский край, ст-ца Брюховецкая, ул Ленина, д 20",
+    "legal_address": null,
+    "website": "http://msud253.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0254",
+    "name": "Судебный участок № 254 Гулькевичского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352189, Краснодарский край, Гулькевичский р-н, пгт Красносельский, ул Строителей, д 46",
+    "legal_address": null,
+    "website": "http://msud254.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0255",
+    "name": "Судебный участок № 255 Динского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353204, Краснодарский край, ст-ца Динская, ул Красная, д 21/1",
+    "legal_address": null,
+    "website": "http://msud255.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0256",
+    "name": "Судебный участок № 256 Каневского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353730, Краснодарский край, ст-ца Каневская, ул Горького, д 49",
+    "legal_address": null,
+    "website": "http://msud256.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0257",
+    "name": "Судебный участок № 257 Кореновского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353182, Краснодарский край, г Кореновск, пер Линейный, д 1",
+    "legal_address": null,
+    "website": "http://msud257.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0258",
+    "name": "Судебный участок № 258 Красноармейского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353800, Краснодарский край, ст-ца Полтавская, ул Коммунистическая, д 201",
+    "legal_address": null,
+    "website": "http://msud258.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0259",
+    "name": "Судебный участок № 259 Крымского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353383, Краснодарский край, г Крымск, ул Свердлова, д 2",
+    "legal_address": null,
+    "website": "http://msud259.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0260",
+    "name": "Судебный участок № 260 Курганинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352430, Краснодарский край, г Курганинск, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://msud260.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0261",
+    "name": "Судебный участок № 261 Кущевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352030, Краснодарский край, ст-ца Кущевская, ул Красная, д 31",
+    "legal_address": null,
+    "website": "http://msud261.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0262",
+    "name": "Судебный участок № 262 Мостовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352570, Краснодарский край, пгт Мостовской, ул Горького, д 124",
+    "legal_address": null,
+    "website": "http://msud262.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0263",
+    "name": "Судебный участок № 263 Новопокровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353020, Краснодарский край, ст-ца Новопокровская, ул Первомайская, д 159",
+    "legal_address": null,
+    "website": "http://msud263.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0264",
+    "name": "Судебный участок № 264 Северского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353240, Краснодарский край, ст-ца Северская, ул Петровского, д 56",
+    "legal_address": null,
+    "website": "http://msud264.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0265",
+    "name": "Судебный участок № 265 Северского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353240, Краснодарский край, ст-ца Северская, ул Петровского, д 56",
+    "legal_address": null,
+    "website": "http://msud265.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0266",
+    "name": "Судебный участок № 266 Тбилисского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352350, Краснодарский край, Тбилисский р-н, х Северин, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://msud266.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0267",
+    "name": "Судебный участок № 267 Темрюкского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "353500, Краснодарский край, г Темрюк, ул Ленина, д 23/2",
+    "legal_address": null,
+    "website": "http://msud267.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0268",
+    "name": "Судебный участок № 268 Тимашевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352708, Краснодарский край, г Тимашевск, ул Пионерская, д 90",
+    "legal_address": null,
+    "website": "http://msud268.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0269",
+    "name": "Судебный участок № 269 Тихорецкого района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352120, Краснодарский край, г Тихорецк, ул Калинина, д 55",
+    "legal_address": null,
+    "website": "http://msud269.krd.msudrf.ru"
+  },
+  {
+    "code": "23MS0270",
+    "name": "Судебный участок № 270 Усть-Лабинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "352330, Краснодарский край, г Усть-Лабинск, ул Мира, д 60",
+    "legal_address": null,
+    "website": "http://msud270.krd.msudrf.ru"
+  }
+]

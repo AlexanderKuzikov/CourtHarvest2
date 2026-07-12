@@ -1,0 +1,352 @@
+[
+  {
+    "code": "19MS0024",
+    "name": "Судебный участок в границах Алтайского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655650, Респ Хакасия, с Белый Яр, пер Первомайский, зд 4",
+    "legal_address": null,
+    "website": "http://altai.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0028",
+    "name": "Судебный участок в границах Бейского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655770, Респ Хакасия, с Бея, ул Октябрьская, д 106",
+    "legal_address": null,
+    "website": "http://bea.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0029",
+    "name": "Судебный участок в границах Боградского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655340, Респ Хакасия, с Боград, ул Горная, д 2",
+    "legal_address": null,
+    "website": "http://bograd.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0022",
+    "name": "Судебный участок в границах г. Абазы Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655750, Респ Хакасия, г Абаза, ул Ленина, д 2",
+    "legal_address": null,
+    "website": "http://abaza.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0023",
+    "name": "Судебный участок в границах г. Сорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655111, Респ Хакасия, г Сорск, ул Кирова, д 22",
+    "legal_address": null,
+    "website": "http://sorsk.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0035",
+    "name": "Судебный участок в границах Орджоникидзевского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655251, Респ Хакасия, п Копьево, ул Новобольничная, зд 3",
+    "legal_address": null,
+    "website": "http://kop.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0030",
+    "name": "Судебный участок в границах Таштыпского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655740, Респ Хакасия, с Таштып, ул Советская, д 167",
+    "legal_address": null,
+    "website": "http://tashtyp.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0025",
+    "name": "Судебный участок № 1 Аскизского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655700, Респ Хакасия, с Аскиз, ул Красноармейская, зд 2",
+    "legal_address": null,
+    "website": "http://askiz1.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0001",
+    "name": "Судебный участок № 1 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan1.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0018",
+    "name": "Судебный участок № 1 г. Саяногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655603, Респ Хакасия, г Саяногорск, мкр Енисейский, зд 32",
+    "legal_address": null,
+    "website": "http://sayanogorsk1.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0013",
+    "name": "Судебный участок № 1 г. Черногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655154, Респ Хакасия, г Черногорск, пр-кт Космонавтов, д 37",
+    "legal_address": null,
+    "website": "http://chernogorsk1.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0031",
+    "name": "Судебный участок № 1 Усть-Абаканского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655100, Респ Хакасия, рп Усть-Абакан, ул Кирова, д 20Б",
+    "legal_address": null,
+    "website": "http://ua1.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0033",
+    "name": "Судебный участок № 1 Ширинского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655200, Респ Хакасия, с Шира, ул Щетинина, д 151",
+    "legal_address": null,
+    "website": "http://shira1.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0026",
+    "name": "Судебный участок № 2 Аскизского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655700, Респ Хакасия, с Аскиз, ул Красноармейская, зд 2",
+    "legal_address": null,
+    "website": "http://askiz2.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0002",
+    "name": "Судебный участок № 2 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan2.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0019",
+    "name": "Судебный участок № 2 г. Саяногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655603, Респ Хакасия, г Саяногорск, мкр Енисейский, зд 32",
+    "legal_address": null,
+    "website": "http://sayanogorsk2.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0014",
+    "name": "Судебный участок № 2 г. Черногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655154, Респ Хакасия, г Черногорск, пр-кт Космонавтов, д 37",
+    "legal_address": null,
+    "website": "http://chernogorsk2.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0032",
+    "name": "Судебный участок № 2 Усть-Абаканского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655100, Респ Хакасия, рп Усть-Абакан, ул Кирова, д 20Б",
+    "legal_address": null,
+    "website": "http://ua2.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0034",
+    "name": "Судебный участок № 2 Ширинского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655200, Респ Хакасия, с Шира, ул Щетинина, д 151",
+    "legal_address": null,
+    "website": "http://shira2.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0027",
+    "name": "Судебный участок № 3 Аскизского района Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655731, Респ Хакасия, Аскизский р-н, рп Вершина Тёи, ул Набережная, д 9",
+    "legal_address": null,
+    "website": "http://tea.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0003",
+    "name": "Судебный участок № 3 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan3.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0004",
+    "name": "Судебный участок № 4 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan4.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0005",
+    "name": "Судебный участок № 5 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan5.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0006",
+    "name": "Судебный участок № 6 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan6.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0007",
+    "name": "Судебный участок № 7 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan7.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0008",
+    "name": "Судебный участок № 8 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan8.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0009",
+    "name": "Судебный участок № 9 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan9.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0015",
+    "name": "Судебный участок № 3 г. Черногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655154, Респ Хакасия, г Черногорск, пр-кт Космонавтов, д 37",
+    "legal_address": null,
+    "website": "http://chernogorsk3.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0016",
+    "name": "Судебный участок № 4 г. Черногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655154, Респ Хакасия, г Черногорск, пр-кт Космонавтов, д 37",
+    "legal_address": null,
+    "website": "http://chernogorsk4.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0017",
+    "name": "Судебный участок № 5 г. Черногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655154, Респ Хакасия, г Черногорск, пр-кт Космонавтов, д 37",
+    "legal_address": null,
+    "website": "http://chernogorsk5.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0010",
+    "name": "Судебный участок № 10 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan10.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0011",
+    "name": "Судебный участок № 11 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan11.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0012",
+    "name": "Судебный участок № 12 г. Абакана Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655017, г Абакан, ул Ленинского Комсомола, д 3",
+    "legal_address": null,
+    "website": "http://abakan12.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0020",
+    "name": "Судебный участок № 3 г. Саяногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655603, Респ Хакасия, г Саяногорск, мкр Енисейский, зд 32",
+    "legal_address": null,
+    "website": "http://sayanogorsk3.hak.msudrf.ru"
+  },
+  {
+    "code": "19MS0021",
+    "name": "Судебный участок № 4 г. Саяногорска Республики Хакасия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "655603, Респ Хакасия, г Саяногорск, мкр Енисейский, зд 32",
+    "legal_address": null,
+    "website": "http://sayanogorsk4.hak.msudrf.ru"
+  }
+]

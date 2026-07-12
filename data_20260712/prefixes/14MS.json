@@ -1,0 +1,632 @@
+[
+  {
+    "code": "14MS0004",
+    "name": "Абыйский судебный участок № 3",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678890, Респ Саха (Якутия), пгт Белая Гора, ул Строителей, д 12/4",
+    "legal_address": null,
+    "website": "http://sakha3.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0001",
+    "name": "Алданский судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678901, Респ Саха (Якутия), г Алдан, ул Пролетарская, д 46",
+    "legal_address": null,
+    "website": "http://sakha1.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0002",
+    "name": "Алданский судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678901, Респ Саха (Якутия), г Алдан, пер Первомайский, д 1",
+    "legal_address": null,
+    "website": "http://sakha2.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0003",
+    "name": "Алданский судебный участок № 52",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678901, Респ Саха (Якутия), г Алдан, ул Пролетарская, д 46",
+    "legal_address": null,
+    "website": "http://sakha52.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0006",
+    "name": "Амгинский судебный участок № 5",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678600, Республика Саха (Якутия), Амгинский район, с. Амга, ул. Широких Полянских, д. 3",
+    "legal_address": null,
+    "website": "http://sakha5.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0007",
+    "name": "Анабарский судебный участок № 6",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678440, Респ Саха (Якутия), с Саскылах, ул Нагорная, д 13",
+    "legal_address": null,
+    "website": "http://sakha6.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0008",
+    "name": "Булунский судебный участок № 7",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678400, Респ Саха (Якутия), п Тикси, ул Трусова, д 7",
+    "legal_address": null,
+    "website": "http://sakha7.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0009",
+    "name": "Верхневилюйский судебный участок № 8",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678230, Респ Саха (Якутия), с Верхневилюйск, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://sakha8.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0010",
+    "name": "Верхнеколымский судебный участок № 9",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678770, Респ Саха (Якутия), п Зырянка, ул Пристанская, зд 4",
+    "legal_address": null,
+    "website": "http://sakha9.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0011",
+    "name": "Верхоянский судебный участок № 10",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678500, Респ Саха (Якутия), пгт Батагай, ул Аммосова, д 12А",
+    "legal_address": null,
+    "website": "http://sakha10.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0012",
+    "name": "Вилюйский судебный участок № 11",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678200, Респ Саха (Якутия), г Вилюйск, ул Ленина, д 35 к 1",
+    "legal_address": null,
+    "website": "http://sakha11.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0013",
+    "name": "Горный судебный участок № 12",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678030, Респ Саха (Якутия), с Бердигестях, ул С.Данилова, д 47",
+    "legal_address": null,
+    "website": "http://sakha12.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0014",
+    "name": "Жиганский судебный участок № 13",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678330, Респ Саха (Якутия), с Жиганск, ул Аммосова, зд 8",
+    "legal_address": null,
+    "website": "http://sakha13.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0015",
+    "name": "Кобяйский судебный участок № 14",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678300, Респ Саха (Якутия), пгт Сангар, ул Ленина, зд 49",
+    "legal_address": null,
+    "website": "http://sakha14.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0018",
+    "name": "Ленский судебный участок № 16",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678158, Респ Саха (Якутия), у Ленский, п Пеледуй, ул Центральная, зд 3",
+    "legal_address": null,
+    "website": "http://sakha16.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0019",
+    "name": "Ленский судебный участок № 17",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678144, Респ Саха (Якутия), г Ленск, ул Водников, д 9",
+    "legal_address": null,
+    "website": "http://sakha17.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0020",
+    "name": "Ленский судебный участок № 54",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678144, Респ Саха (Якутия), г Ленск, ул Водников, д 9",
+    "legal_address": null,
+    "website": "http://sakha54.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0016",
+    "name": "Мегино-Кангаласский судебный участок № 15",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678070, Респ Саха (Якутия), с Майя, ул Степанова, д 1 к 1",
+    "legal_address": null,
+    "website": "http://sakha15.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0017",
+    "name": "Мегино-Кангаласский судебный участок № 53",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678080, Республика Саха (Якутия), Мегино-Кангаласский район, п. Нижний-Бестях, кв. Магистральный, д. 2",
+    "legal_address": null,
+    "website": "http://sakha53.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0021",
+    "name": "Мирнинский судебный участок № 18",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678175, Респ Саха (Якутия), г Мирный, ул Ленина, д 34",
+    "legal_address": null,
+    "website": "http://sakha18.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0005",
+    "name": "Судебный участок № 4 Аллаиховского улуса (района)",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678800, Респ Саха (Якутия), п Чокурдах, ул им Ленина, зд 7",
+    "legal_address": null,
+    "website": "http://sakha4.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0024",
+    "name": "Мирнинский судебный участок № 19",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678188, Респ Саха (Якутия), у Мирнинский, г Удачный, мкр Новый город, д 5, кв 2",
+    "legal_address": null,
+    "website": "http://sakha19.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0022",
+    "name": "Мирнинский судебный участок № 50",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678175, Респ Саха (Якутия), г Мирный, ул Ленина, д 34",
+    "legal_address": null,
+    "website": "http://sakha50.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0023",
+    "name": "Мирнинский судебный участок № 55",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678175, Респ Саха (Якутия), г Мирный, ул Ленина, д 34",
+    "legal_address": null,
+    "website": "http://sakha55.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0026",
+    "name": "Намский судебный участок № 21",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678380, Респ Саха (Якутия), с Намцы, ул Чернышевского, д 16",
+    "legal_address": null,
+    "website": "http://sakha21.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0027",
+    "name": "Нижнеколымский судебный участок № 22",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678830, Респ Саха (Якутия), п Черский, ул Октябрьская, зд 1",
+    "legal_address": null,
+    "website": "http://sakha22.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0028",
+    "name": "Нюрбинский судебный участок № 23",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678450, Респ Саха (Якутия), г Нюрба, ул Советская, д 74",
+    "legal_address": null,
+    "website": "http://sakha23.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0029",
+    "name": "Нюрбинский судебный участок № 56",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678450, Респ Саха (Якутия), г Нюрба, ул Советская, д 74",
+    "legal_address": null,
+    "website": "http://sakha56.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0025",
+    "name": "Судебный участок № 20 Момского улуса (района)",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678860, Респ Саха (Якутия), с Хонуу, ул Заложная, д 11",
+    "legal_address": null,
+    "website": "http://sakha20.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0030",
+    "name": "Оймяконский судебный участок № 24",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678730, Респ Саха (Якутия), пгт Усть-Нера, ул Коммунистическая, д 30 к 2",
+    "legal_address": null,
+    "website": "http://sakha24.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0031",
+    "name": "Олекминский судебный участок № 25",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678100, Респ Саха (Якутия), г Олекминск, ул 50 лет Победы, д 63",
+    "legal_address": null,
+    "website": "http://sakha25.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0032",
+    "name": "Олекминский судебный участок № 57",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678100, Респ Саха (Якутия), г Олекминск, ул 50 лет Победы, д 63",
+    "legal_address": null,
+    "website": "http://sakha57.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0033",
+    "name": "Оленекский судебный участок № 26",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678480, Респ Саха (Якутия), с Оленек, ул Октябрьская, зд 20",
+    "legal_address": null,
+    "website": "http://sakha26.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0034",
+    "name": "Среднеколымский судебный участок № 27",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678790, Респ Саха (Якутия), г Среднеколымск, ул Курашова, д 8",
+    "legal_address": null,
+    "website": "http://sakha27.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0035",
+    "name": "Сунтарский судебный участок № 28",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678290, Респ Саха (Якутия), с Сунтар, ул Октябрьская, д 23/2",
+    "legal_address": null,
+    "website": "http://sakha28.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0036",
+    "name": "Таттинский судебный участок № 29",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678650, Респ Саха (Якутия), с Ытык-Кюель, ул Ойунского, д 33Е",
+    "legal_address": null,
+    "website": "http://sakha29.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0037",
+    "name": "Томпонский судебный участок № 30",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678720, Респ Саха (Якутия), п Хандыга, ул Геолога Кудрявого, д 36",
+    "legal_address": null,
+    "website": "http://sakha30.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0038",
+    "name": "Усть-Алданский судебный участок № 31",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678350, Респ Саха (Якутия), с Борогонцы, ул им Героя Егорова, д 11 к 2",
+    "legal_address": null,
+    "website": "http://sakha31.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0039",
+    "name": "Усть-Майский судебный участок № 32",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678620, Респ Саха (Якутия), п Усть-Мая, ул Пирогова, д 16/1",
+    "legal_address": null,
+    "website": "http://sakha32.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0045",
+    "name": "Нерюнгринский судебный участок № 37",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678965, Респ Саха (Якутия), Нерюнгринский р-н, г Нерюнгри, пр-кт Геологов, зд 77/2",
+    "legal_address": null,
+    "website": "http://sakha37.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0046",
+    "name": "Нерюнгринский судебный участок № 38",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678965, Респ Саха (Якутия), Нерюнгринский р-н, г Нерюнгри, пр-кт Геологов, зд 77/2",
+    "legal_address": null,
+    "website": "http://sakha38.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0048",
+    "name": "Нерюнгринский судебный участок № 39",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678981, Респ Саха (Якутия), Нерюнгринский р-н, п Чульман, ул Советская, д 67А к 2",
+    "legal_address": null,
+    "website": "http://sakha39.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0047",
+    "name": "Нерюнгринский судебный участок № 51",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678965, Респ Саха (Якутия), Нерюнгринский р-н, г Нерюнгри, пр-кт Геологов, д 77 к 2",
+    "legal_address": null,
+    "website": "http://sakha51.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0041",
+    "name": "Судебный участок № 34 Хангаласского района Республики Саха (Якутия)",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678000, Респ Саха (Якутия), г Покровск, ул Неустроева, зд 1А",
+    "legal_address": null,
+    "website": "http://sakha34.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0049",
+    "name": "Судебный участок № 40 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 206",
+    "legal_address": null,
+    "website": "http://sakha40.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0042",
+    "name": "Судебный участок № 58 Хангаласского района Республики Саха ( Якутия)",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678020, Респ Саха (Якутия), у Хангаласский, п Мохсоголлох, ул Заводская, д 6",
+    "legal_address": null,
+    "website": "http://sakha58.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0040",
+    "name": "Усть-Янский судебный участок № 33",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678540, Респ Саха (Якутия), пгт Депутатский, ул Центральная, д 9",
+    "legal_address": null,
+    "website": "http://sakha33.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0043",
+    "name": "Чурапчинский судебный участок № 35",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678670, Респ Саха (Якутия), с Чурапча, ул П.П. Пинигина, д 1Б",
+    "legal_address": null,
+    "website": "http://sakha35.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0044",
+    "name": "Эвено-Бытантайский судебный участок № 36",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678580, Республика Саха (Якутия), Эвено-Бытантайский национальный улус (район), с. Батагай-Алыта, ул. Советская, д. 1",
+    "legal_address": null,
+    "website": "http://sakha36.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0050",
+    "name": "Судебный участок № 41 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 309",
+    "legal_address": null,
+    "website": "http://sakha41.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0051",
+    "name": "Судебный участок № 42 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 209",
+    "legal_address": null,
+    "website": "http://sakha42.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0052",
+    "name": "Судебный участок № 43 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 306",
+    "legal_address": null,
+    "website": "http://sakha43.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0053",
+    "name": "Судебный участок № 44 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 305",
+    "legal_address": null,
+    "website": "http://sakha44.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0054",
+    "name": "Судебный участок № 45 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 205",
+    "legal_address": null,
+    "website": "http://sakha45.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0055",
+    "name": "Судебный участок № 46 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 406",
+    "legal_address": null,
+    "website": "http://sakha46.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0056",
+    "name": "Судебный участок № 47 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 405",
+    "legal_address": null,
+    "website": "http://sakha47.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0057",
+    "name": "Судебный участок № 48 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 409",
+    "legal_address": null,
+    "website": "http://sakha48.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0059",
+    "name": "Судебный участок № 49 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/1",
+    "legal_address": null,
+    "website": "http://sakha49.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0058",
+    "name": "Судебный участок № 59 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 506",
+    "legal_address": null,
+    "website": "http://sakha59.yak.msudrf.ru"
+  },
+  {
+    "code": "14MS0060",
+    "name": "Судебный участок № 60 Мирнинского района, Республики Саха (Якутия).",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678190, Респ Саха (Якутия), у Мирнинский, п Айхал, ул Спортивная, д 5",
+    "legal_address": null,
+    "website": "http://sakha60.yak.msudrf.ru/"
+  },
+  {
+    "code": "14MS0061",
+    "name": "Судебный участок № 61 Нерюнгринского района, Республики Саха (Якутия).",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "678965, Респ Саха (Якутия), Нерюнгринский р-н, г Нерюнгри, пр-кт Геологов, д 77 к 2",
+    "legal_address": null,
+    "website": "http://sakha61.yak.msudrf.ru/"
+  },
+  {
+    "code": "14MS0062",
+    "name": "Судебный участок № 62 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 505",
+    "legal_address": null,
+    "website": "http://sakha62.yak.msudrf.ru/"
+  },
+  {
+    "code": "14MS0063",
+    "name": "Судебный участок № 63 города Якутска Республики Саха",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "677027, г Якутск, ул Орджоникидзе, д 44/2, офис 509",
+    "legal_address": null,
+    "website": "http://sakha63.yak.msudrf.ru/"
+  }
+]

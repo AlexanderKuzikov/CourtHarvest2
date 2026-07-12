@@ -1,0 +1,392 @@
+[
+  {
+    "code": "55RS0008",
+    "name": "Азовский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646880, Омская обл, с Азово, ул 40 лет ВЛКСМ, д 39",
+    "legal_address": null,
+    "website": "http://azovocourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0009",
+    "name": "Большереченский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646670, Омская обл, рп Большеречье, ул Советов, д 65",
+    "legal_address": null,
+    "website": "http://bolsherechencourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0010",
+    "name": "Большеуковский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646380, Омская обл, с Большие Уки, ул Ленина, д 25",
+    "legal_address": null,
+    "website": "http://bolsheukovcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0011",
+    "name": "Горьковский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646600, Омская обл, рп Горьковское, ул Коммунаров, д 20",
+    "legal_address": null,
+    "website": "http://gorkovskcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0012",
+    "name": "Знаменский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646550, Омская обл, с Знаменское, ул Октябрьская, д 3",
+    "legal_address": null,
+    "website": "http://znamenskcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0013",
+    "name": "Исилькульский городской суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646024, Омская обл, г Исилькуль, ул Ленина, д 71",
+    "legal_address": null,
+    "website": "http://isilkulcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0014",
+    "name": "Калачинский городской суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646900, Омская обл, г Калачинск, ул Пролетарская, д 58",
+    "legal_address": null,
+    "website": "http://kalachinskcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0001",
+    "name": "Кировский районный суд г. Омска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644015, г Омск, ул Суворова, д 99",
+    "legal_address": null,
+    "website": "http://kirovcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0015",
+    "name": "Колосовский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646350, Омская обл, с Колосовка, ул Калинина, д 21",
+    "legal_address": null,
+    "website": "http://kolosovcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0016",
+    "name": "Кормиловский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646970, Омская обл, рп Кормиловка, ул Ленина, д 1",
+    "legal_address": null,
+    "website": "http://kormilovcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0017",
+    "name": "Крутинский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646130, Омская обл, рп Крутинка, ул Ленина, д 36",
+    "legal_address": null,
+    "website": "http://krutinkacourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0002",
+    "name": "Куйбышевский районный суд г. Омска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644070, г Омск, ул Лермонтова, д 61",
+    "legal_address": null,
+    "website": "http://kuybcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0003",
+    "name": "Ленинский районный суд г. Омска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644121, г Омск, ул Труда, д 29А",
+    "legal_address": null,
+    "website": "http://lenincourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0019",
+    "name": "Любинский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646160, Омская обл, рп Любинский, ул Октябрьская, д 85",
+    "legal_address": null,
+    "website": "http://lubinskcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0018",
+    "name": "Марьяновский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646040, Омская обл, рп Марьяновка, ул Ленина, д 22",
+    "legal_address": null,
+    "website": "http://marianovcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0020",
+    "name": "Москаленский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646070, Омская обл, рп Москаленки, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://moskalenkicourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0021",
+    "name": "Муромцевский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646430, Омская обл, рп Муромцево, ул Красноармейская, д 6",
+    "legal_address": null,
+    "website": "http://muromzevocourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0022",
+    "name": "Называевский городской суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646104, Омская обл, г Называевск, ул Красная, д 56",
+    "legal_address": null,
+    "website": "http://nazivaevskcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0023",
+    "name": "Нижнеомский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646620, Омская обл, с Нижняя Омка, ул Ленина, д 60",
+    "legal_address": null,
+    "website": "http://nizneomskcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0024",
+    "name": "Нововаршавский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646830, Омская обл, рп Нововаршавка, ул Кооперативная, д 1",
+    "legal_address": null,
+    "website": "http://novovorshcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0004",
+    "name": "Октябрьский районный суд г. Омска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644021, г Омск, ул 9-я Линия, д 232",
+    "legal_address": null,
+    "website": "http://octobercourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0005",
+    "name": "Первомайский районный суд г. Омска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644033, г Омск, ул 9-я Северная, д 99",
+    "legal_address": null,
+    "website": "http://pervomaycourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0006",
+    "name": "Советский районный суд г. Омска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644065, г Омск, ул Нефтезаводская, д 32В",
+    "legal_address": null,
+    "website": "http://sovetsky.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0007",
+    "name": "Центральный районный суд г. Омска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644099, г Омск, ул Тарская, д 28",
+    "legal_address": null,
+    "website": "http://centralcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0025",
+    "name": "Одесский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646860, Омская обл, с Одесское, ул Ленина, д 43",
+    "legal_address": null,
+    "website": "http://odesskcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0027",
+    "name": "Оконешниковский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646940, Омская обл, рп Оконешниково, ул Пролетарская, д 68",
+    "legal_address": null,
+    "website": "http://okoneshcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0026",
+    "name": "Омский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "644031, г Омск, ул Омская, д 194А",
+    "legal_address": null,
+    "website": "http://omskiycourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0028",
+    "name": "Павлоградский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646760, Омская обл, рп Павлоградка, ул Пролетарская, д 2",
+    "legal_address": null,
+    "website": "http://pavlogrcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0029",
+    "name": "Полтавский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646740, Омская обл, рп Полтавка, ул Комсомольская, д 11",
+    "legal_address": null,
+    "website": "http://poltavcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0030",
+    "name": "Русско-Полянский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646780, Омская обл, рп Русская Поляна, ул Кирова, д 62",
+    "legal_address": null,
+    "website": "http://rus-polcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0031",
+    "name": "Саргатский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646400, Омская обл, рп Саргатское, ул Октябрьская, д 26",
+    "legal_address": null,
+    "website": "http://sargatcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0032",
+    "name": "Седельниковский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646480, Омская обл, с Седельниково, ул Тимирязева, д 20",
+    "legal_address": null,
+    "website": "http://sedelncourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0033",
+    "name": "Таврический районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646800, Омская обл, рп Таврическое, ул Ленина, д 81",
+    "legal_address": null,
+    "website": "http://tavrichcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0034",
+    "name": "Тарский городской суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646530, Омская обл, г Тара, пл Ленина, д 16",
+    "legal_address": null,
+    "website": "http://taracourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0035",
+    "name": "Тевризский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646560, Омская обл, рп Тевриз, ул Кирова, д 2",
+    "legal_address": null,
+    "website": "http://tevrizcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0036",
+    "name": "Тюкалинский городской суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646330, Омская обл, г Тюкалинск, ул Ленина, д 44",
+    "legal_address": null,
+    "website": "http://tukalacourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0037",
+    "name": "Усть-Ишимский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646580, Омская обл, с Усть-Ишим, ул Школьная, д 6",
+    "legal_address": null,
+    "website": "http://ust-ishimcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0038",
+    "name": "Черлакский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646250, Омская обл, рп Черлак, ул Ленина, д 120",
+    "legal_address": null,
+    "website": "http://cherlakcourt.oms.sudrf.ru"
+  },
+  {
+    "code": "55RS0039",
+    "name": "Шербакульский районный суд Омской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "646700, Омская обл, рп Шербакуль, ул Ленина, д 116",
+    "legal_address": null,
+    "website": "http://sherbcourt.oms.sudrf.ru"
+  }
+]

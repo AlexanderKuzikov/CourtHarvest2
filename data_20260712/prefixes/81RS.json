@@ -1,0 +1,32 @@
+[
+  {
+    "code": "81RS0005",
+    "name": "Гайнский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "619650, Пермский край, п Гайны, ул Кашина, зд 40",
+    "legal_address": null,
+    "website": "http://gaynsky.perm.sudrf.ru"
+  },
+  {
+    "code": "81RS0002",
+    "name": "Кочевский районный суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "619320, Пермский край, с Кочево, ул Калинина, д 10",
+    "legal_address": null,
+    "website": "http://kochevsky.perm.sudrf.ru"
+  },
+  {
+    "code": "81RS0006",
+    "name": "Кудымкарский городской суд Пермского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "619000, Пермский край, г Кудымкар, ул Леваневского, д 2А",
+    "legal_address": null,
+    "website": "http://kudimkarsky.perm.sudrf.ru"
+  }
+]

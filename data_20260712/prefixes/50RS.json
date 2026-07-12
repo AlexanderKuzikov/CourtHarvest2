@@ -1,0 +1,452 @@
+[
+  {
+    "code": "50RS0001",
+    "name": "Балашихинский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143907, Московская обл, г Балашиха, ш Энтузиастов, д 39А",
+    "legal_address": null,
+    "website": "http://balashihinsky.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0002",
+    "name": "Видновский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142700, Московская обл, г Видное, ул Центральная, д 2",
+    "legal_address": null,
+    "website": "http://vidnoe.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0004",
+    "name": "Волоколамский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143600, Московская обл, г Волоколамск, ул Пролетарская, д 10А",
+    "legal_address": null,
+    "website": "http://volokolamsk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0003",
+    "name": "Воскресенский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140200, Московская обл, г Воскресенск, ул Советская, д 3А",
+    "legal_address": null,
+    "website": "http://voskresensk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0005",
+    "name": "Дмитровский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141800, Московская обл, г Дмитров, ул Загорская, д 18",
+    "legal_address": null,
+    "website": "http://dmitrov.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0006",
+    "name": "Долгопрудненский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141701, Московская обл, г Долгопрудный, ул Первомайская, д 13/3",
+    "legal_address": null,
+    "website": "http://dolgoprudniy.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0007",
+    "name": "Домодедовский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142000, Московская обл., г. Домодедово, ул. Советская, д. 26",
+    "legal_address": null,
+    "website": "http://domodedovo.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0008",
+    "name": "Дубненский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141980, Московская обл, г Дубна, ул Курчатова И.В., д 28",
+    "legal_address": null,
+    "website": "http://dubna.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0009",
+    "name": "Егорьевский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140301, Московская обл, г Егорьевск, пр-кт Ленина, д 12",
+    "legal_address": null,
+    "website": "http://egorievsk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0010",
+    "name": "Железнодорожный городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143980, Московская обл, г Балашиха, мкр Железнодорожный, ул Октябрьская, д 31",
+    "legal_address": null,
+    "website": "http://zheleznodorojniy.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0011",
+    "name": "Жуковский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140185, Московская обл., г. Жуковский, ул. Ф.Калугина, д. 9",
+    "legal_address": null,
+    "website": "http://zhukovsk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0012",
+    "name": "Зарайский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140600, Московская обл, г Зарайск, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://zaraisk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0014",
+    "name": "Ивантеевский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141281, Московская обл, г Пушкино, г Ивантеевка, ул Хлебозаводская, д 22",
+    "legal_address": null,
+    "website": "http://ivanteevka.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0015",
+    "name": "Истринский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143500, Московская обл, г Истра, ул Советская, д 11",
+    "legal_address": null,
+    "website": "http://istra.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0017",
+    "name": "Каширский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142900, Московская обл, г Кашира, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://kashira.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0019",
+    "name": "Клинский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141601, Московская обл, г Клин, ул Ленина, д 17",
+    "legal_address": null,
+    "website": "http://klin.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0020",
+    "name": "Коломенский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140400, Московская обл, г Коломна, ул Гражданская, д 5",
+    "legal_address": null,
+    "website": "http://kolomna.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0016",
+    "name": "Королёвский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141070, Московская обл, г Королёв, ул Коминтерна, д 2",
+    "legal_address": null,
+    "website": "http://korolev.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0021",
+    "name": "Красногорский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143403, Московская обл, г Красногорск, ул Первомайская, влд 6",
+    "legal_address": null,
+    "website": "http://krasnogorsk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0022",
+    "name": "Лобненский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141732, Московская обл, г Лобня, ул Мирная, д 15",
+    "legal_address": null,
+    "website": "http://lobnia.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0024",
+    "name": "Луховицкий районный суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140501, Московская обл, г Луховицы, ул Гагарина, д 10",
+    "legal_address": null,
+    "website": "http://luhovitsy.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0026",
+    "name": "Люберецкий городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140005, Московская обл, г Люберцы, ул Калараш, д 19",
+    "legal_address": null,
+    "website": "http://luberetzy.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0027",
+    "name": "Можайский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143200, Московская обл, г Можайск, ул Герцена, д 9",
+    "legal_address": null,
+    "website": "http://mojaisk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0028",
+    "name": "Мытищинский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141009, Московская обл, г Мытищи, ул Колонцова, д 15",
+    "legal_address": null,
+    "website": "http://mitishy.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0029",
+    "name": "Наро-Фоминский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143300, Московская обл., г. Наро-Фоминск, ул. Полубоярова, стр. 8, этажи 4, 5",
+    "legal_address": null,
+    "website": "http://naro-fominsk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0030",
+    "name": "Ногинский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142412, Московская обл, г Ногинск, ул Климова, д 53",
+    "legal_address": null,
+    "website": "http://noginsk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0031",
+    "name": "Одинцовский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143007, Московская обл, г Одинцово, ул Советская, д 7",
+    "legal_address": null,
+    "website": "http://odintsovo.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0032",
+    "name": "Озерский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140560, Московская обл, г Коломна, г Озёры, пл Коммунистическая, д 15",
+    "legal_address": null,
+    "website": "http://ozery.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0033",
+    "name": "Орехово-Зуевский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142600, Московская обл, г Орехово-Зуево, пл Октябрьская, д 2",
+    "legal_address": null,
+    "website": "http://orehovo-zuevo.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0034",
+    "name": "Павлово-Посадский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142500, Московская обл, г Павловский Посад, ул Павловская, д 52",
+    "legal_address": null,
+    "website": "http://pavlov-posad.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0035",
+    "name": "Подольский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142100, Московская обл, г Подольск, пр-кт Революционный, д 57/22",
+    "legal_address": null,
+    "website": "http://podolsky.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0036",
+    "name": "Пушкинский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141240, Московская обл, г Пушкино, мкр Мамонтовка, ул Ленточка, д 20А",
+    "legal_address": null,
+    "website": "http://pushkino.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0039",
+    "name": "Раменский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140100, Московская обл, г Раменское, ул Вокзальная, д 2",
+    "legal_address": null,
+    "website": "http://ramenskoe.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0040",
+    "name": "Реутовский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143962, Московская обл, г Реутов, пр-кт Юбилейный, д 56",
+    "legal_address": null,
+    "website": "http://reutov.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0041",
+    "name": "Рузский районный суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "143103, Московская обл, г Руза, ул Социалистическая, д 25",
+    "legal_address": null,
+    "website": "http://ruza.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0042",
+    "name": "Сергиево-Посадский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141300, Московская обл, г Сергиев Посад, пр-кт Красной Армии, д 205Б",
+    "legal_address": null,
+    "website": "http://sergiev-posad.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0044",
+    "name": "Серпуховский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142214, Московская обл, г Серпухов, ул Ворошилова, д 186",
+    "legal_address": null,
+    "website": "http://serpuhov.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0045",
+    "name": "Солнечногорский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141504, Московская обл, г Солнечногорск, ул Маяковского, д 17",
+    "legal_address": null,
+    "website": "http://solnechnogorsk.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0046",
+    "name": "Ступинский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142802, Московская обл, г Ступино, ул Куйбышева, д 53",
+    "legal_address": null,
+    "website": "http://stupino.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0047",
+    "name": "Талдомский районный суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141900, Московская обл, г Талдом, ул Красноармейская, д 3",
+    "legal_address": null,
+    "website": "http://taldom.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0048",
+    "name": "Химкинский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141402, Московская обл, г Химки, ул Ленинградская, д 13Б",
+    "legal_address": null,
+    "website": "http://himki.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0049",
+    "name": "Чеховский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "142306, Московская обл, г Чехов, ул Чехова, д 24",
+    "legal_address": null,
+    "website": "http://chehov.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0050",
+    "name": "Шатурский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "140700, Московская обл, г Шатура, пл Ленина, д 3",
+    "legal_address": null,
+    "website": "http://shatura.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0052",
+    "name": "Щелковский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "141100, Московская обл, г Щёлково, пл Ленина, д 5",
+    "legal_address": null,
+    "website": "http://shelkovo.mo.sudrf.ru"
+  },
+  {
+    "code": "50RS0053",
+    "name": "Электростальский городской суд Московской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "144010, Московская обл, г Электросталь, ул Журавлева, д 11 к 4",
+    "legal_address": null,
+    "website": "http://elektrostal.mo.sudrf.ru"
+  }
+]

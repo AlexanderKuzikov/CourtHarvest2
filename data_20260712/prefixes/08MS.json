@@ -1,0 +1,192 @@
+[
+  {
+    "code": "08MS0007",
+    "name": "Судебный участок Городовиковского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359050, Респ Калмыкия, г Городовиковск, ул Садовая, зд 27",
+    "legal_address": null,
+    "website": "http://gsu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0008",
+    "name": "Судебный участок Лаганского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359220, Респ Калмыкия, г Лагань, ул Баташова, д 1",
+    "legal_address": null,
+    "website": "http://lsu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0011",
+    "name": "Судебный участок Целинного судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359180, Респ Калмыкия, с Троицкое, ул 40 лет Октября, д 19",
+    "legal_address": null,
+    "website": "http://csu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0012",
+    "name": "Судебный участок Черноземельского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359240, Респ Калмыкия, п Комсомольский, ул Аллея Памяти, д 19",
+    "legal_address": null,
+    "website": "http://chsu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0018",
+    "name": "Судебный участок Юстинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359300, Респ Калмыкия, п Цаган Аман, ул Октябрьская, д 93",
+    "legal_address": null,
+    "website": "http://ysu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0013",
+    "name": "Судебный участок Яшалтинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359010, Респ Калмыкия, с Яшалта, ул 50 лет Октября, д 13",
+    "legal_address": null,
+    "website": "http://iasu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0014",
+    "name": "Судебный участок Яшкульского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359150, Респ Калмыкия, п Яшкуль, ул Коломейцева, д 13",
+    "legal_address": null,
+    "website": "http://iashsu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0016",
+    "name": "Судебный участок № 1 Малодербетовского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359420, Респ Калмыкия, с Малые Дербеты, ул Карла Маркса, д 25",
+    "legal_address": null,
+    "website": "http://msu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0009",
+    "name": "Судебный участок № 1 Приютненского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359030, Респ Калмыкия, с Приютное, ул Московская, д 89",
+    "legal_address": null,
+    "website": "http://psu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0010",
+    "name": "Судебный участок № 1 Сарпинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359410, Респ Калмыкия, с Садовое, ул Ленина, д 68",
+    "legal_address": null,
+    "website": "http://ssu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0001",
+    "name": "Судебный участок № 1 Элистинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "358009, г Элиста, ул А.С.Пушкина, д 20",
+    "legal_address": null,
+    "website": "http://su1.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0017",
+    "name": "Судебный участок № 2 Малодербетовского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359450, Респ Калмыкия, п Большой Царын, ул Карла Маркса, д 5/2",
+    "legal_address": null,
+    "website": "http://osu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0019",
+    "name": "Судебный участок № 2 Приютненского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359130, Респ Калмыкия, п Ики-Бурул, ул Микрорайон, д 31",
+    "legal_address": null,
+    "website": "http://isu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0015",
+    "name": "Судебный участок № 2 Сарпинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "359120, Респ Калмыкия, п Кетченеры, ул Ленина, д 101",
+    "legal_address": null,
+    "website": "http://ksu.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0002",
+    "name": "Судебный участок № 2 Элистинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "358009, г Элиста, ул А.С.Пушкина, д 20",
+    "legal_address": null,
+    "website": "http://su2.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0003",
+    "name": "Судебный участок № 3 Элистинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "358009, г Элиста, ул А.С.Пушкина, д 20",
+    "legal_address": null,
+    "website": "http://su3.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0004",
+    "name": "Судебный участок № 4 Элистинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "358009, г Элиста, мкр 3, д 20",
+    "legal_address": null,
+    "website": "http://su4.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0005",
+    "name": "Судебный участок № 5 Элистинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "358014, Республика Калмыкия, г. Элиста, АТО Город Шахмат, к. 9. 1. 3",
+    "legal_address": null,
+    "website": "http://su5.kalm.msudrf.ru"
+  },
+  {
+    "code": "08MS0006",
+    "name": "Судебный участок № 6 Элистинского судебного района Республики Калмыкия",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "358014, Республика Калмыкия, г. Элиста, АТО Город Шахмат, к. 9. 1. 4",
+    "legal_address": null,
+    "website": "http://su6.kalm.msudrf.ru"
+  }
+]

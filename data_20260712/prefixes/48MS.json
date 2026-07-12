@@ -1,0 +1,642 @@
+[
+  {
+    "code": "48MS0001",
+    "name": "Воловский судебный участок Тербунского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399580, Липецкая обл, с Волово, ул Ленина, д 11",
+    "legal_address": null,
+    "website": "http://volovo.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0002",
+    "name": "Грязинский судебный участок № 1 Грязинского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399056, Липецкая обл, г Грязи, ул Привокзальная, д 2 к а",
+    "legal_address": null,
+    "website": "http://gryazi1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0003",
+    "name": "Грязинский судебный участок № 2 Грязинского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399056, Липецкая обл, г Грязи, ул Привокзальная, д 2 к а",
+    "legal_address": null,
+    "website": "http://gryazi2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0004",
+    "name": "Грязинский судебный участок № 3 Грязинского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399056, Липецкая обл, г Грязи, ул Привокзальная, д 2 к а",
+    "legal_address": null,
+    "website": "http://gryazi3.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0005",
+    "name": "Грязинский судебный участок № 4 Грязинского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399056, Липецкая обл, г Грязи, ул Привокзальная, д 2 к а",
+    "legal_address": null,
+    "website": "http://gryazi4.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0006",
+    "name": "Данковский судебный участок № 1 Данковского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399851, Липецкая обл, г Данков, ул Чапаева, д 13",
+    "legal_address": null,
+    "website": "http://dankov1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0007",
+    "name": "Данковский судебный участок № 2 Данковского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399851, Липецкая обл, г Данков, ул Чапаева, д 13",
+    "legal_address": null,
+    "website": "http://dankov2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0008",
+    "name": "Добринский судебный участок № 1 Добринского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399430, Липецкая обл, п Добринка, ул Кузнечная, д 1",
+    "legal_address": null,
+    "website": "http://dobrinka1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0009",
+    "name": "Добринский судебный участок № 2 Добринского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399430, Липецкая обл, п Добринка, ул Кузнечная, д 1",
+    "legal_address": null,
+    "website": "http://dobrinka2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0010",
+    "name": "Добровский судебный участок Липецкого районного судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399140, Липецкая обл, с Доброе, ул 50 лет Октября, д 28",
+    "legal_address": null,
+    "website": "http://dobroe.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0011",
+    "name": "Долгоруковский судебный участок Тербунского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399510, Липецкая обл, с Долгоруково, ул Ленина, д 51",
+    "legal_address": null,
+    "website": "http://dolgorukovo.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0012",
+    "name": "Елецкий районный судебный участок № 1 Елецкого районного судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Пушкина, д 80",
+    "legal_address": null,
+    "website": "http://1elez@mirsud.lipetsk.ru"
+  },
+  {
+    "code": "48MS0013",
+    "name": "Елецкий районный судебный участок № 2 Елецкого районного судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Пушкина, д 80",
+    "legal_address": null,
+    "website": "http://2elez@mirsud.lipetsk.ru"
+  },
+  {
+    "code": "48MS0014",
+    "name": "Задонский судебный участок № 1 Задонского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399200, Липецкая обл, г Задонск, ул Крупской, д 39А",
+    "legal_address": null,
+    "website": "http://zadonsk1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0015",
+    "name": "Задонский судебный участок № 2 Задонского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399200, Липецкая обл, г Задонск, ул Крупской, д 39А",
+    "legal_address": null,
+    "website": "http://zadonsk2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0016",
+    "name": "Измалковский судебный участок Елецкого районного судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399000, Липецкая обл, с Измалково, ул Ленина, д 36",
+    "legal_address": null,
+    "website": "http://izmalk1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0017",
+    "name": "Краснинский судебный участок Становлянского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399670, Липецкая обл, с Красное, ул Октябрьская, д 30",
+    "legal_address": null,
+    "website": "http://krasnoe1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0018",
+    "name": "Лебедянский судебный участок № 1 Лебедянского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399610, Липецкая обл, г Лебедянь, ул Победы, д 5А",
+    "legal_address": null,
+    "website": "http://lebedyan1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0019",
+    "name": "Лебедянский судебный участок № 2 Лебедянского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399610, Липецкая обл, г Лебедянь, ул Победы, д 5А",
+    "legal_address": null,
+    "website": "http://lebedyan2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0020",
+    "name": "Лев-Толстовский судебный участок Чаплыгинского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399870, Липецкая обл, п Лев Толстой, ул Коммунистическая, д 16",
+    "legal_address": null,
+    "website": "http://lev.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0021",
+    "name": "Липецкий районный судебный участок № 1 Липецкого районного судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398037, г Липецк, проезд Боевой, д 23",
+    "legal_address": null,
+    "website": "http://lip-r1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0022",
+    "name": "Липецкий районный судебный участок № 2 Липецкого районного судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398037, г Липецк, проезд Боевой, д 23",
+    "legal_address": null,
+    "website": "http://lip-r2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0023",
+    "name": "Становлянский судебный участок Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399710, Липецкая обл, с Становое, ул 50 лет Октября, д 3",
+    "legal_address": null,
+    "website": "http://stanovoe.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0024",
+    "name": "Судебный участок № 1 города Ельца Елецкого городского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Коммунаров, д 32",
+    "legal_address": null,
+    "website": "http://elec1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0025",
+    "name": "Судебный участок № 1 Левобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398017, г Липецк, пр-кт Мира, д 30/1",
+    "legal_address": null,
+    "website": "http://levober1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0026",
+    "name": "Судебный участок № 10 Правобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Доватора, д 12Б",
+    "legal_address": null,
+    "website": "http://pravober10.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0027",
+    "name": "Судебный участок № 11 Правобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Доватора, д 12Б",
+    "legal_address": null,
+    "website": "http://pravober11.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0028",
+    "name": "Судебный участок № 12 Правобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Доватора, д 12Б",
+    "legal_address": null,
+    "website": "http://pravober12.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0029",
+    "name": "Судебный участок № 13 Правобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Доватора, д 12Б",
+    "legal_address": null,
+    "website": "http://pravober13.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0036",
+    "name": "Судебный участок № 2 города Ельца Елецкого городского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Коммунаров, д 32",
+    "legal_address": null,
+    "website": "http://elec2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0037",
+    "name": "Судебный участок № 2 Левобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398017, г Липецк, пр-кт Мира, д 30/1",
+    "legal_address": null,
+    "website": "http://levober2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0030",
+    "name": "Судебный участок № 14 Правобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Доватора, д 12Б",
+    "legal_address": null,
+    "website": "http://pravober14.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0031",
+    "name": "Судебный участок № 15 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398016, г Липецк, ул Космонавтов, д 24",
+    "legal_address": null,
+    "website": "http://sovetsk15.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0032",
+    "name": "Судебный участок № 16 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398016, г Липецк, ул Космонавтов, д 24",
+    "legal_address": null,
+    "website": "http://sovetsk16.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0033",
+    "name": "Судебный участок № 17 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398043, г Липецк, ул Космонавтов, д 32",
+    "legal_address": null,
+    "website": "http://sovetsk17.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0034",
+    "name": "Судебный участок № 18 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398043, г Липецк, ул Космонавтов, д 32",
+    "legal_address": null,
+    "website": "http://sovetsk18.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0035",
+    "name": "Судебный участок № 19 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398043, г Липецк, ул Космонавтов, д 32",
+    "legal_address": null,
+    "website": "http://sovetsk19.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0038",
+    "name": "Судебный участок № 20 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398016, г Липецк, ул Космонавтов, д 24",
+    "legal_address": null,
+    "website": "http://sovetsk20.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0039",
+    "name": "Судебный участок № 21 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://sovetsk21.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0047",
+    "name": "Судебный участок № 3 города Ельца Елецкого городского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Коммунаров, д 32",
+    "legal_address": null,
+    "website": "http://elec3.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0048",
+    "name": "Судебный участок № 3 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://oktyabr3.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0049",
+    "name": "Судебный участок № 4 города Ельца Елецкого городского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Коммунаров, д 32",
+    "legal_address": null,
+    "website": "http://elec4.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0040",
+    "name": "Судебный участок № 22 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://sovetsk22.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0041",
+    "name": "Судебный участок № 23 Левобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398017, г Липецк, пр-кт Мира, д 30/1",
+    "legal_address": null,
+    "website": "http://levober23.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0042",
+    "name": "Судебный участок № 24 Левобережного судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398017, г Липецк, пр-кт Мира, д 30/1",
+    "legal_address": null,
+    "website": "http://levober24.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0043",
+    "name": "Судебный участок № 25 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://oktyabr25.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0044",
+    "name": "Судебный участок № 26 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Механизаторов, д 15",
+    "legal_address": null,
+    "website": "http://oktyabr26.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0045",
+    "name": "Судебный участок № 27 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://oktyabr27.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0046",
+    "name": "Судебный участок № 28 Советского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://sovetsk28.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0050",
+    "name": "Судебный участок № 4 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://oktyabr4.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0051",
+    "name": "Судебный участок № 5 города Ельца Елецкого городского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Коммунаров, д 32",
+    "legal_address": null,
+    "website": "http://elec5.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0052",
+    "name": "Судебный участок № 5 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://oktyabr5.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0053",
+    "name": "Судебный участок № 6 города Ельца Елецкого городского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399770, Липецкая обл, г Елец, ул Коммунаров, д 32",
+    "legal_address": null,
+    "website": "http://elec6.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0054",
+    "name": "Судебный участок № 6 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://oktyabr6.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0055",
+    "name": "Судебный участок № 7 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398055, г Липецк, ул Полиграфическая, д 5",
+    "legal_address": null,
+    "website": "http://oktyabr7.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0056",
+    "name": "Судебный участок № 8 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Механизаторов, д 15",
+    "legal_address": null,
+    "website": "http://oktyabr8.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0057",
+    "name": "Судебный участок № 9 Октябрьского судебного района г. Липецка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "398024, г Липецк, ул Механизаторов, д 15",
+    "legal_address": null,
+    "website": "http://oktyabr9.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0058",
+    "name": "Тербунский судебный участок Тербунского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399540, Липецкая обл, с Тербуны, ул Ленина, д 75",
+    "legal_address": null,
+    "website": "http://terbun.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0059",
+    "name": "Усманский судебный участок № 1 Усманского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399370, Липецкая обл, г Усмань, ул Советская, д 19",
+    "legal_address": null,
+    "website": "http://usman1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0060",
+    "name": "Усманский судебный участок № 2 Усманского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399370, Липецкая обл, г Усмань, ул Советская, д 19",
+    "legal_address": null,
+    "website": "http://usman2.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0061",
+    "name": "Усманский судебный участок № 3 Усманского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399370, Липецкая обл, г Усмань, ул Советская, д 19",
+    "legal_address": null,
+    "website": "http://usman3.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0062",
+    "name": "Хлевенский судебный участок Задонского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399260, Липецкая обл, с Хлевное, ул Советская, д 1",
+    "legal_address": null,
+    "website": "http://hlevnoe.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0063",
+    "name": "Чаплыгинский судебный участок № 1 Чаплыгинского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399900, Липецкая обл, г Чаплыгин, ул Свердлова, д 7",
+    "legal_address": null,
+    "website": "http://chaplygin1.lpk.msudrf.ru"
+  },
+  {
+    "code": "48MS0064",
+    "name": "Чаплыгинский судебный участок № 2 Чаплыгинского судебного района Липецкой области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "399900, Липецкая обл, г Чаплыгин, ул Свердлова, д 7",
+    "legal_address": null,
+    "website": "http://chaplygin2.lpk.msudrf.ru"
+  }
+]

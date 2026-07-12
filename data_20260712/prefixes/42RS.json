@@ -1,0 +1,412 @@
+[
+  {
+    "code": "42RS0001",
+    "name": "Анжеро-Судженский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652470, Кемеровская область - Кузбасс, г Анжеро-Судженск, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://anzhero-sudzhensky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0002",
+    "name": "Беловский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652600, Кемеровская область - Кузбасс, г Белово, ул Ленина, д 12",
+    "legal_address": null,
+    "website": "http://belovskygor.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0038",
+    "name": "Беловский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652600, Кемеровская область - Кузбасс, г Белово, ул Ленина, д 37А",
+    "legal_address": null,
+    "website": "http://belovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0003",
+    "name": "Березовский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652421, Кемеровская область - Кузбасс, г Березовский, ул Черняховского, д 14",
+    "legal_address": null,
+    "website": "http://berezovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0004",
+    "name": "Гурьевский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652780, Кемеровская область - Кузбасс, г Гурьевск, ул К.Маркса, д 12",
+    "legal_address": null,
+    "website": "http://guryevsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0005",
+    "name": "Заводский районный суд г. Кемерово",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "650055, г Кемерово, ул Федоровского, стр 5В",
+    "legal_address": null,
+    "website": "http://zavodskiy.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0015",
+    "name": "Заводской районный суд г. Новокузнецка Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "654038, Кемеровская область - Кузбасс, г Новокузнецк, р-н Заводской, ул Тореза, д 22А",
+    "legal_address": null,
+    "website": "http://zavodskoy.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0031",
+    "name": "Зенковский районный суд г. Прокопьевска Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "653000, Кемеровская область - Кузбасс, г Прокопьевск, ул Карла Либкнехта, д 9",
+    "legal_address": null,
+    "website": "http://zenkovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0039",
+    "name": "Ижморский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652120, Кемеровская область - Кузбасс, пгт Ижморский, ул Ленинская, д 65",
+    "legal_address": null,
+    "website": "http://izhmorsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0041",
+    "name": "Калтанский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652740, Кемеровская область - Кузбасс, г Калтан, ул Комсомольская, зд 77А",
+    "legal_address": null,
+    "website": "http://kaltansky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0040",
+    "name": "Кемеровский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "650000, г Кемерово, ул Кузбасская, д 28А",
+    "legal_address": null,
+    "website": "http://kemerovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0006",
+    "name": "Кировский районный суд г. Кемерово",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "650001, г Кемерово, ул Ушакова, д 4",
+    "legal_address": null,
+    "website": "http://kirovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0010",
+    "name": "Киселевский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652723, Кемеровская область - Кузбасс, г Киселевск, ул Мира, зд 1",
+    "legal_address": null,
+    "website": "http://kiselevsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0021",
+    "name": "Крапивинский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652440, Кемеровская область - Кузбасс, пгт Крапивинский, ул Юбилейная, д 13",
+    "legal_address": null,
+    "website": "http://krapivinsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0017",
+    "name": "Кузнецкий районный суд г. Новокузнецка Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "654032, Кемеровская область - Кузбасс, г Новокузнецк, р-н Кузнецкий, ул Смирнова, д 10",
+    "legal_address": null,
+    "website": "http://kuznecky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0016",
+    "name": "Куйбышевский районный суд г. Новокузнецка Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "654027, Кемеровская область - Кузбасс, г. Новокузнецк, просп. Курако, д. 37 Б",
+    "legal_address": null,
+    "website": "http://kuybyshevsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0011",
+    "name": "Ленинск-Кузнецкий городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652500, Кемеровская область - Кузбасс, Ленинск-Кузнецкий р-н, г Ленинск-Кузнецкий, пр-кт Кирова, д 22",
+    "legal_address": null,
+    "website": "http://leninsk-kuznecky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0007",
+    "name": "Ленинский районный суд г. Кемерово",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "650003, г Кемерово, пр-кт Химиков, зд 20",
+    "legal_address": null,
+    "website": "http://leninsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0012",
+    "name": "Мариинский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652150, Кемеровская область - Кузбасс, г Мариинск, ул Ленина, д 44",
+    "legal_address": null,
+    "website": "http://mariinsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0013",
+    "name": "Междуреченский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652870, Кемеровская область - Кузбасс, г Междуреченск, ул Чехова, д 11А",
+    "legal_address": null,
+    "website": "http://mezhdurechensky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0008",
+    "name": "Рудничный районный суд г. Кемерово",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "650002, г Кемерово, пр-кт Шахтеров, д 33",
+    "legal_address": null,
+    "website": "http://rudnichny.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0009",
+    "name": "Центральный районный суд г. Кемерово",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "650000, г Кемерово, ул Николая Островского, стр 12",
+    "legal_address": null,
+    "website": "http://centralniy.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0014",
+    "name": "Мысковский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652840, Кемеровская область - Кузбасс, г Мыски, ул Первомайская, д 10",
+    "legal_address": null,
+    "website": "http://myskovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0018",
+    "name": "Орджоникидзевский районный суд г. Новокузнецка Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "654025, Кемеровская область - Кузбасс, г Новокузнецк, р-н Орджоникидзевский, ул Дузенко, д 16А",
+    "legal_address": null,
+    "website": "http://ordzhonikidzevsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0019",
+    "name": "Центральный районный суд г. Новокузнецка Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "654005, Кемеровская область - Кузбасс, г Новокузнецк, р-н Центральный, ул Орджоникидзе, д 32",
+    "legal_address": null,
+    "website": "http://centralny.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0023",
+    "name": "Новокузнецкий районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "654007, Кемеровская область - Кузбасс, г Новокузнецк, р-н Центральный, пр-кт Пионерский, д 23",
+    "legal_address": null,
+    "website": "http://novokuznecky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0020",
+    "name": "Осинниковский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652800, Кемеровская область - Кузбасс, г Осинники, ул Кирова, д 46",
+    "legal_address": null,
+    "website": "http://osinnikovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0024",
+    "name": "Прокопьевский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "653039, Кемеровская область - Кузбасс, г Прокопьевск, пр-кт Гагарина, д 1В",
+    "legal_address": null,
+    "website": "http://prokopyevsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0025",
+    "name": "Промышленновский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652380, Кемеровская область - Кузбасс, пгт Промышленная, ул Коммунистическая, д 27",
+    "legal_address": null,
+    "website": "http://promyshlenovsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0026",
+    "name": "Тисульский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652210, Кемеровская область - Кузбасс, Тисульский р-н, пгт Тисуль, ул Пролетарская, д 37",
+    "legal_address": null,
+    "website": "http://tisulsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0027",
+    "name": "Тяжинский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652240, Кемеровская область - Кузбасс, пгт Тяжинский, ул Ленина, д 7",
+    "legal_address": null,
+    "website": "http://tiazhinsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0028",
+    "name": "Чебулинский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652270, Кемеровская область - Кузбасс, Чебулинский р-н, пгт Верх-Чебула, ул Октябрьская, д 22",
+    "legal_address": null,
+    "website": "http://chebulinsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0029",
+    "name": "Яйский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652100, Кемеровская область - Кузбасс, Яйский р-н, пгт Яя, ул Советская, зд 19",
+    "legal_address": null,
+    "website": "http://yaisky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0032",
+    "name": "Рудничный районный суд г. Прокопьевска Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "653045, Кемеровская область - Кузбасс, г Прокопьевск, ул Шишкина, д 23",
+    "legal_address": null,
+    "website": "http://rudnichniy.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0034",
+    "name": "Тайгинский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652401, Кемеровская область - Кузбасс, г Тайга, пр-кт Кирова, д 23",
+    "legal_address": null,
+    "website": "http://taiginsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0035",
+    "name": "Таштагольский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652992, Кемеровская область - Кузбасс, г Таштагол, ул Поспелова, зд 14",
+    "legal_address": null,
+    "website": "http://tashtagolsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0036",
+    "name": "Топкинский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652300, Кемеровская область - Кузбасс, г Топки, ул Революции, д 18",
+    "legal_address": null,
+    "website": "http://topkinsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0033",
+    "name": "Центральный районный суд г. Прокопьевска Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "653000, Кемеровская область - Кузбасс, г Прокопьевск, ул Карла Либкнехта, д 9",
+    "legal_address": null,
+    "website": "http://centr.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0037",
+    "name": "Юргинский городской суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652057, Кемеровская область - Кузбасс, г Юрга, ул Максименко, д 10А",
+    "legal_address": null,
+    "website": "http://yurginsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0030",
+    "name": "Яшкинский районный суд Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "652010, Кемеровская область - Кузбасс, пгт Яшкино, ул Суворова, д 16",
+    "legal_address": null,
+    "website": "http://yashkinsky.kmr.sudrf.ru"
+  },
+  {
+    "code": "42RS0042",
+    "name": "Новоильинский районный суд г. Новокузнецка Кемеровской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "654044, Кемеровская область - Кузбасс, г Новокузнецк, р-н Новоильинский, пр-кт Архитекторов, д 28",
+    "legal_address": null,
+    "website": "http://novoilinsky.kmr.sudrf.ru"
+  }
+]

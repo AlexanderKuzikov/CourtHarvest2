@@ -1,0 +1,662 @@
+[
+  {
+    "code": "20MS0001",
+    "name": "Судебный участок № 1 по Ахматовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0002",
+    "name": "Судебный участок № 2 по Ахматовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0003",
+    "name": "Судебный участок № 3 по Ахматовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0004",
+    "name": "Судебный участок № 4 по Ахматовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0005",
+    "name": "Судебный участок № 5 по Висаитовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0006",
+    "name": "Судебный участок № 6 по Висаитовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0007",
+    "name": "Судебный участок № 7 по Висаитовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0008",
+    "name": "Судебный участок № 8 по Ахматовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0009",
+    "name": "Судебный участок № 9 по Висаитовскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0010",
+    "name": "Судебный участок № 10 по Байсангуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0011",
+    "name": "Судебный участок № 11 по Байсангуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0012",
+    "name": "Судебный участок № 12 по Байсангуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0013",
+    "name": "Судебный участок № 13 по Байсангуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0014",
+    "name": "Судебный участок № 14 по Шейх-Мансуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364046, г Грозный, р-н Шейх-Мансуровский, ул Оренбургская, д 18/14",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0015",
+    "name": "Судебный участок № 15 по Шейх-Мансуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0016",
+    "name": "Судебный участок № 16 по Шейх-Мансуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0017",
+    "name": "Судебный участок № 17 по Шейх-Мансуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364046, г Грозный, р-н Шейх-Мансуровский, ул Оренбургская, д 18/14",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0018",
+    "name": "Судебный участок № 18 по Шейх-Мансуровскому району г. Грозного",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0019",
+    "name": "Судебный участок № 19 по Грозненскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0020",
+    "name": "Судебный участок № 20 по Грозненскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364052, г Грозный, р-н Висаитовский, г-к Иванова, д 109",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0021",
+    "name": "Судебный участок № 21 по Грозненскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0022",
+    "name": "Судебный участок № 22 по Грозненскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "364024, г Грозный, р-н Ахматовский, ул им Шейха Али Митаева, д 22Б",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0023",
+    "name": "Судебный участок № 23 по г. Аргун",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366284, Респ Чеченская, г Аргун, ул Шоссейная, д 110А",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0024",
+    "name": "Судебный участок № 24 по Урус-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366523, Респ Чеченская, г Урус-Мартан, ул им.Шейха Солса-Хаджи Яндарова, д 34",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0025",
+    "name": "Судебный участок № 25 по Урус-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366523, Респ Чеченская, г Урус-Мартан, ул им.Шейха Солса-Хаджи Яндарова, д 34",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0026",
+    "name": "Судебный участок № 26 по Урус-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366523, Респ Чеченская, г Урус-Мартан, ул им.Шейха Солса-Хаджи Яндарова, д 34",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0027",
+    "name": "Судебный участок № 27 по Урус-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366523, Респ Чеченская, г Урус-Мартан, ул им.Шейха Солса-Хаджи Яндарова, д 34",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0028",
+    "name": "Судебный участок № 28 по Урус-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366523, Респ Чеченская, г Урус-Мартан, ул им.Шейха Солса-Хаджи Яндарова, д 34",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0029",
+    "name": "Судебный участок № 29 по Урус-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366523, Респ Чеченская, г Урус-Мартан, ул им.Шейха Солса-Хаджи Яндарова, д 34",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0030",
+    "name": "Судебный участок № 30 по Шалинскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366325, Респ Чеченская, г Шали, ул Ахмата Абдулхамидовича Кадырова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0031",
+    "name": "Судебный участок № 31 по Шалинскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366325, Респ Чеченская, г Шали, ул Ахмата Абдулхамидовича Кадырова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0032",
+    "name": "Судебный участок № 32 по Шалинскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366325, Респ Чеченская, г Шали, ул Ахмата Абдулхамидовича Кадырова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0033",
+    "name": "Судебный участок № 33 по Шалинскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366325, Респ Чеченская, г Шали, ул Ахмата Абдулхамидовича Кадырова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0034",
+    "name": "Судебный участок № 34 по Шалинскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366325, Респ Чеченская, г Шали, ул Ахмата Абдулхамидовича Кадырова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0035",
+    "name": "Судебный участок № 35 по г. Аргун",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366284, Респ Чеченская, г Аргун, ул Шоссейная, д 110",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0036",
+    "name": "Судебный участок № 36 по г. Аргун",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366284, Респ Чеченская, г Аргун, ул Шоссейная, д 110",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0037",
+    "name": "Судебный участок № 37 по Курчалоевскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366313, Чеченская Республика, Курчалоевский район, с. Курчалой, ул. Ахмат-Хаджи Кадырова, б/н",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0038",
+    "name": "Судебный участок № 38 по Курчалоевскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366313, Чеченская Республика, Курчалоевский район, с. Курчалой, ул. Ахмат-Хаджи Кадырова, б/н",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0039",
+    "name": "Судебный участок № 39 по Курчалоевскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366313, Чеченская Республика, Курчалоевский район, с. Курчалой, ул. Ахмат-Хаджи Кадырова, б/н",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0040",
+    "name": "Судебный участок № 40 по Курчалоевскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366313, Чеченская Республика, Курчалоевский район, с. Курчалой, ул. Ахмат-Хаджи Кадырова, б/н",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0041",
+    "name": "Судебный участок № 41 по Гудермесскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366202, Респ Чеченская, г Гудермес, ул Школьная, д 20",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0042",
+    "name": "Судебный участок № 42 по Гудермесскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366202, Респ Чеченская, г Гудермес, ул Школьная, д 20",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0043",
+    "name": "Судебный участок № 43 по Гудермесскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366202, Респ Чеченская, г Гудермес, ул Школьная, д 20",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0044",
+    "name": "Судебный участок № 44 по Гудермесскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366202, Респ Чеченская, г Гудермес, ул Школьная, д 20",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0045",
+    "name": "Судебный участок № 45 по Гудермесскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366202, Респ Чеченская, г Гудермес, ул Школьная, д 20",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0046",
+    "name": "Судебный участок № 46 по Гудермесскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366202, Респ Чеченская, г Гудермес, ул Школьная, д 20",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0047",
+    "name": "Судебный участок № 47 по Ачхой-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366600, Респ Чеченская, г Ачхой-Мартан, ул Почтовая",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0048",
+    "name": "Судебный участок № 48 по Ачхой-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366600, Респ Чеченская, г Ачхой-Мартан, ул Почтовая",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0049",
+    "name": "Судебный участок № 49 по Ачхой-Мартановскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366600, Респ Чеченская, г Ачхой-Мартан, ул Р.М.Асхабова",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0050",
+    "name": "Судебный участок № 50 по Серноводскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366701, Респ Чеченская, г Ачхой-Мартан, ул Р.М.Асхабова",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0051",
+    "name": "Судебный участок № 51 по Шелковскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366108, Респ Чеченская, Шелковской р-н, г Шелковская, ул Кооперативная, д 10",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0052",
+    "name": "Судебный участок № 52 по Шелковскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366108, Респ Чеченская, Шелковской р-н, г Шелковская, ул Кооперативная, д 10",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0053",
+    "name": "Судебный участок № 53 по Шелковскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366108, Респ Чеченская, Шелковской р-н, г Шелковская, ул Кооперативная, д 10",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0054",
+    "name": "Судебный участок № 54 по Наурскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366128, Респ Чеченская, г Наурская, ул Красная, д 25",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0055",
+    "name": "Судебный участок № 55 по Наурскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366128, Респ Чеченская, г Наурская, ул Красная, д 25",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0056",
+    "name": "Судебный участок № 56 по Наурскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366128, Респ Чеченская, г Наурская, ул Красная, д 25",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0057",
+    "name": "Судебный участок № 57 по Надтеречному району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366831, Респ Чеченская, Надтеречный р-н, с Знаменское, ул Энтузиастов, д 21",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0058",
+    "name": "Судебный участок № 58 по Надтеречному району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366831, Респ Чеченская, Надтеречный р-н, с Знаменское, ул Энтузиастов, д 21",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0059",
+    "name": "Судебный участок № 59 по Надтеречному району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366831, Респ Чеченская, Надтеречный р-н, с Знаменское, ул Энтузиастов, д 21",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0060",
+    "name": "Судебный участок № 60 по Ножай-Юртовскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366241, Респ Чеченская, с Ножай-Юрт, ул А.А.Кадырова, д 114",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0061",
+    "name": "Судебный участок № 61 по Ножай-Юртовскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366241, Респ Чеченская, с Ножай-Юрт, ул А.А.Кадырова, д 114",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0062",
+    "name": "Судебный участок № 62 по Веденскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366337, Респ Чеченская, с Ведено, ул Крепостная, д 7",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0063",
+    "name": "Судебный участок № 63 по Веденскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366337, Респ Чеченская, с Ведено, ул Крепостная, д 7",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0064",
+    "name": "Судебный участок № 64 по Шатойскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366405, Респ Чеченская, с Шатой, ул Астемира Шатойского, д 1",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0065",
+    "name": "Судебный участок № 65 по Итум-Калинскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366405, Респ Чеченская, с Шатой, ул Астемира Шатойского, д 1",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  },
+  {
+    "code": "20MS0066",
+    "name": "Судебный участок № 66 по Шаройскому району Чеченской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "366405, Респ Чеченская, с Шатой, ул Астемира Шатойского, д 1",
+    "legal_address": null,
+    "website": "http://mirsud-chr.ru/"
+  }
+]

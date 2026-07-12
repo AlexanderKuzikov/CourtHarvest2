@@ -1,0 +1,222 @@
+[
+  {
+    "code": "78RS0001",
+    "name": "Василеостровский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "199178, г Санкт-Петербург, пр-кт Средний В.О., д 55",
+    "legal_address": null,
+    "website": "http://vos.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0002",
+    "name": "Выборгский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "194291, г Санкт-Петербург, ул Сантьяго-де-Куба, д 3 к 3",
+    "legal_address": null,
+    "website": "http://vbr.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0003",
+    "name": "Дзержинский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "191123, г Санкт-Петербург, ул Восстания, д 38",
+    "legal_address": null,
+    "website": "http://dzr.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0004",
+    "name": "Зеленогорский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "197720, г Санкт-Петербург, г Зеленогорск, ул Красных Курсантов, д 8",
+    "legal_address": null,
+    "website": "http://zgr.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0005",
+    "name": "Калининский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "195009, г Санкт-Петербург, ул Бобруйская, д 4",
+    "legal_address": null,
+    "website": "http://kln.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0006",
+    "name": "Кировский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "198095, г Санкт-Петербург, ул Маршала Говорова, д 38",
+    "legal_address": null,
+    "website": "http://krv.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0007",
+    "name": "Колпинский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "196654, г Санкт-Петербург, г Колпино, ул Культуры, д 17",
+    "legal_address": null,
+    "website": "http://klp.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0008",
+    "name": "Красногвардейский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "195176, г Санкт-Петербург, ул Краснодонская, д 14",
+    "legal_address": null,
+    "website": "http://kgv.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0009",
+    "name": "Красносельский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "198320, г Санкт-Петербург, г Красное Село, ул Суворова, д 3",
+    "legal_address": null,
+    "website": "http://ksl.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0010",
+    "name": "Кронштадтский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "197760, г Санкт-Петербург, г Кронштадт, ул Карла Маркса, д 31",
+    "legal_address": null,
+    "website": "http://krn.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0011",
+    "name": "Куйбышевский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "191023, г Санкт-Петербург, ул Караванная, д 20",
+    "legal_address": null,
+    "website": "http://kbs.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0012",
+    "name": "Ленинский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "190005, г Санкт-Петербург, ул 13-я Красноармейская, д 17Б",
+    "legal_address": null,
+    "website": "http://lnn.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0014",
+    "name": "Московский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "196006, г Санкт-Петербург, пр-кт Московский, д 129",
+    "legal_address": null,
+    "website": "http://msk.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0015",
+    "name": "Невский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "192029, г Санкт-Петербург, ул Ольги Берггольц, д 12",
+    "legal_address": null,
+    "website": "http://nvs.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0016",
+    "name": "Октябрьский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "190121, г Санкт-Петербург, ул Почтамтская, д 17",
+    "legal_address": null,
+    "website": "http://oktibrsky.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0017",
+    "name": "Петроградский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "197198, г Санкт-Петербург, ул Съезжинская, д 9/6",
+    "legal_address": null,
+    "website": "http://pgr.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0018",
+    "name": "Петродворцовый районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "198510, г Санкт-Петербург, г Петергоф, ул Аврова, д 33 литера д",
+    "legal_address": null,
+    "website": "http://pdv.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0019",
+    "name": "Приморский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "197374, г Санкт-Петербург, ул Савушкина, д 83",
+    "legal_address": null,
+    "website": "http://primorsky.spb.sudrf.ru/"
+  },
+  {
+    "code": "78RS0020",
+    "name": "Пушкинский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "196607, г Санкт-Петербург, г Пушкин, ул Школьная, д 2 к 2",
+    "legal_address": null,
+    "website": "http://psh.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0021",
+    "name": "Сестрорецкий районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "197706, г Санкт-Петербург, г Сестрорецк, ул Володарского, д 41",
+    "legal_address": null,
+    "website": "http://srt.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0022",
+    "name": "Смольнинский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "191144, г Санкт-Петербург, ул Моисеенко, д 2А",
+    "legal_address": null,
+    "website": "http://smolninsky.spb.sudrf.ru"
+  },
+  {
+    "code": "78RS0023",
+    "name": "Фрунзенский районный суд города Санкт-Петербурга",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "192007, г Санкт-Петербург, ул Курская, д 3",
+    "legal_address": null,
+    "website": "http://frn.spb.sudrf.ru"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "code": "69MS0021",
+    "name": "Судебный участок № 1 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172800, Тверская обл, г Андреаполь, ул Авиаторов, д 58",
+    "legal_address": null,
+    "website": "http://1.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0022",
+    "name": "Судебный участок № 2 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171983, Тверская обл, г Бежецк, пер Молодежный, д 32",
+    "legal_address": null,
+    "website": "http://2.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0023",
+    "name": "Судебный участок № 3 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171983, Тверская обл, г Бежецк, пер Молодежный, д 32",
+    "legal_address": null,
+    "website": "http://3.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0024",
+    "name": "Судебный участок № 4 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172530, Тверская обл, г Белый, ул Ленина, д 23",
+    "legal_address": null,
+    "website": "http://4.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0025",
+    "name": "Судебный участок № 5 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171080, Тверская обл, г Бологое, ул Кирова, д 46",
+    "legal_address": null,
+    "website": "http://5.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0026",
+    "name": "Судебный участок № 6 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171080, Тверская обл, г Бологое, ул Кирова, д 46",
+    "legal_address": null,
+    "website": "http://6.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0061",
+    "name": "Судебный участок № 7 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171090, Тверская область, ЗАТО «Озерный», ул. Гвардейская, д. 3",
+    "legal_address": null,
+    "website": "http://7.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0032",
+    "name": "Судебный участок № 8 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171720, Тверская обл, г Весьегонск, ул Степанова, д 11",
+    "legal_address": null,
+    "website": "http://8.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0027",
+    "name": "Судебный участок № 9 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171151, Тверская обл, г Вышний Волочек, ул Красная, д 1",
+    "legal_address": null,
+    "website": "http://9.twr.msudrf.ru/"
+  },
+  {
+    "code": "69MS0028",
+    "name": "Судебный участок № 10 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171151, Тверская обл, г Вышний Волочек, ул Красная, д 1",
+    "legal_address": null,
+    "website": "http://10.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0029",
+    "name": "Судебный участок № 11 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171151, Тверская обл, г Вышний Волочек, ул Красная, д 1",
+    "legal_address": null,
+    "website": "http://11.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0030",
+    "name": "Судебный участок № 12 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171151, Тверская обл, г Вышний Волочек, ул Красная, д 1",
+    "legal_address": null,
+    "website": "http://12.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0031",
+    "name": "Судебный участок № 13 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171151, Тверская обл, г Вышний Волочек, ул Красная, д 1",
+    "legal_address": null,
+    "website": "http://13.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0033",
+    "name": "Судебный участок № 14 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172460, Тверская обл, пгт Жарковский, ул Мира, д 13, кв 21",
+    "legal_address": null,
+    "website": "http://14.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0034",
+    "name": "Судебный участок № 15 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172610, Тверская обл, г Западная Двина, ул Кирова, зд 30А",
+    "legal_address": null,
+    "website": "http://15.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0035",
+    "name": "Судебный участок № 16 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172332, Тверская обл, г Зубцов, ул Автотранспортная, д 15, кв 12",
+    "legal_address": null,
+    "website": "http://16.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0036",
+    "name": "Судебный участок № 17 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://17.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0037",
+    "name": "Судебный участок № 18 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://18.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0038",
+    "name": "Судебный участок № 19 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://19.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0039",
+    "name": "Судебный участок № 20 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171573, Тверская обл, г Калязин, проезд Володарского, д 11",
+    "legal_address": null,
+    "website": "http://20.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0001",
+    "name": "Судебный участок № 64 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://64.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0002",
+    "name": "Судебный участок № 65 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://65.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0003",
+    "name": "Судебный участок № 66 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://66.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0004",
+    "name": "Судебный участок № 67 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://67.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0005",
+    "name": "Судебный участок № 68 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://68.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0006",
+    "name": "Судебный участок № 69 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://69.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0007",
+    "name": "Судебный участок № 70 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://70.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0008",
+    "name": "Судебный участок № 71 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://71.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0009",
+    "name": "Судебный участок № 72 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://72.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0010",
+    "name": "Судебный участок № 73 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://73.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0011",
+    "name": "Судебный участок № 74 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://74.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0012",
+    "name": "Судебный участок № 75 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://75.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0013",
+    "name": "Судебный участок № 76 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://76.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0014",
+    "name": "Судебный участок № 77 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://77.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0015",
+    "name": "Судебный участок № 78 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://78.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0016",
+    "name": "Судебный участок № 79 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://79.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0017",
+    "name": "Судебный участок № 80 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://80.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0018",
+    "name": "Судебный участок № 81 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://81.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0019",
+    "name": "Судебный участок № 82 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://82.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0020",
+    "name": "Судебный участок № 83 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "170100, г Тверь, ул Вагжанова, д 13",
+    "legal_address": null,
+    "website": "http://83.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0041",
+    "name": "Судебный участок № 21 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171640, Тверская обл, г Кашин, ул Карла Маркса, д 16А",
+    "legal_address": null,
+    "website": "http://21.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0040",
+    "name": "Судебный участок № 22 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171640, Тверская обл, г Кашин, ул Карла Маркса, д 16А",
+    "legal_address": null,
+    "website": "http://22.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0042",
+    "name": "Судебный участок № 23 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171470, Тверская обл, пгт Кесова Гора, ул Почтовая, д 7",
+    "legal_address": null,
+    "website": "http://23.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0043",
+    "name": "Судебный участок № 24 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171507, Тверская обл, г Кимры, ул Желябова, д 1",
+    "legal_address": null,
+    "website": "http://24.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0044",
+    "name": "Судебный участок № 25 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171507, Тверская обл, г Кимры, ул Желябова, д 1",
+    "legal_address": null,
+    "website": "http://25.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0045",
+    "name": "Судебный участок № 26 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171507, Тверская обл, г Кимры, ул Желябова, д 1",
+    "legal_address": null,
+    "website": "http://26twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0046",
+    "name": "Судебный участок № 27 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171507, Тверская обл, г Кимры, ул Желябова, д 1",
+    "legal_address": null,
+    "website": "http://27.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0047",
+    "name": "Судебный участок № 30 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171252, Тверская обл, г Конаково, ул Горького, д 3А",
+    "legal_address": null,
+    "website": "http://30.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0048",
+    "name": "Судебный участок № 31 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171252, Тверская обл, г Конаково, ул Горького, д 3А",
+    "legal_address": null,
+    "website": "http://31.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0049",
+    "name": "Судебный участок № 32 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171253, Тверская обл, г Конаково, ул Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://32.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0050",
+    "name": "Судебный участок № 28 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171261, Тверская обл, Конаковский р-н, пгт Редкино, ул Парковая, д 46",
+    "legal_address": null,
+    "website": "http://28.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0051",
+    "name": "Судебный участок № 29 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171252, Тверская обл, г Конаково, ул Горького, д 3А",
+    "legal_address": null,
+    "website": "http://29.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0052",
+    "name": "Судебный участок № 33 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171660, Тверская обл, г Красный Холм, ул Красноармейская, д 87/7",
+    "legal_address": null,
+    "website": "http://33.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0053",
+    "name": "Судебный участок № 34 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172110, Тверская обл, г Кувшиново, ул Советская, д 55",
+    "legal_address": null,
+    "website": "http://34.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0056",
+    "name": "Судебный участок № 35 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171890, Тверская обл, с Лесное, пер Механизаторов, д 9",
+    "legal_address": null,
+    "website": "http://35.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0054",
+    "name": "Судебный участок № 36 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171210, Тверская обл, г Лихославль, ул Первомайская, д 2",
+    "legal_address": null,
+    "website": "http://36.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0055",
+    "name": "Судебный участок № 37 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171210, Тверская обл, г Лихославль, ул Первомайская, д 2",
+    "legal_address": null,
+    "website": "http://37.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0057",
+    "name": "Судебный участок № 38 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171900, Тверская обл, пгт Максатиха, ул имени Василенкова, д 10А",
+    "legal_address": null,
+    "website": "http://38.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0058",
+    "name": "Судебный участок № 39 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171680, Тверская обл, пгт Молоково, пл Корнилова, д 7",
+    "legal_address": null,
+    "website": "http://39.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0059",
+    "name": "Судебный участок № 40 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172521, Тверская обл, г Нелидово, ул Строителей, зд 11",
+    "legal_address": null,
+    "website": "http://40.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0060",
+    "name": "Судебный участок № 41 Тверская область",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172521, Тверская обл, г Нелидово, ул Строителей, зд 11",
+    "legal_address": null,
+    "website": "http://41.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0064",
+    "name": "Судебный участок № 42 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172400, Тверская обл, пгт Оленино, ул Чехова, д 14",
+    "legal_address": null,
+    "website": "http://42.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0062",
+    "name": "Судебный участок № 43 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172735, Тверская обл, г Осташков, ул Рабочая, д 9",
+    "legal_address": null,
+    "website": "http://43.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0063",
+    "name": "Судебный участок № 44 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172735, Тверская обл, г Осташков, ул Рабочая, д 9",
+    "legal_address": null,
+    "website": "http://44.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0065",
+    "name": "Судебный участок № 45 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172770, Тверская область, п. Пено, ул. Генерала Тарасова, д. 11",
+    "legal_address": null,
+    "website": "http://45.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0066",
+    "name": "Судебный участок № 47 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172388, Тверская обл, г Ржев, ул Свердлова, д 56",
+    "legal_address": null,
+    "website": "http://47.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0067",
+    "name": "Судебный участок № 48 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172388, Тверская обл, г Ржев, ул Свердлова, д 56",
+    "legal_address": null,
+    "website": "http://48.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0068",
+    "name": "Судебный участок № 49 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172388, Тверская обл, г Ржев, ул Свердлова, д 56",
+    "legal_address": null,
+    "website": "http://49.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0069",
+    "name": "Судебный участок № 50 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172388, Тверская обл, г Ржев, ул Свердлова, д 56",
+    "legal_address": null,
+    "website": "http://50.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0070",
+    "name": "Судебный участок № 46 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171400, Тверская обл, пгт Рамешки, ул Советская, д 23",
+    "legal_address": null,
+    "website": "http://46.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0071",
+    "name": "Судебный участок № 51 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171750, Тверская обл, пгт Сандово, ул Пионерская, д 5",
+    "legal_address": null,
+    "website": "http://51.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0075",
+    "name": "Судебный участок № 52 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172200, Тверская обл, пгт Селижарово, пер Советский, д 1А",
+    "legal_address": null,
+    "website": "http://52.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0072",
+    "name": "Судебный участок № 53 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171450, Тверская обл, пгт Сонково, ул Калинина, д 1",
+    "legal_address": null,
+    "website": "http://53.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0073",
+    "name": "Судебный участок № 54 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171170, Тверская обл, пгт Спирово, пл Советская, д 7",
+    "legal_address": null,
+    "website": "http://54.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0074",
+    "name": "Судебный участок № 55 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171361, Тверская обл, г Старица, ул Коммунистическая, д 37",
+    "legal_address": null,
+    "website": "http://55.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0076",
+    "name": "Судебный участок № 56 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172008, Тверская обл, г Торжок, ул Дзержинского, д 32",
+    "legal_address": null,
+    "website": "http://56.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0077",
+    "name": "Судебный участок № 57 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172008, Тверская обл, г Торжок, ул Дзержинского, д 32",
+    "legal_address": null,
+    "website": "http://57.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0078",
+    "name": "Судебный участок № 58 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172008, Тверская обл, г Торжок, ул Дзержинского, д 32",
+    "legal_address": null,
+    "website": "http://58.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0079",
+    "name": "Судебный участок № 59 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172008, Тверская обл, г Торжок, ул Дзержинского, д 32",
+    "legal_address": null,
+    "website": "http://59.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0080",
+    "name": "Судебный участок № 60 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172840, Тверская обл, г Торопец, ул Калинина, д 56/65",
+    "legal_address": null,
+    "website": "http://60.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0081",
+    "name": "Судебный участок № 61 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171842, Тверская обл, г Удомля, пер Автодорожный, д 2",
+    "legal_address": null,
+    "website": "http://61.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0082",
+    "name": "Судебный участок № 62 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "171842, Тверская обл, г Удомля, пер Автодорожный, д 2",
+    "legal_address": null,
+    "website": "http://62.twr.msudrf.ru"
+  },
+  {
+    "code": "69MS0083",
+    "name": "Судебный участок № 63 Тверской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "172721, Тверская обл, пгт Фирово, ул Советская, д 21",
+    "legal_address": null,
+    "website": "http://63.twr.msudrf.ru"
+  }
+]

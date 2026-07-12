@@ -1,0 +1,712 @@
+[
+  {
+    "code": "73MS0032",
+    "name": "Судебный участок Базарносызганского района Инзенского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433700, Ульяновская обл, рп Базарный Сызган, ул Авдеева, д 34",
+    "legal_address": null,
+    "website": "http://1bazrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0068",
+    "name": "Судебный участок г. Новоульяновска Ульяновского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433300, Ульяновская обл, г Новоульяновск, ул Ульяновская, д 29",
+    "legal_address": null,
+    "website": "http://1novul.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0049",
+    "name": "Судебный участок Кузоватовского района Новоспасского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433760, Ульяновская обл, рп Кузоватово, ул Октябрьская, зд 9А",
+    "legal_address": null,
+    "website": "http://1kuzrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0054",
+    "name": "Судебный участок Новомалыклинского района Мелекесского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433560, Ульяновская обл, с Новая Малыкла, ул Кооперативная, зд 26",
+    "legal_address": null,
+    "website": "http://1novmalrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0055",
+    "name": "Судебный участок Новоспасского района Новоспасского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433870, Ульяновская обл, рп Новоспасское, ул Азина, д 114",
+    "legal_address": null,
+    "website": "http://1novsprn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0058",
+    "name": "Судебный участок Павловского района Николаевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433970, Ульяновская обл, рп Павловка, ул Ленина, зд 96",
+    "legal_address": null,
+    "website": "http://1pavlrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0059",
+    "name": "Судебный участок Радищевского района Радищевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433910, Ульяновская обл, рп Радищево, ул Кооперативная, д 5",
+    "legal_address": null,
+    "website": "http://1radrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0062",
+    "name": "Судебный участок Старокулаткинского района Радищевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433940, Ульяновская обл, рп Старая Кулатка, ул Кирова, д 133А",
+    "legal_address": null,
+    "website": "http://1starkulrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0063",
+    "name": "Судебный участок Старомайнского района Чердаклинского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433460, Ульяновская обл, рп Старая Майна, ул Рабочая, зд 2",
+    "legal_address": null,
+    "website": "http://1starmayrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0064",
+    "name": "Судебный участок Сурского района Карсунского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433240, Ульяновская обл, рп Сурское, ул Хазова, зд 38",
+    "legal_address": null,
+    "website": "http://1surrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0065",
+    "name": "Судебный участок Тереньгульского района Сенгилеевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433361, Ульяновская обл, рп Тереньга, ул Евстифеева, д 9",
+    "legal_address": null,
+    "website": "http://1terrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0069",
+    "name": "Судебный участок Цильнинского района Ульяновского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433610, Ульяновская обл, с Большое Нагаткино, ул Садовая, д 2",
+    "legal_address": null,
+    "website": "http://1cilrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0040",
+    "name": "Судебный участок № 1 Барышского района Барышского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433750, Ульяновская обл, Барышский р-н, г Барыш, ул Советская, д 152",
+    "legal_address": null,
+    "website": "http://1barrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0043",
+    "name": "Судебный участок № 1 Вешкаймского района Майнского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433100, Ульяновская обл, рп Вешкайма, ул Мира, д 12",
+    "legal_address": null,
+    "website": "http://1veshrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0033",
+    "name": "Судебный участок № 1 г. Димитровграда Димитровградского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433511, Ульяновская обл, г Димитровград, ул Бурцева, зд 3",
+    "legal_address": null,
+    "website": "http://1dmitrovgrad.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0028",
+    "name": "Судебный участок № 1 Железнодорожного района Железнодорожного судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432012, г Ульяновск, ул Локомотивная, д 106А",
+    "legal_address": null,
+    "website": "http://1zdrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0011",
+    "name": "Судебный участок № 1 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://1zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0001",
+    "name": "Судебный участок № 1 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://1zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0045",
+    "name": "Судебный участок № 1 Инзенского района Инзенского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433030, Ульяновская обл, г Инза, ул Ульяновская, д 24",
+    "legal_address": null,
+    "website": "http://1inzrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0047",
+    "name": "Судебный участок № 1 Карсунского района Карсунского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433210, Ульяновская обл, рп Карсун, ул Тельмана, д 10",
+    "legal_address": null,
+    "website": "http://1karsrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0002",
+    "name": "Судебный участок № 2 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://2zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0003",
+    "name": "Судебный участок № 3 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://3zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0004",
+    "name": "Судебный участок № 4 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://4zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0005",
+    "name": "Судебный участок № 5 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://5zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0006",
+    "name": "Судебный участок № 6 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://6zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0007",
+    "name": "Судебный участок № 7 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://7zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0008",
+    "name": "Судебный участок № 8 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://8zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0009",
+    "name": "Судебный участок № 9 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://9zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0012",
+    "name": "Судебный участок № 2 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://2zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0013",
+    "name": "Судебный участок № 3 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://3zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0014",
+    "name": "Судебный участок № 4 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://4zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0015",
+    "name": "Судебный участок № 5 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://5zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0016",
+    "name": "Судебный участок № 6 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://6zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0017",
+    "name": "Судебный участок № 7 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://7zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0018",
+    "name": "Судебный участок № 8 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://8zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0019",
+    "name": "Судебный участок № 9 Заволжского района Заволжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432010, г Ульяновск, проезд Менделеева, д 5",
+    "legal_address": null,
+    "website": "http://9zavolrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0010",
+    "name": "Судебный участок № 10 Засвияжского района Засвияжского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432042, г Ульяновск, ул Станкостроителей, д 16 к 1",
+    "legal_address": null,
+    "website": "http://10zasvrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0020",
+    "name": "Судебный участок № 1 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://1lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0029",
+    "name": "Судебный участок № 2 Железнодорожного района Железнодорожного судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432012, г Ульяновск, ул Локомотивная, д 106А",
+    "legal_address": null,
+    "website": "http://2zdrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0021",
+    "name": "Судебный участок № 2 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://2lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0022",
+    "name": "Судебный участок № 3 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://3lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0023",
+    "name": "Судебный участок № 4 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://4lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0024",
+    "name": "Судебный участок № 5 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://5lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0025",
+    "name": "Судебный участок № 6 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://6lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0026",
+    "name": "Судебный участок № 7 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://7lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0027",
+    "name": "Судебный участок № 8 Ленинского района Ленинского судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432000, г Ульяновск, ул Ленина, д 104А к 2",
+    "legal_address": null,
+    "website": "http://8lenrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0034",
+    "name": "Судебный участок № 2 г. Димитровграда Димитровградского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433511, Ульяновская обл, г Димитровград, ул Бурцева, зд 3",
+    "legal_address": null,
+    "website": "http://2dmitrovgrad.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0035",
+    "name": "Судебный участок № 3 г. Димитровграда Димитровградского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433511, Ульяновская обл, г Димитровград, ул Бурцева, зд 3",
+    "legal_address": null,
+    "website": "http://3dmitrovgrad.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0030",
+    "name": "Судебный участок № 3 Железнодорожного района Железнодорожного судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432012, г Ульяновск, ул Локомотивная, д 106А",
+    "legal_address": null,
+    "website": "http://3zdrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0036",
+    "name": "Судебный участок № 4 г. Димитровграда Димитровградского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433511, Ульяновская обл, г Димитровград, ул Бурцева, зд 3",
+    "legal_address": null,
+    "website": "http://4dmitrovgrad.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0031",
+    "name": "Судебный участок № 4 Железнодорожного района Железнодорожного судебного района г. Ульяновска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "432012, г Ульяновск, ул Локомотивная, д 106А",
+    "legal_address": null,
+    "website": "http://4zdrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0037",
+    "name": "Судебный участок № 5 г. Димитровграда Димитровградского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433511, Ульяновская обл, г Димитровград, ул Бурцева, зд 3",
+    "legal_address": null,
+    "website": "http://5dmitrovgrad.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0038",
+    "name": "Судебный участок № 6 г. Димитровграда Димитровградского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433511, Ульяновская обл, г Димитровград, ул Бурцева, зд 3",
+    "legal_address": null,
+    "website": "http://6dmitrovgrad.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0039",
+    "name": "Судебный участок № 7 г. Димитровграда Димитровградского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433511, Ульяновская обл, г Димитровград, ул Бурцева, зд 3",
+    "legal_address": null,
+    "website": "http://7dmitrovgrad.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0041",
+    "name": "Судебный участок № 2 Барышского района Барышского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433750, Ульяновская обл, Барышский р-н, г Барыш, ул Советская, д 152",
+    "legal_address": null,
+    "website": "http://2barrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0044",
+    "name": "Судебный участок № 2 Вешкаймского района Майнского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433100, Ульяновская обл, рп Вешкайма, ул Мира, д 12",
+    "legal_address": null,
+    "website": "http://2veshrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0046",
+    "name": "Судебный участок № 2 Инзенского района Инзенского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433030, Ульяновская обл, г Инза, ул Ульяновская, д 24",
+    "legal_address": null,
+    "website": "http://2inzrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0048",
+    "name": "Судебный участок № 2 Карсунского района Карсунского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433210, Ульяновская обл, рп Карсун, ул Тельмана, д 10",
+    "legal_address": null,
+    "website": "http://2karsrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0042",
+    "name": "Судебный участок № 3 Барышского района Барышского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433750, Ульяновская обл, Барышский р-н, г Барыш, ул Советская, д 152",
+    "legal_address": null,
+    "website": "http://3barrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0050",
+    "name": "Судебный участок № 1 Майнского района Майнского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433130, Ульяновская обл, рп Майна, ул Советская, д 9",
+    "legal_address": null,
+    "website": "http://1maynrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0052",
+    "name": "Судебный участок № 1 Мелекесского района Мелекесского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433508, Ульяновская обл, г Димитровград, ул Гагарина, зд 34",
+    "legal_address": null,
+    "website": "http://1melrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0056",
+    "name": "Судебный участок № 1 Николаевского района Николаевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433810, Ульяновская обл, рп Николаевка, ул Коммунальная, д 2",
+    "legal_address": null,
+    "website": "http://1nikrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0051",
+    "name": "Судебный участок № 2 Майнского района Майнского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433130, Ульяновская обл, рп Майна, ул Советская, д 9",
+    "legal_address": null,
+    "website": "http://2maynrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0053",
+    "name": "Судебный участок № 2 Мелекесского района Мелекесского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433512, Ульяновская обл, г Димитровград, пр-кт Димитрова, зд 39А",
+    "legal_address": null,
+    "website": "http://2melrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0057",
+    "name": "Судебный участок № 2 Николаевского района Николаевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433810, Ульяновская обл, рп Николаевка, ул Коммунальная, д 2",
+    "legal_address": null,
+    "website": "http://2nikrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0060",
+    "name": "Судебный участок № 1 Сенгилеевского района Сенгилеевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433380, Ульяновская обл, г Сенгилей, ул Красноармейская, зд 53",
+    "legal_address": null,
+    "website": "http://1sengrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0066",
+    "name": "Судебный участок № 1 Ульяновского района Ульяновского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433310, Ульяновская обл, Ульяновский р-н, рп Ишеевка, ул Гагарина, зд 12",
+    "legal_address": null,
+    "website": "http://1ulrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0061",
+    "name": "Судебный участок № 2 Сенгилеевского района Сенгилеевского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433380, Ульяновская обл, г Сенгилей, ул Красноармейская, зд 53",
+    "legal_address": null,
+    "website": "http://2sengrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0067",
+    "name": "Судебный участок № 2 Ульяновского района Ульяновского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433310, Ульяновская обл, Ульяновский р-н, рп Ишеевка, ул Гагарина, зд 12",
+    "legal_address": null,
+    "website": "http://2ulrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0070",
+    "name": "Судебный участок № 1 Чердаклинского района Чердаклинского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433400, Ульяновская обл, рп Чердаклы, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://1cherdrn.uln.msudrf.ru"
+  },
+  {
+    "code": "73MS0071",
+    "name": "Судебный участок № 2 Чердаклинского района Чердаклинского судебного района Ульяновской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "433400, Ульяновская обл, рп Чердаклы, ул Советская, д 20",
+    "legal_address": null,
+    "website": "http://2cherdrn.uln.msudrf.ru"
+  }
+]

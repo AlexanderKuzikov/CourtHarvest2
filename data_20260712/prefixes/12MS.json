@@ -1,0 +1,402 @@
+[
+  {
+    "code": "12MS0001",
+    "name": "Судебный участок № 1 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://1yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0002",
+    "name": "Судебный участок № 2 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://2yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0003",
+    "name": "Судебный участок № 3 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://3yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0004",
+    "name": "Судебный участок № 4 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://4yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0005",
+    "name": "Судебный участок № 5 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://5yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0006",
+    "name": "Судебный участок № 6 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://6yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0007",
+    "name": "Судебный участок № 7 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://7yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0008",
+    "name": "Судебный участок № 8 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://8yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0009",
+    "name": "Судебный участок № 9 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://9yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0010",
+    "name": "Судебный участок № 10 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://10yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0011",
+    "name": "Судебный участок № 11 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://11yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0012",
+    "name": "Судебный участок № 12 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424003, г Йошкар-Ола, пр-кт Ленинский, д 68",
+    "legal_address": null,
+    "website": "http://12yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0013",
+    "name": "Судебный участок № 13 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424003, г Йошкар-Ола, пр-кт Ленинский, д 68",
+    "legal_address": null,
+    "website": "http://13yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0014",
+    "name": "Судебный участок № 14 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424031, г Йошкар-Ола, ул Якова Эшпая, д 103",
+    "legal_address": null,
+    "website": "http://14yo.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0015",
+    "name": "Судебный участок № 15 Волжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425000, Респ Марий Эл, г Волжск, ул Матюшенко, д 2Б",
+    "legal_address": null,
+    "website": "http://1vol.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0016",
+    "name": "Судебный участок № 16 Волжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425000, Респ Марий Эл, г Волжск, ул Матюшенко, д 2Б",
+    "legal_address": null,
+    "website": "http://2vol.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0017",
+    "name": "Судебный участок № 17 Волжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425000, Респ Марий Эл, г Волжск, ул Матюшенко, д 2Б",
+    "legal_address": null,
+    "website": "http://3vol.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0019",
+    "name": "Судебный участок № 18 Волжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425000, Респ Марий Эл, г Волжск, ул Матюшенко, д 2Б",
+    "legal_address": null,
+    "website": "http://1volr.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0020",
+    "name": "Судебный участок № 20 Горномароийского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425350, Респ Марий Эл, г Козьмодемьянск, ул 8 Марта, д 16",
+    "legal_address": null,
+    "website": "http://1gor.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0021",
+    "name": "Судебный участок № 21 Горномароийского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425350, Респ Марий Эл, г Козьмодемьянск, ул 8 Марта, д 16",
+    "legal_address": null,
+    "website": "http://2gor.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0022",
+    "name": "Судебный участок № 23 Звениговского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425060, Респ Марий Эл, г Звенигово, ул Ленина, д 34",
+    "legal_address": null,
+    "website": "http://1zven.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0023",
+    "name": "Судебный участок № 24 Звениговского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425060, Респ Марий Эл, г Звенигово, ул Ленина, д 34",
+    "legal_address": null,
+    "website": "http://2zven.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0024",
+    "name": "Судебный участок № 25 Звениговского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425060, Респ Марий Эл, г Звенигово, ул Ленина, д 34",
+    "legal_address": null,
+    "website": "http://3zven.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0028",
+    "name": "Судебный участок № 26 Медведевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425200, Респ Марий Эл, пгт Медведево, ул Юбилейная, д 12",
+    "legal_address": null,
+    "website": "http://1med.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0029",
+    "name": "Судебный участок № 27 Медведевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425200, Респ Марий Эл, пгт Медведево, ул Юбилейная, д 12",
+    "legal_address": null,
+    "website": "http://2med.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0025",
+    "name": "Судебный участок № 29 Медведевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425270, Респ Марий Эл, пгт Килемары, ул Феоктистова, д 4",
+    "legal_address": null,
+    "website": "http://1kil.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0027",
+    "name": "Судебный участок № 36 Сернурского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425500, Респ Марий Эл, пгт Мари-Турек, ул Октябрьская, д 21",
+    "legal_address": null,
+    "website": "http://1mtr.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0026",
+    "name": "Судебный участок № 40 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425550, Респ Марий Эл, пгт Куженер, ул Степана Лебедева, д 20А",
+    "legal_address": null,
+    "website": "http://1kuzh.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0030",
+    "name": "Судебный участок № 28 Медведевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425200, Респ Марий Эл, пгт Медведево, б-р 75-летия Победы, д 3",
+    "legal_address": null,
+    "website": "http://3med.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0034",
+    "name": "Судебный участок № 30 Медведевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425250, Респ Марий Эл, пгт Оршанка, ул Пролетарская, д 8",
+    "legal_address": null,
+    "website": "http://1orsh.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0031",
+    "name": "Судебный участок № 31 Моркинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425122, Респ Марий Эл, пгт Морки, ул Механизаторов, д 50, помещ 2",
+    "legal_address": null,
+    "website": "http://1mor.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0032",
+    "name": "Судебный участок № 32 Моркинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425122, Респ Марий Эл, пгт Морки, ул Механизаторов, д 50, помещ 2",
+    "legal_address": null,
+    "website": "http://2mor.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0037",
+    "name": "Судебный участок № 34 Сернурского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425450, Респ Марий Эл, пгт Сернур, ул Советская, д 8",
+    "legal_address": null,
+    "website": "http://2ser.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0035",
+    "name": "Судебный участок № 35 Сернурского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425570, Респ Марий Эл, пгт Параньга, ул Тукаевская, д 80",
+    "legal_address": null,
+    "website": "http://1par.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0038",
+    "name": "Судебный участок № 37 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425400, Респ Марий Эл, пгт Советский, ул Первомайская, д 4А",
+    "legal_address": null,
+    "website": "http://1sov.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0039",
+    "name": "Судебный участок № 38 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425400, Респ Марий Эл, пгт Советский, ул Первомайская, д 4А",
+    "legal_address": null,
+    "website": "http://2sov.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0033",
+    "name": "Судебный участок № 39 Советского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425430, Респ Марий Эл, пгт Новый Торъял, ул Юбилейная, д 8",
+    "legal_address": null,
+    "website": "http://1nov.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0040",
+    "name": "Судебный участок № 22 Горномарийского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425370, Респ Марий Эл, пгт Юрино, ул Карла Маркса, д 9А",
+    "legal_address": null,
+    "website": "http://1yri.mari.msudrf.ru"
+  },
+  {
+    "code": "12MS0041",
+    "name": "Судебный участок № 41 Медведевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "425200, Респ Марий Эл, пгт Медведево, б-р 75-летия Победы, д 3",
+    "legal_address": null,
+    "website": "http://4med.mari.msudrf.ru/"
+  },
+  {
+    "code": "12MS0042",
+    "name": "Судебный участок № 42 Йошкар-Олинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "424004, г Йошкар-Ола, ул Волкова, д 64",
+    "legal_address": null,
+    "website": "http://42yo.mari.msudrf.ru"
+  }
+]

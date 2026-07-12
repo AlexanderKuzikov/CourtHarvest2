@@ -1,0 +1,262 @@
+[
+  {
+    "code": "09MS0024",
+    "name": "Судебный участок № 1 Адыге-Хабльского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369330, Респ Карачаево-Черкесская, аул Адыге-Хабль, ул Советская, д 15",
+    "legal_address": null,
+    "website": "http://adg-hablrn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0012",
+    "name": "Судебный участок № 1 Зеленчукского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369140, Респ Карачаево-Черкесская, ст-ца Зеленчукская, ул Ленина, д 100",
+    "legal_address": null,
+    "website": "http://zelenrn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0011",
+    "name": "Судебный участок № 1 Карачаевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369204, Респ Карачаево-Черкесская, г Карачаевск, ул Ленина, д 39",
+    "legal_address": null,
+    "website": "http://krchrn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0015",
+    "name": "Судебный участок № 1 Малокарачаевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369380, Респ Карачаево-Черкесская, с Учкекен, ул Ленина, зд 146",
+    "legal_address": null,
+    "website": "http://malokarrn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0022",
+    "name": "Судебный участок № 1 Прикубанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369100, Респ Карачаево-Черкесская, Прикубанский р-н, п Кавказский, ул Гагарина, д 2А",
+    "legal_address": null,
+    "website": "http://prikubrn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0009",
+    "name": "Судебный участок № 1 судебного района г. Карачаевска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369204, Респ Карачаево-Черкесская, г Карачаевск, ул Ленина, д 39",
+    "legal_address": null,
+    "website": "http://karachaevsk1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0001",
+    "name": "Судебный участок № 1 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0025",
+    "name": "Судебный участок № 1 Урупского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369260, Респ Карачаево-Черкесская, ст-ца Преградная, ул Красная, д 110",
+    "legal_address": null,
+    "website": "http://uruprn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0017",
+    "name": "Судебный участок № 1 Усть-Джегутинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369300, Респ Карачаево-Черкесская, г Усть-Джегута, ул Калинина, д 95",
+    "legal_address": null,
+    "website": "http://ust-djegrn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0020",
+    "name": "Судебный участок № 1 Хабезского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369400, Респ Карачаево-Черкесская, аул Хабез, ул У.Хабекова, д 85",
+    "legal_address": null,
+    "website": "http://habezrn1.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0013",
+    "name": "Судебный участок № 2 Зеленчукского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369140, Респ Карачаево-Черкесская, ст-ца Зеленчукская, ул Ленина, д 100",
+    "legal_address": null,
+    "website": "http://zelenrn2.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0016",
+    "name": "Судебный участок № 2 Малокарачаевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369380, Респ Карачаево-Черкесская, с Учкекен, ул Ленина, зд 146",
+    "legal_address": null,
+    "website": "http://malokarrn2.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0023",
+    "name": "Судебный участок № 2 Прикубанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369100, Респ Карачаево-Черкесская, Прикубанский р-н, п Кавказский, ул Гагарина, д 2А",
+    "legal_address": null,
+    "website": "http://prikubrn2.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0010",
+    "name": "Судебный участок № 2 судебного района г. Карачаевска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369204, Респ Карачаево-Черкесская, г Карачаевск, ул Ленина, д 39",
+    "legal_address": null,
+    "website": "http://karachaevsk2.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0002",
+    "name": "Судебный участок № 2 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk2.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0018",
+    "name": "Судебный участок № 2 Усть-Джегутинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369300, Респ Карачаево-Черкесская, г Усть-Джегута, ул Калинина, д 95",
+    "legal_address": null,
+    "website": "http://ust-djegrn2.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0021",
+    "name": "Судебный участок № 2 Хабезского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369400, Респ Карачаево-Черкесская, аул Хабез, ул У.Хабекова, д 85",
+    "legal_address": null,
+    "website": "http://habezrn2.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0014",
+    "name": "Судебный участок № 3 Зеленчукского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369140, Респ Карачаево-Черкесская, ст-ца Зеленчукская, ул Ленина, д 100",
+    "legal_address": null,
+    "website": "http://zelenrn3.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0003",
+    "name": "Судебный участок № 3 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk3.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0019",
+    "name": "Судебный участок № 3 Усть-Джегутинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369300, Респ Карачаево-Черкесская, г Усть-Джегута, ул Калинина, д 95",
+    "legal_address": null,
+    "website": "http://ust-djegrn3.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0004",
+    "name": "Судебный участок № 4 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk4.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0005",
+    "name": "Судебный участок № 5 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk5.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0006",
+    "name": "Судебный участок № 6 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk6.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0007",
+    "name": "Судебный участок № 7 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk7.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0008",
+    "name": "Судебный участок № 8 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk8.kchr.msudrf.ru"
+  },
+  {
+    "code": "09MS0026",
+    "name": "Судебный участок № 9 судебного района г. Черкесска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 16",
+    "legal_address": null,
+    "website": "http://cherkessk9.kchr.msudrf.ru/"
+  }
+]

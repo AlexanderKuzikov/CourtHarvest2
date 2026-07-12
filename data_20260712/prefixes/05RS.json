@@ -1,0 +1,412 @@
+[
+  {
+    "code": "05RS0002",
+    "name": "Акушинский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368280, Респ Дагестан, с Акуша, ул Алигаджи Акушинского, д 37",
+    "legal_address": null,
+    "website": "http://akushinskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0004",
+    "name": "Ахтынский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368730, Респ Дагестан, с Ахты, ул Перина Перинова, д 1",
+    "legal_address": null,
+    "website": "http://ahtinskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0008",
+    "name": "Бабаюртовский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368060, Респ Дагестан, с Бабаюрт, ул Карагишиева А., д 13",
+    "legal_address": null,
+    "website": "http://babajurtovskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0007",
+    "name": "Ботлихский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368970, Респ Дагестан, с Ботлих, ул Заводская, зд 30",
+    "legal_address": null,
+    "website": "http://botlihskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0005",
+    "name": "Буйнакский городской суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368220, Респ Дагестан, г Буйнакск, ул Чкалова, д 61",
+    "legal_address": null,
+    "website": "http://buinakskiy-gs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0006",
+    "name": "Буйнакский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368220, Респ Дагестан, г Буйнакск, ул Имама Шамиля, д 74А",
+    "legal_address": null,
+    "website": "http://buinakskiy-rs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0010",
+    "name": "Гергебильский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368250, Респ Дагестан, с Гергебиль, ул Наиба Идриса, д 1",
+    "legal_address": null,
+    "website": "http://gergebilskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0016",
+    "name": "Городской суд г. Дагестанские Огни Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368670, Респ Дагестан, г Дагестанские Огни, ул Владимира Ильича Ленина, д 4",
+    "legal_address": null,
+    "website": "http://dagogni-gs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0011",
+    "name": "Гунибский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368340, Респ Дагестан, с Гуниб, ул Имени Имама Шамиля, д 5",
+    "legal_address": null,
+    "website": "http://gunibskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0012",
+    "name": "Дербентский городской суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Гейдара Алиева, д 15",
+    "legal_address": null,
+    "website": "http://derbent-gs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0013",
+    "name": "Дербентский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368601, Респ Дагестан, г Дербент, ул имени Надира Эмиргамзаева, зд 23",
+    "legal_address": null,
+    "website": "http://derbent-rs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0017",
+    "name": "Избербашский городской суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368500, Респ Дагестан, г Избербаш, пр-кт Ленина, д 5",
+    "legal_address": null,
+    "website": "http://izberbashskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0028",
+    "name": "Казбековский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368140, Респ Дагестан, с Дылым, ул Абдулгапура Абдулгапурова, д 3",
+    "legal_address": null,
+    "website": "http://kazbekovskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0027",
+    "name": "Кайтагский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368590, Респ Дагестан, с Маджалис, ул Алисултанова, зд 58",
+    "legal_address": null,
+    "website": "http://kaitagskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0029",
+    "name": "Карабудахкентский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368530, Респ Дагестан, с Карабудахкент, ул Космодемьянской, д 1Б",
+    "legal_address": null,
+    "website": "http://karabudahkentskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0021",
+    "name": "Каспийский городской суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368300, Респ Дагестан, г Каспийск, ул Назарова, д 15",
+    "legal_address": null,
+    "website": "http://kaspiyskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0024",
+    "name": "Каякентский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368560, Респ Дагестан, с Новокаякент, ул Умуразият Абдуллаевны Джабраиловой, д 34",
+    "legal_address": null,
+    "website": "http://kajakentskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0022",
+    "name": "Кизилюртовский городской суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368121, Респ Дагестан, г Кизилюрт, ул Гагарина, д 24А",
+    "legal_address": null,
+    "website": "http://kiziljurt-gs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0023",
+    "name": "Кизилюртовский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368121, Респ Дагестан, г Кизилюрт, ул Гагарина, д 22",
+    "legal_address": null,
+    "website": "http://kiziljurt-rs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0019",
+    "name": "Кизлярский городской суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368830, Респ Дагестан, г Кизляр, ул Фрунзе, д 1А",
+    "legal_address": null,
+    "website": "http://kizljar-gs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0018",
+    "name": "Кировский районный суд г. Махачкалы Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "367009, г Махачкала, ул Керимова, д 45А",
+    "legal_address": null,
+    "website": "http://kirovskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0020",
+    "name": "Кизлярский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368819, Респ Дагестан, Кизлярский р-н, с Юбилейное, пер Озерный, д 6",
+    "legal_address": null,
+    "website": "http://kizljar-rs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0030",
+    "name": "Кумторкалинский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368080, Респ Дагестан, с Коркмаскала, ул Ленина, д 7",
+    "legal_address": null,
+    "website": "http://kumtorkalinskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0033",
+    "name": "Лакский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368360, Республика Дагестан, Лакский р-н, с. Кумух, ул. Сурхайхана-1, д. 67",
+    "legal_address": null,
+    "website": "http://lakskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0032",
+    "name": "Левашинский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368320, Респ Дагестан, с Леваши, ул А.Алиева, д 4",
+    "legal_address": null,
+    "website": "http://levashinskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0031",
+    "name": "Ленинский районный суд г. Махачкалы Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "367013, г Махачкала, пр-кт Гамидова, д 9",
+    "legal_address": null,
+    "website": "http://lenynskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0034",
+    "name": "Магарамкентский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368780, Респ Дагестан, с Магарамкент, ул Гагарина, д 4",
+    "legal_address": null,
+    "website": "http://magaramkentskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0036",
+    "name": "Новолакский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368160, Респ Дагестан, с Новолакское, ул Айгунова Н., д 98",
+    "legal_address": null,
+    "website": "http://novolakskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0035",
+    "name": "Ногайский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368850, Респ Дагестан, с Терекли-Мектеб, ул К.Маркса, д 17",
+    "legal_address": null,
+    "website": "http://nogayskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0038",
+    "name": "Советский районный суд города Махачкалы Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "367000, г Махачкала, ул Рустамова, д 4",
+    "legal_address": null,
+    "website": "http://sovetskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0039",
+    "name": "Сулейман-Стальский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368760, Респ Дагестан, с Касумкент, ул Ленина, д 26А",
+    "legal_address": null,
+    "website": "http://s-stalskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0040",
+    "name": "Сергокалинский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368510, Респ Дагестан, с Сергокала, ул 317 Стрелковой Дивизии, зд 30",
+    "legal_address": null,
+    "website": "http://sergokalinskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0042",
+    "name": "Табасаранский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368650, Респ Дагестан, с Хучни, ул Курбанова Сейфуллы Курбановича, д 42А",
+    "legal_address": null,
+    "website": "http://tabasaranskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0043",
+    "name": "Тарумовский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368870, Респ Дагестан, с Тарумовка, ул Шамиля Магомедова, д 2",
+    "legal_address": null,
+    "website": "http://tarumovskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0041",
+    "name": "Тляратинский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368420, Респ Дагестан, с Тлярата, ул Победы, д 128",
+    "legal_address": null,
+    "website": "http://tljaratinskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0044",
+    "name": "Унцукульский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368950, Респ Дагестан, Унцукульский р-н, пгт Шамилькала, ул Махача Дахадаева, д 3",
+    "legal_address": null,
+    "website": "http://untsukulskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0046",
+    "name": "Хасавюртовский городской суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368009, Респ Дагестан, г Хасавюрт, ул Ирбайхана Акаева, д 29",
+    "legal_address": null,
+    "website": "http://hasavjurt-gs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0047",
+    "name": "Хасавюртовский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368009, Респ Дагестан, г Хасавюрт, ул Первомайская, д 5",
+    "legal_address": null,
+    "website": "http://hasavjurt-rs.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0045",
+    "name": "Хивский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368680, Респ Дагестан, с Хив, ул Шаумяна, д 32",
+    "legal_address": null,
+    "website": "http://hivskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0048",
+    "name": "Хунзахский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368260, Респ Дагестан, Хунзахский р-н, с Арани, ул Магомедсайгида Гаджиева, д 7",
+    "legal_address": null,
+    "website": "http://hunzahskiy.dag.sudrf.ru"
+  },
+  {
+    "code": "05RS0052",
+    "name": "Шамильский районный суд Республики Дагестан",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "368430, Респ Дагестан, с Хебда, ул Имама Шамиля, д 110",
+    "legal_address": null,
+    "website": "http://shamilskiy.dag.sudrf.ru"
+  }
+]

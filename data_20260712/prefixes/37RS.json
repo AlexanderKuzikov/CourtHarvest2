@@ -1,0 +1,152 @@
+[
+  {
+    "code": "37RS0002",
+    "name": "Вичугский городской суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155331, Ивановская обл, г Вичуга, ул 50 лет Октября, зд 18",
+    "legal_address": null,
+    "website": "http://vichugsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0005",
+    "name": "Ивановский районный суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "153008, г Иваново, ул Постышева, д 52",
+    "legal_address": null,
+    "website": "http://ivanovsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0007",
+    "name": "Кинешемский городской суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155800, Ивановская обл, г Кинешма, ул им Ленина, д 44",
+    "legal_address": null,
+    "website": "http://kineshemsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0008",
+    "name": "Комсомольский районный суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155150, Ивановская обл, г Комсомольск, ул Пионерская, д 9",
+    "legal_address": null,
+    "website": "http://komsomolsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0010",
+    "name": "Ленинский районный суд г. Иваново",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "153000, г Иваново, ул Станко, д 7",
+    "legal_address": null,
+    "website": "http://leninsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0012",
+    "name": "Октябрьский районный суд г. Иваново",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "153002, г Иваново, ул 9 Января, д 13",
+    "legal_address": null,
+    "website": "http://oktyabrsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0013",
+    "name": "Палехский районный суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155620, Ивановская обл, п Палех, ул Горького, зд 4",
+    "legal_address": null,
+    "website": "http://palehsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0015",
+    "name": "Приволжский районный суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155550, Ивановская обл, г Приволжск, ул Революционная, д 118Г",
+    "legal_address": null,
+    "website": "http://privolzhsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0016",
+    "name": "Пучежский районный суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155362, Ивановская обл, г Пучеж, ул 2-я Производственная, д 9А",
+    "legal_address": null,
+    "website": "http://puchezhsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0017",
+    "name": "Родниковский районный суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155250, Ивановская обл, г Родники, ул Невская, д 69",
+    "legal_address": null,
+    "website": "http://rodnikovsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0019",
+    "name": "Советский районный суд г. Иваново",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "153006, г Иваново, проезд 10-й, д 22",
+    "legal_address": null,
+    "website": "http://sovetsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0020",
+    "name": "Тейковский районный суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155048, Ивановская обл, г Тейково, ул Шибаевская, д 15",
+    "legal_address": null,
+    "website": "http://teikovsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0022",
+    "name": "Фрунзенский районный суд г. Иваново",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "153003, г Иваново, ул Мархлевского, д 33",
+    "legal_address": null,
+    "website": "http://frunzensky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0021",
+    "name": "Фурмановский городской суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155526, Ивановская обл, г Фурманов, ул Хлебникова, д 6",
+    "legal_address": null,
+    "website": "http://furmanovsky.iwn.sudrf.ru"
+  },
+  {
+    "code": "37RS0023",
+    "name": "Шуйский городской суд Ивановской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "155900, Ивановская обл, г Шуя, пл Комсомольская, д 19",
+    "legal_address": null,
+    "website": "http://shuisky.iwn.sudrf.ru"
+  }
+]

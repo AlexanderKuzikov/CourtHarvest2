@@ -1,0 +1,202 @@
+[
+  {
+    "code": "27RS0013",
+    "name": "Амурский городской суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682645, Хабаровский край, г Амурск, пр-кт Комсомольский, д 61",
+    "legal_address": null,
+    "website": "http://amursky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0011",
+    "name": "Бикинский городской суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682970, Хабаровский край, г Бикин, ул Бонивура, д 136",
+    "legal_address": null,
+    "website": "http://bikinsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0015",
+    "name": "Ванинский районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682860, Хабаровский край, рп Ванино, ул Железнодорожная, д 41",
+    "legal_address": null,
+    "website": "http://vaninsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0012",
+    "name": "Верхнебуреинский районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682030, Хабаровский край, рп Чегдомын, ул Центральная, д 21",
+    "legal_address": null,
+    "website": "http://vbureinsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0016",
+    "name": "Вяземский районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682950, Хабаровский край, г Вяземский, ул Козюкова, д 4",
+    "legal_address": null,
+    "website": "http://vyazemsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0003",
+    "name": "Железнодорожный районный суд г. Хабаровска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "680015, г Хабаровск, ул Суворова, д 73",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0004",
+    "name": "Индустриальный районный суд г. Хабаровска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "680003, г Хабаровск, ул Союзная, д 23",
+    "legal_address": null,
+    "website": "http://industrialny.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0002",
+    "name": "Кировский районный суд г. Хабаровска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "680011, г Хабаровск, ул Орджоникидзе, д 1",
+    "legal_address": null,
+    "website": "http://kirovsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0009",
+    "name": "Комсомольский районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "681032, Хабаровский край, г Комсомольск-на-Амуре, пр-кт Ленина, д 1",
+    "legal_address": null,
+    "website": "http://komsomolsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0005",
+    "name": "Краснофлотский районный суд г. Хабаровска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "680022, г Хабаровск, ул Воронежская, д 47",
+    "legal_address": null,
+    "website": "http://krasnoflotsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0008",
+    "name": "Ленинский районный суд г. Комсомольска-на-Амуре Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "681029, Хабаровский край, г Комсомольск-на-Амуре, ул Советская, д 29 к 2",
+    "legal_address": null,
+    "website": "http://leninsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0017",
+    "name": "Нанайский районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682350, Хабаровский край, с Троицкое, ул 40 лет Победы, д 11",
+    "legal_address": null,
+    "website": "http://nanaysky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0020",
+    "name": "Николаевский-на-Амуре городской суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682469, Хабаровский край, г Николаевск-на-Амуре, ул М.Горького, д 99",
+    "legal_address": null,
+    "website": "http://nikolaevsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0014",
+    "name": "Советско-Гаванский городской суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682800, Хабаровский край, г Советская Гавань, ул Советская, д 21",
+    "legal_address": null,
+    "website": "http://s-gavansky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0010",
+    "name": "Солнечный районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682711, Хабаровский край, рп Солнечный, ул Ленина, д 29",
+    "legal_address": null,
+    "website": "http://solnechniy.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0021",
+    "name": "Суд района имени Лазо Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682910, Хабаровский край, рп Переяславка, ул Ленина, д 30",
+    "legal_address": null,
+    "website": "http://lazo.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0022",
+    "name": "Ульчский районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "682400, Хабаровский край, с Богородское, ул Ленина, д 56",
+    "legal_address": null,
+    "website": "http://ulchsky.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0006",
+    "name": "Хабаровский районный суд Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "680011, г Хабаровск, ул Знаменщикова, д 17",
+    "legal_address": null,
+    "website": "http://habarovskyr.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0007",
+    "name": "Центральный районный суд г. Комсомольска-на-Амуре Хабаровского края",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "681032, Хабаровский край, г Комсомольск-на-Амуре, пр-кт Ленина, д 1",
+    "legal_address": null,
+    "website": "http://centralny.hbr.sudrf.ru"
+  },
+  {
+    "code": "27RS0001",
+    "name": "Центральный районный суд г. Хабаровска",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "680038, г Хабаровск, ул Серышева, д 60",
+    "legal_address": null,
+    "website": "http://centralnyr.hbr.sudrf.ru"
+  }
+]

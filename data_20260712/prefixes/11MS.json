@@ -1,0 +1,602 @@
+[
+  {
+    "code": "11MS0042",
+    "name": "Айкинский судебный участок Усть-Вымского района Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169040, Респ Коми, с Айкино, ул Первомайская, д 3",
+    "legal_address": null,
+    "website": "http://aikinsky.komi.msudrf.ru/"
+  },
+  {
+    "code": "11MS0019",
+    "name": "Веждинский судебный участок Эжвинского района г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167026, г Сыктывкар, ул Калинина, д 13",
+    "legal_address": null,
+    "website": "http://vezhdinsky.komi.msudrf.ru/"
+  },
+  {
+    "code": "11MS0012",
+    "name": "Водненский судебный участок г. Ухты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169300, Респ Коми, г Ухта, ул Юбилейная, д 14",
+    "legal_address": null,
+    "website": "http://vodnensky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0027",
+    "name": "Воргашорский судебный участок г. Воркуты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169933, Респ Коми, г Воркута, пгт Воргашор, ул Ленинского Комсомола, д 4",
+    "legal_address": null,
+    "website": "http://vorgashorsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0055",
+    "name": "Восточный судебный участок г. Инты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169840, Респ Коми, г Инта, ул Полярная, д 13",
+    "legal_address": null,
+    "website": "http://vostochny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0060",
+    "name": "Вуктыльский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169570, Респ Коми, г Вуктыл, ул Пионерская, д 16",
+    "legal_address": null,
+    "website": "http://vuktylsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0020",
+    "name": "Выльгортский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168220, Респ Коми, с Выльгорт, ул Гагарина, д 5",
+    "legal_address": null,
+    "website": "http://vilgortsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0029",
+    "name": "Горный судебный участок г. Воркуты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169906, Респ Коми, г Воркута, ул Парковая, д 42",
+    "legal_address": null,
+    "website": "http://gorny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0032",
+    "name": "Горняцкий судебный участок г. Воркуты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169906, Респ Коми, г Воркута, ул Парковая, д 42",
+    "legal_address": null,
+    "website": "http://gornyacky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0054",
+    "name": "Девонский судебный участок г. Усинска Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169710, Респ Коми, г Усинск, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://devonsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0001",
+    "name": "Димитровский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://dimitrovsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0063",
+    "name": "Емвальский судебный участок Эжвинского района г.Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167026, г Сыктывкар, ул Калинина, д 13",
+    "legal_address": null,
+    "website": "http://evmalskij.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0044",
+    "name": "Емвинский судебный участок Княжпогостского района Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169200, Респ Коми, г Емва, ул Дзержинского, д 136А",
+    "legal_address": null,
+    "website": "http://emvinsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0024",
+    "name": "Железнодорожный судебный участок г. Сосногорска Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169501, Респ Коми, г Сосногорск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0043",
+    "name": "Жешартский судебный участок Усть-Вымского района Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169040, Респ Коми, с Айкино, ул Первомайская, д 3",
+    "legal_address": null,
+    "website": "http://zheshartsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0056",
+    "name": "Западный судебный участок г. Инты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169840, Респ Коми, г Инта, ул Полярная, д 13",
+    "legal_address": null,
+    "website": "http://zapadny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0021",
+    "name": "Зеленецкий судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168220, Респ Коми, с Выльгорт, ул Гагарина, д 5",
+    "legal_address": null,
+    "website": "http://zelenecky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0049",
+    "name": "Ижемский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169460, Респ Коми, с Ижма, ул Хатанзейского, д 59",
+    "legal_address": null,
+    "website": "http://izhemsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0007",
+    "name": "Катаевский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://kataevsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0048",
+    "name": "Койгородский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168170, Респ Коми, с Койгородок, ул Луговая, д 9",
+    "legal_address": null,
+    "website": "http://koigorodoksky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0002",
+    "name": "Краснозатонский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://krasnozatonsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0003",
+    "name": "Куратовский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://kuratovsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0004",
+    "name": "Кутузовский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://kutuzovsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0005",
+    "name": "Лесозаводский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://lesozavodsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0008",
+    "name": "Октябрьский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://oktyabrsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0006",
+    "name": "Пушкинский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://pushkinsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0009",
+    "name": "Тентюковский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://tentyukovsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0018",
+    "name": "Магистральный судебный участок Эжвинского района г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167026, г Сыктывкар, ул Калинина, д 13",
+    "legal_address": null,
+    "website": "http://magistralny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0010",
+    "name": "Первомайский судебный участок г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://pervomaysky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0013",
+    "name": "Пионергорский судебный участок г. Ухты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169300, Респ Коми, г Ухта, ул Юбилейная, д 14",
+    "legal_address": null,
+    "website": "http://pionergorsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0015",
+    "name": "Седьюский судебный участок г. Ухты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169300, Респ Коми, г Ухта, ул Юбилейная, д 14",
+    "legal_address": null,
+    "website": "http://sedyusky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0017",
+    "name": "Слободской судебный участок Эжвинского района г. Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167026, г Сыктывкар, ул Калинина, д 13",
+    "legal_address": null,
+    "website": "http://slobodskoy.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0014",
+    "name": "Тиманский судебный участок г. Ухты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169300, Респ Коми, г Ухта, ул Юбилейная, д 14",
+    "legal_address": null,
+    "website": "http://timansky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0016",
+    "name": "Чибьюский судебный участок г. Ухты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169300, Респ Коми, г Ухта, ул Юбилейная, д 14",
+    "legal_address": null,
+    "website": "http://chibiusky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0011",
+    "name": "Ярегский судебный участок г. Ухты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169300, Респ Коми, г Ухта, ул Юбилейная, д 14",
+    "legal_address": null,
+    "website": "http://yaregsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0025",
+    "name": "Промышленный судебный участок г. Сосногорска Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169501, Респ Коми, г Сосногорск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://promishlenny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0026",
+    "name": "Таежный судебный участок г. Сосногорска Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169501, Респ Коми, г Сосногорск, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://taezhny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0022",
+    "name": "Удорский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169240, Респ Коми, с Кослан, ул Н.Трофимовой, д 15",
+    "legal_address": null,
+    "website": "http://udorsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0034",
+    "name": "Парковый судебный участок г. Воркуты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169906, Респ Коми, г Воркута, ул Парковая, д 42",
+    "legal_address": null,
+    "website": "http://parkovy.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0036",
+    "name": "Привокзальный судебный участок г. Печоры Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169600, Респ Коми, г Печора, ул Социалистическая, д 86А",
+    "legal_address": null,
+    "website": "http://privokzalny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0039",
+    "name": "Речной судебный участок г. Печоры Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169600, Респ Коми, г Печора, ул Социалистическая, д 86А",
+    "legal_address": null,
+    "website": "http://rechnoy.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0030",
+    "name": "Северный судебный участок г. Воркуты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169906, Респ Коми, г Воркута, ул Парковая, д 42",
+    "legal_address": null,
+    "website": "http://severny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0037",
+    "name": "Сосновоборский судебный участок г. Печоры Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169600, Респ Коми, г Печора, ул Социалистическая, д 86А",
+    "legal_address": null,
+    "website": "http://sosnovoborsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0033",
+    "name": "Тундровый судебный участок г. Воркуты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169906, Респ Коми, г Воркута, ул Парковая, д 42",
+    "legal_address": null,
+    "website": "http://tundrovy.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0031",
+    "name": "Шахтерский судебный участок г. Воркуты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169906, Респ Коми, г Воркута, ул Парковая, д 42",
+    "legal_address": null,
+    "website": "http://shahtersky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0038",
+    "name": "Юбилейный судебный участок г. Печоры Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169600, Респ Коми, г Печора, ул Социалистическая, д 86А",
+    "legal_address": null,
+    "website": "http://yubileyny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0045",
+    "name": "Кылтовский судебный участок Княжпогостского района Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169200, Респ Коми, г Емва, ул Дзержинского, д 136А",
+    "legal_address": null,
+    "website": "http://kyltovsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0046",
+    "name": "Прилузский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168130, Респ Коми, с Объячево, ул Интернациональная, д 14",
+    "legal_address": null,
+    "website": "http://priluzsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0040",
+    "name": "Ульяновский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168060, Респ Коми, Усть-Куломский р-н, с Усть-Кулом, ул Советская, д 63В",
+    "legal_address": null,
+    "website": "http://ylianovsky.komi.msudrf.ru/"
+  },
+  {
+    "code": "11MS0041",
+    "name": "Усть-Куломский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168060, Респ Коми, Усть-Куломский р-н, с Усть-Кулом, ул Советская, д 63В",
+    "legal_address": null,
+    "website": "http://ust-kulomsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0058",
+    "name": "Корткеросский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168020, Респ Коми, с Корткерос, ул Советская, д 227",
+    "legal_address": null,
+    "website": "http://kortkerossky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0053",
+    "name": "Пармский судебный участок г. Усинска Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169710, Респ Коми, г Усинск, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://parmsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0052",
+    "name": "Приполярный судебный участок г. Усинска Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169710, Респ Коми, г Усинск, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://pripolyarny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0051",
+    "name": "Сысольский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "168100, Респ Коми, с Визинга, ул Первомайская, д 17",
+    "legal_address": null,
+    "website": "http://sysolsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0050",
+    "name": "Троицко-Печорский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169420, Респ Коми, пгт Троицко-Печорск, ул Портовая, д 29",
+    "legal_address": null,
+    "website": "http://troitsko-pechosky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0059",
+    "name": "Усть-Цилемский судебный участок Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169480, Респ Коми, с Усть-Цильма, ул Советская, д 139",
+    "legal_address": null,
+    "website": "http://ust-cilemsky.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0057",
+    "name": "Центральный судебный участок г. Инты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169840, Респ Коми, г Инта, ул Полярная, д 13",
+    "legal_address": null,
+    "website": "http://centralny.komi.msudrf.ru"
+  },
+  {
+    "code": "11MS0061",
+    "name": "Морозовский судебный участок г.Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://morozovskij.komi.msudrf.ru/"
+  },
+  {
+    "code": "11MS0062",
+    "name": "Петрозаводский судебный участок г.Сыктывкара Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "167000, г Сыктывкар, ул Кирова, д 45",
+    "legal_address": null,
+    "website": "http://petrozavodskoj.komi.msudrf.ru/"
+  },
+  {
+    "code": "11MS0064",
+    "name": "Университетский судебный участок г. Ухты Республики Коми",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "169300, Респ Коми, г Ухта, ул Юбилейная, д 14",
+    "legal_address": null,
+    "website": "http://universitetskij.komi.msudrf.ru/"
+  }
+]

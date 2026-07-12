@@ -1,0 +1,1902 @@
+[
+  {
+    "code": "16MS0001",
+    "name": "Судебный участок № 1 по Авиастроительному судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420127, г Казань, ул Лукина, д 2/15",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/45/1/"
+  },
+  {
+    "code": "16MS0079",
+    "name": "Судебный участок № 1 по Азнакаевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423330, Респ Татарстан, г Азнакаево, ул Багаутдинова, д 24",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/34/1/"
+  },
+  {
+    "code": "16MS0082",
+    "name": "Судебный участок № 1 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/1/"
+  },
+  {
+    "code": "16MS0091",
+    "name": "Судебный участок № 1 по Бавлинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423930, Респ Татарстан, г Бавлы, ул Х.Такташа, д 28",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/36/1/"
+  },
+  {
+    "code": "16MS0093",
+    "name": "Судебный участок № 1 по Бугульминскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423230, Респ Татарстан, г Бугульма, ул Владимира Ленина, д 18А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/37/1/"
+  },
+  {
+    "code": "16MS0098",
+    "name": "Судебный участок № 1 по Буинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422430, Респ Татарстан, г Буинск, ул Камиля Зыятдинова, д 4/2",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/10/1/"
+  },
+  {
+    "code": "16MS0006",
+    "name": "Судебный участок № 1 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420049, г Казань, ул Агрономическая, д 76",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/1/"
+  },
+  {
+    "code": "16MS0013",
+    "name": "Судебный участок № 1 по Кировскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420032, г Казань, ул Алафузова, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/47/1/"
+  },
+  {
+    "code": "16MS0018",
+    "name": "Судебный участок № 1 по Московскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420091, г Казань, ул Химиков, д 49",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/48/1/"
+  },
+  {
+    "code": "16MS0026",
+    "name": "Судебный участок № 1 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420044, г Казань, ул Октябрьская, д 1",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/1/"
+  },
+  {
+    "code": "16MS0036",
+    "name": "Судебный участок № 1 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420054, г Казань, ул Авангардная, д 143",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/1/"
+  },
+  {
+    "code": "16MS0046",
+    "name": "Судебный участок № 1 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420088, г Казань, ул Ново-Азинская, д 43",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/1/"
+  },
+  {
+    "code": "16MS0057",
+    "name": "Судебный участок № 1 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/1/"
+  },
+  {
+    "code": "16MS0002",
+    "name": "Судебный участок № 2 по Авиастроительному судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420127, г Казань, ул Лукина, д 2/15",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/45/2/"
+  },
+  {
+    "code": "16MS0080",
+    "name": "Судебный участок № 2 по Азнакаевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423330, Респ Татарстан, г Азнакаево, ул Багаутдинова, д 24А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/34/2/"
+  },
+  {
+    "code": "16MS0083",
+    "name": "Судебный участок № 2 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/2/"
+  },
+  {
+    "code": "16MS0092",
+    "name": "Судебный участок № 2 по Бавлинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423930, Респ Татарстан, г Бавлы, ул Х.Такташа, д 28",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/36/2/"
+  },
+  {
+    "code": "16MS0094",
+    "name": "Судебный участок № 2 по Бугульминскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423230, Респ Татарстан, г Бугульма, ул Владимира Ленина, д 18А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/37/2/"
+  },
+  {
+    "code": "16MS0099",
+    "name": "Судебный участок № 2 по Буинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422430, Респ Татарстан, г Буинск, ул Камиля Зыятдинова, д 4/2",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/10/2/"
+  },
+  {
+    "code": "16MS0007",
+    "name": "Судебный участок № 2 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420111, г Казань, ул Коротченко, д 2",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/2/"
+  },
+  {
+    "code": "16MS0003",
+    "name": "Судебный участок № 3 по Авиастроительному судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420127, г Казань, ул Лукина, д 2/15",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/45/3/"
+  },
+  {
+    "code": "16MS0008",
+    "name": "Судебный участок № 3 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420111, г Казань, ул Коротченко, д 2",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/3/"
+  },
+  {
+    "code": "16MS0004",
+    "name": "Судебный участок № 4 по Авиастроительному судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420127, г Казань, ул Лукина, д 2/15",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/45/4/"
+  },
+  {
+    "code": "16MS0009",
+    "name": "Судебный участок № 4 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420111, г Казань, ул Коротченко, д 2",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/4/"
+  },
+  {
+    "code": "16MS0005",
+    "name": "Судебный участок № 5 по Авиастроительному судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420127, г Казань, ул Лукина, д 2/15",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/45/5/"
+  },
+  {
+    "code": "16MS0014",
+    "name": "Судебный участок № 2 по Кировскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420032, г Казань, ул Алафузова, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/47/2/"
+  },
+  {
+    "code": "16MS0019",
+    "name": "Судебный участок № 2 по Московскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420034, г Казань, ул Декабристов, д 131",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/48/2/"
+  },
+  {
+    "code": "16MS0015",
+    "name": "Судебный участок № 3 по Кировскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420032, г Казань, ул Алафузова, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/47/3/"
+  },
+  {
+    "code": "16MS0016",
+    "name": "Судебный участок № 4 по Кировскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420032, г Казань, ул Алафузова, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/47/4/"
+  },
+  {
+    "code": "16MS0010",
+    "name": "Судебный участок № 5 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420049, г Казань, ул Агрономическая, д 76",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/5"
+  },
+  {
+    "code": "16MS0017",
+    "name": "Судебный участок № 5 по Кировскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420032, г Казань, ул Алафузова, д 4",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/47/5/"
+  },
+  {
+    "code": "16MS0011",
+    "name": "Судебный участок № 6 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420049, г Казань, ул Агрономическая, д 76",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/6/"
+  },
+  {
+    "code": "16MS0012",
+    "name": "Судебный участок № 7 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420111, г Казань, ул Коротченко, д 2",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/7/"
+  },
+  {
+    "code": "16MS0027",
+    "name": "Судебный участок № 2 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420136, г Казань, ул Маршала Чуйкова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/2/"
+  },
+  {
+    "code": "16MS0020",
+    "name": "Судебный участок № 3 по Московскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420034, г Казань, ул Декабристов, д 131",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/48/3/"
+  },
+  {
+    "code": "16MS0028",
+    "name": "Судебный участок № 3 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420133, г Казань, ул Адоратского, д 12Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/3/"
+  },
+  {
+    "code": "16MS0021",
+    "name": "Судебный участок № 4 по Московскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420091, г Казань, ул Химиков, д 49",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/48/4/"
+  },
+  {
+    "code": "16MS0029",
+    "name": "Судебный участок № 4 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420133, г Казань, ул Адоратского, д 12Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/4/"
+  },
+  {
+    "code": "16MS0022",
+    "name": "Судебный участок № 5 по Московскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420091, г Казань, ул Химиков, д 49",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/48/5/"
+  },
+  {
+    "code": "16MS0023",
+    "name": "Судебный участок № 6 по Московскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420091, г Казань, ул Химиков, д 49",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/48/6/"
+  },
+  {
+    "code": "16MS0024",
+    "name": "Судебный участок № 7 по Московскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420091, г Казань, ул Химиков, д 49",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/48/7/"
+  },
+  {
+    "code": "16MS0037",
+    "name": "Судебный участок № 2 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420054, г Казань, ул Авангардная, д 143",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/2/"
+  },
+  {
+    "code": "16MS0038",
+    "name": "Судебный участок № 3 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420054, г Казань, ул Авангардная, д 143",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/3/"
+  },
+  {
+    "code": "16MS0039",
+    "name": "Судебный участок № 4 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420054, г Казань, ул Авангардная, д 143",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/4/"
+  },
+  {
+    "code": "16MS0030",
+    "name": "Судебный участок № 5 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420044, г Казань, пр-кт Ибрагимова, д 37",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/5/"
+  },
+  {
+    "code": "16MS0031",
+    "name": "Судебный участок № 6 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420136, г Казань, ул Маршала Чуйкова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/6/"
+  },
+  {
+    "code": "16MS0032",
+    "name": "Судебный участок № 7 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420132, г Казань, ул Маршала Чуйкова, д 53",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/7/"
+  },
+  {
+    "code": "16MS0033",
+    "name": "Судебный участок № 8 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420133, г Казань, ул Адоратского, д 12Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/8/"
+  },
+  {
+    "code": "16MS0034",
+    "name": "Судебный участок № 9 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420133, г Казань, ул Адоратского, д 12Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/9/"
+  },
+  {
+    "code": "16MS0035",
+    "name": "Судебный участок № 10 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420132, г Казань, ул Маршала Чуйкова, д 53",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/10/"
+  },
+  {
+    "code": "16MS0047",
+    "name": "Судебный участок № 2 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, д 59А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/2/"
+  },
+  {
+    "code": "16MS0048",
+    "name": "Судебный участок № 3 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420075, г Казань, ул Главная, д 68",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/3/"
+  },
+  {
+    "code": "16MS0049",
+    "name": "Судебный участок № 4 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420075, г Казань, ул Главная, д 68",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/4/"
+  },
+  {
+    "code": "16MS0040",
+    "name": "Судебный участок № 5 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420054, г Казань, ул Авангардная, д 1, кв 43",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/5/"
+  },
+  {
+    "code": "16MS0041",
+    "name": "Судебный участок № 6 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420054, г Казань, ул Авангардная, д 143",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/6/"
+  },
+  {
+    "code": "16MS0042",
+    "name": "Судебный участок № 7 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420141, г Казань, ул Комиссара Габишева, д 35",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/7/"
+  },
+  {
+    "code": "16MS0043",
+    "name": "Судебный участок № 8 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420141, г Казань, ул Комиссара Габишева, д 35",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/8/"
+  },
+  {
+    "code": "16MS0044",
+    "name": "Судебный участок № 9 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420141, г Казань, ул Комиссара Габишева, д 35",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/9/"
+  },
+  {
+    "code": "16MS0045",
+    "name": "Судебный участок № 10 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420141, г Казань, ул Комиссара Габишева, д 35",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/10/"
+  },
+  {
+    "code": "16MS0058",
+    "name": "Судебный участок № 2 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/2/"
+  },
+  {
+    "code": "16MS0059",
+    "name": "Судебный участок № 3 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423822, Респ Татарстан, г Набережные Челны, пр-кт Набережночелнинский, д 31",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/3/"
+  },
+  {
+    "code": "16MS0050",
+    "name": "Судебный участок № 5 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, д 59А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/5/"
+  },
+  {
+    "code": "16MS0051",
+    "name": "Судебный участок № 6 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/6/"
+  },
+  {
+    "code": "16MS0052",
+    "name": "Судебный участок № 7 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, д 59А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/7/"
+  },
+  {
+    "code": "16MS0053",
+    "name": "Судебный участок № 8 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420087, г Казань, ул Латышских Стрелков, д 25А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/8/"
+  },
+  {
+    "code": "16MS0054",
+    "name": "Судебный участок № 9 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420087, г Казань, ул Латышских Стрелков, д 25А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/9/"
+  },
+  {
+    "code": "16MS0055",
+    "name": "Судебный участок № 10 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, зд 59",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/10/"
+  },
+  {
+    "code": "16MS0056",
+    "name": "Судебный участок № 11 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, д 59А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/11/"
+  },
+  {
+    "code": "16MS0060",
+    "name": "Судебный участок № 4 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/4/"
+  },
+  {
+    "code": "16MS0061",
+    "name": "Судебный участок № 5 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/5/"
+  },
+  {
+    "code": "16MS0062",
+    "name": "Судебный участок № 6 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423822, Респ Татарстан, г Набережные Челны, пр-кт Набережночелнинский, д 31",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/6/"
+  },
+  {
+    "code": "16MS0063",
+    "name": "Судебный участок № 7 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/7/"
+  },
+  {
+    "code": "16MS0064",
+    "name": "Судебный участок № 8 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/8/"
+  },
+  {
+    "code": "16MS0065",
+    "name": "Судебный участок № 9 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/9/"
+  },
+  {
+    "code": "16MS0066",
+    "name": "Судебный участок № 10 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/10/"
+  },
+  {
+    "code": "16MS0067",
+    "name": "Судебный участок № 11 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/11/"
+  },
+  {
+    "code": "16MS0068",
+    "name": "Судебный участок № 12 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/12/"
+  },
+  {
+    "code": "16MS0069",
+    "name": "Судебный участок № 13 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/13/"
+  },
+  {
+    "code": "16MS0070",
+    "name": "Судебный участок № 14 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/14/"
+  },
+  {
+    "code": "16MS0071",
+    "name": "Судебный участок № 15 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/15/"
+  },
+  {
+    "code": "16MS0072",
+    "name": "Судебный участок № 16 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/16/"
+  },
+  {
+    "code": "16MS0073",
+    "name": "Судебный участок № 17 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/17/"
+  },
+  {
+    "code": "16MS0074",
+    "name": "Судебный участок № 18 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423832, Респ Татарстан, г Набережные Челны, б-р Касимова, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/18/"
+  },
+  {
+    "code": "16MS0075",
+    "name": "Судебный участок № 19 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423832, Респ Татарстан, г Набережные Челны, б-р Касимова, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/19/"
+  },
+  {
+    "code": "16MS0076",
+    "name": "Судебный участок № 20 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/20/"
+  },
+  {
+    "code": "16MS0077",
+    "name": "Судебный участок № 21 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/21/"
+  },
+  {
+    "code": "16MS0078",
+    "name": "Судебный участок № 22 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/22/"
+  },
+  {
+    "code": "16MS0081",
+    "name": "Судебный участок № 3 по Азнакаевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423330, Респ Татарстан, г Азнакаево, ул Багаутдинова, д 24А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/34/3/"
+  },
+  {
+    "code": "16MS0084",
+    "name": "Судебный участок № 3 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/3/"
+  },
+  {
+    "code": "16MS0085",
+    "name": "Судебный участок № 4 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/4/"
+  },
+  {
+    "code": "16MS0086",
+    "name": "Судебный участок № 5 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/5/"
+  },
+  {
+    "code": "16MS0087",
+    "name": "Судебный участок № 6 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/6/"
+  },
+  {
+    "code": "16MS0088",
+    "name": "Судебный участок № 7 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/7/"
+  },
+  {
+    "code": "16MS0089",
+    "name": "Судебный участок № 8 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/8/"
+  },
+  {
+    "code": "16MS0095",
+    "name": "Судебный участок № 3 по Бугульминскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423230, Респ Татарстан, г Бугульма, ул Владимира Ленина, д 18А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/37/3/"
+  },
+  {
+    "code": "16MS0096",
+    "name": "Судебный участок № 4 по Бугульминскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423230, Респ Татарстан, г Бугульма, ул Владимира Ленина, д 18А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/37/4"
+  },
+  {
+    "code": "16MS0097",
+    "name": "Судебный участок № 5 по Бугульминскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423230, Респ Татарстан, г Бугульма, ул Владимира Ленина, д 18А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/37/5/"
+  },
+  {
+    "code": "16MS0090",
+    "name": "Судебный участок № 9 по Альметьевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423458, Респ Татарстан, г Альметьевск, ул Ризы Фахретдина, д 56А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/35/9/"
+  },
+  {
+    "code": "16MS0135",
+    "name": "Судебный участок № 1 по Агрызскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422230, Респ Татарстан, г Агрыз, ул К.Маркса, д 24",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/1/1/"
+  },
+  {
+    "code": "16MS0137",
+    "name": "Судебный участок № 1 по Аксубаевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423060, Респ Татарстан, пгт Аксубаево, ул Ленина, д 6",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/2/1/"
+  },
+  {
+    "code": "16MS0139",
+    "name": "Судебный участок № 1 по Актанышскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423740, Респ Татарстан, с Актаныш, пр-кт Ленина, д 46",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/3/1/"
+  },
+  {
+    "code": "16MS0141",
+    "name": "Судебный участок № 1 по Алексеевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422900, Респ Татарстан, пгт Алексеевское, пл Соборная, зд 2",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/4/1/"
+  },
+  {
+    "code": "16MS0142",
+    "name": "Судебный участок № 1 по Алькеевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422870, Респ Татарстан, с Базарные Матаки, ул Ленина, зд 4Г",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/5/1/"
+  },
+  {
+    "code": "16MS0143",
+    "name": "Судебный участок № 1 по Апастовскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422350, Респ Татарстан, пгт Апастово, ул Гагарина, зд 6",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/6/1/"
+  },
+  {
+    "code": "16MS0144",
+    "name": "Судебный участок № 1 по Арскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422000, Респ Татарстан, г Арск, ул Большая, д 70",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/7/1/"
+  },
+  {
+    "code": "16MS0146",
+    "name": "Судебный участок № 1 по Атнинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422750, Респ Татарстан, с Большая Атня, ул Б.Зиганшина, д 10",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/8/1/"
+  },
+  {
+    "code": "16MS0147",
+    "name": "Судебный участок № 1 по Балтасинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422250, Респ Татарстан, пгт Балтаси, ул В.Булатова, зд 24/4",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/9/1/"
+  },
+  {
+    "code": "16MS0149",
+    "name": "Судебный участок № 1 по Верхнеуслонскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422570, Респ Татарстан, с Верхний Услон, ул Советская, д 30",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/11/1/"
+  },
+  {
+    "code": "16MS0150",
+    "name": "Судебный участок № 1 по Высокогорскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422700, Республика Татарстан, пжд. ст. Высокая Гора, ул. Советская, д. 13",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/12/1/"
+  },
+  {
+    "code": "16MS0152",
+    "name": "Судебный участок № 1 по Дрожжановскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422470, Респ Татарстан, с Старое Дрожжаное, ул Техническая, зд 3",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/13/1/"
+  },
+  {
+    "code": "16MS0100",
+    "name": "Судебный участок № 1 по Елабужскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423603, Респ Татарстан, г Елабуга, ул Строителей, д 6Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/38/1/"
+  },
+  {
+    "code": "16MS0104",
+    "name": "Судебный участок № 1 по Заинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423523, Респ Татарстан, г Заинск, ул Автозаводская, д 1А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/39/1/"
+  },
+  {
+    "code": "16MS0107",
+    "name": "Судебный участок № 1 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422550, Респ Татарстан, г Зеленодольск, ул Гагарина, д 8",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/1/"
+  },
+  {
+    "code": "16MS0153",
+    "name": "Судебный участок № 1 по Кайбицкому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422330, Респ Татарстан, с Большие Кайбицы, ул Солнечный бульвар, д 3",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/14/1/"
+  },
+  {
+    "code": "16MS0154",
+    "name": "Судебный участок № 1 по Камско-Устьинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422820, Респ Татарстан, пгт Камское Устье, ул Гагарина, д 80",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/15/1/"
+  },
+  {
+    "code": "16MS0155",
+    "name": "Судебный участок № 1 по Кукморскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422110, Респ Татарстан, г Кукмор, ул Вахитова, д 13",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/16/1/"
+  },
+  {
+    "code": "16MS0157",
+    "name": "Судебный участок № 1 по Лаишевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422610, Респ Татарстан, г Лаишево, ул Ленина, д 56",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/17/1/"
+  },
+  {
+    "code": "16MS0115",
+    "name": "Судебный участок № 1 по Лениногорскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423251, Респ Татарстан, г Лениногорск, ул Агадуллина, д 12",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/41/1/"
+  },
+  {
+    "code": "16MS0101",
+    "name": "Судебный участок № 2 по Елабужскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423602, Респ Татарстан, г Елабуга, ул Молодежная, д 13А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/38/2/"
+  },
+  {
+    "code": "16MS0105",
+    "name": "Судебный участок № 2 по Заинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423523, Респ Татарстан, г Заинск, ул Автозаводская, д 1А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/39/2/"
+  },
+  {
+    "code": "16MS0108",
+    "name": "Судебный участок № 2 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422545, Респ Татарстан, г Зеленодольск, ул Комарова, д 43",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/2/"
+  },
+  {
+    "code": "16MS0102",
+    "name": "Судебный участок № 3 по Елабужскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423603, Респ Татарстан, г Елабуга, ул Строителей, д 6Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/38/3/"
+  },
+  {
+    "code": "16MS0106",
+    "name": "Судебный участок № 3 по Заинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423523, Респ Татарстан, г Заинск, ул Автозаводская, д 1А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/39/3/"
+  },
+  {
+    "code": "16MS0109",
+    "name": "Судебный участок № 3 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422550, Респ Татарстан, г Зеленодольск, ул Гагарина, д 8",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/3/"
+  },
+  {
+    "code": "16MS0103",
+    "name": "Судебный участок № 4 по Елабужскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423602, Респ Татарстан, г Елабуга, ул Молодежная, д 13А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/38/4/"
+  },
+  {
+    "code": "16MS0119",
+    "name": "Судебный участок № 1 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423564, Республика Татарстан, Нижнекамский район, пгт. Камские поляны, здание милиции, 4 этаж",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/1/"
+  },
+  {
+    "code": "16MS0116",
+    "name": "Судебный участок № 2 по Лениногорскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423251, Респ Татарстан, г Лениногорск, ул Агадуллина, д 12",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/41/2/"
+  },
+  {
+    "code": "16MS0117",
+    "name": "Судебный участок № 3 по Лениногорскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423251, Респ Татарстан, г Лениногорск, ул Агадуллина, д 12",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/41/3/"
+  },
+  {
+    "code": "16MS0110",
+    "name": "Судебный участок № 4 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422545, Респ Татарстан, г Зеленодольск, ул Комарова, д 43",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/4/"
+  },
+  {
+    "code": "16MS0118",
+    "name": "Судебный участок № 4 по Лениногорскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423251, Респ Татарстан, г Лениногорск, ул Агадуллина, д 12",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/41/4/"
+  },
+  {
+    "code": "16MS0111",
+    "name": "Судебный участок № 5 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422550, Респ Татарстан, г Зеленодольск, ул Гагарина, д 8",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/5/"
+  },
+  {
+    "code": "16MS0112",
+    "name": "Судебный участок № 6 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422550, Респ Татарстан, г Зеленодольск, ул Гагарина, д 8",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/6/"
+  },
+  {
+    "code": "16MS0113",
+    "name": "Судебный участок № 7 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422545, Респ Татарстан, г Зеленодольск, ул Комарова, д 43",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/7/"
+  },
+  {
+    "code": "16MS0114",
+    "name": "Судебный участок № 8 по Зеленодольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422500, Респ Татарстан, Зеленодольский р-н, пгт Нижние Вязовые, ул Первомайская, зд 70",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/40/8/"
+  },
+  {
+    "code": "16MS0120",
+    "name": "Судебный участок № 2 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, д 7, офис 108",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/2/"
+  },
+  {
+    "code": "16MS0121",
+    "name": "Судебный участок № 3 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/3/"
+  },
+  {
+    "code": "16MS0122",
+    "name": "Судебный участок № 4 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/4/"
+  },
+  {
+    "code": "16MS0123",
+    "name": "Судебный участок № 5 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/5/"
+  },
+  {
+    "code": "16MS0124",
+    "name": "Судебный участок № 6 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/6/"
+  },
+  {
+    "code": "16MS0125",
+    "name": "Судебный участок № 7 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/7/"
+  },
+  {
+    "code": "16MS0126",
+    "name": "Судебный участок № 8 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/8/"
+  },
+  {
+    "code": "16MS0127",
+    "name": "Судебный участок № 9 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/9/"
+  },
+  {
+    "code": "16MS0128",
+    "name": "Судебный участок № 10 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/10/"
+  },
+  {
+    "code": "16MS0129",
+    "name": "Судебный участок № 11 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, д 7, офис 312",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/11/"
+  },
+  {
+    "code": "16MS0131",
+    "name": "Судебный участок № 1 по Чистопольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422980, Респ Татарстан, г Чистополь, ул Ленина, д 2А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/44/1/"
+  },
+  {
+    "code": "16MS0136",
+    "name": "Судебный участок № 2 по Агрызскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422230, Респ Татарстан, г Агрыз, ул К.Маркса, д 24",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/1/2/"
+  },
+  {
+    "code": "16MS0138",
+    "name": "Судебный участок № 2 по Аксубаевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423060, Респ Татарстан, пгт Аксубаево, ул Ленина, д 6",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/2/2/"
+  },
+  {
+    "code": "16MS0132",
+    "name": "Судебный участок № 2 по Чистопольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422980, Респ Татарстан, г Чистополь, ул Ленина, д 2А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/44/2/"
+  },
+  {
+    "code": "16MS0133",
+    "name": "Судебный участок № 3 по Чистопольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422980, Респ Татарстан, г Чистополь, ул Ленина, д 2А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/44/3/"
+  },
+  {
+    "code": "16MS0134",
+    "name": "Судебный участок № 4 по Чистопольскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422980, Респ Татарстан, г Чистополь, ул Ленина, д 2А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/44/4/"
+  },
+  {
+    "code": "16MS0130",
+    "name": "Судебный участок № 12 по Нижнекамскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423582, Респ Татарстан, г Нижнекамск, ул Кайманова, зд 7",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/43/12/"
+  },
+  {
+    "code": "16MS0140",
+    "name": "Судебный участок № 2 по Актанышскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423740, Респ Татарстан, с Актаныш, пр-кт Ленина, д 46",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/3/2/"
+  },
+  {
+    "code": "16MS0145",
+    "name": "Судебный участок № 2 по Арскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422000, Респ Татарстан, г Арск, ул Большая, д 70",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/7/2/"
+  },
+  {
+    "code": "16MS0148",
+    "name": "Судебный участок № 2 по Балтасинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422250, Респ Татарстан, пгт Балтаси, ул В.Булатова, зд 24/4",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/9/2/"
+  },
+  {
+    "code": "16MS0159",
+    "name": "Судебный участок № 1 по Мамадышскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422192, Респ Татарстан, г Мамадыш, ул Советская, зд 2Г",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/18/1/"
+  },
+  {
+    "code": "16MS0151",
+    "name": "Судебный участок № 2 по Высокогорскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422720, Респ Татарстан, Высокогорский р-н, с Дубъязы, ул Ленина, д 28",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/12/2/"
+  },
+  {
+    "code": "16MS0156",
+    "name": "Судебный участок № 2 по Кукморскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422110, Респ Татарстан, г Кукмор, ул Вахитова, д 13",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/16/2/"
+  },
+  {
+    "code": "16MS0158",
+    "name": "Судебный участок № 2 по Лаишевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422610, Респ Татарстан, г Лаишево, ул Ленина, д 56",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/17/2/"
+  },
+  {
+    "code": "16MS0161",
+    "name": "Судебный участок № 1 по Менделеевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423650, Респ Татарстан, г Менделеевск, ул Гагарина, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/19/1/"
+  },
+  {
+    "code": "16MS0163",
+    "name": "Судебный участок № 1 по Мензелинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423702, Респ Татарстан, г Мензелинск, ул Изыскателей, зд 1/39",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/20/1/"
+  },
+  {
+    "code": "16MS0165",
+    "name": "Судебный участок № 1 по Муслюмовскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423970, Респ Татарстан, с Муслюмово, ул Пушкина, д 26",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/21/1/"
+  },
+  {
+    "code": "16MS0166",
+    "name": "Судебный участок № 1 по Новошешминскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423190, Респ Татарстан, с Новошешминск, ул Советская, д 74",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/22/1/"
+  },
+  {
+    "code": "16MS0167",
+    "name": "Судебный участок № 1 по Нурлатскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423040, Респ Татарстан, г Нурлат, ул К.Маркса, д 39",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/23/1/"
+  },
+  {
+    "code": "16MS0169",
+    "name": "Судебный участок № 1 по Пестречинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422770, Респ Татарстан, с Пестрецы, ул Советская, д 16А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/24/1/"
+  },
+  {
+    "code": "16MS0160",
+    "name": "Судебный участок № 2 по Мамадышскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422192, Респ Татарстан, г Мамадыш, ул Советская, зд 2Г",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/18/2/"
+  },
+  {
+    "code": "16MS0162",
+    "name": "Судебный участок № 2 по Менделеевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423650, Респ Татарстан, г Менделеевск, ул Гагарина, д 5",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/19/2/"
+  },
+  {
+    "code": "16MS0164",
+    "name": "Судебный участок № 2 по Мензелинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423702, Респ Татарстан, г Мензелинск, ул Изыскателей, зд 1/39",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/20/1/"
+  },
+  {
+    "code": "16MS0168",
+    "name": "Судебный участок № 2 по Нурлатскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423040, Респ Татарстан, г Нурлат, ул К.Маркса, д 39",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/23/2/"
+  },
+  {
+    "code": "16MS0171",
+    "name": "Судебный участок № 1 по Рыбно-Слободскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422650, Респ Татарстан, пгт Рыбная Слобода, ул Октябрьская, зд 31",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/25/1/"
+  },
+  {
+    "code": "16MS0172",
+    "name": "Судебный участок № 1 по Сабинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422060, Респ Татарстан, пгт Богатые Сабы, ул Тукая, зд 12Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/26/1/"
+  },
+  {
+    "code": "16MS0174",
+    "name": "Судебный участок № 1 по Сармановскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423350, Респ Татарстан, с Сарманово, ул Ленина, д 30",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/27/1/"
+  },
+  {
+    "code": "16MS0176",
+    "name": "Судебный участок № 1 по Спасскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422840, Респ Татарстан, г Болгар, ул Горького, зд 16А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/28/1/"
+  },
+  {
+    "code": "16MS0177",
+    "name": "Судебный участок № 1 по Тетюшскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422370, Респ Татарстан, г Тетюши, ул Камая, д 17",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/29/1/"
+  },
+  {
+    "code": "16MS0178",
+    "name": "Судебный участок № 1 по Тукаевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423800, Респ Татарстан, г Набережные Челны, наб им Габдуллы Тукая, зд 31А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/30/1/"
+  },
+  {
+    "code": "16MS0170",
+    "name": "Судебный участок № 2 по Пестречинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422770, Респ Татарстан, с Пестрецы, ул Советская, д 16А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/24/2/"
+  },
+  {
+    "code": "16MS0173",
+    "name": "Судебный участок № 2 по Сабинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422060, Республика Татарстан, пгт. Богатые Сабы, ул. Г. Тукая, д. 12 Б",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/26/2/"
+  },
+  {
+    "code": "16MS0175",
+    "name": "Судебный участок № 2 по Сармановскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423350, Респ Татарстан, с Сарманово, ул Ленина, д 30",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/27/2/"
+  },
+  {
+    "code": "16MS0179",
+    "name": "Судебный участок № 2 по Тукаевскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423800, Респ Татарстан, г Набережные Челны, наб им Габдуллы Тукая, зд 31А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/30/2/"
+  },
+  {
+    "code": "16MS0180",
+    "name": "Судебный участок № 1 по Тюлячинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "422080, Респ Татарстан, с Тюлячи, ул Советская, зд 40",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/31/1/"
+  },
+  {
+    "code": "16MS0181",
+    "name": "Судебный участок № 1 по Черемшанскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423100, Респ Татарстан, с Черемшан, ул М.Титова, д 27",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/32/1/"
+  },
+  {
+    "code": "16MS0182",
+    "name": "Судебный участок № 1 по Ютазинскому судебному району Республики Татарстан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423950, Респ Татарстан, пгт Уруссу, ул Ленина, д 1",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/33/1/"
+  },
+  {
+    "code": "16MS0183",
+    "name": "Судебный участок № 8 по Вахитовскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420049, г Казань, ул Агрономическая, д 76",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/46/8/"
+  },
+  {
+    "code": "16MS0184",
+    "name": "Судебный участок № 11 по Ново-Савиновскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420132, г Казань, ул Адоратского, д 29А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/49/11/"
+  },
+  {
+    "code": "16MS0185",
+    "name": "Судебный участок № 11 по Приволжскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420141, г Казань, ул Комиссара Габишева, д 35",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/50/11/"
+  },
+  {
+    "code": "16MS0186",
+    "name": "Судебный участок № 12 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, д 59А",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/12/"
+  },
+  {
+    "code": "16MS0189",
+    "name": "Судебный участок № 13 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420088, г Казань, ул Ново-Азинская, д 43",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/13/"
+  },
+  {
+    "code": "16MS0187",
+    "name": "Судебный участок № 23 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/23/"
+  },
+  {
+    "code": "16MS0188",
+    "name": "Судебный участок № 24 по судебному району г. Набережные Челны",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "423806, Респ Татарстан, г Набережные Челны, ул им Комарова, д 20",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/42/24/"
+  },
+  {
+    "code": "16MS0191",
+    "name": "Судебный участок № 6 по Кировскому судебному району города Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420032, г Казань, ул Алафузова, д 4",
+    "legal_address": null,
+    "website": "https://mirsud.tatarstan.ru/191"
+  },
+  {
+    "code": "16MS0190",
+    "name": "Судебный участок № 14 по Советскому судебному району г. Казани",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "420061, г Казань, ул Космонавтов, д 11",
+    "legal_address": null,
+    "website": "http://mirsud.tatar.ru/courtsinaction/51/14/"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "code": "48RS0010",
+    "name": "Грязинский городской суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399058, Липецкая обл, г Грязи, ул Красная Площадь, д 36",
+    "legal_address": null,
+    "website": "http://grjazsud.lpk.sudrf.ru/"
+  },
+  {
+    "code": "48RS0009",
+    "name": "Данковский городской суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399850, Липецкая обл, г Данков, ул Семеновского, д 12",
+    "legal_address": null,
+    "website": "http://dankovsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0008",
+    "name": "Добринский районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399430, Липецкая обл, п Добринка, ул Октябрьская, д 29",
+    "legal_address": null,
+    "website": "http://dobrinsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0021",
+    "name": "Елецкий городской суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399770, Липецкая обл, г Елец, ул Коммунаров, зд 38А",
+    "legal_address": null,
+    "website": "http://eletsgorsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0022",
+    "name": "Елецкий районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399770, Липецкая обл, г Елец, ул 9 Декабря, д 52",
+    "legal_address": null,
+    "website": "http://eletsraisud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0023",
+    "name": "Задонский районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399200, Липецкая обл, г Задонск, ул Советская, д 51",
+    "legal_address": null,
+    "website": "http://zadonsksud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0015",
+    "name": "Лебедянский районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399610, Липецкая обл, г Лебедянь, ул Победы, д 7А",
+    "legal_address": null,
+    "website": "http://lebedsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0004",
+    "name": "Левобережный районный суд г. Липецка",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "398024, г Липецк, ул Механизаторов, д 15",
+    "legal_address": null,
+    "website": "http://levsud.lpk.sudrf.ru/"
+  },
+  {
+    "code": "48RS0005",
+    "name": "Липецкий районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "398037, г Липецк, проезд Боевой, д 28А",
+    "legal_address": null,
+    "website": "http://lipraisud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0002",
+    "name": "Октябрьский районный суд г. Липецка",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "398032, г Липецк, ул Космонавтов, д 54",
+    "legal_address": null,
+    "website": "http://octsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0003",
+    "name": "Правобережный районный суд г. Липецка",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "398050, г Липецк, ул Плеханова, д 72",
+    "legal_address": null,
+    "website": "http://pravsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0001",
+    "name": "Советский районный суд г. Липецка",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "398001, г Липецк, ул Крайняя, стр 6",
+    "legal_address": null,
+    "website": "http://sovetsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0016",
+    "name": "Становлянский районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399710, Липецкая обл, с Становое, ул Советская, д 32",
+    "legal_address": null,
+    "website": "http://stanovlsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0017",
+    "name": "Тербунский районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399540, Липецкая обл, с Тербуны, ул Ленина, д 75",
+    "legal_address": null,
+    "website": "http://terbunsud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0018",
+    "name": "Усманский районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399370, Липецкая обл, г Усмань, ул Чернышевского, д 125А",
+    "legal_address": null,
+    "website": "http://usmansud.lpk.sudrf.ru"
+  },
+  {
+    "code": "48RS0012",
+    "name": "Чаплыгинский районный суд Липецкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "399900, Липецкая обл, г Чаплыгин, ул Советская, д 66",
+    "legal_address": null,
+    "website": "http://chapligsud.lpk.sudrf.ru"
+  }
+]

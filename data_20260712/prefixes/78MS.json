@@ -1,0 +1,2082 @@
+[
+  {
+    "code": "78MS0001",
+    "name": "Судебный участок № 1 Октябрьского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "190068, г Санкт-Петербург, ул Садовая, д 55-57 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/1"
+  },
+  {
+    "code": "78MS0002",
+    "name": "Судебный участок № 2 Октябрьского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "190068, г Санкт-Петербург, ул Садовая, д 55-57 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/2"
+  },
+  {
+    "code": "78MS0003",
+    "name": "Судебный участок № 3 Октябрьского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "190068, г Санкт-Петербург, ул Садовая, д 55-57 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/3"
+  },
+  {
+    "code": "78MS0004",
+    "name": "Судебный участок № 4 Октябрьского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "190068, г Санкт-Петербург, ул Садовая, д 55-57 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/4"
+  },
+  {
+    "code": "78MS0005",
+    "name": "Судебный участок № 5 Ленинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198095, Санкт-Петербург, наб. Обводного канала д.132, литера «Е»",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/5"
+  },
+  {
+    "code": "78MS0006",
+    "name": "Судебный участок № 6 Ленинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198095, Санкт-Петербург, наб. Обводного канала д.132, литера «Е»",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/6"
+  },
+  {
+    "code": "78MS0008",
+    "name": "Судебный участок № 8 Ленинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198095, Санкт-Петербург, наб. Обводного канала д.132, литера «Е»",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/8"
+  },
+  {
+    "code": "78MS0009",
+    "name": "Судебный участок № 9 Ленинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198095, Санкт-Петербург, наб. Обводного канала д.132, литера «Е»",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/9"
+  },
+  {
+    "code": "78MS0010",
+    "name": "Судебный участок № 10 Ленинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198095, Санкт-Петербург, наб. Обводного канала д.132, литера «Е»",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/10"
+  },
+  {
+    "code": "78MS0012",
+    "name": "Судебный участок № 11 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199034, г Санкт-Петербург, линия Биржевая, д 1/1 литера ж",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/11"
+  },
+  {
+    "code": "78MS0013",
+    "name": "Судебный участок № 12 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199004, г Санкт-Петербург, линия 4-я В.О., д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/12"
+  },
+  {
+    "code": "78MS0014",
+    "name": "Судебный участок № 13 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199155, Санкт-Петербург, В.О., пер. Декабристов, д. 8, литера А",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/13"
+  },
+  {
+    "code": "78MS0015",
+    "name": "Судебный участок № 14 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199004, г Санкт-Петербург, линия 7-я В.О., д 60 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/14"
+  },
+  {
+    "code": "78MS0016",
+    "name": "Судебный участок № 15 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199034, г Санкт-Петербург, линия 17-я В.О., д 8 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/15"
+  },
+  {
+    "code": "78MS0017",
+    "name": "Судебный участок № 16 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199155, Санкт-Петербург, В.О., пр. Кима, д.7/19 литера Б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/16"
+  },
+  {
+    "code": "78MS0018",
+    "name": "Судебный участок № 17 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199178, г Санкт-Петербург, линия 15-я В.О., д 86 литера в",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/17"
+  },
+  {
+    "code": "78MS0019",
+    "name": "Судебный участок № 18 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197349, г Санкт-Петербург, ул Маршала Новикова, д 13",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/18"
+  },
+  {
+    "code": "78MS0020",
+    "name": "Судебный участок № 19 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199034, г Санкт-Петербург, линия Биржевая, д 1/1 литера ж",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/19"
+  },
+  {
+    "code": "78MS0021",
+    "name": "Судебный участок № 20 Василеостровского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194355, г Санкт-Петербург, пр-кт Суздальский, д 11 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/20"
+  },
+  {
+    "code": "78MS0022",
+    "name": "Судебный участок № 21 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194223, г Санкт-Петербург, пр-кт Светлановский, д 21",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/21"
+  },
+  {
+    "code": "78MS0011",
+    "name": "Судебный участок № 40 Октябрьского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "199004, г Санкт-Петербург, линия 4-я В.О., д 35-37 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/40"
+  },
+  {
+    "code": "78MS0023",
+    "name": "Судебный участок № 22 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194223, г Санкт-Петербург, пр-кт Светлановский, д 21",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/22"
+  },
+  {
+    "code": "78MS0024",
+    "name": "Судебный участок № 23 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194223, г Санкт-Петербург, пр-кт Светлановский, д 21",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/23"
+  },
+  {
+    "code": "78MS0025",
+    "name": "Судебный участок № 24 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194223, г Санкт-Петербург, пр-кт Светлановский, д 21",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/24"
+  },
+  {
+    "code": "78MS0026",
+    "name": "Судебный участок № 25 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194223, г Санкт-Петербург, пр-кт Светлановский, д 21",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/25"
+  },
+  {
+    "code": "78MS0027",
+    "name": "Судебный участок № 26 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194021, г Санкт-Петербург, пр-кт Тореза, д 34 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/26"
+  },
+  {
+    "code": "78MS0028",
+    "name": "Судебный участок № 27 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194021, г Санкт-Петербург, пр-кт Тореза, д 34 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/27"
+  },
+  {
+    "code": "78MS0029",
+    "name": "Судебный участок № 28 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194223, г Санкт-Петербург, пр-кт Светлановский, д 21",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/28"
+  },
+  {
+    "code": "78MS0030",
+    "name": "Судебный участок № 29 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194354, г Санкт-Петербург, ул Есенина, д 7 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/29"
+  },
+  {
+    "code": "78MS0031",
+    "name": "Судебный участок № 30 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194017, г Санкт-Петербург, ул Гданьская, д 7",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/30"
+  },
+  {
+    "code": "78MS0032",
+    "name": "Судебный участок № 31 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194354, г Санкт-Петербург, ул Есенина, д 7 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/31"
+  },
+  {
+    "code": "78MS0033",
+    "name": "Судебный участок № 32 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194021, г Санкт-Петербург, пр-кт Тореза, д 34 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/32"
+  },
+  {
+    "code": "78MS0034",
+    "name": "Судебный участок № 33 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194156, г Санкт-Петербург, пр-кт Энгельса, д 17",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/33"
+  },
+  {
+    "code": "78MS0035",
+    "name": "Судебный участок № 34 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194156, г Санкт-Петербург, пр-кт Энгельса, д 17",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/34"
+  },
+  {
+    "code": "78MS0036",
+    "name": "Судебный участок № 35 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194354, г Санкт-Петербург, ул Есенина, д 7 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/35"
+  },
+  {
+    "code": "78MS0037",
+    "name": "Судебный участок № 36 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194223, г Санкт-Петербург, пр-кт Светлановский, д 21",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/36"
+  },
+  {
+    "code": "78MS0038",
+    "name": "Судебный участок № 37 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "194354, г Санкт-Петербург, ул Есенина, д 7 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/37"
+  },
+  {
+    "code": "78MS0039",
+    "name": "Судебный участок № 38 Выборгского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/38"
+  },
+  {
+    "code": "78MS0040",
+    "name": "Судебный участок № 39 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "190068, г Санкт-Петербург, ул Садовая, д 55-57 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/39"
+  },
+  {
+    "code": "78MS0041",
+    "name": "Судебный участок № 41 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/41"
+  },
+  {
+    "code": "78MS0042",
+    "name": "Судебный участок № 42 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/42"
+  },
+  {
+    "code": "78MS0043",
+    "name": "Судебный участок № 43 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/43"
+  },
+  {
+    "code": "78MS0044",
+    "name": "Судебный участок № 44 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/44"
+  },
+  {
+    "code": "78MS0045",
+    "name": "Судебный участок № 45 Куйбышевского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191181, г Санкт-Петербург, ул Миллионная, д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/45"
+  },
+  {
+    "code": "78MS0046",
+    "name": "Судебный участок № 46 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/46"
+  },
+  {
+    "code": "78MS0047",
+    "name": "Судебный участок № 47 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/47"
+  },
+  {
+    "code": "78MS0048",
+    "name": "Судебный участок № 48 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/48"
+  },
+  {
+    "code": "78MS0049",
+    "name": "Судебный участок № 49 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/49"
+  },
+  {
+    "code": "78MS0050",
+    "name": "Судебный участок № 50 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/50"
+  },
+  {
+    "code": "78MS0051",
+    "name": "Судебный участок № 51 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195276, г Санкт-Петербург, ул Тимуровская, д 8 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/51"
+  },
+  {
+    "code": "78MS0052",
+    "name": "Судебный участок № 52 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/52"
+  },
+  {
+    "code": "78MS0053",
+    "name": "Судебный участок № 53 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195276, г Санкт-Петербург, ул Тимуровская, д 8 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/53"
+  },
+  {
+    "code": "78MS0054",
+    "name": "Судебный участок № 54 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/54"
+  },
+  {
+    "code": "78MS0055",
+    "name": "Судебный участок № 55 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/55"
+  },
+  {
+    "code": "78MS0056",
+    "name": "Судебный участок № 56 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195276, г Санкт-Петербург, ул Тимуровская, д 8 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/56"
+  },
+  {
+    "code": "78MS0057",
+    "name": "Судебный участок № 57 Калининского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195197, г Санкт-Петербург, пр-кт Кондратьевский, д 24 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/57"
+  },
+  {
+    "code": "78MS0058",
+    "name": "Судебный участок № 58 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198188, г Санкт-Петербург, ул Возрождения, д 13 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/58"
+  },
+  {
+    "code": "78MS0059",
+    "name": "Судебный участок № 59 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198303, г Санкт-Петербург, пр-кт Стачек, д 105 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/59"
+  },
+  {
+    "code": "78MS0060",
+    "name": "Судебный участок № 60 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198261, г Санкт-Петербург, ул Стойкости, д 30 к 1",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/60"
+  },
+  {
+    "code": "78MS0061",
+    "name": "Судебный участок № 61 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198188, г Санкт-Петербург, ул Возрождения, д 13 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/61"
+  },
+  {
+    "code": "78MS0062",
+    "name": "Судебный участок № 62 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198303, г Санкт-Петербург, пр-кт Стачек, д 105 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/62"
+  },
+  {
+    "code": "78MS0063",
+    "name": "Судебный участок № 63 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198303, г Санкт-Петербург, пр-кт Стачек, д 105 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/63"
+  },
+  {
+    "code": "78MS0064",
+    "name": "Судебный участок № 64 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198303, г Санкт-Петербург, пр-кт Стачек, д 105 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/64"
+  },
+  {
+    "code": "78MS0065",
+    "name": "Судебный участок № 65 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198035, г Санкт-Петербург, ул Двинская, д 14",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/65"
+  },
+  {
+    "code": "78MS0066",
+    "name": "Судебный участок № 66 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198303, г Санкт-Петербург, пр-кт Стачек, д 105 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/66"
+  },
+  {
+    "code": "78MS0067",
+    "name": "Судебный участок № 67 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198035, г Санкт-Петербург, ул Двинская, д 14",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/67"
+  },
+  {
+    "code": "78MS0068",
+    "name": "Судебный участок № 68 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198188, г Санкт-Петербург, ул Возрождения, д 13 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/68"
+  },
+  {
+    "code": "78MS0069",
+    "name": "Судебный участок № 69 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198035, г Санкт-Петербург, ул Двинская, д 14",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/69"
+  },
+  {
+    "code": "78MS0070",
+    "name": "Судебный участок № 70 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198188, г Санкт-Петербург, ул Возрождения, д 13 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/70"
+  },
+  {
+    "code": "78MS0071",
+    "name": "Судебный участок № 71 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198188, г Санкт-Петербург, ул Возрождения, д 13 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/71"
+  },
+  {
+    "code": "78MS0072",
+    "name": "Судебный участок № 72 Кировского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198035, г Санкт-Петербург, ул Двинская, д 14",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/72"
+  },
+  {
+    "code": "78MS0073",
+    "name": "Судебный участок № 73 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/73"
+  },
+  {
+    "code": "78MS0074",
+    "name": "Судебный участок № 74 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/74"
+  },
+  {
+    "code": "78MS0075",
+    "name": "Судебный участок № 75 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/75"
+  },
+  {
+    "code": "78MS0076",
+    "name": "Судебный участок № 76 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/76"
+  },
+  {
+    "code": "78MS0077",
+    "name": "Судебный участок № 77 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/77"
+  },
+  {
+    "code": "78MS0078",
+    "name": "Судебный участок № 78 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/78"
+  },
+  {
+    "code": "78MS0079",
+    "name": "Судебный участок № 79 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/79"
+  },
+  {
+    "code": "78MS0080",
+    "name": "Судебный участок № 80 Колпинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196657, г Санкт-Петербург, г Колпино, б-р Трудящихся, д 29/52 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/80"
+  },
+  {
+    "code": "78MS0081",
+    "name": "Судебный участок № 81 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195248, г Санкт-Петербург, пр-кт Энергетиков, д 26",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/81"
+  },
+  {
+    "code": "78MS0082",
+    "name": "Судебный участок № 82 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/82"
+  },
+  {
+    "code": "78MS0083",
+    "name": "Судебный участок № 83 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/83"
+  },
+  {
+    "code": "78MS0084",
+    "name": "Судебный участок № 84 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195248, г Санкт-Петербург, пр-кт Энергетиков, д 26",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/84"
+  },
+  {
+    "code": "78MS0085",
+    "name": "Судебный участок № 85 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/85"
+  },
+  {
+    "code": "78MS0086",
+    "name": "Судебный участок № 86 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/86"
+  },
+  {
+    "code": "78MS0087",
+    "name": "Судебный участок № 87 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195213, г Санкт-Петербург, ул Гранитная, д 28 к 2",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/87"
+  },
+  {
+    "code": "78MS0088",
+    "name": "Судебный участок № 88 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195027, г Санкт-Петербург, ул Якорная, д 6 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/88"
+  },
+  {
+    "code": "78MS0089",
+    "name": "Судебный участок № 89 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195248, г Санкт-Петербург, пр-кт Энергетиков, д 26",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/89"
+  },
+  {
+    "code": "78MS0090",
+    "name": "Судебный участок № 90 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/90"
+  },
+  {
+    "code": "78MS0091",
+    "name": "Судебный участок № 91 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/91"
+  },
+  {
+    "code": "78MS0092",
+    "name": "Судебный участок № 92 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/92"
+  },
+  {
+    "code": "78MS0093",
+    "name": "Судебный участок № 93 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/93"
+  },
+  {
+    "code": "78MS0094",
+    "name": "Судебный участок № 94 Красногвардейского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "195426, г Санкт-Петербург, пр-кт Индустриальный, д 10 к 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/94"
+  },
+  {
+    "code": "78MS0095",
+    "name": "Судебный участок № 95 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198330, г Санкт-Петербург, ш Петергофское, д 3 к 1 литера в",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/95"
+  },
+  {
+    "code": "78MS0096",
+    "name": "Судебный участок № 96 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Партизана Германа, д 22 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/96"
+  },
+  {
+    "code": "78MS0097",
+    "name": "Судебный участок № 97 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Партизана Германа, д 14/117 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/97"
+  },
+  {
+    "code": "78MS0098",
+    "name": "Судебный участок № 98 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Партизана Германа, д 22 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/98"
+  },
+  {
+    "code": "78MS0099",
+    "name": "Судебный участок № 99 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Партизана Германа, д 14/117 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/99"
+  },
+  {
+    "code": "78MS0100",
+    "name": "Судебный участок № 100 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Партизана Германа, д 22 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/100"
+  },
+  {
+    "code": "78MS0101",
+    "name": "Судебный участок № 101 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198259, г Санкт-Петербург, ул Тамбасова, д 27 к 2",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/101"
+  },
+  {
+    "code": "78MS0102",
+    "name": "Судебный участок № 102 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198259, г Санкт-Петербург, ул Тамбасова, д 27 к 2",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/102"
+  },
+  {
+    "code": "78MS0103",
+    "name": "Судебный участок № 103 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Авангардная, д 47 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/103"
+  },
+  {
+    "code": "78MS0104",
+    "name": "Судебный участок № 104 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Партизана Германа, д 22 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/104"
+  },
+  {
+    "code": "78MS0105",
+    "name": "Судебный участок № 105 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198205, г Санкт-Петербург, ул Партизана Германа, д 22 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/105"
+  },
+  {
+    "code": "78MS0106",
+    "name": "Судебный участок № 106 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198259, г Санкт-Петербург, ул Тамбасова, д 27 к 2",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/106"
+  },
+  {
+    "code": "78MS0107",
+    "name": "Судебный участок № 107 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198323, г Санкт-Петербург, тер Горелово, ш Красносельское, д 46",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/107"
+  },
+  {
+    "code": "78MS0108",
+    "name": "Судебный участок № 108 Красносельского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198323, г Санкт-Петербург, тер Горелово, ш Красносельское, д 46",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/108"
+  },
+  {
+    "code": "78MS0109",
+    "name": "Судебный участок № 109 Кронштадтского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197760, г Санкт-Петербург, г Кронштадт, ул Пролетарская, д 21-23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/109"
+  },
+  {
+    "code": "78MS0110",
+    "name": "Судебный участок № 110 Кронштадтского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197760, г Санкт-Петербург, г Кронштадт, ул Пролетарская, д 21-23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/110"
+  },
+  {
+    "code": "78MS0111",
+    "name": "Судебный участок № 111 Сестрорецкого судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197706, г Санкт-Петербург, г Сестрорецк, ул Токарева, д 15 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/111"
+  },
+  {
+    "code": "78MS0112",
+    "name": "Судебный участок № 112 Сестрорецкого судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197706, г Санкт-Петербург, г Сестрорецк, ул Володарского, д 1 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/112"
+  },
+  {
+    "code": "78MS0113",
+    "name": "Судебный участок № 113 Зеленогорского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "663690, Красноярский край, г Зеленогорск, ул Ленина, д 18 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/113"
+  },
+  {
+    "code": "78MS0154",
+    "name": "Судебный участок № 114 Петродворцового судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197110, г Санкт-Петербург, ул Большая Разночинная, д 23 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/114"
+  },
+  {
+    "code": "78MS0155",
+    "name": "Судебный участок № 115 Петродворцового судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197110, г Санкт-Петербург, ул Большая Разночинная, д 23 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/115"
+  },
+  {
+    "code": "78MS0114",
+    "name": "Судебный участок № 116 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198412, г Санкт-Петербург, г Ломоносов, ул Александровская, д 13 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/116"
+  },
+  {
+    "code": "78MS0115",
+    "name": "Судебный участок № 117 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198412, г Санкт-Петербург, г Ломоносов, пр-кт Дворцовый, д 40 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/117"
+  },
+  {
+    "code": "78MS0116",
+    "name": "Судебный участок № 118 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196247, г Санкт-Петербург, пр-кт Новоизмайловский, д 67 к 2",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/118"
+  },
+  {
+    "code": "78MS0117",
+    "name": "Судебный участок № 119 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, ул Глеба Успенского, д 5 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/119"
+  },
+  {
+    "code": "78MS0118",
+    "name": "Судебный участок № 120 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196247, г Санкт-Петербург, пр-кт Новоизмайловский, д 67 к 2",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/120"
+  },
+  {
+    "code": "78MS0119",
+    "name": "Судебный участок № 121 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196105, г Санкт-Петербург, ул Благодатная, д 34",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/121"
+  },
+  {
+    "code": "78MS0120",
+    "name": "Судебный участок № 122 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, пр-кт Московский, д 125 литера в",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/122"
+  },
+  {
+    "code": "78MS0121",
+    "name": "Судебный участок № 123 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, ул Глеба Успенского, д 5 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/123"
+  },
+  {
+    "code": "78MS0122",
+    "name": "Судебный участок № 124 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196105, г Санкт-Петербург, ул Благодатная, д 34",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/124"
+  },
+  {
+    "code": "78MS0123",
+    "name": "Судебный участок № 125 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, пр-кт Московский, д 125 литера в",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/125"
+  },
+  {
+    "code": "78MS0124",
+    "name": "Судебный участок № 126 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, пр-кт Московский, д 125 литера в",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/126"
+  },
+  {
+    "code": "78MS0125",
+    "name": "Судебный участок № 127 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, ул Глеба Успенского, д 5 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/127"
+  },
+  {
+    "code": "78MS0126",
+    "name": "Судебный участок № 128 Московского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, ул Глеба Успенского, д 5 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/128"
+  },
+  {
+    "code": "78MS0127",
+    "name": "Судебный участок № 129 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196006, г Санкт-Петербург, пр-кт Московский, д 125 литера в",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/129"
+  },
+  {
+    "code": "78MS0128",
+    "name": "Судебный участок № 130 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196105, г Санкт-Петербург, ул Благодатная, д 34",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/130"
+  },
+  {
+    "code": "78MS0129",
+    "name": "Судебный участок № 131 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/131"
+  },
+  {
+    "code": "78MS0130",
+    "name": "Судебный участок № 132 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, пр-кт Обуховской Обороны, д 121 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/132"
+  },
+  {
+    "code": "78MS0131",
+    "name": "Судебный участок № 133 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/133"
+  },
+  {
+    "code": "78MS0132",
+    "name": "Судебный участок № 134 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/134"
+  },
+  {
+    "code": "78MS0133",
+    "name": "Судебный участок № 135 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/135"
+  },
+  {
+    "code": "78MS0134",
+    "name": "Судебный участок № 136 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/136"
+  },
+  {
+    "code": "78MS0135",
+    "name": "Судебный участок № 137 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/137"
+  },
+  {
+    "code": "78MS0136",
+    "name": "Судебный участок № 138 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/138"
+  },
+  {
+    "code": "78MS0137",
+    "name": "Судебный участок № 139 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, пр-кт Обуховской Обороны, д 121 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/139"
+  },
+  {
+    "code": "78MS0138",
+    "name": "Судебный участок № 140 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, пр-кт Обуховской Обороны, д 121 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/140"
+  },
+  {
+    "code": "78MS0139",
+    "name": "Судебный участок № 141 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/141"
+  },
+  {
+    "code": "78MS0140",
+    "name": "Судебный участок № 142 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/142"
+  },
+  {
+    "code": "78MS0141",
+    "name": "Судебный участок № 143 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/143"
+  },
+  {
+    "code": "78MS0142",
+    "name": "Судебный участок № 144 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/144"
+  },
+  {
+    "code": "78MS0143",
+    "name": "Судебный участок № 145 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/145"
+  },
+  {
+    "code": "78MS0146",
+    "name": "Судебный участок № 148 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/148"
+  },
+  {
+    "code": "78MS0147",
+    "name": "Судебный участок № 149 Невского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": null,
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/149"
+  },
+  {
+    "code": "78MS0148",
+    "name": "Судебный участок № 151 Петроградского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/151"
+  },
+  {
+    "code": "78MS0149",
+    "name": "Судебный участок № 152 Петроградского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192029, г Санкт-Петербург, ул Крупской, д 9 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/152"
+  },
+  {
+    "code": "78MS0150",
+    "name": "Судебный участок № 153 Петроградского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196607, г Санкт-Петербург, г Пушкин, ул Школьная, д 23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/153"
+  },
+  {
+    "code": "78MS0151",
+    "name": "Судебный участок № 154 Петроградского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197110, г Санкт-Петербург, ул Большая Разночинная, д 23 литера б",
+    "legal_address": null,
+    "website": "http://https//mirsud.spb.ru/court-sites/154"
+  },
+  {
+    "code": "78MS0152",
+    "name": "Судебный участок № 155 Петроградского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197110, г Санкт-Петербург, ул Большая Разночинная, д 23 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/155"
+  },
+  {
+    "code": "78MS0153",
+    "name": "Судебный участок № 156 Петроградского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197110, г Санкт-Петербург, ул Большая Разночинная, д 23 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/156"
+  },
+  {
+    "code": "78MS0156",
+    "name": "Судебный участок № 157 Петродворцового судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197110, г Санкт-Петербург, ул Большая Разночинная, д 23 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/157"
+  },
+  {
+    "code": "78MS0157",
+    "name": "Судебный участок № 158 Петродворцового судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198515, г Санкт-Петербург, п Стрельна, ул Фронтовая, д 7 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/158"
+  },
+  {
+    "code": "78MS0158",
+    "name": "Судебный участок № 159 Петродворцового судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198516, г Санкт-Петербург, г Петергоф, б-р Разведчика, д 10 к 3",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/159"
+  },
+  {
+    "code": "78MS0159",
+    "name": "Судебный участок № 160 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198504, г Санкт-Петербург, г Петергоф, ул Ботаническая, д 18 к 4 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/160"
+  },
+  {
+    "code": "78MS0160",
+    "name": "Судебный участок № 161 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197342, г Санкт-Петербург, ул Сердобольская, д 73/27 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/161"
+  },
+  {
+    "code": "78MS0161",
+    "name": "Судебный участок № 162 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197343, г Санкт-Петербург, ул Омская, д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/162"
+  },
+  {
+    "code": "78MS0162",
+    "name": "Судебный участок № 163 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197373, г Санкт-Петербург, ул Долгоозёрная, д 3 к 2 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/163"
+  },
+  {
+    "code": "78MS0163",
+    "name": "Судебный участок № 164 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197343, г Санкт-Петербург, ул Омская, д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/164"
+  },
+  {
+    "code": "78MS0164",
+    "name": "Судебный участок № 165 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197342, г Санкт-Петербург, ул Сердобольская, д 73/27 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/165"
+  },
+  {
+    "code": "78MS0165",
+    "name": "Судебный участок № 166 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197342, г Санкт-Петербург, ул Сердобольская, д 73/27 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/166"
+  },
+  {
+    "code": "78MS0166",
+    "name": "Судебный участок № 167 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197373, г Санкт-Петербург, ул Долгоозёрная, д 3 к 2 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/167"
+  },
+  {
+    "code": "78MS0167",
+    "name": "Судебный участок № 168 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197349, г Санкт-Петербург, ул Маршала Новикова, д 13",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/168"
+  },
+  {
+    "code": "78MS0168",
+    "name": "Судебный участок № 169 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197349, г Санкт-Петербург, б-р Серебристый, д 13 к 1 литера а, помещ 4Н",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/169"
+  },
+  {
+    "code": "78MS0169",
+    "name": "Судебный участок № 170 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197082, г Санкт-Петербург, пр-кт Богатырский, д 57 к 1 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/170"
+  },
+  {
+    "code": "78MS0175",
+    "name": "Судебный участок № 150 Пушкинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197343, г Санкт-Петербург, ул Омская, д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/150"
+  },
+  {
+    "code": "78MS0170",
+    "name": "Судебный участок № 171 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197343, г Санкт-Петербург, ул Омская, д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/171"
+  },
+  {
+    "code": "78MS0171",
+    "name": "Судебный участок № 172 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197350, г Санкт-Петербург, пр-кт Королёва, д 44 к 2 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/172"
+  },
+  {
+    "code": "78MS0172",
+    "name": "Судебный участок № 173 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197343, г Санкт-Петербург, ул Омская, д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/173"
+  },
+  {
+    "code": "78MS0173",
+    "name": "Судебный участок № 174 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197349, г Санкт-Петербург, ул Маршала Новикова, д 13",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/174"
+  },
+  {
+    "code": "78MS0174",
+    "name": "Судебный участок № 175 Приморского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197343, г Санкт-Петербург, ул Омская, д 21 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/175"
+  },
+  {
+    "code": "78MS0176",
+    "name": "Судебный участок № 176 Пушкинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196607, г Санкт-Петербург, г Пушкин, ул Школьная, д 23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/176"
+  },
+  {
+    "code": "78MS0177",
+    "name": "Судебный участок № 177 Пушкинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196607, г Санкт-Петербург, г Пушкин, ул Школьная, д 23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/177"
+  },
+  {
+    "code": "78MS0178",
+    "name": "Судебный участок № 178 Пушкинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196607, г Санкт-Петербург, г Пушкин, ул Школьная, д 23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/178"
+  },
+  {
+    "code": "78MS0179",
+    "name": "Судебный участок № 179 Пушкинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196607, г Санкт-Петербург, г Пушкин, ул Школьная, д 23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/179"
+  },
+  {
+    "code": "78MS0180",
+    "name": "Судебный участок № 180 Пушкинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196607, г Санкт-Петербург, г Пушкин, ул Школьная, д 23 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/180"
+  },
+  {
+    "code": "78MS0181",
+    "name": "Судебный участок № 181 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/181"
+  },
+  {
+    "code": "78MS0182",
+    "name": "Судебный участок № 182 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/182"
+  },
+  {
+    "code": "78MS0183",
+    "name": "Судебный участок № 183 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/183"
+  },
+  {
+    "code": "78MS0184",
+    "name": "Судебный участок № 184 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/184"
+  },
+  {
+    "code": "78MS0185",
+    "name": "Судебный участок № 185 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/185"
+  },
+  {
+    "code": "78MS0186",
+    "name": "Судебный участок № 186 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/186"
+  },
+  {
+    "code": "78MS0187",
+    "name": "Судебный участок № 187 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/187"
+  },
+  {
+    "code": "78MS0188",
+    "name": "Судебный участок № 188 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/188"
+  },
+  {
+    "code": "78MS0189",
+    "name": "Судебный участок № 189 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/189"
+  },
+  {
+    "code": "78MS0190",
+    "name": "Судебный участок № 190 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/190"
+  },
+  {
+    "code": "78MS0191",
+    "name": "Судебный участок № 191 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/191"
+  },
+  {
+    "code": "78MS0192",
+    "name": "Судебный участок № 192 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/192"
+  },
+  {
+    "code": "78MS0193",
+    "name": "Судебный участок № 193 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/193"
+  },
+  {
+    "code": "78MS0194",
+    "name": "Судебный участок № 194 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/194"
+  },
+  {
+    "code": "78MS0195",
+    "name": "Судебный участок № 195 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/195"
+  },
+  {
+    "code": "78MS0196",
+    "name": "Судебный участок № 196 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/196"
+  },
+  {
+    "code": "78MS0197",
+    "name": "Судебный участок № 197 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/197"
+  },
+  {
+    "code": "78MS0198",
+    "name": "Судебный участок № 198 Фрунзенского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "192102, г Санкт-Петербург, ул Самойловой, д 12",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/198"
+  },
+  {
+    "code": "78MS0199",
+    "name": "Судебный участок № 199 Дзержинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "190000, г Санкт-Петербург, пр-кт Невский, д 84-86 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/199"
+  },
+  {
+    "code": "78MS0214",
+    "name": "Судебный участок № 7 Смольнинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "198095, Санкт-Петербург, наб. Обводного канала д.132, литера «Е»",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/214/"
+  },
+  {
+    "code": "78MS0212",
+    "name": "Судебный участок № 146 Петроградского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "197110, г Санкт-Петербург, ул Большая Разночинная, д 23 литера б",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/212/"
+  },
+  {
+    "code": "78MS0213",
+    "name": "Судебный участок № 147 Пушкинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "196607, Санкт-Петербург, г.Пушкин, ул.Школьная, д.2, к.2, зал № 2",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/213/"
+  },
+  {
+    "code": "78MS0200",
+    "name": "Судебный участок № 200 Дзержинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191123, г Санкт-Петербург, пр-кт Чернышевского, д 17 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/200"
+  },
+  {
+    "code": "78MS0201",
+    "name": "Судебный участок № 201 Дзержинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191187, г Санкт-Петербург, ул Чайковского, д 4 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/201"
+  },
+  {
+    "code": "78MS0205",
+    "name": "Судебный участок № 205 Куйбышевского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191124, Санкт-Петербург,ул. Красного Текстильщика, д. 9/11, литера А, пом. 14Н, 15Н",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/205"
+  },
+  {
+    "code": "78MS0206",
+    "name": "Судебный участок № 206 Куйбышевского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191002, г Санкт-Петербург, наб Реки Фонтанки, д 76 литера в",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/206"
+  },
+  {
+    "code": "78MS0207",
+    "name": "Судебный участок № 207 Смольнинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191036, г Санкт-Петербург, ул 4-я Советская, д 26 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/207"
+  },
+  {
+    "code": "78MS0208",
+    "name": "Судебный участок № 208 Смольнинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191036, г Санкт-Петербург, ул 4-я Советская, д 26 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/208"
+  },
+  {
+    "code": "78MS0209",
+    "name": "Судебный участок № 209 Смольнинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191036, г Санкт-Петербург, ул 4-я Советская, д 26 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/209"
+  },
+  {
+    "code": "78MS0210",
+    "name": "Судебный участок № 210 Смольнинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191036, г Санкт-Петербург, ул 4-я Советская, д 26 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/210"
+  },
+  {
+    "code": "78MS0211",
+    "name": "Судебный участок № 211 Смольнинского судебного района Санкт-Петербурга",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "191036, г Санкт-Петербург, ул 4-я Советская, д 26 литера а",
+    "legal_address": null,
+    "website": "https://mirsud.spb.ru/court-sites/211"
+  }
+]

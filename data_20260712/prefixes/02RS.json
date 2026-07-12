@@ -1,0 +1,112 @@
+[
+  {
+    "code": "02RS0001",
+    "name": "Горно-Алтайский городской суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649000, г Горно-Алтайск, ул Эркемена Палкина, д 3",
+    "legal_address": null,
+    "website": "http://gorno-altaisky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0002",
+    "name": "Кош-Агачский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649780, Респ Алтай, с Кош-Агач, ул Пограничная, зд 24",
+    "legal_address": null,
+    "website": "http://kosh-agachsky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0003",
+    "name": "Майминский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649100, Респ Алтай, с Майма, ул Ленина, д 26",
+    "legal_address": null,
+    "website": "http://maiminsky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0004",
+    "name": "Онгудайский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649440, Респ Алтай, с Онгудай, ул Советская, д 115",
+    "legal_address": null,
+    "website": "http://ongudaisky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0005",
+    "name": "Турочакский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649140, Респ Алтай, с Турочак, ул Советская, д 56",
+    "legal_address": null,
+    "website": "http://turachaksky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0006",
+    "name": "Улаганский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649750, Респ Алтай, с Улаган, ул А.В.Санаа, д 13",
+    "legal_address": null,
+    "website": "http://ulagansky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0007",
+    "name": "Усть-Канский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649450, Респ Алтай, с Усть-Кан, ул Кирпичная, д 2",
+    "legal_address": null,
+    "website": "http://ust-kansky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0008",
+    "name": "Усть-Коксинский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649490, Респ Алтай, с Усть-Кокса, ул Набережная, д 57",
+    "legal_address": null,
+    "website": "http://ust-koksinsky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0009",
+    "name": "Чемальский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649240, Респ Алтай, с Чемал, ул Пчелкина, д 97",
+    "legal_address": null,
+    "website": "http://chemalsky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0010",
+    "name": "Чойский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649180, Респ Алтай, с Чоя, ул Калинина, зд 16",
+    "legal_address": null,
+    "website": "http://choisky.ralt.sudrf.ru"
+  },
+  {
+    "code": "02RS0011",
+    "name": "Шебалинский районный суд Республики Алтай",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "649220, Респ Алтай, с Шебалино, ул Советская, д 57",
+    "legal_address": null,
+    "website": "http://shebalinsky.ralt.sudrf.ru"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "code": "28MS0001",
+    "name": "Архаринский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676740, Амурская обл, пгт Архара, ул Ленина, д 90",
+    "legal_address": null,
+    "website": "http://arhr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0002",
+    "name": "Белогорский городской судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676856, Амурская обл, г Белогорск, ул 9 Мая, зд 188",
+    "legal_address": null,
+    "website": "http://bel1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0003",
+    "name": "Белогорский городской судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676856, Амурская обл, г Белогорск, ул 9 Мая, зд 188",
+    "legal_address": null,
+    "website": "http://bel2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0004",
+    "name": "Белогорский городской судебный участок № 3",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676856, Амурская обл, г Белогорск, ул 9 Мая, зд 188",
+    "legal_address": null,
+    "website": "http://bel3.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0005",
+    "name": "Белогорский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676856, Амурская обл, г Белогорск, ул 9 Мая, зд 188",
+    "legal_address": null,
+    "website": "http://belr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0006",
+    "name": "Благовещенский городской судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0007",
+    "name": "Благовещенский городской судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0008",
+    "name": "Благовещенский городской судебный участок № 3",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag3.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0009",
+    "name": "Благовещенский городской судебный участок № 4",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag4.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0010",
+    "name": "Благовещенский городской судебный участок № 5",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag5.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0011",
+    "name": "Благовещенский городской судебный участок № 6",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag6.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0012",
+    "name": "Благовещенский городской судебный участок № 7",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag7.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0013",
+    "name": "Благовещенский городской судебный участок № 8",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag8.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0014",
+    "name": "Благовещенский городской судебный участок № 9",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag9.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0015",
+    "name": "Благовещенский городской судебный участок № 10",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675005, г Благовещенск, ул Чайковского, д 95/3",
+    "legal_address": null,
+    "website": "http://blag10.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0016",
+    "name": "Благовещенский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "675001, г Благовещенск, ул Красноармейская, д 110",
+    "legal_address": null,
+    "website": "http://blagr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0017",
+    "name": "Бурейский окружной судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676720, Амурская обл, пгт Новобурейский, ул Горького, д 2",
+    "legal_address": null,
+    "website": "http://burr1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0018",
+    "name": "Бурейский окружной судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676720, Амурская обл, пгт Новобурейский, ул Горького, д 2",
+    "legal_address": null,
+    "website": "http://burr2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0019",
+    "name": "Завитинский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676870, Амурская обл, г Завитинск, пер Почтовый, стр 1А",
+    "legal_address": null,
+    "website": "http://zavr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0020",
+    "name": "Зейский городской судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676246, Амурская обл, г Зея, ул Октябрьская, д 44",
+    "legal_address": null,
+    "website": "http://zeya.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0021",
+    "name": "Зейский районный судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676246, Амурская обл, г Зея, ул Октябрьская, д 44",
+    "legal_address": null,
+    "website": "http://zeyar.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0022",
+    "name": "Ивановский окружной судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676930, Амурская обл, с Ивановка, ул Ленина, д 91",
+    "legal_address": null,
+    "website": "http://ivr1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0023",
+    "name": "Ивановский окружной судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676930, Амурская обл, с Ивановка, ул Ленина, д 91",
+    "legal_address": null,
+    "website": "http://ivr2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0024",
+    "name": "Константиновский районный судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676980, Амурская обл, с Константиновка, ул Кирпичная, зд 3",
+    "legal_address": null,
+    "website": "http://konsr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0025",
+    "name": "Магдагачинский окружной судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676124, Амурская обл, пгт Магдагачи, ул Ленина, д 29",
+    "legal_address": null,
+    "website": "http://magr1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0026",
+    "name": "Магдагачинский окружной судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676124, Амурская обл, пгт Магдагачи, ул Ленина, д 29",
+    "legal_address": null,
+    "website": "http://magr2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0027",
+    "name": "Мазановский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676530, Амурская обл, с Новокиевский Увал, ул Цветочная, зд 1",
+    "legal_address": null,
+    "website": "http://mazr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0028",
+    "name": "Михайловский районный судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676680, Амурская обл, с Поярково, ул Советская, зд 18",
+    "legal_address": null,
+    "website": "http://mihr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0029",
+    "name": "Октябрьский районный судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676630, Амурская обл, с Екатеринославка, ул Ленина, д 92",
+    "legal_address": null,
+    "website": "http://oktr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0032",
+    "name": "Прогрессовский судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676790, Амурская обл, пгт Прогресс, ул Огарева, д 1",
+    "legal_address": null,
+    "website": "http://progr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0030",
+    "name": "Райчихинский городской судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676770, Амурская обл, г Райчихинск, ул Победы, д 2",
+    "legal_address": null,
+    "website": "http://raich1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0031",
+    "name": "Райчихинский городской судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676770, Амурская обл, г Райчихинск, ул Победы, д 2",
+    "legal_address": null,
+    "website": "http://raich2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0033",
+    "name": "Ромненский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676620, Амурская обл, с Ромны, ул Гагарина, д 17А",
+    "legal_address": null,
+    "website": "http://romr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0034",
+    "name": "Свободненский городской судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676454, Амурская обл, г Свободный, ул Ленина, д 77",
+    "legal_address": null,
+    "website": "http://svob1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0035",
+    "name": "Свободненский городской судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676454, Амурская обл, г Свободный, ул Ленина, д 77",
+    "legal_address": null,
+    "website": "http://svob2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0036",
+    "name": "Свободненский городской судебный участок № 3",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676454, Амурская обл, г Свободный, ул Ленина, д 77",
+    "legal_address": null,
+    "website": "http://svob3.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0037",
+    "name": "Свободненский районный судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676454, Амурская обл, г Свободный, ул Ленина, д 77",
+    "legal_address": null,
+    "website": "http://svobr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0038",
+    "name": "Селемджинский районный судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676560, Амурская обл, пгт Экимчан, ул Комсомольская, д 16",
+    "legal_address": null,
+    "website": "http://selr1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0039",
+    "name": "Селемджинский районный судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676572, Амурская обл, Селемджинский р-н, пгт Февральск, ул Енисейская, д 7А",
+    "legal_address": null,
+    "website": "http://selr2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0040",
+    "name": "Серышевский окружной судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676355, Амурская обл, пгт Серышево, ул Ленина, д 18",
+    "legal_address": null,
+    "website": "http://serr1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0041",
+    "name": "Серышевский окружной судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676355, Амурская обл, пгт Серышево, ул Ленина, д 18",
+    "legal_address": null,
+    "website": "http://serr2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0042",
+    "name": "Сковородинский окружной судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676014, Амурская обл, г Сковородино, ул Победы, д 28",
+    "legal_address": null,
+    "website": "http://skovr1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0043",
+    "name": "Сковородинский окружной судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676014, Амурская обл, г Сковородино, ул Победы, д 28",
+    "legal_address": null,
+    "website": "http://skovr2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0047",
+    "name": "Тамбовский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676950, Амурская обл, с Тамбовка, ул 50 лет Октября, зд 23Б",
+    "legal_address": null,
+    "website": "http://tamr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0044",
+    "name": "Тындинский городской судебный участок № 1",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676282, Амурская обл, г Тында, ул Красная Пресня, д 70",
+    "legal_address": null,
+    "website": "http://tind1.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0045",
+    "name": "Тындинский городской судебный участок № 2",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676282, Амурская обл, г Тында, ул Красная Пресня, д 70",
+    "legal_address": null,
+    "website": "http://tind2.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0046",
+    "name": "Тындинский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676282, Амурская обл, г Тында, ул Красная Пресня, д 70",
+    "legal_address": null,
+    "website": "http://tindr.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0048",
+    "name": "Шимановский городской судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676306, Амурская обл, г Шимановск, ул Орджоникидзе, д 14",
+    "legal_address": null,
+    "website": "http://shim.amr.msudrf.ru"
+  },
+  {
+    "code": "28MS0049",
+    "name": "Шимановский окружной судебный участок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "676306, Амурская обл, г Шимановск, ул Орджоникидзе, д 14",
+    "legal_address": null,
+    "website": "http://shimr.amr.msudrf.ru"
+  }
+]

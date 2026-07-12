@@ -1,0 +1,412 @@
+[
+  {
+    "code": "53MS0022",
+    "name": "Судебный участок № 1 Солецкого судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175000, Новгородская обл, п Батецкий, ул Зосимова, д 19",
+    "legal_address": null,
+    "website": "http://1.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0023",
+    "name": "Судебный участок № 2 Боровичского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174406, Новгородская обл, г Боровичи, ул Алексея Кузнецова, д 7",
+    "legal_address": null,
+    "website": "http://2.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0024",
+    "name": "Судебный участок № 3 Боровичского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174406, Новгородская обл, г Боровичи, ул Алексея Кузнецова, д 7",
+    "legal_address": null,
+    "website": "http://3.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0001",
+    "name": "Судебный участок № 4 Боровичского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174406, Новгородская обл, г Боровичи, ул Алексея Кузнецова, д 7",
+    "legal_address": null,
+    "website": "http://4.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0037",
+    "name": "Судебный участок № 5 Валдайского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175400, Новгородская обл, г Валдай, ул Кирова, д 1А",
+    "legal_address": null,
+    "website": "http://5.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0025",
+    "name": "Судебный участок № 6 Солецкого судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175100, Новгородская обл, п Волот, ул Гагарина, д 13",
+    "legal_address": null,
+    "website": "http://6.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0026",
+    "name": "Судебный участок № 7 Валдайского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175310, Новгородская обл, рп Демянск, ул Школьная, д 6",
+    "legal_address": null,
+    "website": "http://7.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0006",
+    "name": "Судебный участок № 8 Окуловского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175460, Новгородская обл, рп Крестцы, ул Московская, д 3",
+    "legal_address": null,
+    "website": "http://8.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0027",
+    "name": "Судебный участок № 9 Боровичского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174760, Новгородская обл, рп Любытино, ул Советов, д 46Б",
+    "legal_address": null,
+    "website": "http://9.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0007",
+    "name": "Судебный участок № 10 Чудовского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174260, Новгородская обл, г Малая Вишера, ул Новгородская, зд 22",
+    "legal_address": null,
+    "website": "http://10.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0028",
+    "name": "Судебный участок № 11 Валдайского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175350, Новгородская обл, с Марёво, ул Комсомольская, д 43",
+    "legal_address": null,
+    "website": "http://11.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0029",
+    "name": "Судебный участок № 12 Боровичского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174450, Новгородская обл, с Мошенское, ул 1 Мая, д 10",
+    "legal_address": null,
+    "website": "http://12.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0012",
+    "name": "Судебный участок № 13 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://13.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0008",
+    "name": "Судебный участок № 14 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://14.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0030",
+    "name": "Судебный участок № 15 Окуловского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174350, Новгородская обл, г Окуловка, ул Володарского, д 4",
+    "legal_address": null,
+    "website": "http://15.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0031",
+    "name": "Судебный участок № 16 Окуловского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174350, Новгородская обл, г Окуловка, ул Володарского, д 4",
+    "legal_address": null,
+    "website": "http://16.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0013",
+    "name": "Судебный участок № 17 Старорусского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175130, Новгородская обл, рп Парфино, ул Комсомольская, д 18",
+    "legal_address": null,
+    "website": "http://17.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0032",
+    "name": "Судебный участок № 18 Пестовского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174510, Новгородская обл, г Пестово, ул Славная, д 1Г",
+    "legal_address": null,
+    "website": "http://18.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0033",
+    "name": "Судебный участок № 19 Старорусского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175260, Новгородская обл, с Поддорье, ул Октябрьская, д 19",
+    "legal_address": null,
+    "website": "http://19.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0014",
+    "name": "Судебный участок № 20 Солецкого судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175040, Новгородская обл, г Сольцы, ул Комсомола, д 39",
+    "legal_address": null,
+    "website": "http://20.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0009",
+    "name": "Судебный участок № 27 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://27.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0002",
+    "name": "Судебный участок № 28 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://28.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0003",
+    "name": "Судебный участок № 32 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://32.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0004",
+    "name": "Судебный участок № 35 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://35.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0005",
+    "name": "Судебный участок № 40 Старорусского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175202, Новгородская обл, г Старая Русса, ул Строителей, зд 1",
+    "legal_address": null,
+    "website": "http://40.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0015",
+    "name": "Судебный участок № 21 Старорусского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175202, Новгородская обл, г Старая Русса, ул Строителей, зд 1",
+    "legal_address": null,
+    "website": "http://21.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0016",
+    "name": "Судебный участок № 22 Старорусского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175202, Новгородская обл, г Старая Русса, ул Строителей, зд 1",
+    "legal_address": null,
+    "website": "http://22.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0017",
+    "name": "Судебный участок № 24 Старорусского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175270, Новгородская обл, г Холм, ул Кооперативная, д 27",
+    "legal_address": null,
+    "website": "http://24.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0018",
+    "name": "Судебный участок № 25 Чудовского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174210, Новгородская обл, г Чудово, ул Глеба Успенского, зд 2",
+    "legal_address": null,
+    "website": "http://25.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0019",
+    "name": "Судебный участок № 26 Солецкого судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174150, Новгородская обл, рп Шимск, ул Набережная, д 2А",
+    "legal_address": null,
+    "website": "http://26.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0010",
+    "name": "Судебный участок № 31 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://31.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0011",
+    "name": "Судебный участок № 36 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://36.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0020",
+    "name": "Судебный участок № 39 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://39.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0021",
+    "name": "Судебный участок № 41 Чудовского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174210, Новгородская обл, г Чудово, ул Глеба Успенского, зд 2",
+    "legal_address": null,
+    "website": "http://41.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0034",
+    "name": "Судебный участок № 23 Пестовского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174580, Новгородская обл, рп Хвойная, ул Красноармейская, д 2А",
+    "legal_address": null,
+    "website": "http://23.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0038",
+    "name": "Судебный участок № 29 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://29.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0035",
+    "name": "Судебный участок № 30 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://30.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0039",
+    "name": "Судебный участок № 33 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://33.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0036",
+    "name": "Судебный участок № 37 Боровичского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "174406, Новгородская обл, г Боровичи, ул Алексея Кузнецова, д 7",
+    "legal_address": null,
+    "website": "http://37.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0040",
+    "name": "Судебный участок № 34 Новгородского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "173016, г Великий Новгород, ул Менделеева, д 4",
+    "legal_address": null,
+    "website": "http://34.nvg.msudrf.ru"
+  },
+  {
+    "code": "53MS0041",
+    "name": "Судебный участок № 38 Валдайского судебного района Новгородской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "175400, Новгородская обл, г Валдай, ул Молодёжная, д 1",
+    "legal_address": null,
+    "website": "http://38.nvg.msudrf.ru"
+  }
+]

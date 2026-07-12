@@ -1,0 +1,742 @@
+[
+  {
+    "code": "72MS0048",
+    "name": "Судебный участок № 1 Абатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627540, Тюменская обл, с Абатское, ул 1 Мая, зд 5",
+    "legal_address": null,
+    "website": "http://abatsk.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0049",
+    "name": "Судебный участок № 1 Армизонского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627220, Тюменская обл, с Армизонское, ул Ленина, д 92",
+    "legal_address": null,
+    "website": "http://armizon.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0051",
+    "name": "Судебный участок № 1 Бердюжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627440, Тюменская обл, с Бердюжье, ул Кирова, д 16/2",
+    "legal_address": null,
+    "website": "http://berd.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0052",
+    "name": "Судебный участок № 1 Вагайского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626240, Тюменская обл, с Вагай, ул Семакова, зд 21",
+    "legal_address": null,
+    "website": "http://vagay.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0053",
+    "name": "Судебный участок № 1 Викуловского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627570, Тюменская обл, с Викулово, ул Карла Маркса, зд 32",
+    "legal_address": null,
+    "website": "http://vikul.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0054",
+    "name": "Судебный участок № 1 Голышмановского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627303, Тюменская обл, рп Голышманово, ул Чапаева, д 49",
+    "legal_address": null,
+    "website": "http://golish.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0042",
+    "name": "Судебный участок № 1 Заводоуковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627144, Тюменская обл, г Заводоуковск, ул Васильковая, зд 6",
+    "legal_address": null,
+    "website": "http://rzavod1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0055",
+    "name": "Судебный участок № 1 Исетского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626380, Тюменская обл, с Исетское, ул Строителей, д 39В",
+    "legal_address": null,
+    "website": "http://isetsk.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0028",
+    "name": "Судебный участок № 1 Ишимского судебного района г. Ишима",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627755, Тюменская обл, г Ишим, ул Республики, зд 1",
+    "legal_address": null,
+    "website": "http://ishimg1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0031",
+    "name": "Судебный участок № 1 Ишимского судебного района Ишимского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627755, Тюменская обл, г Ишим, ул Республики, зд 1",
+    "legal_address": null,
+    "website": "http://ishimr1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0056",
+    "name": "Судебный участок № 1 Казанского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627420, Тюменская обл, с Казанское, ул Ленина, д 10",
+    "legal_address": null,
+    "website": "http://kazanka.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0012",
+    "name": "Судебный участок № 1 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625001, г Тюмень, ул Льва Толстого, д 35",
+    "legal_address": null,
+    "website": "http://kalin1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0001",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625048, г Тюмень, ул 50 лет Октября, д 12 к 1",
+    "legal_address": null,
+    "website": "http://len1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0057",
+    "name": "Судебный участок № 1 Нижнетавдинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626020, Тюменская обл, с Нижняя Тавда, ул Кирова, д 26",
+    "legal_address": null,
+    "website": "http://tavda.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0058",
+    "name": "Судебный участок № 1 Омутинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627070, Тюменская обл, с Омутинское, ул Первомайская, зд 78",
+    "legal_address": null,
+    "website": "http://omutinka.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0059",
+    "name": "Судебный участок № 1 Сладковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627610, Тюменская обл, с Сладково, ул Рабочая, зд 17",
+    "legal_address": null,
+    "website": "http://sladkovo.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0060",
+    "name": "Судебный участок № 1 Сорокинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627500, Тюменская обл, с Большое Сорокино, ул Ленина, д 121",
+    "legal_address": null,
+    "website": "http://sorokino.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0033",
+    "name": "Судебный участок № 1 Тобольского судебного района г. Тобольска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626150, Тюменская обл, г Тобольск, ул Семена Ремезова, д 124",
+    "legal_address": null,
+    "website": "http://gtob1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0038",
+    "name": "Судебный участок № 1 Тобольского судебного района Тобольского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626150, Тюменская обл, г Тобольск, мкр 6, д 120Б/1",
+    "legal_address": null,
+    "website": "http://rtob1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0044",
+    "name": "Судебный участок № 1 Тюменского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625504, Тюменская обл, Тюменский р-н, рп Боровский, ул Островского, д 32",
+    "legal_address": null,
+    "website": "http://rtyum1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0002",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625048, г Тюмень, ул 50 лет Октября, д 12 к 1",
+    "legal_address": null,
+    "website": "http://len2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0003",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len3.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0004",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625027, г Тюмень, ул 50 лет Октября, д 36 к 1",
+    "legal_address": null,
+    "website": "http://len4.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0005",
+    "name": "Судебный участок № 5 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len5.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0006",
+    "name": "Судебный участок № 6 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len6.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0007",
+    "name": "Судебный участок № 7 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len7.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0008",
+    "name": "Судебный участок № 8 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len8.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0009",
+    "name": "Судебный участок № 9 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len9.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0013",
+    "name": "Судебный участок № 2 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625001, г Тюмень, ул Льва Толстого, д 35",
+    "legal_address": null,
+    "website": "http://kalin2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0014",
+    "name": "Судебный участок № 3 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625008, г Тюмень, ул Московский тракт, д 14А",
+    "legal_address": null,
+    "website": "http://kalin3.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0015",
+    "name": "Судебный участок № 4 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625008, г Тюмень, ул Московский тракт, д 14А",
+    "legal_address": null,
+    "website": "http://kalin4.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0016",
+    "name": "Судебный участок № 5 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625008, г Тюмень, ул Московский тракт, д 14А",
+    "legal_address": null,
+    "website": "http://kalin5.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0017",
+    "name": "Судебный участок № 6 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625008, г Тюмень, ул Московский тракт, д 14А",
+    "legal_address": null,
+    "website": "http://kalin6.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0018",
+    "name": "Судебный участок № 7 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625008, г Тюмень, ул Московский тракт, д 14А",
+    "legal_address": null,
+    "website": "http://kalin7.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0019",
+    "name": "Судебный участок № 8 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625008, г Тюмень, ул Московский тракт, д 14А",
+    "legal_address": null,
+    "website": "http://kalin8.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0010",
+    "name": "Судебный участок № 10 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625048, г Тюмень, ул 50 лет Октября, д 12 к 1",
+    "legal_address": null,
+    "website": "http://len10.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0011",
+    "name": "Судебный участок № 11 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625048, г Тюмень, ул 50 лет Октября, д 12 к 1",
+    "legal_address": null,
+    "website": "http://len11.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0020",
+    "name": "Судебный участок № 1 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625003, г Тюмень, ул Республики, д 6",
+    "legal_address": null,
+    "website": "http://cen1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0029",
+    "name": "Судебный участок № 2 Ишимского судебного района г. Ишима",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627755, Тюменская обл, г Ишим, ул Республики, зд 1",
+    "legal_address": null,
+    "website": "http://ishimg2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0021",
+    "name": "Судебный участок № 2 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625003, г Тюмень, ул Республики, д 6",
+    "legal_address": null,
+    "website": "http://cen2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0022",
+    "name": "Судебный участок № 3 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625003, г Тюмень, ул Республики, д 6",
+    "legal_address": null,
+    "website": "http://cen3.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0023",
+    "name": "Судебный участок № 4 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625003, г Тюмень, ул Республики, д 6",
+    "legal_address": null,
+    "website": "http://cen4.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0024",
+    "name": "Судебный участок № 5 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625031, г Тюмень, ул Ветеранов труда, д 7/1",
+    "legal_address": null,
+    "website": "http://cen5.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0025",
+    "name": "Судебный участок № 6 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625031, г Тюмень, ул Ветеранов труда, д 7/1",
+    "legal_address": null,
+    "website": "http://cen6.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0026",
+    "name": "Судебный участок № 7 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625031, г Тюмень, ул Ветеранов труда, д 7/1",
+    "legal_address": null,
+    "website": "http://cen7.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0027",
+    "name": "Судебный участок № 8 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625027, г Тюмень, ул 50 лет Октября, д 36 к 1",
+    "legal_address": null,
+    "website": "http://cen8.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0032",
+    "name": "Судебный участок № 2 Ишимского судебного района Ишимского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627755, Тюменская обл, г Ишим, ул Республики, зд 1",
+    "legal_address": null,
+    "website": "http://ishimr2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0034",
+    "name": "Судебный участок № 2 Тобольского судебного района г. Тобольска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626150, Тюменская обл, г Тобольск, ул Мира, д 9",
+    "legal_address": null,
+    "website": "http://gtob2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0039",
+    "name": "Судебный участок № 2 Ялуторовского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627016, Тюменская обл, г Ялуторовск, ул Русакова, д 11",
+    "legal_address": null,
+    "website": "http://gyalut1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0030",
+    "name": "Судебный участок № 3 Ишимского судебного района г. Ишима",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627755, Тюменская обл, г Ишим, ул Республики, зд 1",
+    "legal_address": null,
+    "website": "http://ishimg3.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0035",
+    "name": "Судебный участок № 3 Тобольского судебного района г. Тобольска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626150, Тюменская обл, г Тобольск, мкр 6, д 120Б/1",
+    "legal_address": null,
+    "website": "http://gtob3.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0036",
+    "name": "Судебный участок № 4 Тобольского судебного района г. Тобольска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626150, Тюменская обл, г Тобольск, ул Мира, д 9",
+    "legal_address": null,
+    "website": "http://gtob4.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0037",
+    "name": "Судебный участок № 5 Тобольского судебного района г. Тобольска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626150, Тюменская обл, г Тобольск, мкр 6, д 120Б/1",
+    "legal_address": null,
+    "website": "http://gtob5.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0041",
+    "name": "Судебный участок № 1 Ялуторовского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627016, Тюменская обл, г Ялуторовск, ул Русакова, д 11",
+    "legal_address": null,
+    "website": "http://ryalut1.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0043",
+    "name": "Судебный участок № 2 Заводоуковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627144, Тюменская обл, г Заводоуковск, ул Васильковая, зд 6",
+    "legal_address": null,
+    "website": "http://rzavod2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0045",
+    "name": "Судебный участок № 2 Тюменского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625018, г Тюмень, ул Московский тракт, д 175 к 1",
+    "legal_address": null,
+    "website": "http://rtyum2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0046",
+    "name": "Судебный участок № 3 Тюменского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625018, г Тюмень, ул Московский тракт, д 175 к 1",
+    "legal_address": null,
+    "website": "http://rtyum3.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0040",
+    "name": "Судебный участок № 3 Ялуторовского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627016, Тюменская обл, г Ялуторовск, ул Русакова, д 11",
+    "legal_address": null,
+    "website": "http://gyalut2.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0047",
+    "name": "Судебный участок № 4 Тюменского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625520, Тюменская обл, Тюменский р-н, рп Богандинский, ул Энергетиков, д 4А",
+    "legal_address": null,
+    "website": "http://rtyum4.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0050",
+    "name": "Судебный участок № 2 Голышмановского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627350, Тюменская обл, с Аромашево, ул Ленина, д 170",
+    "legal_address": null,
+    "website": "http://aromash.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0061",
+    "name": "Судебный участок № 1 Уватского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626170, Тюменская обл, с Уват, ул Октябрьская, д 61",
+    "legal_address": null,
+    "website": "http://uvat.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0064",
+    "name": "Судебный участок № 1 Ярковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626050, Тюменская обл, с Ярково, ул Дзержинского, д 34",
+    "legal_address": null,
+    "website": "http://yarkovo.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0063",
+    "name": "Судебный участок № 2 Омутинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627250, Тюменская обл, с Юргинское, ул Чапаева, д 73",
+    "legal_address": null,
+    "website": "http://yurga.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0062",
+    "name": "Судебный участок № 3 Заводоуковского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "627180, Тюменская обл, с Упорово, ул Строителей, влд 2",
+    "legal_address": null,
+    "website": "http://uporovo.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0067",
+    "name": "Судебный участок № 5 Тюменского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625018, г Тюмень, ул Московский тракт, д 175 к 1",
+    "legal_address": null,
+    "website": "http://rtyum5.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0065",
+    "name": "Судебный участок № 12 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len12.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0066",
+    "name": "Судебный участок № 13 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625013, г Тюмень, ул Энергетиков, д 98",
+    "legal_address": null,
+    "website": "http://len13.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0068",
+    "name": "Судебный участок № 14 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625027, г Тюмень, ул 50 лет Октября, д 36 к 1",
+    "legal_address": null,
+    "website": "http://len14.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0069",
+    "name": "Судебный участок № 15 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625027, г Тюмень, ул 50 лет Октября, д 36 к 1",
+    "legal_address": null,
+    "website": "http://len15.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0074",
+    "name": "Судебный участок № 6 Тобольского судебного района г.Тобольска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "626150, Тюменская обл, г Тобольск, ул Семена Ремезова, д 124",
+    "legal_address": null,
+    "website": "http://gtob6.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0073",
+    "name": "Судебный участок № 6 Тюменского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625018, г Тюмень, ул Московский тракт, д 175 к 1",
+    "legal_address": null,
+    "website": "http://rtyum6.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0071",
+    "name": "Судебный участок № 9 Калининского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625008, г Тюмень, ул Московский тракт, д 14А",
+    "legal_address": null,
+    "website": "http://kalin9.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0072",
+    "name": "Судебный участок № 9 Центрального судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625027, г Тюмень, ул 50 лет Октября, д 36 к 1",
+    "legal_address": null,
+    "website": "http://cen9.tyum.msudrf.ru"
+  },
+  {
+    "code": "72MS0070",
+    "name": "Судебный участок № 16 Ленинского судебного района г. Тюмени",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "625027, г Тюмень, ул 50 лет Октября, д 36 к 1",
+    "legal_address": null,
+    "website": "http://len16.tyum.msudrf.ru"
+  }
+]

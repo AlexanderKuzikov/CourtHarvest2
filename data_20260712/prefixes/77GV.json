@@ -1,0 +1,202 @@
+[
+  {
+    "code": "77GV0022",
+    "name": "80 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "Республика Молдова, 3300-МД, г. Тирасполь-17, пер. Чкалова, д. 45",
+    "legal_address": null,
+    "website": "http://80gvs.msk.sudrf.ru/"
+  },
+  {
+    "code": "77GV0005",
+    "name": "235 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "107497, г Москва, ул Чусовская, д 1",
+    "legal_address": null,
+    "website": "http://235gvs.msk.sudrf.ru"
+  },
+  {
+    "code": "77GV0018",
+    "name": "Брянский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "241020, г Брянск, ул 2-я Аллея, д 12",
+    "legal_address": null,
+    "website": "http://gvs.brj.sudrf.ru"
+  },
+  {
+    "code": "77GV0008",
+    "name": "Владимирский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "600021, г Владимир, ул Красноармейская, д 47В",
+    "legal_address": null,
+    "website": "http://gvs.wld.sudrf.ru"
+  },
+  {
+    "code": "77GV0012",
+    "name": "Воронежский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "394055, г Воронеж, ул Космонавтов, д 58",
+    "legal_address": null,
+    "website": "http://gvs.vrn.sudrf.ru"
+  },
+  {
+    "code": "77GV0010",
+    "name": "Ивановский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "153006, г Иваново, ул 1-я Сосневская, д 31",
+    "legal_address": null,
+    "website": "http://gvs.iwn.sudrf.ru"
+  },
+  {
+    "code": "77GV0014",
+    "name": "Калужский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "248017, г Калуга, пер Воинский, д 2",
+    "legal_address": null,
+    "website": "http://kgvs.klg.sudrf.ru"
+  },
+  {
+    "code": "77GV0020",
+    "name": "Курский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "305000, г Курск, ул Сонина, зд 4",
+    "legal_address": null,
+    "website": "http://gvs.krs.sudrf.ru/"
+  },
+  {
+    "code": "77GV0001",
+    "name": "Московский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "125284, г Москва, ш Хорошёвское, д 38Д",
+    "legal_address": null,
+    "website": "http://moskovskygvs.msk.sudrf.ru/"
+  },
+  {
+    "code": "77GV0017",
+    "name": "Наро-Фоминский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "143301, Московская обл, г Наро-Фоминск, ш Кубинское, стр 6",
+    "legal_address": null,
+    "website": "http://nfgvs.mo.sudrf.ru"
+  },
+  {
+    "code": "77GV0009",
+    "name": "Нижегородский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "603157, Нижегородская обл, г Нижний Новгород, ул Страж Революции, д 9А",
+    "legal_address": null,
+    "website": "http://nizegorodskygvs.nnov.sudrf.ru"
+  },
+  {
+    "code": "77GV0004",
+    "name": "Одинцовский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "143005, Московская обл, г Одинцово, ул Вокзальная, д 51",
+    "legal_address": null,
+    "website": "http://ogvs.mo.sudrf.ru"
+  },
+  {
+    "code": "77GV0003",
+    "name": "Реутовский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "143968, Московская обл, г Реутов, ул Победы, д 28",
+    "legal_address": null,
+    "website": "http://rgvs.mo.sudrf.ru"
+  },
+  {
+    "code": "77GV0002",
+    "name": "Рязанский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "390000, г Рязань, пр-кт Первомайский, д 22",
+    "legal_address": null,
+    "website": "http://rgvs.riz.sudrf.ru"
+  },
+  {
+    "code": "77GV0021",
+    "name": "Смоленский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "214004, г Смоленск, ул Николаева, д 22",
+    "legal_address": null,
+    "website": "http://sgvs.sml.sudrf.ru"
+  },
+  {
+    "code": "77GV0006",
+    "name": "Солнечногорский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "141506, Московская обл, г Солнечногорск, ул Красноармейская, д 8",
+    "legal_address": null,
+    "website": "http://sgvs.mo.sudrf.ru"
+  },
+  {
+    "code": "77GV0016",
+    "name": "Тамбовский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "392005, Тамбовская обл., г.Тамбов, ул. Астраханская, военный городок 1, строение 1/15",
+    "legal_address": null,
+    "website": "http://tgvs.tmb.sudrf.ru"
+  },
+  {
+    "code": "77GV0011",
+    "name": "Тверской гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "170034, г Тверь, ул Дарвина, д 7",
+    "legal_address": null,
+    "website": "http://tverskoy.twr.sudrf.ru"
+  },
+  {
+    "code": "77GV0015",
+    "name": "Тульский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "300041, г Тула, ул Советская, д 13",
+    "legal_address": null,
+    "website": "http://gvs.tula.sudrf.ru/"
+  },
+  {
+    "code": "77GV0013",
+    "name": "Ярославский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "150043, г Ярославль, ул Карла Либкнехта, д 20/9",
+    "legal_address": null,
+    "website": "http://yargvs.jrs.sudrf.ru"
+  }
+]

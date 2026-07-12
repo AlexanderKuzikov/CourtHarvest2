@@ -1,0 +1,102 @@
+[
+  {
+    "code": "07RS0002",
+    "name": "Баксанский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361535, Респ Кабардино-Балкарская, г Баксан, ул Панаиоти, д 120",
+    "legal_address": null,
+    "website": "http://baksanskyray.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0010",
+    "name": "Зольский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361701, Респ Кабардино-Балкарская, Зольский р-н, п Залукокоаже, ул Комсомольская, д 52",
+    "legal_address": null,
+    "website": "http://zolsky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0005",
+    "name": "Майский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361115, Респ Кабардино-Балкарская, г Майский, ул Ленина, зд 20",
+    "legal_address": null,
+    "website": "http://maysky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0001",
+    "name": "Нальчикский городской суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "360004, г Нальчик, ул Мечиева, д 176",
+    "legal_address": null,
+    "website": "http://nalchiksky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0006",
+    "name": "Прохладненский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361045, Респ Кабардино-Балкарская, г Прохладный, ул Карла Маркса, д 36",
+    "legal_address": null,
+    "website": "http://prohladnensky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0008",
+    "name": "Терский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361201, Респ Кабардино-Балкарская, г Терек, ул Мамхегова, д 38",
+    "legal_address": null,
+    "website": "http://tersky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0003",
+    "name": "Урванский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361335, Респ Кабардино-Балкарская, г Нарткала, ул Красная, д 263",
+    "legal_address": null,
+    "website": "http://urvansky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0004",
+    "name": "Чегемский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361401, Респ Кабардино-Балкарская, г Чегем, ул Героя России Кярова А.С., д 20",
+    "legal_address": null,
+    "website": "http://chegemsky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0007",
+    "name": "Черекский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361801, Респ Кабардино-Балкарская, пгт Кашхатау, ул Мечиева, д 98",
+    "legal_address": null,
+    "website": "http://chereksky.kbr.sudrf.ru"
+  },
+  {
+    "code": "07RS0009",
+    "name": "Эльбрусский районный суд Кабардино-Балкарской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "361621, Респ Кабардино-Балкарская, г Тырныауз, ул Энеева, зд 11А",
+    "legal_address": null,
+    "website": "http://elbrussky.kbr.sudrf.ru"
+  }
+]

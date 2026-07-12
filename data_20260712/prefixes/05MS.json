@@ -1,0 +1,1312 @@
+[
+  {
+    "code": "05MS0001",
+    "name": "Судебный участок № 1 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://1.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0002",
+    "name": "Судебный участок № 2 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://2.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0003",
+    "name": "Судебный участок № 3 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://3.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0004",
+    "name": "Судебный участок № 4 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://4.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0005",
+    "name": "Судебный участок № 5 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://5.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0006",
+    "name": "Судебный участок № 6 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://6.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0007",
+    "name": "Судебный участок № 7 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://7.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0008",
+    "name": "Судебный участок № 8 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://8.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0009",
+    "name": "Судебный участок № 9 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://9.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0010",
+    "name": "Судебный участок № 10 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://10.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0011",
+    "name": "Судебный участок № 11 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://11.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0012",
+    "name": "Судебный участок № 12 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://12.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0013",
+    "name": "Судебный участок № 13 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://13.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0014",
+    "name": "Судебный участок № 14 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://14.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0015",
+    "name": "Судебный участок № 15 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://15.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0016",
+    "name": "Судебный участок № 16 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://16.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0017",
+    "name": "Судебный участок № 17 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://17.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0018",
+    "name": "Судебный участок № 18 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://18.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0019",
+    "name": "Судебный участок № 19 г. Буйнакска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368220, Респ Дагестан, г Буйнакск, ул Ш.Шамхалова, д 1",
+    "legal_address": null,
+    "website": "http://19.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0020",
+    "name": "Судебный участок № 20 г. Буйнакска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368220, Респ Дагестан, г Буйнакск, ул Ш.Шамхалова, д 1",
+    "legal_address": null,
+    "website": "http://20.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0021",
+    "name": "Судебный участок № 21 г. Дагестанские Огни",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368670, Респ Дагестан, г Дагестанские Огни, ул Владимира Ильича Ленина, д 4",
+    "legal_address": null,
+    "website": "http://21.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0022",
+    "name": "Судебный участок № 22 г. Дербента",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Виноградная, д 1",
+    "legal_address": null,
+    "website": "http://22.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0023",
+    "name": "Судебный участок № 23 г. Дербента",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Виноградная, д 1",
+    "legal_address": null,
+    "website": "http://23.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0024",
+    "name": "Судебный участок № 24 г. Дербента",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368601, Респ Дагестан, г Дербент, ул С.Стальского, д 24",
+    "legal_address": null,
+    "website": "http://24.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0025",
+    "name": "Судебный участок № 25 г. Избербаша",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368501, Респ Дагестан, г Избербаш, ул Чапаева, зд 15",
+    "legal_address": null,
+    "website": "http://25.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0026",
+    "name": "Судебный участок № 26 г. Избербаша",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368501, Респ Дагестан, г Избербаш, ул Чапаева, зд 15",
+    "legal_address": null,
+    "website": "http://26.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0027",
+    "name": "Судебный участок № 27 г. Каспийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368305, Респ Дагестан, г Каспийск, ул Советская, д 17",
+    "legal_address": null,
+    "website": "http://27.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0028",
+    "name": "Судебный участок № 28 г. Каспийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368305, Респ Дагестан, г Каспийск, ул Советская, д 17",
+    "legal_address": null,
+    "website": "http://28.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0029",
+    "name": "Судебный участок № 29 г. Каспийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368305, Респ Дагестан, г Каспийск, ул Советская, д 17",
+    "legal_address": null,
+    "website": "http://29.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0030",
+    "name": "Судебный участок № 30 г. Кизилюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368121, Респ Дагестан, г Кизилюрт, пр-кт Им Шамиля, д 4А",
+    "legal_address": null,
+    "website": "http://30.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0031",
+    "name": "Судебный участок № 31 г. Кизилюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368121, Респ Дагестан, г Кизилюрт, пр-кт Им Шамиля, д 4А",
+    "legal_address": null,
+    "website": "http://31.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0032",
+    "name": "Судебный участок № 32 г. Кизляра",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368830, Респ Дагестан, г Кизляр, ул Первомайская, д 13",
+    "legal_address": null,
+    "website": "http://32.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0033",
+    "name": "Судебный участок № 33 г. Кизляра",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368830, Респ Дагестан, г Кизляр, ул Первомайская, д 13",
+    "legal_address": null,
+    "website": "http://33.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0034",
+    "name": "Судебный участок № 34 г. Хасавюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368002, Респ Дагестан, г Хасавюрт, ул Экскаваторная, д 2А",
+    "legal_address": null,
+    "website": "http://34.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0035",
+    "name": "Судебный участок № 35 г. Хасавюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368002, Респ Дагестан, г Хасавюрт, ул Экскаваторная, д 2А",
+    "legal_address": null,
+    "website": "http://35.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0036",
+    "name": "Судебный участок № 36 г. Хасавюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368002, Респ Дагестан, г Хасавюрт, ул Экскаваторная, д 2А",
+    "legal_address": null,
+    "website": "http://36.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0037",
+    "name": "Судебный участок № 37 г. Южно-Сухокумска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368890, Респ Дагестан, г Южно-Сухокумск, ул им. Гаджи Махачева, д 6",
+    "legal_address": null,
+    "website": "http://37.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0038",
+    "name": "Судебный участок № 38 Агульского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368380, Респ Дагестан, с Тпиг",
+    "legal_address": null,
+    "website": "http://38.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0039",
+    "name": "Судебный участок № 39 Акушинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368280, Респ Дагестан, с Акуша, ул Алигаджи Акушинского, д 34",
+    "legal_address": null,
+    "website": "http://39.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0040",
+    "name": "Судебный участок № 40 Акушинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368280, Респ Дагестан, с Акуша, ул Алигаджи Акушинского, д 34",
+    "legal_address": null,
+    "website": "http://40.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0041",
+    "name": "Судебный участок № 41 Ахвахского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368990, Респ Дагестан, с Карата, ул Бокохинская, д 7",
+    "legal_address": null,
+    "website": "http://41.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0042",
+    "name": "Судебный участок № 42 Ахтынского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368730, Респ Дагестан, с Ахты, ул Перина Перинова, д 1",
+    "legal_address": null,
+    "website": "http://42.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0043",
+    "name": "Судебный участок № 43 Бабаюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368060, Респ Дагестан, с Бабаюрт, ул Дж.Алиева, д 24",
+    "legal_address": null,
+    "website": "http://43.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0044",
+    "name": "Судебный участок № 44 Бабаюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368060, Респ Дагестан, с Бабаюрт, ул Дж.Алиева, д 24",
+    "legal_address": null,
+    "website": "http://44.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0045",
+    "name": "Судебный участок № 45 Ботлихского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368970, Респ Дагестан, с Ботлих, ул Заводская, зд 30",
+    "legal_address": null,
+    "website": "http://45.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0046",
+    "name": "Судебный участок № 46 Буйнакского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368220, Республика Дагестан, Буйнакский район, г. Буйнакск, ул. Шамхалова, д. 1",
+    "legal_address": null,
+    "website": "http://46.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0047",
+    "name": "Судебный участок № 47 Буйнакского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368220, Республика Дагестан, Буйнакский район, г. Буйнакск, ул. Шамхалова, д. 1",
+    "legal_address": null,
+    "website": "http://47.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0048",
+    "name": "Судебный участок № 48 Гергебильского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368250, Респ Дагестан, с Гергебиль, ул Абулмуслимова Абулмуслима, д 13",
+    "legal_address": null,
+    "website": "http://48.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0049",
+    "name": "Судебный участок № 49 Гумбетовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368930, Респ Дагестан, с Мехельта",
+    "legal_address": null,
+    "website": "http://49.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0050",
+    "name": "Судебный участок № 50 Гунибского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368340, Респ Дагестан, с Гуниб, ул Имени Имама Шамиля, д 105А",
+    "legal_address": null,
+    "website": "http://50.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0051",
+    "name": "Судебный участок № 51 Дахадаевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368570, Респ Дагестан, с Уркарах",
+    "legal_address": null,
+    "website": "http://51.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0052",
+    "name": "Судебный участок № 52 Дербентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Виноградная, д 1",
+    "legal_address": null,
+    "website": "http://52.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0053",
+    "name": "Судебный участок № 53 Дербентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Виноградная, д 1",
+    "legal_address": null,
+    "website": "http://53.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0054",
+    "name": "Судебный участок № 54 Дербентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Виноградная, д 1",
+    "legal_address": null,
+    "website": "http://54.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0055",
+    "name": "Судебный участок № 55 Докузпаринского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368750, Республика Дагестан, Докузпаринский район, с. Усух-Чай",
+    "legal_address": null,
+    "website": "http://55.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0056",
+    "name": "Судебный участок № 56 Казбековского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368140, Респ Дагестан, с Дылым, ул Гамзатхана Гереева, д 11",
+    "legal_address": null,
+    "website": "http://56.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0057",
+    "name": "Судебный участок № 57 Кайтагского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368590, Респ Дагестан, с Маджалис, ул Алисултанова, зд 29",
+    "legal_address": null,
+    "website": "http://57.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0058",
+    "name": "Судебный участок № 58 Карабудахкентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368530, Респ Дагестан, с Карабудахкент, ул Гамзатова, д 22",
+    "legal_address": null,
+    "website": "http://58.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0059",
+    "name": "Судебный участок № 59 Карабудахкентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368530, Респ Дагестан, с Карабудахкент",
+    "legal_address": null,
+    "website": "http://59.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0060",
+    "name": "Судебный участок № 60 Каякентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368560, Респ Дагестан, с Новокаякент, ул Буйнакского, зд 1А",
+    "legal_address": null,
+    "website": "http://60.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0061",
+    "name": "Судебный участок № 61 Каякентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368560, Респ Дагестан, с Новокаякент, ул Буйнакского, зд 1А",
+    "legal_address": null,
+    "website": "http://61.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0062",
+    "name": "Судебный участок № 62 Кизилюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368100, Республика Дагестан, Кизилюртовский район, г. Кизилюрт, про-т. , Шамиля, д. 4-а",
+    "legal_address": null,
+    "website": "http://62.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0063",
+    "name": "Судебный участок № 63 Кизилюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368100, Республика Дагестан, Кизилюртовский район, г. Кизилюрт, про-т. , Шамиля, д. 4-а",
+    "legal_address": null,
+    "website": "http://63.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0064",
+    "name": "Судебный участок № 64 Кизлярского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368830, Респ Дагестан, г Кизляр, ул Первомайская, д 13",
+    "legal_address": null,
+    "website": "http://64.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0065",
+    "name": "Судебный участок № 65 Кизлярского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368830, Респ Дагестан, г Кизляр, ул Первомайская, д 13",
+    "legal_address": null,
+    "website": "http://65.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0066",
+    "name": "Судебный участок № 66 Кулинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368390, Респ Дагестан, с Вачи, ул Гаруна Саидова, зд 81",
+    "legal_address": null,
+    "website": "http://66.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0067",
+    "name": "Судебный участок № 67 Кумторкалинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368080, Респ Дагестан, с Коркмаскала, ул Сталина, д 51",
+    "legal_address": null,
+    "website": "http://67.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0068",
+    "name": "Судебный участок № 68 Курахского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368180, Респ Дагестан, с Курах",
+    "legal_address": null,
+    "website": "http://68.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0069",
+    "name": "Судебный участок № 69 Лакского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368360, Респ Дагестан, с Кумух",
+    "legal_address": null,
+    "website": "http://69.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0070",
+    "name": "Судебный участок № 70 Левашинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368320, Респ Дагестан, с Леваши",
+    "legal_address": null,
+    "website": "http://70.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0071",
+    "name": "Судебный участок № 71 Левашинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368320, Респ Дагестан, с Леваши",
+    "legal_address": null,
+    "website": "http://71.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0072",
+    "name": "Судебный участок № 72 Магарамкентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368780, Республика Дагестан, Магарамкентский район, с. Магарамкент, ул. А. Р. Исмаилова, д. 1, этаж 3",
+    "legal_address": null,
+    "website": "http://72.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0073",
+    "name": "Судебный участок № 73 Магарамкентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368780, Респ Дагестан, с Магарамкент, ул Абдурашида Исмаилова, д 1",
+    "legal_address": null,
+    "website": "http://73.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0074",
+    "name": "Судебный участок № 74 Новолакского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368160, Респ Дагестан, с Новолакское, ул Мирзоева Ю., д 36",
+    "legal_address": null,
+    "website": "http://74.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0075",
+    "name": "Судебный участок № 75 Ногайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368850, Респ Дагестан, с Терекли-Мектеб, ул К.Маркса, д 17",
+    "legal_address": null,
+    "website": "http://75.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0076",
+    "name": "Судебный участок № 76 Рутульского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368700, Респ Дагестан, с Рутул",
+    "legal_address": null,
+    "website": "http://76.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0077",
+    "name": "Судебный участок № 77 Сергокалинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368510, Респ Дагестан, с Сергокала, ул 317 Стрелковой Дивизии, д 31А",
+    "legal_address": null,
+    "website": "http://77.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0078",
+    "name": "Судебный участок № 78 Сулейман-Стальского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368760, Респ Дагестан, с Касумкент, ул Мусаиба Стальского, зд 5",
+    "legal_address": null,
+    "website": "http://78.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0079",
+    "name": "Судебный участок № 79 Сулейман-Стальского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368760, Респ Дагестан, с Касумкент, ул Мусаиба Стальского, зд 5",
+    "legal_address": null,
+    "website": "http://79.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0080",
+    "name": "Судебный участок № 80 Табасаранского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368650, Респ Дагестан, с Хучни, ул Набережная, д 50",
+    "legal_address": null,
+    "website": "http://80.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0081",
+    "name": "Судебный участок № 81 Табасаранского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368650, Респ Дагестан, с Хучни, ул Набережная, д 50",
+    "legal_address": null,
+    "website": "http://81.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0082",
+    "name": "Судебный участок № 82 Тарумовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368870 Республика Дагестан, с. Тарумовка, ул. Ш.М. Магомедова, lд. 40/1",
+    "legal_address": null,
+    "website": "http://82.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0083",
+    "name": "Судебный участок № 83 Тляратинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368420, Респ Дагестан, с Тлярата",
+    "legal_address": null,
+    "website": "http://83.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0084",
+    "name": "Судебный участок № 84 Унцукульского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368950, Респ Дагестан, Унцукульский р-н, пгт Шамилькала",
+    "legal_address": null,
+    "website": "http://84.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0085",
+    "name": "Судебный участок № 85 Хасавюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368000, Республика Дагестан, Хасавюртовский район, г. Хасавюрт, ул. Экскаваторная, д. 2а",
+    "legal_address": null,
+    "website": "http://85.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0086",
+    "name": "Судебный участок № 86 Хасавюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368002, Респ Дагестан, г Хасавюрт, ул Экскаваторная, д 2А",
+    "legal_address": null,
+    "website": "http://86.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0087",
+    "name": "Судебный участок № 87 Хасавюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368000, Республика Дагестан, Хасавюртовский район, г. Хасавюрт, ул. Экскаваторная, д. 2а",
+    "legal_address": null,
+    "website": "http://87.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0088",
+    "name": "Судебный участок № 88 Хивского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368680, Респ Дагестан, с Хив",
+    "legal_address": null,
+    "website": "http://88.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0089",
+    "name": "Судебный участок № 89 Хунзахского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368260, Респ Дагестан, с Хунзах",
+    "legal_address": null,
+    "website": "http://89.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0090",
+    "name": "Судебный участок № 90 Цумадинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368900, Республика Дагестан, Цумадинский район, с. Агвали, ул. Правосудия, д. 1",
+    "legal_address": null,
+    "website": "http://90.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0091",
+    "name": "Судебный участок № 91 Цунтинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368412, Респ Дагестан, Цунтинский р-н, с Кидеро",
+    "legal_address": null,
+    "website": "http://91.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0092",
+    "name": "Судебный участок № 92 Чародинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368450, Респ Дагестан, с Цуриб, ул Имама Шамиля, д 2",
+    "legal_address": null,
+    "website": "http://92.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0093",
+    "name": "Судебный участок № 93 Шамильского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368430, Респ Дагестан, с Хебда, ул Имама Шамиля, д 34",
+    "legal_address": null,
+    "website": "http://93.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0094",
+    "name": "Судебный участок № 94 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://94.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0095",
+    "name": "Судебный участок № 95 Кировского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367009, г Махачкала, ул Керимова, д 7/6",
+    "legal_address": null,
+    "website": "http://95.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0096",
+    "name": "Судебный участок № 96 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://96.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0097",
+    "name": "Судебный участок № 97 Ленинского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://97.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0098",
+    "name": "Судебный участок № 98 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://98.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0099",
+    "name": "Судебный участок № 99 Советского района г. Махачкалы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "367913, г Махачкала, ул Ирчи Казака, д 2А",
+    "legal_address": null,
+    "website": "http://99.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0100",
+    "name": "Судебный участок № 100 г. Буйнакска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368220, Респ Дагестан, г Буйнакск, ул Ленина, д 23",
+    "legal_address": null,
+    "website": "http://100.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0101",
+    "name": "Судебный участок № 101 г. Дербента",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Гейдара Алиева, д 15",
+    "legal_address": null,
+    "website": "http://101.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0102",
+    "name": "Судебный участок № 102 г. Дербента",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368601, Респ Дагестан, г Дербент, ул С.Стальского, д 24",
+    "legal_address": null,
+    "website": "http://102.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0103",
+    "name": "Судебный участок № 103 г. Каспийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368300, Респ Дагестан, г Каспийск, ул Гамзата Цадасы, д 43А",
+    "legal_address": null,
+    "website": "http://103.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0104",
+    "name": "Судебный участок № 104 г. Каспийска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368300, Респ Дагестан, г Каспийск, ул Гамзата Цадасы, д 43А",
+    "legal_address": null,
+    "website": "http://104.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0105",
+    "name": "Судебный участок № 105 г. Кизляра",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368830, Респ Дагестан, г Кизляр, ул Первомайская, д 13",
+    "legal_address": null,
+    "website": "http://105.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0106",
+    "name": "Судебный участок № 106 г. Хасавюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368002, Респ Дагестан, г Хасавюрт, ул Экскаваторная, д 2А",
+    "legal_address": null,
+    "website": "http://106.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0107",
+    "name": "Судебный участок № 107 г. Хасавюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368002, Респ Дагестан, г Хасавюрт, ул Экскаваторная, д 2А",
+    "legal_address": null,
+    "website": "http://107.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0108",
+    "name": "Судебный участок № 108 г. Хасавюрта",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368002, Респ Дагестан, г Хасавюрт, ул Экскаваторная, д 2А",
+    "legal_address": null,
+    "website": "http://108.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0109",
+    "name": "Судебный участок № 109 Акушинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368280, Респ Дагестан, с Акуша, ул Алигаджи Акушинского",
+    "legal_address": null,
+    "website": "http://109.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0110",
+    "name": "Судебный участок № 110 Ахтынского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368730, Респ Дагестан, с Ахты, ул Арсена Байрамова, д 1",
+    "legal_address": null,
+    "website": "http://110.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0111",
+    "name": "Судебный участок № 111 Ботлихского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368970, Республика Дагестан, Ботлихский район, с. Н. Ботлих",
+    "legal_address": null,
+    "website": "http://111.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0112",
+    "name": "Судебный участок № 112 Буйнакского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368220, Респ Дагестан, г Буйнакск, ул Ленина, д 23",
+    "legal_address": null,
+    "website": "http://112.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0113",
+    "name": "Судебный участок № 113 Дахадаевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368570, Респ Дагестан, с Уркарах",
+    "legal_address": null,
+    "website": "http://113.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0114",
+    "name": "Судебный участок № 114 Дербентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Виноградная, д 1",
+    "legal_address": null,
+    "website": "http://114.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0115",
+    "name": "Судебный участок № 115 Дербентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368600, Респ Дагестан, г Дербент, ул Виноградная, д 1",
+    "legal_address": null,
+    "website": "http://115.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0116",
+    "name": "Судебный участок № 116 Казбековского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368140, Респ Дагестан, с Дылым, ул Гамзатхана Гереева, д 11",
+    "legal_address": null,
+    "website": "http://116.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0117",
+    "name": "Судебный участок № 117 Карабудахкентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368530, Респ Дагестан, с Карабудахкент",
+    "legal_address": null,
+    "website": "http://117.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0118",
+    "name": "Судебный участок № 118 Каякентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368560, Респ Дагестан, с Новокаякент, ул Буйнакского, зд 1А",
+    "legal_address": null,
+    "website": "http://118.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0119",
+    "name": "Судебный участок № 119 Кизилюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368100, Республика Дагестан, Кизилюртовский район, г. Кизилюрт, проспект Шамиля, д. 4-а",
+    "legal_address": null,
+    "website": "http://119.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0120",
+    "name": "Судебный участок № 120 Кизлярского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368830, Республика Дагестан, Кизлярский район, г. Кизляр, ул. Первомайская, д. 13",
+    "legal_address": null,
+    "website": "http://120.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0121",
+    "name": "Судебный участок № 121 Левашинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368320, Респ Дагестан, с Леваши",
+    "legal_address": null,
+    "website": "http://121.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0122",
+    "name": "Судебный участок № 122 Магарамкентского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368780, Респ Дагестан, с Магарамкент, ул Абдурашида Исмаилова, д 1",
+    "legal_address": null,
+    "website": "http://122.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0123",
+    "name": "Судебный участок № 123 Сергокалинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368510, Респ Дагестан, с Сергокала, ул 317 Стрелковой Дивизии, д 31А",
+    "legal_address": null,
+    "website": "http://123.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0124",
+    "name": "Судебный участок № 124 Сулейман-Стальского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368760, Респ Дагестан, с Касумкент, ул Мусаиба Стальского",
+    "legal_address": null,
+    "website": "http://124.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0125",
+    "name": "Судебный участок № 125 Табасаранского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368650, Респ Дагестан, с Хучни, ул Набережная, д 50",
+    "legal_address": null,
+    "website": "http://125.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0126",
+    "name": "Судебный участок № 126 Тарумовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368870, Респ Дагестан, с Тарумовка, ул Шамиля Магомедова, д 40 к 1",
+    "legal_address": null,
+    "website": "http://126.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0127",
+    "name": "Судебный участок № 127 Унцукульского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368940, Респ Дагестан, с Унцукуль",
+    "legal_address": null,
+    "website": "http://127.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0128",
+    "name": "Судебный участок № 128 Хасавюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368000, Республика Дагестан, Хасавюртовский район, г. Хасавюрт, ул. Экскаваторная, д. 2а",
+    "legal_address": null,
+    "website": "http://128.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0129",
+    "name": "Судебный участок № 129 Хасавюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368000, Республика Дагестан, Хасавюртовский район, г. Хасавюрт, ул. Экскаваторная, д. 2а",
+    "legal_address": null,
+    "website": "http://129.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0130",
+    "name": "Судебный участок № 130 Хасавюртовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368000, Республика Дагестан, Хасавюртовский район, г. Хасавюрт, ул. Экскаваторная, д. 2а",
+    "legal_address": null,
+    "website": "http://130.dag.msudrf.ru"
+  },
+  {
+    "code": "05MS0131",
+    "name": "Судебный участок № 131 Хунзахского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "368260, Респ Дагестан, Хунзахский р-н, с Арани",
+    "legal_address": null,
+    "website": "http://131.dag.msudrf.ru"
+  }
+]

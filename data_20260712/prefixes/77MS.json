@@ -1,0 +1,4712 @@
+[
+  {
+    "code": "77MS0001",
+    "name": "Судебный участок № 1 района Матушкино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124681, г Москва, г Зеленоград, к 200Г",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/1"
+  },
+  {
+    "code": "77MS0002",
+    "name": "Судебный участок № 2 района Савёлки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124489, г Москва, г Зеленоград, к 706",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/2"
+  },
+  {
+    "code": "77MS0003",
+    "name": "Судебный участок № 3 района Савёлки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124489, г Москва, г Зеленоград, к 706",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/3"
+  },
+  {
+    "code": "77MS0004",
+    "name": "Судебный участок № 4 района Старое Крюково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124527, г Москва, г Зеленоград, к 856",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/4"
+  },
+  {
+    "code": "77MS0005",
+    "name": "Судебный участок № 5 района Силино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124527, г Москва, г Зеленоград, к 856",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/5"
+  },
+  {
+    "code": "77MS0006",
+    "name": "Судебный участок № 6 района Силино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124527, г Москва, г Зеленоград, к 856",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/6"
+  },
+  {
+    "code": "77MS0007",
+    "name": "Судебный участок № 7 района Крюково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124617, г Москва, г Зеленоград, к 1443",
+    "legal_address": null,
+    "website": "http://mos-sud.ru"
+  },
+  {
+    "code": "77MS0008",
+    "name": "Судебный участок № 8 района Крюково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124365, г Москва, г Зеленоград, к 1801Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/8"
+  },
+  {
+    "code": "77MS0009",
+    "name": "Судебный участок № 9 района Крюково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124683, г Москва, г Зеленоград, к 1543",
+    "legal_address": null,
+    "website": "http://mos-sud.ru"
+  },
+  {
+    "code": "77MS0010",
+    "name": "Судебный участок № 10 района Котловка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117186, г Москва, ул Нагорная, д 26 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/10"
+  },
+  {
+    "code": "77MS0011",
+    "name": "Судебный участок № 11 района Котловка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117186, г Москва, ул Нагорная, д 26 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/11"
+  },
+  {
+    "code": "77MS0012",
+    "name": "Судебный участок № 12 района Зюзино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/12"
+  },
+  {
+    "code": "77MS0013",
+    "name": "Судебный участок № 13 района Зюзино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/13"
+  },
+  {
+    "code": "77MS0014",
+    "name": "Судебный участок № 14 района Зюзино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/14"
+  },
+  {
+    "code": "77MS0015",
+    "name": "Судебный участок № 15 района Северное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117628, г Москва, ул Грина, д 40 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/15"
+  },
+  {
+    "code": "77MS0016",
+    "name": "Судебный участок № 16 района Северное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117628, г Москва, ул Грина, д 40 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/16"
+  },
+  {
+    "code": "77MS0017",
+    "name": "Судебный участок № 17 района Северное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117628, г Москва, ул Грина, д 40 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/17"
+  },
+  {
+    "code": "77MS0018",
+    "name": "Судебный участок № 18 района Южное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117148, г Москва, ул Брусилова, д 31",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/18"
+  },
+  {
+    "code": "77MS0019",
+    "name": "Судебный участок № 19 района Южное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117623, г Москва, ул Старонародная, д 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/19"
+  },
+  {
+    "code": "77MS0020",
+    "name": "Судебный участок № 20 района Южное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117623, г Москва, ул Старонародная, д 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/20"
+  },
+  {
+    "code": "77MS0021",
+    "name": "Судебный участок № 21 района Нагатино-Садовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121351, г Москва, ул Бобруйская, д 4 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/21"
+  },
+  {
+    "code": "77MS0022",
+    "name": "Судебный участок № 22 района Нагатино-Садовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121351, г Москва, ул Бобруйская, д 4 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/22"
+  },
+  {
+    "code": "77MS0023",
+    "name": "Судебный участок № 23 района Москворечье-Сабурово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115408, г Москва, ул Братеевская, д 18 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/23"
+  },
+  {
+    "code": "77MS0024",
+    "name": "Судебный участок № 24 района Москворечье-Сабурово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115408, г Москва, ул Братеевская, д 18 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/24"
+  },
+  {
+    "code": "77MS0025",
+    "name": "Судебный участок № 25 района Царицыно",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/25"
+  },
+  {
+    "code": "77MS0026",
+    "name": "Судебный участок № 26 района Царицыно",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/26"
+  },
+  {
+    "code": "77MS0027",
+    "name": "Судебный участок № 27 района Царицыно",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/27"
+  },
+  {
+    "code": "77MS0028",
+    "name": "Судебный участок № 28 района Царицыно",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115201, г Москва, проезд Каширский, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/28"
+  },
+  {
+    "code": "77MS0029",
+    "name": "Судебный участок № 29 района Бирюлёво Восточное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/29"
+  },
+  {
+    "code": "77MS0030",
+    "name": "Судебный участок № 30 района Бирюлёво Восточное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115201, г Москва, проезд Каширский, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/30"
+  },
+  {
+    "code": "77MS0031",
+    "name": "Судебный участок № 31 района Бирюлёво Восточное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115201, г Москва, проезд Каширский, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/31"
+  },
+  {
+    "code": "77MS0032",
+    "name": "Судебный участок № 32 района Бирюлёво Восточное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115201, г Москва, проезд Каширский, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/32"
+  },
+  {
+    "code": "77MS0033",
+    "name": "Судебный участок № 33 района Орехово-Борисово Северное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/33"
+  },
+  {
+    "code": "77MS0034",
+    "name": "Судебный участок № 34 района Орехово-Борисово Северное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/34"
+  },
+  {
+    "code": "77MS0035",
+    "name": "Судебный участок № 35 района Орехово-Борисово Северное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/35"
+  },
+  {
+    "code": "77MS0036",
+    "name": "Судебный участок № 36 района Орехово-Борисово Северное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/36"
+  },
+  {
+    "code": "77MS0037",
+    "name": "Судебный участок № 37 района Братеево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115408, г Москва, ул Братеевская, д 16 к 6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/37"
+  },
+  {
+    "code": "77MS0038",
+    "name": "Судебный участок № 38 района Братеево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115408, г Москва, ул Братеевская, д 16 к 6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/38"
+  },
+  {
+    "code": "77MS0039",
+    "name": "Судебный участок № 39 района Братеево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115408, г Москва, ул Братеевская, д 16 к 6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/39"
+  },
+  {
+    "code": "77MS0040",
+    "name": "Судебный участок № 40 района Зябликово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/40"
+  },
+  {
+    "code": "77MS0041",
+    "name": "Судебный участок № 41 района Зябликово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/41"
+  },
+  {
+    "code": "77MS0042",
+    "name": "Судебный участок № 42 района Зябликово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/42"
+  },
+  {
+    "code": "77MS0043",
+    "name": "Судебный участок № 43 района Зябликово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/43"
+  },
+  {
+    "code": "77MS0044",
+    "name": "Судебный участок № 44 района Орехово-Борисово Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/44"
+  },
+  {
+    "code": "77MS0045",
+    "name": "Судебный участок № 45 района Орехово-Борисово Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/45"
+  },
+  {
+    "code": "77MS0046",
+    "name": "Судебный участок № 46 района Орехово-Борисово Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/46"
+  },
+  {
+    "code": "77MS0047",
+    "name": "Судебный участок № 47 района Орехово-Борисово Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/47"
+  },
+  {
+    "code": "77MS0049",
+    "name": "Судебный участок № 49 района Черёмушки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117418, г Москва, ул Новочерёмушкинская, д 49 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/49"
+  },
+  {
+    "code": "77MS0050",
+    "name": "Судебный участок № 50 района Черёмушки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117418, г Москва, ул Новочерёмушкинская, д 49 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/50"
+  },
+  {
+    "code": "77MS0051",
+    "name": "Судебный участок № 51 района Коньково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117485, г Москва, ул Профсоюзная, д 94 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/51"
+  },
+  {
+    "code": "77MS0052",
+    "name": "Судебный участок № 52 района Коньково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117485, г Москва, ул Профсоюзная, д 94 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/52"
+  },
+  {
+    "code": "77MS0053",
+    "name": "Судебный участок № 53 района Коньково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117485, г Москва, ул Профсоюзная, д 94 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/53"
+  },
+  {
+    "code": "77MS0054",
+    "name": "Судебный участок № 54 района Коньково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117342, г Москва, ул Миклухо-Маклая, д 40 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/54"
+  },
+  {
+    "code": "77MS0055",
+    "name": "Судебный участок № 55 района Тёплый Стан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117465, г Москва, ул Генерала Тюленева, д 31 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/55"
+  },
+  {
+    "code": "77MS0056",
+    "name": "Судебный участок № 56 района Тёплый Стан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117437, г Москва, ул Академика Волгина, д 25 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/56"
+  },
+  {
+    "code": "77MS0057",
+    "name": "Судебный участок № 57 района Тёплый Стан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117465, г Москва, ул Генерала Тюленева, д 31 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/57"
+  },
+  {
+    "code": "77MS0058",
+    "name": "Судебный участок № 58 района Тёплый Стан",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117465, г Москва, ул Генерала Тюленева, д 31 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/58"
+  },
+  {
+    "code": "77MS0059",
+    "name": "Судебный участок № 59 района Ясенево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117574, г Москва, ул Вильнюсская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/59"
+  },
+  {
+    "code": "77MS0060",
+    "name": "Судебный участок № 60 района Ясенево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117574, г Москва, ул Вильнюсская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/60"
+  },
+  {
+    "code": "77MS0061",
+    "name": "Судебный участок № 61 района Ясенево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117574, г Москва, ул Вильнюсская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/61"
+  },
+  {
+    "code": "77MS0062",
+    "name": "Судебный участок № 62 района Ясенево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117574, г Москва, проезд Одоевского, д 11 к 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/62"
+  },
+  {
+    "code": "77MS0063",
+    "name": "Судебный участок № 63 района Ясенево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117574, г Москва, проезд Одоевского, д 11 к 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/63"
+  },
+  {
+    "code": "77MS0064",
+    "name": "Судебный участок № 64 района Ясенево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117574, г Москва, ул Вильнюсская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/64"
+  },
+  {
+    "code": "77MS0065",
+    "name": "Судебный участок № 65 Молжаниновского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125493, г Москва, ул Пулковская, д 4 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/65"
+  },
+  {
+    "code": "77MS0066",
+    "name": "Судебный участок № 66 района Левобережный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125493, г Москва, ул Пулковская, д 4 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/66"
+  },
+  {
+    "code": "77MS0067",
+    "name": "Судебный участок № 67 района Левобережный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125493, г Москва, ул Пулковская, д 4 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/67"
+  },
+  {
+    "code": "77MS0068",
+    "name": "Судебный участок № 68 района Ховрино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125493, г Москва, ул Пулковская, д 4 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/68"
+  },
+  {
+    "code": "77MS0069",
+    "name": "Судебный участок № 69 района Ховрино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125493, г Москва, ул Пулковская, д 4 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/69"
+  },
+  {
+    "code": "77MS0070",
+    "name": "Судебный участок № 70 района Ховрино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125493, г Москва, ул Пулковская, д 4 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/70"
+  },
+  {
+    "code": "77MS0071",
+    "name": "Судебный участок № 71 Головинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125438, г Москва, пер 1-й Лихачёвский, д 8",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/71"
+  },
+  {
+    "code": "77MS0072",
+    "name": "Судебный участок № 72 Головинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125438, г Москва, пер 1-й Лихачёвский, д 8",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/72"
+  },
+  {
+    "code": "77MS0073",
+    "name": "Судебный участок № 73 Головинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125475, г Москва, ул Зеленоградская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/73"
+  },
+  {
+    "code": "77MS0074",
+    "name": "Судебный участок № 74 района Матушкино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124489, г Москва, г Зеленоград, к 706",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/74"
+  },
+  {
+    "code": "77MS0075",
+    "name": "Судебный участок № 75 Войковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125493, г Москва, ул Пулковская, д 4 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/75"
+  },
+  {
+    "code": "77MS0076",
+    "name": "Судебный участок № 76 Войковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125475, г Москва, ул Зеленоградская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/76"
+  },
+  {
+    "code": "77MS0077",
+    "name": "Судебный участок № 77 района Сокол",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125475, г Москва, ул Зеленоградская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/77"
+  },
+  {
+    "code": "77MS0078",
+    "name": "Судебный участок № 78 района Сокол",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125413, г Москва, ул Флотская, д 78",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/78"
+  },
+  {
+    "code": "77MS0079",
+    "name": "Судебный участок № 79 района Северный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127204, г Москва, линия 3-я Северная, д 6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/79"
+  },
+  {
+    "code": "77MS0080",
+    "name": "Судебный участок № 80 района Лианозово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г. Москва, ул. Образцова, д.26, 3-й этаж, каб. 310-312)",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/80"
+  },
+  {
+    "code": "77MS0081",
+    "name": "Судебный участок № 81 района Лианозово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127349, г Москва, проезд Шенкурский, д 12Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/81"
+  },
+  {
+    "code": "77MS0082",
+    "name": "Судебный участок № 82 района Лианозово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127253, г Москва, ул Псковская, д 7 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/82"
+  },
+  {
+    "code": "77MS0083",
+    "name": "Судебный участок № 83 района Бибирево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127349, г Москва, проезд Шенкурский, д 12Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/83"
+  },
+  {
+    "code": "77MS0084",
+    "name": "Судебный участок № 84 района Бибирево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127549, г Москва, ул Пришвина, д 10",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/84"
+  },
+  {
+    "code": "77MS0085",
+    "name": "Судебный участок № 85 района Бибирево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127549, г Москва, ул Пришвина, д 10",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/85"
+  },
+  {
+    "code": "77MS0086",
+    "name": "Судебный участок № 86 района Бибирево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127549, г Москва, ул Пришвина, д 10",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/86"
+  },
+  {
+    "code": "77MS0087",
+    "name": "Судебный участок № 87 района Бибирево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г. Москва, ул. Образцова, д.26, 4-й этаж, каб. 405, 406, 409)",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/87"
+  },
+  {
+    "code": "77MS0088",
+    "name": "Судебный участок № 88 Алтуфьевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127221, г Москва, проезд Шокальского, д 55 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/88"
+  },
+  {
+    "code": "77MS0089",
+    "name": "Судебный участок № 89 Алтуфьевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127253, г Москва, ул Псковская, д 7 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/89"
+  },
+  {
+    "code": "77MS0090",
+    "name": "Судебный участок № 90 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127562, г Москва, ш Алтуфьевское, д 8А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/90"
+  },
+  {
+    "code": "77MS0091",
+    "name": "Судебный участок № 91 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127549, г Москва, ул Пришвина, д 10",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/91"
+  },
+  {
+    "code": "77MS0092",
+    "name": "Судебный участок № 92 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127549, г Москва, ул Пришвина, д 10",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/92"
+  },
+  {
+    "code": "77MS0093",
+    "name": "Судебный участок № 93 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г. Москва, ул. Образцова, д.26, 4-й этаж, каб. 413-414)",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/93"
+  },
+  {
+    "code": "77MS0094",
+    "name": "Судебный участок № 94 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г. Москва, ул. Образцова, д.26, 4-й этаж, каб. 413-414)",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/94"
+  },
+  {
+    "code": "77MS0095",
+    "name": "Судебный участок № 95 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г. Москва, ул. Образцова, д.26, 4-й этаж, каб. 405, 409)",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/95"
+  },
+  {
+    "code": "77MS0096",
+    "name": "Судебный участок № 96 района Марфино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129301, г Москва, пр-кт Мира, д 184 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/96"
+  },
+  {
+    "code": "77MS0097",
+    "name": "Судебный участок № 97 Бутырского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127254, г Москва, ул Гончарова, д 1/6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/97"
+  },
+  {
+    "code": "77MS0098",
+    "name": "Судебный участок № 98 Бутырского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127254, г Москва, ул Гончарова, д 1/6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/98"
+  },
+  {
+    "code": "77MS0099",
+    "name": "Судебный участок № 99 района Зюзино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/99"
+  },
+  {
+    "code": "77MS0100",
+    "name": "Судебный участок № 100 района Якиманка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119180, г Москва, пер 1-й Хвостов, д 11 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/100"
+  },
+  {
+    "code": "77MS0101",
+    "name": "Судебный участок № 101 района Замоскворечье",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119180, г Москва, пер 1-й Хвостов, д 11 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/101"
+  },
+  {
+    "code": "77MS0102",
+    "name": "Судебный участок № 102 района Замоскворечье",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115184, г Москва, ул Пятницкая, д 53/18 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/102"
+  },
+  {
+    "code": "77MS0103",
+    "name": "Судебный участок № 103 района Южное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117623, г Москва, ул Старонародная, д 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/103"
+  },
+  {
+    "code": "77MS0104",
+    "name": "Судебный участок № 104 района Сокольники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107113, г Москва, ул 3-я Рыбинская, д 30",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/104"
+  },
+  {
+    "code": "77MS0105",
+    "name": "Судебный участок № 105 района Сокольники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107113, г Москва, ул 3-я Рыбинская, д 30",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/105"
+  },
+  {
+    "code": "77MS0106",
+    "name": "Судебный участок № 106 района Бирюлёво Восточное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115201, г Москва, проезд Каширский, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/106"
+  },
+  {
+    "code": "77MS0107",
+    "name": "Судебный участок № 107 района Зябликово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/107"
+  },
+  {
+    "code": "77MS0108",
+    "name": "Судебный участок № 108 района Богородское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107258, г Москва, ул Игральная, д 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/108"
+  },
+  {
+    "code": "77MS0109",
+    "name": "Судебный участок № 109 района Богородское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107150, г Москва, проезд 3-й Подбельского, д 22 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/109"
+  },
+  {
+    "code": "77MS0110",
+    "name": "Судебный участок № 110 района Богородское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107370, г Москва, ш Открытое, д 6 к 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/110"
+  },
+  {
+    "code": "77MS0111",
+    "name": "Судебный участок № 111 района Преображенское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107392, г Москва, ул Просторная, д 14 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/111"
+  },
+  {
+    "code": "77MS0112",
+    "name": "Судебный участок № 112 района Преображенское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107392, г Москва, ул Просторная, д 14 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/112"
+  },
+  {
+    "code": "77MS0113",
+    "name": "Судебный участок № 113 района Преображенское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107392, г Москва, ул Просторная, д 14 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/113"
+  },
+  {
+    "code": "77MS0114",
+    "name": "Судебный участок № 114 района Орехово-Борисово Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115582, г Москва, ул Домодедовская, д 24 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/114"
+  },
+  {
+    "code": "77MS0115",
+    "name": "Судебный участок № 115 района Метрогородок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107392, г Москва, ул Просторная, д 14 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/115"
+  },
+  {
+    "code": "77MS0116",
+    "name": "Судебный участок № 116 района Метрогородок",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107143, г Москва, ш Открытое, д 25 к 16",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/116"
+  },
+  {
+    "code": "77MS0117",
+    "name": "Судебный участок № 117 района Гольяново",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107065, г Москва, ул Уральская, д 23 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/117"
+  },
+  {
+    "code": "77MS0118",
+    "name": "Судебный участок № 118 района Гольяново",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107241, г Москва, ул Амурская, д 62",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/118"
+  },
+  {
+    "code": "77MS0119",
+    "name": "Судебный участок № 119 района Гольяново",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107241, г Москва, ул Амурская, д 62",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/119"
+  },
+  {
+    "code": "77MS0120",
+    "name": "Судебный участок № 120 района Гольяново",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107065, г Москва, ул Уральская, д 23 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/120"
+  },
+  {
+    "code": "77MS0121",
+    "name": "Судебный участок № 121 района Гольяново",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107143, г Москва, ул Николая Химушина, д 15 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/121"
+  },
+  {
+    "code": "77MS0122",
+    "name": "Судебный участок № 122 Рязанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/122"
+  },
+  {
+    "code": "77MS0123",
+    "name": "Судебный участок № 123 Рязанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/123"
+  },
+  {
+    "code": "77MS0124",
+    "name": "Судебный участок № 124 Рязанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/124"
+  },
+  {
+    "code": "77MS0125",
+    "name": "Судебный участок № 125 района Кузьминки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/125"
+  },
+  {
+    "code": "77MS0126",
+    "name": "Судебный участок № 126 района Кузьминки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/126"
+  },
+  {
+    "code": "77MS0127",
+    "name": "Судебный участок № 127 района Кузьминки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/127"
+  },
+  {
+    "code": "77MS0128",
+    "name": "Судебный участок № 128 района Кузьминки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/128"
+  },
+  {
+    "code": "77MS0129",
+    "name": "Судебный участок № 129 района Коньково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117342, г Москва, ул Миклухо-Маклая, д 40 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/129"
+  },
+  {
+    "code": "77MS0130",
+    "name": "Судебный участок № 130 района Выхино-Жулебино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109542, г Москва, пр-кт Рязанский, д 93 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/130"
+  },
+  {
+    "code": "77MS0131",
+    "name": "Судебный участок № 131 района Выхино-Жулебино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109472, г Москва, пр-кт Волгоградский, д 170 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/131"
+  },
+  {
+    "code": "77MS0132",
+    "name": "Судебный участок № 132 района Выхино-Жулебино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/132"
+  },
+  {
+    "code": "77MS0133",
+    "name": "Судебный участок № 133 района Выхино-Жулебино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109145, г Москва, ул Привольная, д 5 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/133"
+  },
+  {
+    "code": "77MS0134",
+    "name": "Судебный участок № 134 района Выхино-Жулебино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109156, г Москва, ул Генерала Кузнецова, д 15 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/134"
+  },
+  {
+    "code": "77MS0135",
+    "name": "Судебный участок № 135 района Выхино-Жулебино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109156, г Москва, ул Генерала Кузнецова, д 15 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/135"
+  },
+  {
+    "code": "77MS0136",
+    "name": "Судебный участок № 136 района Выхино-Жулебино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109156, г Москва, ул Генерала Кузнецова, д 15 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/136"
+  },
+  {
+    "code": "77MS0137",
+    "name": "Судебный участок № 137 района Некрасовка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111674, г Москва, ул 1-я Вольская, д 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/137"
+  },
+  {
+    "code": "77MS0138",
+    "name": "Судебный участок № 138 района Внуково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119027, г Москва, ул Изваринская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/138"
+  },
+  {
+    "code": "77MS0139",
+    "name": "Судебный участок № 139 района Ново-Переделкино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119634, г Москва, ш Боровское, д 48",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/139"
+  },
+  {
+    "code": "77MS0140",
+    "name": "Судебный участок № 140 района Ново-Переделкино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119618, г Москва, ул 50 лет Октября, д 6 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/140"
+  },
+  {
+    "code": "77MS0141",
+    "name": "Судебный участок № 141 района Ново-Переделкино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119634, г Москва, ул Лукинская, д 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/141"
+  },
+  {
+    "code": "77MS0142",
+    "name": "Судебный участок № 142 района Ново-Переделкино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119618, г Москва, ул 50 лет Октября, д 6 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/142"
+  },
+  {
+    "code": "77MS0143",
+    "name": "Судебный участок № 143 района Солнцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119618, г Москва, ул 50 лет Октября, д 6 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/143"
+  },
+  {
+    "code": "77MS0144",
+    "name": "Судебный участок № 144 района Солнцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119618, г Москва, ул 50 лет Октября, д 6 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/144"
+  },
+  {
+    "code": "77MS0145",
+    "name": "Судебный участок № 145 района Солнцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119618, г Москва, ул 50 лет Октября, д 6 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/145"
+  },
+  {
+    "code": "77MS0146",
+    "name": "Судебный участок № 146 района Строгино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123423, г Москва, наб Карамышевская, д 20 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/146"
+  },
+  {
+    "code": "77MS0147",
+    "name": "Судебный участок № 147 района Строгино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123423, г Москва, наб Карамышевская, д 20 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/147"
+  },
+  {
+    "code": "77MS0148",
+    "name": "Судебный участок № 148 района Строгино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123592, г Москва, проезд Неманский, д 7 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/148"
+  },
+  {
+    "code": "77MS0149",
+    "name": "Судебный участок № 149 района Строгино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123592, г Москва, б-р Строгинский, д 15",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/149"
+  },
+  {
+    "code": "77MS0150",
+    "name": "Судебный участок № 150 района Щукино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123154, г Москва, б-р Генерала Карбышева, д 18",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/150"
+  },
+  {
+    "code": "77MS0151",
+    "name": "Судебный участок № 151 района Щукино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123154, г Москва, б-р Генерала Карбышева, д 18",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/151"
+  },
+  {
+    "code": "77MS0152",
+    "name": "Судебный участок № 152 района Щукино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123298, г Москва, ул Народного Ополчения, д 44 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/152"
+  },
+  {
+    "code": "77MS0153",
+    "name": "Судебный участок № 153 района Хорошёво-Мнёвники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123308, г Москва, ул Демьяна Бедного, д 4 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/153"
+  },
+  {
+    "code": "77MS0154",
+    "name": "Судебный участок № 154 района Хорошёво-Мнёвники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123154, г Москва, б-р Генерала Карбышева, д 18",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/154"
+  },
+  {
+    "code": "77MS0155",
+    "name": "Судебный участок № 155 района Хорошёво-Мнёвники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123154, г Москва, б-р Генерала Карбышева, д 18",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/155"
+  },
+  {
+    "code": "77MS0156",
+    "name": "Судебный участок № 156 района Хорошёво-Мнёвники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123154, г Москва, б-р Генерала Карбышева, д 18",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/156"
+  },
+  {
+    "code": "77MS0157",
+    "name": "Судебный участок № 157 района Хорошёво-Мнёвники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123154, г Москва, б-р Генерала Карбышева, д 18",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/157"
+  },
+  {
+    "code": "77MS0158",
+    "name": "Судебный участок № 158 района Бибирево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г. Москва, ул. Образцова, д.26, 4-й этаж, каб. 413-414, 419)",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/158"
+  },
+  {
+    "code": "77MS0159",
+    "name": "Судебный участок № 159 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г. Москва, ул. Образцова, д.26, 4-й этаж, каб. 310, 312)",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/159"
+  },
+  {
+    "code": "77MS0160",
+    "name": "Судебный участок № 160 района Покровское-Стрешнево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125367, г Москва, ш Волоколамское, д 60 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/160"
+  },
+  {
+    "code": "77MS0161",
+    "name": "Судебный участок № 161 района Покровское-Стрешнево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/161"
+  },
+  {
+    "code": "77MS0162",
+    "name": "Судебный участок № 162 района Южное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/162"
+  },
+  {
+    "code": "77MS0163",
+    "name": "Судебный участок № 163 района Южное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/163"
+  },
+  {
+    "code": "77MS0164",
+    "name": "Судебный участок № 164 района Южное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/164"
+  },
+  {
+    "code": "77MS0165",
+    "name": "Судебный участок № 165 района Северное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/165"
+  },
+  {
+    "code": "77MS0166",
+    "name": "Судебный участок № 166 района Северное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/166"
+  },
+  {
+    "code": "77MS0167",
+    "name": "Судебный участок № 167 района Северное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/167"
+  },
+  {
+    "code": "77MS0168",
+    "name": "Судебный участок № 168 района Северное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/168"
+  },
+  {
+    "code": "77MS0169",
+    "name": "Судебный участок № 169 района Северное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125362, г Москва, ул Циолковского, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/169"
+  },
+  {
+    "code": "77MS0170",
+    "name": "Судебный участок № 170 района Куркино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125466, г Москва, ул Родионовская, д 11",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/170"
+  },
+  {
+    "code": "77MS0171",
+    "name": "Судебный участок № 171 района Куркино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125466, г Москва, ул Родионовская, д 11",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/171"
+  },
+  {
+    "code": "77MS0172",
+    "name": "Судебный участок № 172 района Митино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125430, г Москва, ул Митинская, д 26",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/172"
+  },
+  {
+    "code": "77MS0173",
+    "name": "Судебный участок № 173 района Митино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125222, г Москва, ул Генерала Белобородова, д 37",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/173"
+  },
+  {
+    "code": "77MS0174",
+    "name": "Судебный участок № 174 района Митино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125430, г Москва, ул Митинская, д 26",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/174"
+  },
+  {
+    "code": "77MS0175",
+    "name": "Судебный участок № 175 района Митино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125222, г Москва, ул Генерала Белобородова, д 37",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/175"
+  },
+  {
+    "code": "77MS0176",
+    "name": "Судебный участок № 176 района Митино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125222, г Москва, ул Генерала Белобородова, д 37",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/176"
+  },
+  {
+    "code": "77MS0177",
+    "name": "Судебный участок № 177 района Раменки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119285, г Москва, ул Довженко, д 6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/177"
+  },
+  {
+    "code": "77MS0178",
+    "name": "Судебный участок № 178 района Раменки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119607, г Москва, пр-кт Мичуринский, д 29А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/178"
+  },
+  {
+    "code": "77MS0179",
+    "name": "Судебный участок № 179 района Раменки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119607, г Москва, пр-кт Мичуринский, д 29А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/179"
+  },
+  {
+    "code": "77MS0180",
+    "name": "Судебный участок № 180 района Раменки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119607, г Москва, пр-кт Мичуринский, д 29А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/180"
+  },
+  {
+    "code": "77MS0181",
+    "name": "Судебный участок № 181 района Проспект Вернадского",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119454, г Москва, пр-кт Вернадского, д 62А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/181"
+  },
+  {
+    "code": "77MS0182",
+    "name": "Судебный участок № 182 района Проспект Вернадского",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119454, г Москва, пр-кт Вернадского, д 62А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/182"
+  },
+  {
+    "code": "77MS0183",
+    "name": "Судебный участок № 183 района Очаково-Матвеевское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/183"
+  },
+  {
+    "code": "77MS0184",
+    "name": "Судебный участок № 184 района Очаково-Матвеевское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119607, г Москва, пр-кт Мичуринский, д 27 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/184"
+  },
+  {
+    "code": "77MS0185",
+    "name": "Судебный участок № 185 района Очаково-Матвеевское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/185"
+  },
+  {
+    "code": "77MS0186",
+    "name": "Судебный участок № 186 района Тропарёво-Никулино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/186"
+  },
+  {
+    "code": "77MS0187",
+    "name": "Судебный участок № 187 района Тропарёво-Никулино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119602, г Москва, ул Никулинская, д 6 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/187"
+  },
+  {
+    "code": "77MS0188",
+    "name": "Судебный участок № 188 района Тропарёво-Никулино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119602, г Москва, ул Никулинская, д 6 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/188"
+  },
+  {
+    "code": "77MS0189",
+    "name": "Судебный участок № 189 района Тропарёво-Никулино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119571, г Москва, ул Академика Анохина, д 46 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/189"
+  },
+  {
+    "code": "77MS0190",
+    "name": "Судебный участок № 190 района Фили-Давыдково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/190"
+  },
+  {
+    "code": "77MS0191",
+    "name": "Судебный участок № 191 района Фили-Давыдково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/191"
+  },
+  {
+    "code": "77MS0192",
+    "name": "Судебный участок № 192 района Фили-Давыдково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/192"
+  },
+  {
+    "code": "77MS0193",
+    "name": "Судебный участок № 193 района Фили-Давыдково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/193"
+  },
+  {
+    "code": "77MS0194",
+    "name": "Судебный участок № 194 Можайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/194"
+  },
+  {
+    "code": "77MS0195",
+    "name": "Судебный участок № 195 Можайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/195"
+  },
+  {
+    "code": "77MS0196",
+    "name": "Судебный участок № 196 Можайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/196"
+  },
+  {
+    "code": "77MS0197",
+    "name": "Судебный участок № 197 Можайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/197"
+  },
+  {
+    "code": "77MS0198",
+    "name": "Судебный участок № 198 района Кунцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121351, г Москва, ул Молодогвардейская, д 23 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/198"
+  },
+  {
+    "code": "77MS0199",
+    "name": "Судебный участок № 199 района Кунцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121351, г Москва, ул Молодогвардейская, д 23 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/199"
+  },
+  {
+    "code": "77MS0200",
+    "name": "Судебный участок № 200 района Кунцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121108, г Москва, ул Кастанаевская, д 51 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/200"
+  },
+  {
+    "code": "77MS0201",
+    "name": "Судебный участок № 201 района Кунцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/201"
+  },
+  {
+    "code": "77MS0202",
+    "name": "Судебный участок № 202 района Кунцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121351, г Москва, ул Полоцкая, д 6 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/202"
+  },
+  {
+    "code": "77MS0203",
+    "name": "Судебный участок № 203 района Крылатское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121614, г Москва, ул Крылатские Холмы, д 26 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/203"
+  },
+  {
+    "code": "77MS0204",
+    "name": "Судебный участок № 204 района Крылатское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121614, г Москва, ул Крылатские Холмы, д 26 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/204"
+  },
+  {
+    "code": "77MS0205",
+    "name": "Судебный участок № 205 района Крылатское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121359, г Москва, ул Маршала Тимошенко, д 32",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/205"
+  },
+  {
+    "code": "77MS0206",
+    "name": "Судебный участок № 206 района Дорогомилово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/206"
+  },
+  {
+    "code": "77MS0207",
+    "name": "Судебный участок № 207 района Дорогомилово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121248, г Москва, наб Тараса Шевченко, д 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/207"
+  },
+  {
+    "code": "77MS0208",
+    "name": "Судебный участок № 208 района Дорогомилово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121248, г Москва, наб Тараса Шевченко, д 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/208"
+  },
+  {
+    "code": "77MS0209",
+    "name": "Судебный участок № 209 района Филёвский Парк",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/209"
+  },
+  {
+    "code": "77MS0210",
+    "name": "Судебный участок № 210 района Филёвский Парк",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121357, г Москва, ул Верейская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/210"
+  },
+  {
+    "code": "77MS0211",
+    "name": "Судебный участок № 211 Обручевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119421, г Москва, ул Новаторов, д 16 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/211"
+  },
+  {
+    "code": "77MS0212",
+    "name": "Судебный участок № 212 Обручевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119421, г Москва, ул Новаторов, д 16 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/212"
+  },
+  {
+    "code": "77MS0213",
+    "name": "Судебный участок № 213 Ломоносовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119421, г Москва, ул Новаторов, д 16 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/213"
+  },
+  {
+    "code": "77MS0214",
+    "name": "Судебный участок № 214 Ломоносовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119421, г Москва, ул Новаторов, д 16 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/214"
+  },
+  {
+    "code": "77MS0215",
+    "name": "Судебный участок № 215 Ломоносовского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119421, г Москва, ул Новаторов, д 16 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/215"
+  },
+  {
+    "code": "77MS0216",
+    "name": "Судебный участок № 216 Гагаринского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117218, г Москва, ул Большая Черёмушкинская, д 36 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/216"
+  },
+  {
+    "code": "77MS0217",
+    "name": "Судебный участок № 217 Гагаринского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117218, г Москва, ул Большая Черёмушкинская, д 36 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/217"
+  },
+  {
+    "code": "77MS0218",
+    "name": "Судебный участок № 218 Гагаринского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117218, г Москва, ул Большая Черёмушкинская, д 36 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/218"
+  },
+  {
+    "code": "77MS0219",
+    "name": "Судебный участок № 219 Академического район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/219"
+  },
+  {
+    "code": "77MS0220",
+    "name": "Судебный участок № 220 Академического район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/220"
+  },
+  {
+    "code": "77MS0221",
+    "name": "Судебный участок № 221 Академического район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117335, г Москва, пр-кт Нахимовский, д 56",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/221"
+  },
+  {
+    "code": "77MS0222",
+    "name": "Судебный участок № 222 Академического район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/222"
+  },
+  {
+    "code": "77MS0223",
+    "name": "Судебный участок № 223 района Чертаново Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115547, г Москва, ул Бирюлёвская, д 48 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/223"
+  },
+  {
+    "code": "77MS0224",
+    "name": "Судебный участок № 224 района Чертаново Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117570, г Москва, ул Красного Маяка, д 13Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/224"
+  },
+  {
+    "code": "77MS0225",
+    "name": "Судебный участок № 225 района Чертаново Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115547, г Москва, ул Бирюлёвская, д 48 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/225"
+  },
+  {
+    "code": "77MS0226",
+    "name": "Судебный участок № 226 района Чертаново Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115547, г Москва, ул Бирюлёвская, д 48 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/226"
+  },
+  {
+    "code": "77MS0227",
+    "name": "Судебный участок № 227 района Чертаново Южное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115547, г Москва, ул Бирюлёвская, д 48 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/227"
+  },
+  {
+    "code": "77MS0228",
+    "name": "Судебный участок № 228 района Чертаново Центральное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117570, г Москва, ул Красного Маяка, д 13Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/228"
+  },
+  {
+    "code": "77MS0229",
+    "name": "Судебный участок № 229 района Чертаново Центральное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117570, г Москва, ул Красного Маяка, д 13Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/229"
+  },
+  {
+    "code": "77MS0230",
+    "name": "Судебный участок № 230 района Чертаново Центральное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117570, г Москва, ул Красного Маяка, д 13Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/230"
+  },
+  {
+    "code": "77MS0231",
+    "name": "Судебный участок № 231 района Чертаново Центральное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117570, г Москва, ул Красного Маяка, д 13Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/231"
+  },
+  {
+    "code": "77MS0232",
+    "name": "Судебный участок № 232 района Чертаново Северное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117570, г Москва, ул Красного Маяка, д 13Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/232"
+  },
+  {
+    "code": "77MS0233",
+    "name": "Судебный участок № 233 района Чертаново Северное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117570, г Москва, ул Красного Маяка, д 13Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/233"
+  },
+  {
+    "code": "77MS0234",
+    "name": "Судебный участок № 234 района Чертаново Северное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117546, г Москва, ул Медынская, д 14Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/234"
+  },
+  {
+    "code": "77MS0235",
+    "name": "Судебный участок № 235 Нагорного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117556, г Москва, ул Болотниковская, д 5 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/235"
+  },
+  {
+    "code": "77MS0236",
+    "name": "Судебный участок № 236 Нагорного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117556, г Москва, ул Болотниковская, д 5 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/236"
+  },
+  {
+    "code": "77MS0237",
+    "name": "Судебный участок № 237 района Бирюлёво Западное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117546, г Москва, ул Медынская, д 14Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/237"
+  },
+  {
+    "code": "77MS0238",
+    "name": "Судебный участок № 238 района Бирюлёво Западное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117546, г Москва, ул Медынская, д 14Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/238"
+  },
+  {
+    "code": "77MS0239",
+    "name": "Судебный участок № 239 района Бирюлёво Западное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117546, г Москва, ул Медынская, д 14Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/239"
+  },
+  {
+    "code": "77MS0240",
+    "name": "Судебный участок № 240 района Нагатинский Затон",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115068, г Москва, ул Восточная, д 2 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/240"
+  },
+  {
+    "code": "77MS0241",
+    "name": "Судебный участок № 241 района Нагатинский Затон",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117335, г Москва, пр-кт Нахимовский, д 56",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/241"
+  },
+  {
+    "code": "77MS0242",
+    "name": "Судебный участок № 242 района Нагатинский Затон",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115547, г Москва, ул Бирюлёвская, д 48 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/242"
+  },
+  {
+    "code": "77MS0243",
+    "name": "Судебный участок № 243 района Нагатинский Затон",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117148, г Москва, ул Маршала Савицкого, д 16 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/243"
+  },
+  {
+    "code": "77MS0244",
+    "name": "Судебный участок № 244 Донского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115068, г Москва, ул Восточная, д 2 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/244"
+  },
+  {
+    "code": "77MS0245",
+    "name": "Судебный участок № 245 Донского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117335, г Москва, пр-кт Нахимовский, д 56",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/245"
+  },
+  {
+    "code": "77MS0246",
+    "name": "Судебный участок № 246 Даниловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121351, г Москва, ул Бобруйская, д 4 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/246"
+  },
+  {
+    "code": "77MS0247",
+    "name": "Судебный участок № 247 Даниловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115201, г Москва, ш Каширское, д 16",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/247"
+  },
+  {
+    "code": "77MS0248",
+    "name": "Судебный участок № 248 Даниловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115547, г Москва, ул Бирюлёвская, д 48 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/248"
+  },
+  {
+    "code": "77MS0249",
+    "name": "Судебный участок № 249 района Текстильщики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109387, г Москва, ул Кубанская, д 23",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/249"
+  },
+  {
+    "code": "77MS0250",
+    "name": "Судебный участок № 250 района Текстильщики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109387, г Москва, ул Кубанская, д 23",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/250"
+  },
+  {
+    "code": "77MS0251",
+    "name": "Судебный участок № 251 района Текстильщики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109377, г Москва, ул Зеленодольская, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/251"
+  },
+  {
+    "code": "77MS0252",
+    "name": "Судебный участок № 252 района Печатники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109548, г Москва, ул Шоссейная, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/252"
+  },
+  {
+    "code": "77MS0253",
+    "name": "Судебный участок № 253 района Печатники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109548, г Москва, ул Шоссейная, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/253"
+  },
+  {
+    "code": "77MS0254",
+    "name": "Судебный участок № 254 района Печатники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109548, г Москва, ул Шоссейная, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/254"
+  },
+  {
+    "code": "77MS0255",
+    "name": "Судебный участок № 255 района Марьино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109651, г Москва, б-р Новочеркасский, д 5 стр 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/255"
+  },
+  {
+    "code": "77MS0256",
+    "name": "Судебный участок № 256 района Марьино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109651, г Москва, б-р Новочеркасский, д 5 стр 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/256"
+  },
+  {
+    "code": "77MS0257",
+    "name": "Судебный участок № 257 района Марьино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109651, г Москва, б-р Новочеркасский, д 5 стр 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/257"
+  },
+  {
+    "code": "77MS0258",
+    "name": "Судебный участок № 258 района Марьино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109651, г Москва, б-р Новочеркасский, д 5 стр 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/258"
+  },
+  {
+    "code": "77MS0259",
+    "name": "Судебный участок № 259 района Марьино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109651, г Москва, б-р Новочеркасский, д 5 стр 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/259"
+  },
+  {
+    "code": "77MS0260",
+    "name": "Судебный участок № 260 района Марьино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109651, г Москва, б-р Новочеркасский, д 5 стр 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/260"
+  },
+  {
+    "code": "77MS0261",
+    "name": "Судебный участок № 261 района Люблино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109387, г Москва, ул Кубанская, д 23",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/261"
+  },
+  {
+    "code": "77MS0262",
+    "name": "Судебный участок № 262 района Люблино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109386, г Москва, ул Краснодарская, д 27/13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/262"
+  },
+  {
+    "code": "77MS0263",
+    "name": "Судебный участок № 263 района Люблино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109386, г Москва, ул Краснодарская, д 27/13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/263"
+  },
+  {
+    "code": "77MS0264",
+    "name": "Судебный участок № 264 района Люблино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109386, г Москва, ул Краснодарская, д 27/13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/264"
+  },
+  {
+    "code": "77MS0265",
+    "name": "Судебный участок № 265 района Люблино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109386, г Москва, ул Краснодарская, д 27/13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/265"
+  },
+  {
+    "code": "77MS0266",
+    "name": "Судебный участок № 266 района Капотня",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109429, г Москва, кв-л 3-й Капотня, д 25",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/266"
+  },
+  {
+    "code": "77MS0267",
+    "name": "Судебный участок № 267 Южнопортового района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/267"
+  },
+  {
+    "code": "77MS0268",
+    "name": "Судебный участок № 268 Южнопортового района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/268"
+  },
+  {
+    "code": "77MS0269",
+    "name": "Судебный участок № 269 Нижегородского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/269"
+  },
+  {
+    "code": "77MS0270",
+    "name": "Судебный участок № 270 Нижегородского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115432, г Москва, ул 5-я Кожуховская, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/270"
+  },
+  {
+    "code": "77MS0271",
+    "name": "Судебный участок № 271 района Лефортово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111024, г Москва, проезд Перовский, д 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/271"
+  },
+  {
+    "code": "77MS0272",
+    "name": "Судебный участок № 272 района Лефортово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111024, г Москва, проезд Перовский, д 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/272"
+  },
+  {
+    "code": "77MS0273",
+    "name": "Судебный участок № 273 района Лефортово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111024, г Москва, ул Авиамоторная, д 49/1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/273"
+  },
+  {
+    "code": "77MS0274",
+    "name": "Судебный участок № 274 района Косино-Ухтомский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/274"
+  },
+  {
+    "code": "77MS0275",
+    "name": "Судебный участок № 275 района Новокосино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111673, г Москва, ул Новокосинская, д 13 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/275"
+  },
+  {
+    "code": "77MS0276",
+    "name": "Судебный участок № 276 района Новокосино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111673, г Москва, ул Новокосинская, д 13 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/276"
+  },
+  {
+    "code": "77MS0277",
+    "name": "Судебный участок № 277 района Новокосино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111673, г Москва, ул Новокосинская, д 13 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/277"
+  },
+  {
+    "code": "77MS0278",
+    "name": "Судебный участок № 278 района Вешняки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/278"
+  },
+  {
+    "code": "77MS0279",
+    "name": "Судебный участок № 279 района Вешняки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/279"
+  },
+  {
+    "code": "77MS0280",
+    "name": "Судебный участок № 280 района Вешняки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/280"
+  },
+  {
+    "code": "77MS0281",
+    "name": "Судебный участок № 281 района Вешняки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/281"
+  },
+  {
+    "code": "77MS0282",
+    "name": "Судебный участок № 282 района Ивановское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111673, г Москва, ул Новокосинская, д 13 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/282"
+  },
+  {
+    "code": "77MS0283",
+    "name": "Судебный участок № 283 района Ивановское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/283"
+  },
+  {
+    "code": "77MS0284",
+    "name": "Судебный участок № 284 района Ивановское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/284"
+  },
+  {
+    "code": "77MS0285",
+    "name": "Судебный участок № 285 района Ивановское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/285"
+  },
+  {
+    "code": "77MS0286",
+    "name": "Судебный участок № 286 района Ивановское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/286"
+  },
+  {
+    "code": "77MS0287",
+    "name": "Судебный участок № 287 района Новогиреево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/287"
+  },
+  {
+    "code": "77MS0288",
+    "name": "Судебный участок № 288 района Новогиреево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105118, г Москва, ул Буракова, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/288"
+  },
+  {
+    "code": "77MS0289",
+    "name": "Судебный участок № 289 района Новогиреево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111673, г Москва, ул Новокосинская, д 13 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/289"
+  },
+  {
+    "code": "77MS0290",
+    "name": "Судебный участок № 290 района Перово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111141, г Москва, ул Коренная, д 8 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/290"
+  },
+  {
+    "code": "77MS0291",
+    "name": "Судебный участок № 291 района Перово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111123, г Москва, ул 1-я Владимирская, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/291"
+  },
+  {
+    "code": "77MS0292",
+    "name": "Судебный участок № 292 района Перово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/292"
+  },
+  {
+    "code": "77MS0293",
+    "name": "Судебный участок № 293 района Перово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/293"
+  },
+  {
+    "code": "77MS0294",
+    "name": "Судебный участок № 294 района Перово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111394, г Москва, ул Перовская, д 57",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/294"
+  },
+  {
+    "code": "77MS0295",
+    "name": "Судебный участок № 295 района Восточный",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107589, г Москва, ул Хабаровская, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/295"
+  },
+  {
+    "code": "77MS0296",
+    "name": "Судебный участок № 296 района Соколиная Гора",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107150, г Москва, проезд 3-й Подбельского, д 22 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/296"
+  },
+  {
+    "code": "77MS0297",
+    "name": "Судебный участок № 297 района Соколиная Гора",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107014, г Москва, ул Гастелло, д 41",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/297"
+  },
+  {
+    "code": "77MS0298",
+    "name": "Судебный участок № 298 района Соколиная Гора",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111123, г Москва, ул 1-я Владимирская, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/298"
+  },
+  {
+    "code": "77MS0299",
+    "name": "Судебный участок № 299 района Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ул Фортунатовская, д 27А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/299"
+  },
+  {
+    "code": "77MS0300",
+    "name": "Судебный участок № 300 района Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ул Фортунатовская, д 27А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/300"
+  },
+  {
+    "code": "77MS0301",
+    "name": "Судебный участок № 301 района Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105118, г Москва, ул Буракова, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/301"
+  },
+  {
+    "code": "77MS0302",
+    "name": "Судебный участок № 302 района Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105425, г Москва, проезд Щёлковский, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/302"
+  },
+  {
+    "code": "77MS0303",
+    "name": "Судебный участок № 303 района Восточное Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107589, г Москва, ул Хабаровская, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/303"
+  },
+  {
+    "code": "77MS0304",
+    "name": "Судебный участок № 304 района Восточное Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105425, г Москва, проезд Щёлковский, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/304"
+  },
+  {
+    "code": "77MS0305",
+    "name": "Судебный участок № 305 района Северное Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ш Измайловское, д 55",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/305"
+  },
+  {
+    "code": "77MS0306",
+    "name": "Судебный участок № 306 района Северное Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ш Измайловское, д 55",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/306"
+  },
+  {
+    "code": "77MS0307",
+    "name": "Судебный участок № 307 района Северное Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ш Измайловское, д 55",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/307"
+  },
+  {
+    "code": "77MS0308",
+    "name": "Судебный участок № 308 района Свиблово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129329, г Москва, проезд Игарский, д 19",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/308"
+  },
+  {
+    "code": "77MS0309",
+    "name": "Судебный участок № 309 района Свиблово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129329, г Москва, проезд Игарский, д 19",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/309"
+  },
+  {
+    "code": "77MS0310",
+    "name": "Судебный участок № 310 района Ростокино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129226, г Москва, пр-кт Мира, д 177",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/310"
+  },
+  {
+    "code": "77MS0311",
+    "name": "Судебный участок № 311 Останкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129085, г Москва, ул Бочкова, д 8 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/311"
+  },
+  {
+    "code": "77MS0312",
+    "name": "Судебный участок № 312 Останкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129085, г Москва, ул Бочкова, д 8 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/312"
+  },
+  {
+    "code": "77MS0313",
+    "name": "Судебный участок № 313 района Марьина Роща",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г Москва, ул Сущёвский Вал, д 14/22 к 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/313"
+  },
+  {
+    "code": "77MS0314",
+    "name": "Судебный участок № 314 района Марьина Роща",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127018, г Москва, ул Сущёвский Вал, д 14/22 к 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/314"
+  },
+  {
+    "code": "77MS0315",
+    "name": "Судебный участок № 315 Алексеевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129301, г Москва, пр-кт Мира, д 184 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/315"
+  },
+  {
+    "code": "77MS0316",
+    "name": "Судебный участок № 316 Алексеевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129301, г Москва, пр-кт Мира, д 184 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/316"
+  },
+  {
+    "code": "77MS0317",
+    "name": "Судебный участок № 317 Ярославского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129281, г Москва, ул Лётчика Бабушкина, д 39А, офис 323-325",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/317"
+  },
+  {
+    "code": "77MS0318",
+    "name": "Судебный участок № 318 Ярославского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129327, г Москва, ул Коминтерна, д 32/5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/318"
+  },
+  {
+    "code": "77MS0319",
+    "name": "Судебный участок № 319 Ярославского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129281, г Москва, ул Лётчика Бабушкина, д 39А, офис 404-405",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/319"
+  },
+  {
+    "code": "77MS0320",
+    "name": "Судебный участок № 320 района Южное Медведково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127221, г Москва, ул Молодцова, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/320"
+  },
+  {
+    "code": "77MS0321",
+    "name": "Судебный участок № 321 района Южное Медведково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127221, г Москва, ул Молодцова, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/321"
+  },
+  {
+    "code": "77MS0322",
+    "name": "Судебный участок № 322 района Южное Медведково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127221, г Москва, ул Молодцова, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/322"
+  },
+  {
+    "code": "77MS0324",
+    "name": "Судебный участок № 324 района Северное Медведково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127221, г Москва, ул Молодцова, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/324"
+  },
+  {
+    "code": "77MS0325",
+    "name": "Судебный участок № 325 района Северное Медведково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129281, г Москва, ул Лётчика Бабушкина, д 39А, офис 404-405",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/325"
+  },
+  {
+    "code": "77MS0326",
+    "name": "Судебный участок № 326 района Северное Медведково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129281, г Москва, ул Лётчика Бабушкина, д 39А, офис 512-513",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/326"
+  },
+  {
+    "code": "77MS0327",
+    "name": "Судебный участок № 327 Лосиноостровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129327, г Москва, ул Коминтерна, д 32/5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/327"
+  },
+  {
+    "code": "77MS0328",
+    "name": "Судебный участок № 328 Лосиноостровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129327, г Москва, ул Коминтерна, д 32/5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/328"
+  },
+  {
+    "code": "77MS0329",
+    "name": "Судебный участок № 329 Лосиноостровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129327, г Москва, ул Коминтерна, д 32/5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/329"
+  },
+  {
+    "code": "77MS0330",
+    "name": "Судебный участок № 330 Бабушкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129327, г Москва, ул Коминтерна, д 32/5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/330"
+  },
+  {
+    "code": "77MS0331",
+    "name": "Судебный участок № 331 Бабушкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129327, г Москва, ул Коминтерна, д 32/5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/331"
+  },
+  {
+    "code": "77MS0332",
+    "name": "Судебный участок № 332 Бабушкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129327, г Москва, ул Коминтерна, д 32/5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/332"
+  },
+  {
+    "code": "77MS0333",
+    "name": "Судебный участок № 333 Тимирязевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125414, г Москва, ул Петрозаводская, д 22 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/333"
+  },
+  {
+    "code": "77MS0334",
+    "name": "Судебный участок № 334 Тимирязевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125414, г Москва, ул Петрозаводская, д 22 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/334"
+  },
+  {
+    "code": "77MS0335",
+    "name": "Судебный участок № 335 Тимирязевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125475, г Москва, ул Зеленоградская, д 21",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/335"
+  },
+  {
+    "code": "77MS0336",
+    "name": "Судебный участок № 336 Дмитровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/336"
+  },
+  {
+    "code": "77MS0337",
+    "name": "Судебный участок № 337 Дмитровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/337"
+  },
+  {
+    "code": "77MS0338",
+    "name": "Судебный участок № 338 Дмитровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/338"
+  },
+  {
+    "code": "77MS0339",
+    "name": "Судебный участок № 339 района Восточное Дегунино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/339"
+  },
+  {
+    "code": "77MS0340",
+    "name": "Судебный участок № 340 района Восточное Дегунино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/340"
+  },
+  {
+    "code": "77MS0341",
+    "name": "Судебный участок № 341 района Восточное Дегунино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/341"
+  },
+  {
+    "code": "77MS0342",
+    "name": "Судебный участок № 342 Бескудниковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/342"
+  },
+  {
+    "code": "77MS0343",
+    "name": "Судебный участок № 343 Бескудниковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/343"
+  },
+  {
+    "code": "77MS0344",
+    "name": "Судебный участок № 344 Бескудниковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/344"
+  },
+  {
+    "code": "77MS0345",
+    "name": "Судебный участок № 345 Хорошёвского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123007, г Москва, ул Гризодубовой, д 1 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/345"
+  },
+  {
+    "code": "77MS0346",
+    "name": "Судебный участок № 346 Хорошёвского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123007, г Москва, ул Гризодубовой, д 1 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/346"
+  },
+  {
+    "code": "77MS0347",
+    "name": "Судебный участок № 347 Савёловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125130, г Москва, ул Большая Академическая, д 15 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/347"
+  },
+  {
+    "code": "77MS0348",
+    "name": "Судебный участок № 348 Савёловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125252, г Москва, б-р Ходынский, д 5 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/348"
+  },
+  {
+    "code": "77MS0349",
+    "name": "Судебный участок № 349 района Беговой",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125319, г Москва, ул Черняховского, д 17 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/349"
+  },
+  {
+    "code": "77MS0350",
+    "name": "Судебный участок № 350 района Беговой",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125319, г Москва, ул Черняховского, д 17 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/350"
+  },
+  {
+    "code": "77MS0351",
+    "name": "Судебный участок № 351 района Аэропорт",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125319, г Москва, проезд Большой Коптевский, д 10 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/351"
+  },
+  {
+    "code": "77MS0352",
+    "name": "Судебный участок № 352 района Аэропорт",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125319, г Москва, проезд Большой Коптевский, д 10 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/352"
+  },
+  {
+    "code": "77MS0353",
+    "name": "Судебный участок № 353 района Аэропорт",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125319, г Москва, проезд Большой Коптевский, д 10 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/353"
+  },
+  {
+    "code": "77MS0354",
+    "name": "Судебный участок № 354 района Коптево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125581, г Москва, ул Лавочкина, д 34",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/354"
+  },
+  {
+    "code": "77MS0355",
+    "name": "Судебный участок № 355 района Коптево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125581, г Москва, ул Лавочкина, д 34",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/355"
+  },
+  {
+    "code": "77MS0356",
+    "name": "Судебный участок № 356 района Коптево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125581, г Москва, ул Лавочкина, д 34",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/356"
+  },
+  {
+    "code": "77MS0357",
+    "name": "Судебный участок № 357 района Западное Дегунино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125502, г Москва, ул Петрозаводская, д 15 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/357"
+  },
+  {
+    "code": "77MS0358",
+    "name": "Судебный участок № 358 района Западное Дегунино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127411, г Москва, ул Лобненская, д 9А стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/358"
+  },
+  {
+    "code": "77MS0359",
+    "name": "Судебный участок № 359 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105094, г Москва, наб Семёновская, д 2/1 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/359"
+  },
+  {
+    "code": "77MS0360",
+    "name": "Судебный участок № 360 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105064, г Москва, ул Казакова, д 3 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/360"
+  },
+  {
+    "code": "77MS0361",
+    "name": "Судебный участок № 361 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105094, г Москва, ул Госпитальный Вал, д 5 стр 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/361"
+  },
+  {
+    "code": "77MS0362",
+    "name": "Судебный участок № 362 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105094, г Москва, ул Госпитальный Вал, д 5 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/362"
+  },
+  {
+    "code": "77MS0363",
+    "name": "Судебный участок № 363 района Хамовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123022, г Москва, ул 1905 года, д 4 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/363"
+  },
+  {
+    "code": "77MS0364",
+    "name": "Судебный участок № 364 района Хамовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119121, г Москва, пер Земледельческий, д 12",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/364"
+  },
+  {
+    "code": "77MS0365",
+    "name": "Судебный участок № 365 района Хамовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119049, г Москва, ул Донская, д 8",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/365"
+  },
+  {
+    "code": "77MS0366",
+    "name": "Судебный участок № 366 района Хамовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115035, г Москва, наб Космодамианская, д 26/55 стр 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/366"
+  },
+  {
+    "code": "77MS0367",
+    "name": "Судебный участок № 367 Тверского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123557, г Москва, ул Пресненский Вал, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/367"
+  },
+  {
+    "code": "77MS0368",
+    "name": "Судебный участок № 368 Тверского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Каланчевская, д 43А, офис 749/752",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/368"
+  },
+  {
+    "code": "77MS0369",
+    "name": "Судебный участок № 369 Тверского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109012, г Москва, пл Новая, д 8 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/369"
+  },
+  {
+    "code": "77MS0370",
+    "name": "Судебный участок № 370 Тверского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109012, г Москва, пл Новая, д 8 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/370"
+  },
+  {
+    "code": "77MS0371",
+    "name": "Судебный участок № 371 Таганского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109544, г Москва, ул Рабочая, д 29В",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/371"
+  },
+  {
+    "code": "77MS0372",
+    "name": "Судебный участок № 372 Таганского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109544, г Москва, ул Рабочая, д 29В",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/372"
+  },
+  {
+    "code": "77MS0373",
+    "name": "Судебный участок № 373 Таганского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109544, г Москва, ул Рабочая, д 29В",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/373"
+  },
+  {
+    "code": "77MS0374",
+    "name": "Судебный участок № 374 Таганского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109544, г Москва, ул Новорогожская, д 28",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/374"
+  },
+  {
+    "code": "77MS0375",
+    "name": "Судебный участок № 375 района Арбат",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123290, г Москва, ш Шелепихинское, д 3 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/375"
+  },
+  {
+    "code": "77MS0376",
+    "name": "Судебный участок № 376 Пресненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123317, г Москва, ул 3-я Красногвардейская, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/376"
+  },
+  {
+    "code": "77MS0377",
+    "name": "Судебный участок № 377 Пресненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123317, г Москва, ул 3-я Красногвардейская, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/377"
+  },
+  {
+    "code": "77MS0378",
+    "name": "Судебный участок № 378 Пресненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123317, г Москва, ул 3-я Красногвардейская, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/378"
+  },
+  {
+    "code": "77MS0379",
+    "name": "Судебный участок № 379 Пресненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123317, г Москва, ул 3-я Красногвардейская, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/379"
+  },
+  {
+    "code": "77MS0380",
+    "name": "Судебный участок № 380 Пресненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123317, г Москва, ул 3-я Красногвардейская, д 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/380"
+  },
+  {
+    "code": "77MS0381",
+    "name": "Судебный участок № 381 Красносельского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107078, г Москва, пер Докучаев, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/381"
+  },
+  {
+    "code": "77MS0382",
+    "name": "Судебный участок № 382 Красносельского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107078, г Москва, пер Докучаев, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/382"
+  },
+  {
+    "code": "77MS0383",
+    "name": "Судебный участок № 383 Мещанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Гиляровского, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/383"
+  },
+  {
+    "code": "77MS0384",
+    "name": "Судебный участок № 384 Мещанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Гиляровского, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/384"
+  },
+  {
+    "code": "77MS0385",
+    "name": "Судебный участок № 385 Ярославского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129281, г Москва, ул Лётчика Бабушкина, д 39А, офис 512-513",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/385"
+  },
+  {
+    "code": "77MS0386",
+    "name": "Судебный участок № 386 района Северное Медведково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129281, г Москва, ул Лётчика Бабушкина, д 39А, офис 323-325",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/386"
+  },
+  {
+    "code": "77MS0387",
+    "name": "Судебный участок № 387 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123007, г Москва, ул Гризодубовой, д 1 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/387"
+  },
+  {
+    "code": "77MS0388",
+    "name": "Судебный участок № 388 Красносельского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Гиляровского, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/388"
+  },
+  {
+    "code": "77MS0389",
+    "name": "Судебный участок № 389 района Тверской",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109012, г Москва, пл Новая, д 8 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/389"
+  },
+  {
+    "code": "77MS0390",
+    "name": "Судебный участок № 390 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105064, г Москва, ул Казакова, д 3 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/390"
+  },
+  {
+    "code": "77MS0392",
+    "name": "Судебный участок № 392 района Отрадное",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127221, г Москва, проезд Шокальского, д 55 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/392"
+  },
+  {
+    "code": "77MS0393",
+    "name": "Судебный участок № 393 Обручевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119421, г Москва, ул Новаторов, д 16 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/393"
+  },
+  {
+    "code": "77MS0394",
+    "name": "Судебный участок № 394 Академического района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117335, г Москва, пр-кт Нахимовский, д 56",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/394"
+  },
+  {
+    "code": "77MS0395",
+    "name": "Судебный участок № 395 района Дорогомилово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121170, г Москва, ул Поклонная, д 6",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/395"
+  },
+  {
+    "code": "77MS0396",
+    "name": "Судебный участок № 396 Зрайона Якиманка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115162, г Москва, ул Мытная, д 46/2 стр 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/396"
+  },
+  {
+    "code": "77MS0397",
+    "name": "Судебный участок № 397 района Замоскворечье",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115184, г Москва, ул Пятницкая, д 53/18 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/397"
+  },
+  {
+    "code": "77MS0398",
+    "name": "Судебный участок № 398 района Замоскворечье",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119017, г Москва, пер Голиковский, д 10 стр 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/398"
+  },
+  {
+    "code": "77MS0399",
+    "name": "Судебный участок № 399 района Замоскворечье",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115184, г Москва, пер Большой Овчинниковский, д 20",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/399"
+  },
+  {
+    "code": "77MS0439",
+    "name": "Судебный участок № 48 поселения Воскресенское и Десеновское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/48"
+  },
+  {
+    "code": "77MS0440",
+    "name": "Судебный участок № 323 поселения Московский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/323"
+  },
+  {
+    "code": "77MS0441",
+    "name": "Судебный участок № 391 поселения Внуковское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/391"
+  },
+  {
+    "code": "77MS0400",
+    "name": "Судебный участок № 400 района Крюково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124683, г Москва, г Зеленоград, к 1820",
+    "legal_address": null,
+    "website": "http://mos-sud.ru"
+  },
+  {
+    "code": "77MS0401",
+    "name": "Судебный участок № 401 района Зюзино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117149, г Москва, ул Азовская, д 13",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/401"
+  },
+  {
+    "code": "77MS0402",
+    "name": "Судебный участок № 402 района Южное Бутово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117623, г Москва, ул Старонародная, д 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/402"
+  },
+  {
+    "code": "77MS0403",
+    "name": "Судебный участок № 403 Тимирязевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125008, г Москва, ул Большая Академическая, д 49 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/403"
+  },
+  {
+    "code": "77MS0404",
+    "name": "Судебный участок № 404 района Коптево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125008, г Москва, ул Большая Академическая, д 49 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/404"
+  },
+  {
+    "code": "77MS0405",
+    "name": "Судебный участок № 405 Можайского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "121596, г Москва, ул Толбухина, д 11 к 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/405"
+  },
+  {
+    "code": "77MS0406",
+    "name": "Судебный участок № 406 Нижегородского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111024, г Москва, проезд Перовский, д 7",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/406"
+  },
+  {
+    "code": "77MS0407",
+    "name": "Судебный участок № 407 района Марьино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109369, г Москва, б-р Новочеркасский, д 47",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/407"
+  },
+  {
+    "code": "77MS0408",
+    "name": "Судебный участок № 408 Красносельского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Гиляровского, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/408"
+  },
+  {
+    "code": "77MS0409",
+    "name": "Судебный участок № 409 Красносельского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Гиляровского, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/409"
+  },
+  {
+    "code": "77MS0410",
+    "name": "Судебный участок № 410 Мещанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Гиляровского, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/410"
+  },
+  {
+    "code": "77MS0411",
+    "name": "Судебный участок № 411 Мещанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Гиляровского, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/411"
+  },
+  {
+    "code": "77MS0412",
+    "name": "Судебный участок № 412 Останкинского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129085, г Москва, пр-кт Мира, д 89",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/412"
+  },
+  {
+    "code": "77MS0413",
+    "name": "Судебный участок № 413 района Марьина Роща",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127521, г Москва, ул Анненская, д 8",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/413"
+  },
+  {
+    "code": "77MS0414",
+    "name": "Судебный участок № 414 Алексеевского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129164, г Москва, ул Маломосковская, д 2 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/414"
+  },
+  {
+    "code": "77MS0415",
+    "name": "Судебный участок № 415 района Косино-Ухтомский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111675, г Москва, ул Святоозерская, д 30",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/415"
+  },
+  {
+    "code": "77MS0416",
+    "name": "Судебный участок № 416 района Арбат",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123557, г Москва, ул Пресненский Вал, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/416"
+  },
+  {
+    "code": "77MS0417",
+    "name": "Судебный участок № 417 района Арбат",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123290, г Москва, ш Шелепихинское, д 3 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/417"
+  },
+  {
+    "code": "77MS0418",
+    "name": "Судебный участок № 418 Пресненского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123557, г Москва, ул Пресненский Вал, д 16 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/418"
+  },
+  {
+    "code": "77MS0419",
+    "name": "Судебный участок № 419 Хорошёвского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125252, г Москва, б-р Ходынский, д 5 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/419"
+  },
+  {
+    "code": "77MS0420",
+    "name": "Судебный участок № 420 Савеловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125252, г Москва, б-р Ходынский, д 5 к 3",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/420"
+  },
+  {
+    "code": "77MS0421",
+    "name": "Судебный участок № 421 района Солнцево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119618, г Москва, ул Главмосстроя, д 9 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/421"
+  },
+  {
+    "code": "77MS0422",
+    "name": "Судебный участок № 422 Таганского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105005, г Москва, пер Большой Демидовский, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/422"
+  },
+  {
+    "code": "77MS0423",
+    "name": "Судебный участок № 423 Тверского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "129090, г Москва, ул Каланчевская, д 43А, офис 749/752",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/423"
+  },
+  {
+    "code": "77MS0424",
+    "name": "Судебный участок № 424 района Западное Дегунино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125502, г Москва, ул Петрозаводская, д 15 к 5",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/424"
+  },
+  {
+    "code": "77MS0425",
+    "name": "Судебный участок № 425 района Хамовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123290, г Москва, ш Шелепихинское, д 3 стр 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/425"
+  },
+  {
+    "code": "77MS0426",
+    "name": "Судебный участок № 426 района Строгино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123458, г Москва, ул Твардовского, д 4 к 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/426"
+  },
+  {
+    "code": "77MS0427",
+    "name": "Судебный участок № 427 района Щукино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123098, г Москва, ул Гамалеи, д 9",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/427"
+  },
+  {
+    "code": "77MS0428",
+    "name": "Судебный участок № 428 района Хорошёво-Мнёвники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "123154, г Москва, б-р Генерала Карбышева, д 16",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/428"
+  },
+  {
+    "code": "77MS0429",
+    "name": "Судебный участок № 429 района Черёмушки",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117418, г Москва, ул Новочерёмушкинская, д 49 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/429"
+  },
+  {
+    "code": "77MS0430",
+    "name": "Судебный участок № 430 поселений Внуковское, Кокошкино, Марушкинское и Филимонковское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108804, г Москва, Внуково р-н, дп Кокошкино, ул Дачная, д 7А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/430"
+  },
+  {
+    "code": "77MS0431",
+    "name": "Судебный участок № 431 поселений Воскресенское, Десеновское и Сосенское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/431"
+  },
+  {
+    "code": "77MS0432",
+    "name": "Судебный участок № 432 поселений Московский и «Мосрентген»",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/432"
+  },
+  {
+    "code": "77MS0433",
+    "name": "Судебный участок № 433 поселения Рязановское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108822, г Москва, Щербинка р-н, п Ерино, ул Высокая, д 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/433"
+  },
+  {
+    "code": "77MS0434",
+    "name": "Судебный участок № 434 поселения Щербинка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117148, г Москва, ул Маршала Савицкого, д 16 к 1",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/434"
+  },
+  {
+    "code": "77MS0435",
+    "name": "Судебный участок № 435 поселений Вороновское и Роговское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108830, г Москва, Вороново р-н, мкр Центральный (п ЛМС), д 12Б",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/435"
+  },
+  {
+    "code": "77MS0436",
+    "name": "Судебный участок № 436 поселений Клёновское и Щаповское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108825, г Москва, Краснопахорский р-н, п Щапово, д 2",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/436"
+  },
+  {
+    "code": "77MS0437",
+    "name": "Судебный участок № 437 поселений Первомайское и Троицк",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108842, г Москва, г Троицк, пр-кт Октябрьский, д 20",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/437"
+  },
+  {
+    "code": "77MS0438",
+    "name": "Судебный участок № 438 поселение Троицк",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108842, г Москва, г Троицк, пр-кт Октябрьский, д 20",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/438"
+  },
+  {
+    "code": "77MS0442",
+    "name": "Судебный участок № 439 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105082, г Москва, ул Большая Почтовая, д 1/33 стр 1",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/439"
+  },
+  {
+    "code": "77MS0443",
+    "name": "Судебный участок № 440 Басманного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105094, г Москва, наб Семёновская, д 2/1 стр 1",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/440"
+  },
+  {
+    "code": "77MS0444",
+    "name": "Судебный участок № 441 Войковского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125252, г Москва, ул Новопесчаная, д 20/10 к 1",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/441"
+  },
+  {
+    "code": "77MS0445",
+    "name": "Судебный участок № 442 района Крюково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "124365, г Москва, г Зеленоград, к 2016",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/442"
+  },
+  {
+    "code": "77MS0446",
+    "name": "Судебный участок № 443 района Соколиная Гора",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ш Измайловское, д 55",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/443"
+  },
+  {
+    "code": "77MS0447",
+    "name": "Судебный участок № 444 района Соколиная Гора",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ш Измайловское, д 55",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/444"
+  },
+  {
+    "code": "77MS0448",
+    "name": "Судебный участок № 445 района Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105187, г Москва, ул Фортунатовская, д 27А",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/445"
+  },
+  {
+    "code": "77MS0449",
+    "name": "Судебный участок № 446 района Северное Измайлово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "105425, г Москва, проезд Щёлковский, д 4",
+    "legal_address": null,
+    "website": "http://mos-sud.ru/ms/446"
+  },
+  {
+    "code": "77MS0450",
+    "name": "Судебный участок № 447 Рязанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109507, г Москва, пр-кт Волгоградский, д 185/19",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/447"
+  },
+  {
+    "code": "77MS0451",
+    "name": "Судебный участок № 448 района Некрасовка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109153, г Москва, ул Моршанская, д 2 к 1",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/448"
+  },
+  {
+    "code": "77MS0452",
+    "name": "Судебный участок № 449 района Некрасовка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "111675, г Москва, ул Святоозерская, д 15",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/449"
+  },
+  {
+    "code": "77MS0453",
+    "name": "Судебный участок № 450 Южнопортового района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "109202, г Москва, проезд 2-й Карачаровский, д 4А",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/450"
+  },
+  {
+    "code": "77MS0454",
+    "name": "Судебный участок № 451 Мещанского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107078, г Москва, пер Докучаев, д 13",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/451"
+  },
+  {
+    "code": "77MS0455",
+    "name": "Судебный участок № 452 района Очаково-Матвеевское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119607, г Москва, пр-кт Мичуринский, д 27 к 2",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/452"
+  },
+  {
+    "code": "77MS0456",
+    "name": "Судебный участок № 453 района Сокольники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107014, г Москва, ул 3-я Сокольническая, д 7",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/453"
+  },
+  {
+    "code": "77MS0457",
+    "name": "Судебный участок № 454 района Богородское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "107564, г Москва, ул 3-я Богатырская, д 3",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/454"
+  },
+  {
+    "code": "77MS0458",
+    "name": "Судебный участок № 455 района Нагатино-Садовники",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115201, г Москва, ш Каширское, д 16",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/455"
+  },
+  {
+    "code": "77MS0459",
+    "name": "Судебный участок № 456 Даниловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115068, г Москва, ул Восточная, д 2 к 4",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/456"
+  },
+  {
+    "code": "77MS0460",
+    "name": "Судебный участок № 457 Даниловского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115068, г Москва, ул Восточная, д 2 к 4",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/457"
+  },
+  {
+    "code": "77MS0461",
+    "name": "Судебный участок № 458 района Внуково",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/458"
+  },
+  {
+    "code": "77MS0462",
+    "name": "Судебный участок № 459 Таганского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "115054, г Москва, ул Валовая, д 29",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/459"
+  },
+  {
+    "code": "77MS0463",
+    "name": "Судебный участок № 460 Дмитровского района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "127486, г Москва, ш Коровинское, д 5 к 2",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/460"
+  },
+  {
+    "code": "77MS0464",
+    "name": "Судебный участок № 461 поселений Киевский и Новофёдоровское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108842, г Москва, г Троицк, мкр Сосны, д 4",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/461"
+  },
+  {
+    "code": "77MS0465",
+    "name": "Судебный участок № 462 поселений Краснопахорское и Михайлово-Ярцевское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108842, г Москва, г Троицк, мкр Сосны, д 4",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/462"
+  },
+  {
+    "code": "77MS0466",
+    "name": "Судебный участок № 463 поселения Троицк",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108842, г Москва, г Троицк, мкр Сосны, д 4",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/463"
+  },
+  {
+    "code": "77MS0467",
+    "name": "Судебный участок № 464 района Покровское-Стрешнево",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125367, г Москва, ш Волоколамское, д 60 к 1",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/464"
+  },
+  {
+    "code": "77MS0468",
+    "name": "Судебный участок № 465 района Южное Тушино",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "125363, г Москва, ул Аэродромная, д 9 стр 2",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/465"
+  },
+  {
+    "code": "77MS0469",
+    "name": "Судебный участок № 466 поселения Десеновское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/466"
+  },
+  {
+    "code": "77MS0470",
+    "name": "Судебный участок № 467 поселения Десеновское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "108842, г Москва, г Троицк, мкр Сосны, д 4",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/467"
+  },
+  {
+    "code": "77MS0471",
+    "name": "Судебный участок № 468 поселения Московский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/468"
+  },
+  {
+    "code": "77MS0472",
+    "name": "Судебный участок № 469 поселения Сосенское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/469"
+  },
+  {
+    "code": "77MS0473",
+    "name": "Судебный участок № 470 поселения Сосенское",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "119633, г Москва, ул Новоорловская, д 7Г",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/470"
+  },
+  {
+    "code": "77MS0474",
+    "name": "Судебный участок № 471 поселения Щербинка",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "117148, г Москва, ул Маршала Савицкого, д 18",
+    "legal_address": null,
+    "website": "https://mos-sud.ru/471"
+  }
+]

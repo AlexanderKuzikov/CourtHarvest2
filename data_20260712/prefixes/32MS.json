@@ -1,0 +1,762 @@
+[
+  {
+    "code": "32MS0001",
+    "name": "Судебный участок № 1 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://1.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0002",
+    "name": "Судебный участок № 2 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://2.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0003",
+    "name": "Судебный участок № 3 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://3.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0004",
+    "name": "Судебный участок № 4 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://4.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0005",
+    "name": "Судебный участок № 5 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://5.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0006",
+    "name": "Судебный участок № 6 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://6.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0007",
+    "name": "Судебный участок № 7 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://7.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0008",
+    "name": "Судебный участок № 8 Володарского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241022, г Брянск, ул Профсоюзов, д 9",
+    "legal_address": null,
+    "website": "http://8.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0009",
+    "name": "Судебный участок № 9 Володарского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241022, г Брянск, ул Профсоюзов, д 9",
+    "legal_address": null,
+    "website": "http://9.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0010",
+    "name": "Судебный участок № 10 Володарского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241022, г Брянск, ул Профсоюзов, д 9",
+    "legal_address": null,
+    "website": "http://10.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0011",
+    "name": "Судебный участок № 11 Советского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241019, г Брянск, пер Осоавиахима, д 5",
+    "legal_address": null,
+    "website": "http://11.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0012",
+    "name": "Судебный участок № 12 Советского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241019, г Брянск, пер Осоавиахима, д 5",
+    "legal_address": null,
+    "website": "http://12.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0013",
+    "name": "Судебный участок № 13 Советского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241019, г Брянск, пер Осоавиахима, д 5",
+    "legal_address": null,
+    "website": "http://13.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0014",
+    "name": "Судебный участок № 14 Советского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241019, г Брянск, пер Осоавиахима, д 5",
+    "legal_address": null,
+    "website": "http://14.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0015",
+    "name": "Судебный участок № 15 Советского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241019, г Брянск, пер Осоавиахима, д 5",
+    "legal_address": null,
+    "website": "http://15.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0016",
+    "name": "Судебный участок № 16 Советского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241019, г Брянск, пер Осоавиахима, д 5",
+    "legal_address": null,
+    "website": "http://16.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0017",
+    "name": "Судебный участок № 17 Советского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241019, г Брянск, пер Осоавиахима, д 5",
+    "legal_address": null,
+    "website": "http://17.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0018",
+    "name": "Судебный участок № 18 Фокинского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241020, г. Брянск, пр. Московский, д. 85-а",
+    "legal_address": null,
+    "website": "http://18.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0019",
+    "name": "Судебный участок № 19 Фокинского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241020, г. Брянск, пр. Московский, д. 85-а",
+    "legal_address": null,
+    "website": "http://19.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0020",
+    "name": "Судебный участок № 20 Фокинского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241020, г. Брянск, пр. Московский, д. 85-а",
+    "legal_address": null,
+    "website": "http://20.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0021",
+    "name": "Судебный участок № 21 Брянского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241037, г Брянск, ул Красноармейская, д 156",
+    "legal_address": null,
+    "website": "http://21.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0022",
+    "name": "Судебный участок № 22 Брянского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241037, г Брянск, ул Красноармейская, д 156",
+    "legal_address": null,
+    "website": "http://22.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0023",
+    "name": "Судебный участок № 23 Брасовского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242300, Брянская обл, рп Локоть, ул Советская, д 6Б",
+    "legal_address": null,
+    "website": "http://23.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0024",
+    "name": "Судебный участок № 24 Выгоничского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243361, Брянская обл, п Выгоничи, ул Ленина, д 51",
+    "legal_address": null,
+    "website": "http://24.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0025",
+    "name": "Судебный участок № 25 Красногорского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243650, Брянская обл, с Гордеевка, ул Ленина, д 50",
+    "legal_address": null,
+    "website": "http://25.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0026",
+    "name": "Судебный участок № 26 Дубровского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242750, Брянская обл, рп Дубровка, ул Победы, д 11",
+    "legal_address": null,
+    "website": "http://26.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0027",
+    "name": "Судебный участок № 27 Дятьковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242600, Брянская обл, г Дятьково, ул Садовая, д 23",
+    "legal_address": null,
+    "website": "http://27.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0028",
+    "name": "Судебный участок № 28 Дятьковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242600, Брянская обл, г Дятьково, ул Садовая, д 23",
+    "legal_address": null,
+    "website": "http://28.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0029",
+    "name": "Судебный участок № 29 Дятьковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242600, Брянская обл, г Дятьково, ул Садовая, д 23",
+    "legal_address": null,
+    "website": "http://29.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0030",
+    "name": "Судебный участок № 30 Выгоничского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242030, Брянская обл, с Жирятино, пер Майский, зд 1А",
+    "legal_address": null,
+    "website": "http://30.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0031",
+    "name": "Судебный участок № 31 Жуковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242700, Брянская обл, г Жуковка, ул Строителей, д 1",
+    "legal_address": null,
+    "website": "http://31.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0032",
+    "name": "Судебный участок № 32 Жуковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242700, Брянская обл, г Жуковка, ул Строителей, д 1",
+    "legal_address": null,
+    "website": "http://32.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0033",
+    "name": "Судебный участок № 33 Злынковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243600, Брянская обл, г Злынка, ул Площадь Свободы, д 18",
+    "legal_address": null,
+    "website": "http://33.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0034",
+    "name": "Судебный участок № 34 Карачевского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242500, Брянская обл, г Карачев, ул Дзержинского, д 10",
+    "legal_address": null,
+    "website": "http://34.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0035",
+    "name": "Судебный участок № 35 Карачевского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242500, Брянская обл, г Карачев, ул Дзержинского, д 10",
+    "legal_address": null,
+    "website": "http://35.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0036",
+    "name": "Судебный участок № 36 Клетнянского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242820, Брянская обл, п Клетня, пер Ленина, д 12",
+    "legal_address": null,
+    "website": "http://36.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0037",
+    "name": "Судебный участок № 37 Климовского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243040, Брянская обл, рп Климово, ул Маяковского, д 8А",
+    "legal_address": null,
+    "website": "http://37.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0038",
+    "name": "Судебный участок № 38 Климовского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243040, Брянская обл, рп Климово, ул Маяковского, д 8А",
+    "legal_address": null,
+    "website": "http://38.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0039",
+    "name": "Судебный участок № 39 Клинцовского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243146, Брянская обл, г Клинцы, ул Ворошилова, д 3",
+    "legal_address": null,
+    "website": "http://39.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0040",
+    "name": "Судебный участок № 40 Комаричского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242400, Брянская обл, рп Комаричи, ул Советская, д 26А",
+    "legal_address": null,
+    "website": "http://40.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0041",
+    "name": "Судебный участок № 41 Красногорского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243160, Брянская обл, пгт Красная Гора, ул Буйневича, д 54",
+    "legal_address": null,
+    "website": "http://41.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0042",
+    "name": "Судебный участок № 42 Мглинского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243220, Брянская обл, г Мглин, пл Советская, стр 15",
+    "legal_address": null,
+    "website": "http://42.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0043",
+    "name": "Судебный участок № 43 Навлинского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242130, Брянская обл, рп Навля, ул Генерала Петренко, д 2",
+    "legal_address": null,
+    "website": "http://43.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0044",
+    "name": "Судебный участок № 44 Навлинского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242130, Брянская обл, рп Навля, ул Генерала Петренко, д 2",
+    "legal_address": null,
+    "website": "http://44.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0045",
+    "name": "Судебный участок № 45 Новозыбковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243020, Брянская обл, г Новозыбков, ул 307 Дивизии, д 50",
+    "legal_address": null,
+    "website": "http://45.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0046",
+    "name": "Судебный участок № 46 Погарского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243550, Брянская обл, пгт Погар, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://46.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0047",
+    "name": "Судебный участок № 47 Погарского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243550, Брянская обл, пгт Погар, ул Ленина, д 9",
+    "legal_address": null,
+    "website": "http://47.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0048",
+    "name": "Судебный участок № 48 Почепского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243400, Брянская обл. , г. Почеп, ул. А. К. Толстого, д. 27",
+    "legal_address": null,
+    "website": "http://48.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0049",
+    "name": "Судебный участок № 49 Почепского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243400, Брянская обл. , г. Почеп, ул. А. К. Толстого, д. 27",
+    "legal_address": null,
+    "website": "http://49.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0050",
+    "name": "Судебный участок № 50 Дубровского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242770, Брянская обл, рп Рогнедино, ул Ленина, д 32",
+    "legal_address": null,
+    "website": "http://50.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0051",
+    "name": "Судебный участок № 51 Севского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242440, Брянская обл, г Севск, ул Советская, д 3",
+    "legal_address": null,
+    "website": "http://51.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0052",
+    "name": "Судебный участок № 52 Стародубского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243240, Брянская обл, г Стародуб, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://52.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0053",
+    "name": "Судебный участок № 53 Стародубского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243240, Брянская обл, г Стародуб, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://53.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0054",
+    "name": "Судебный участок № 54 Суземского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242190, Брянская обл, п Суземка, ул Ленина, д 25",
+    "legal_address": null,
+    "website": "http://54.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0055",
+    "name": "Судебный участок № 55 Суражского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243500, Брянская обл, г Сураж, ул Мглинская, д 1А",
+    "legal_address": null,
+    "website": "http://55.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0056",
+    "name": "Судебный участок № 56 Трубчевского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242220, Брянская обл, г Трубчевск, ул Ленина, д 38",
+    "legal_address": null,
+    "website": "http://56.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0057",
+    "name": "Судебный участок № 57 Трубчевского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242220, Брянская обл, г Трубчевск, ул Ленина, д 38",
+    "legal_address": null,
+    "website": "http://57.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0058",
+    "name": "Судебный участок № 58 Унечского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243300, Брянская обл, г Унеча, ул Иванова, д 9",
+    "legal_address": null,
+    "website": "http://58.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0059",
+    "name": "Судебный участок № 59 Унечского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243300, Брянская обл, г Унеча, ул Иванова, д 9",
+    "legal_address": null,
+    "website": "http://59.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0060",
+    "name": "Судебный участок № 60 Судебного района г. Клинцы Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243146, Брянская обл, г Клинцы, ул Ворошилова, д 3",
+    "legal_address": null,
+    "website": "http://60.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0061",
+    "name": "Судебный участок № 61 судебного района г. Клинцы Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243146, Брянская обл, г Клинцы, ул Ворошилова, д 3",
+    "legal_address": null,
+    "website": "http://61.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0062",
+    "name": "Судебный участок № 62 судебного района г. Клинцы Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243146, Брянская обл, г Клинцы, ул Ворошилова, д 3",
+    "legal_address": null,
+    "website": "http://62.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0063",
+    "name": "Судебный участок № 63 Новозыбковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243020, Брянская обл, г Новозыбков, ул 307 Дивизии, д 50",
+    "legal_address": null,
+    "website": "http://63.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0064",
+    "name": "Судебный участок № 64 Новозыбковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243020, Брянская обл, г Новозыбков, ул 307 Дивизии, д 50",
+    "legal_address": null,
+    "website": "http://64.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0065",
+    "name": "Судебный участок № 65 судебного района г. Сельцо Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241550, Брянская обл, г Сельцо, ул Кирова, д 59",
+    "legal_address": null,
+    "website": "http://65.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0066",
+    "name": "Судебный участок № 66 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://66.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0067",
+    "name": "Судебный участок № 67 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://67.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0068",
+    "name": "Судебный участок № 68 Бежицкого судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241013, г Брянск, ул Молодой Гвардии, д 18",
+    "legal_address": null,
+    "website": "http://68.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0069",
+    "name": "Судебный участок № 69 Володарского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241022, г Брянск, ул Профсоюзов, д 9",
+    "legal_address": null,
+    "website": "http://69.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0070",
+    "name": "Судебный участок № 70 Володарского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241022, г Брянск, ул Профсоюзов, д 9",
+    "legal_address": null,
+    "website": "http://70.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0071",
+    "name": "Судебный участок № 71 Фокинского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241020, г. Брянск, пр. Московский, д. 85-а",
+    "legal_address": null,
+    "website": "http://71.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0072",
+    "name": "Судебный участок № 72 Фокинского судебного района г. Брянска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241020, г. Брянск, пр. Московский, д. 85-а",
+    "legal_address": null,
+    "website": "http://72.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0073",
+    "name": "Судебный участок № 73 Брянского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "241037, г Брянск, ул Красноармейская, д 156",
+    "legal_address": null,
+    "website": "http://73.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0074",
+    "name": "Судебный участок № 74 Дятьковского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "242600, Брянская обл, г Дятьково, ул Садовая, д 23",
+    "legal_address": null,
+    "website": "http://74.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0075",
+    "name": "Судебный участок № 75 Суражского судебного района Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243500, Брянская обл, г Сураж, ул Мглинская, д 1А",
+    "legal_address": null,
+    "website": "http://75.brj.msudrf.ru"
+  },
+  {
+    "code": "32MS0076",
+    "name": "Судебный участок № 76 судебного района г. Клинцы Брянской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "243146, Брянская обл, г Клинцы, ул Ворошилова, д 3",
+    "legal_address": null,
+    "website": "http://76.brj.msudrf.ru"
+  }
+]

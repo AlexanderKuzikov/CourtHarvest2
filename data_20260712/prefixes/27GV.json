@@ -1,0 +1,122 @@
+[
+  {
+    "code": "27GV0005",
+    "name": "Белогорский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "676853, Амурская обл, г Белогорск, ул Авиационная, зд 23Б",
+    "legal_address": null,
+    "website": "http://belgvs.amr.sudrf.ru"
+  },
+  {
+    "code": "27GV0004",
+    "name": "Биробиджанский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "679016, г Биробиджан, ул Трансформаторная, д 3А",
+    "legal_address": null,
+    "website": "http://bgvs.brb.sudrf.ru"
+  },
+  {
+    "code": "27GV0006",
+    "name": "Благовещенский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "675011, г Благовещенск, ул Красноармейская, д 136/2",
+    "legal_address": null,
+    "website": "http://bgvs.amr.sudrf.ru"
+  },
+  {
+    "code": "27GV0002",
+    "name": "Комсомольский-на-Амуре гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "681013, Хабаровский край, г Комсомольск-на-Амуре, ул Севастопольская, д 55",
+    "legal_address": null,
+    "website": "http://knagvs.hbr.sudrf.ru"
+  },
+  {
+    "code": "27GV0010",
+    "name": "Краснореченский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "680044, г Хабаровск, ул Мельничная, д 29Г",
+    "legal_address": null,
+    "website": "http://krasnorechgvs.hbr.sudrf.ru"
+  },
+  {
+    "code": "27GV0013",
+    "name": "Курильский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "694534, Сахалинская обл, Курильский р-н, с Горячие Ключи",
+    "legal_address": null,
+    "website": "http://kgvs.sah.sudrf.ru"
+  },
+  {
+    "code": "27GV0003",
+    "name": "Свободненский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "676454, Амурская обл, г Свободный, ул Дзержинского, д 47",
+    "legal_address": null,
+    "website": "http://sgvs.amr.sudrf.ru"
+  },
+  {
+    "code": "27GV0009",
+    "name": "Спасск-Дальний гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "692243, Приморский край, г Спасск-Дальний, ул Краснознамённая, д 13",
+    "legal_address": null,
+    "website": "http://sdgvs.prm.sudrf.ru"
+  },
+  {
+    "code": "27GV0008",
+    "name": "Уссурийский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "692519, Приморский край, г Уссурийск, ул Лермонтова, зд 24А",
+    "legal_address": null,
+    "website": "http://ugvs.prm.sudrf.ru"
+  },
+  {
+    "code": "27GV0001",
+    "name": "Хабаровский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "680038, г Хабаровск, ул Серышева, д 60",
+    "legal_address": null,
+    "website": "http://habargvs.hbr.sudrf.ru"
+  },
+  {
+    "code": "27GV0012",
+    "name": "Южно-Сахалинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "693020, г Южно-Сахалинск, ул Бумажная, д 34",
+    "legal_address": null,
+    "website": "http://yusgvs.sah.sudrf.ru"
+  },
+  {
+    "code": "27GV0014",
+    "name": "Якутский гарнизонный военный суд (Республика Саха (Якутия))",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "677000, г Якутск, ул Октябрьская, д 8",
+    "legal_address": null,
+    "website": "http://gvs.jak.sudrf.ru"
+  }
+]

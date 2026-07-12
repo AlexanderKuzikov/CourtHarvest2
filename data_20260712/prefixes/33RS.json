@@ -1,0 +1,192 @@
+[
+  {
+    "code": "33RS0005",
+    "name": "Александровский городской суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601650, Владимирская обл, г Александров, пл Советская, д 2",
+    "legal_address": null,
+    "website": "http://aleksandrovsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0006",
+    "name": "Вязниковский городской суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601445, Владимирская обл, г Вязники, ул Мельничная, д 2",
+    "legal_address": null,
+    "website": "http://viaznikovsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0007",
+    "name": "Гороховецкий районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601480, Владимирская обл, г Гороховец, ул Гоголя, д 17",
+    "legal_address": null,
+    "website": "http://gorohovecky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0008",
+    "name": "Гусь-Хрустальный городской суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601501, Владимирская обл, г Гусь-Хрустальный, ул Калинина, д 36",
+    "legal_address": null,
+    "website": "http://gus-hrustalsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0009",
+    "name": "Камешковский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601300, Владимирская обл, г Камешково, ул Карла Либкнехта, д 3",
+    "legal_address": null,
+    "website": "http://kameshkovsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0010",
+    "name": "Киржачский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601010, Владимирская обл, г Киржач, ул Серегина, д 12",
+    "legal_address": null,
+    "website": "http://kirzhachsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0011",
+    "name": "Ковровский городской суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601900, Владимирская обл, г Ковров, ул Щорса, д 21",
+    "legal_address": null,
+    "website": "http://kovrovsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0012",
+    "name": "Кольчугинский городской суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601785, Владимирская обл, г Кольчугино, ул 50 лет Октября, д 1",
+    "legal_address": null,
+    "website": "http://kolchuginsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0001",
+    "name": "Ленинский районный суд г. Владимира",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "600021, г Владимир, ул Стрелецкая, д 55",
+    "legal_address": null,
+    "website": "http://leninsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0013",
+    "name": "Меленковский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "602101, Владимирская обл, г Меленки, ул Советская, д 23А",
+    "legal_address": null,
+    "website": "http://melenkovsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0014",
+    "name": "Муромский городской суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "602267, Владимирская обл, г Муром, ул Московская, д 15",
+    "legal_address": null,
+    "website": "http://muromsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0002",
+    "name": "Октябрьский районный суд г. Владимира",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "600005, г Владимир, пр-кт Октябрьский, д 40",
+    "legal_address": null,
+    "website": "http://oktiabrsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0015",
+    "name": "Петушинский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601144, Владимирская обл, г Петушки, ул Ленина, д 17",
+    "legal_address": null,
+    "website": "http://petushinsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0016",
+    "name": "Селивановский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "602332, Владимирская обл, п Красная Горбатка, ул Красноармейская, д 10",
+    "legal_address": null,
+    "website": "http://selivanovsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0017",
+    "name": "Собинский городской суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601204, Владимирская обл, г Собинка, пр-кт Рабочий, д 6",
+    "legal_address": null,
+    "website": "http://sobinsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0018",
+    "name": "Судогодский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601352, Владимирская обл, г Судогда, ул Ленина, д 72",
+    "legal_address": null,
+    "website": "http://sudogodsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0019",
+    "name": "Суздальский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601293, Владимирская обл, г Суздаль, ул Энгельса, д 7",
+    "legal_address": null,
+    "website": "http://suzdalsky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0003",
+    "name": "Фрунзенский районный суд г. Владимира",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "600020, г Владимир, ул Большая Нижегородская, д 67А",
+    "legal_address": null,
+    "website": "http://frunzensky.wld.sudrf.ru"
+  },
+  {
+    "code": "33RS0020",
+    "name": "Юрьев-Польский районный суд Владимирской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "601800, Владимирская обл, г Юрьев-Польский, пл Советская, д 14",
+    "legal_address": null,
+    "website": "http://iuriev-polsky.wld.sudrf.ru"
+  }
+]

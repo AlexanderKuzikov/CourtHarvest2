@@ -1,0 +1,102 @@
+[
+  {
+    "code": "09RS0009",
+    "name": "Адыге-Хабльский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369330, Респ Карачаево-Черкесская, аул Адыге-Хабль, ул Хусина Гашокова, д 3",
+    "legal_address": null,
+    "website": "http://adige-hablsky.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0007",
+    "name": "Зеленчукский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369140, Респ Карачаево-Черкесская, ст-ца Зеленчукская, ул Мира, д 21А",
+    "legal_address": null,
+    "website": "http://zelenchuksky.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0003",
+    "name": "Карачаевский городской суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369200, Респ Карачаево-Черкесская, г Карачаевск, ул Байрамукова, д 1",
+    "legal_address": null,
+    "website": "http://karachaevskygor.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0004",
+    "name": "Карачаевский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369200, Респ Карачаево-Черкесская, г Карачаевск, ул Мира, д 9А",
+    "legal_address": null,
+    "website": "http://karachaevskyrai.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0005",
+    "name": "Малокарачаевский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369380, Респ Карачаево-Черкесская, с Учкекен, ул Ленина, зд 116",
+    "legal_address": null,
+    "website": "http://malokarachaevsky.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0010",
+    "name": "Прикубанский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369100, Респ Карачаево-Черкесская, Прикубанский р-н, п Кавказский, пр-кт Ленина, д 6",
+    "legal_address": null,
+    "website": "http://prikubansky.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0006",
+    "name": "Урупский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369260, Респ Карачаево-Черкесская, ст-ца Преградная, ул Голоколосовой, д 47",
+    "legal_address": null,
+    "website": "http://urupsky.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0002",
+    "name": "Усть-Джегутинский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369300, Респ Карачаево-Черкесская, г Усть-Джегута, ул Богатырева, д 38",
+    "legal_address": null,
+    "website": "http://ust-djegutinsky.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0008",
+    "name": "Хабезский районный суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369400, Респ Карачаево-Черкесская, аул Хабез, ул У.Хабекова, зд 64",
+    "legal_address": null,
+    "website": "http://xabezsky.kchr.sudrf.ru"
+  },
+  {
+    "code": "09RS0001",
+    "name": "Черкесский городской суд Карачаево-Черкесской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "369000, г Черкесск, ул Им Ворошилова, д 24",
+    "legal_address": null,
+    "website": "http://cherkessky.kchr.sudrf.ru"
+  }
+]

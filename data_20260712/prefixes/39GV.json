@@ -1,0 +1,32 @@
+[
+  {
+    "code": "39GV0005",
+    "name": "224 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "190098, г Санкт-Петербург, пл Труда, д 1",
+    "legal_address": null,
+    "website": "http://224gvs.spb.sudrf.ru"
+  },
+  {
+    "code": "39GV0004",
+    "name": "Балтийский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "238520, Калининградская обл, г Балтийск, ул Садовая, д 55",
+    "legal_address": null,
+    "website": "http://baltyiskygvs.kln.sudrf.ru"
+  },
+  {
+    "code": "39GV0001",
+    "name": "Калининградский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "236017, г Калининград, пер Дмитрия Донского, д 45",
+    "legal_address": null,
+    "website": "http://kaliningvs.kln.sudrf.ru"
+  }
+]

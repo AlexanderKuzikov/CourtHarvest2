@@ -1,0 +1,722 @@
+[
+  {
+    "code": "29MS0001",
+    "name": "Судебный участок № 1 Вельского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165150, Архангельская обл, г Вельск, ул Ломоносова, д 36 к а",
+    "legal_address": null,
+    "website": "http://1vel.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0005",
+    "name": "Судебный участок № 1 Вилегодского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165680, Архангельская обл, с Ильинско-Подомское, ул Ленина, д 12",
+    "legal_address": null,
+    "website": "http://vil.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0006",
+    "name": "Судебный участок № 1 Виноградовского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164570, Архангельская обл, п Березник, ул Хаджи-Мурата, д 17",
+    "legal_address": null,
+    "website": "http://vin.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0009",
+    "name": "Судебный участок № 1 Исакогорского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://1ic.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0012",
+    "name": "Судебный участок № 1 Коношского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164010, Архангельская обл, рп Коноша, ул Коллективизации, д 10",
+    "legal_address": null,
+    "website": "http://1kon.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0019",
+    "name": "Судебный участок № 1 Коряжемского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165654, Архангельская обл, г Коряжма, ул имени Дыбцына, д 1",
+    "legal_address": null,
+    "website": "http://1kor.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0014",
+    "name": "Судебный участок № 1 Котласского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165300, Архангельская обл, г Котлас, ул Ленина, д 74",
+    "legal_address": null,
+    "website": "http://1ktl.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0021",
+    "name": "Судебный участок № 1 Красноборского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165430, Архангельская обл, с Красноборск, ул Гагарина, д 32",
+    "legal_address": null,
+    "website": "http://krb.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0023",
+    "name": "Судебный участок № 1 Лешуконского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164670, Архангельская обл, с Лешуконское, ул Победы, д 16",
+    "legal_address": null,
+    "website": "http://lkn.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0024",
+    "name": "Судебный участок № 1 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://1lmn.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0029",
+    "name": "Судебный участок № 1 Мирнинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164170, Архангельская обл, г Мирный, ул Ленина, д 33",
+    "legal_address": null,
+    "website": "http://1mir.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0070",
+    "name": "Судебный участок № 1 Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "166000, г Нарьян-Мар, ул им.В.И.Ленина, д 35А",
+    "legal_address": null,
+    "website": "http://1nao.arh.msudrf.ru/"
+  },
+  {
+    "code": "29MS0034",
+    "name": "Судебный участок № 1 Новодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164900, Архангельская обл, г Новодвинск, ул Фронтовых бригад, д 8 к 1",
+    "legal_address": null,
+    "website": "http://1ndv.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0036",
+    "name": "Судебный участок № 1 Няндомского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164200, Архангельская обл, г Няндома, ул Леваневского, зд 60",
+    "legal_address": null,
+    "website": "http://1ndm.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0038",
+    "name": "Судебный участок № 1 Октябрьского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163001, г Архангельск, ул Суворова, д 11",
+    "legal_address": null,
+    "website": "http://1okt.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0044",
+    "name": "Судебный участок № 1 Онежского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164840, Архангельская обл, г Онега, пр-кт Октябрьский, д 129",
+    "legal_address": null,
+    "website": "http://1onk.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0046",
+    "name": "Судебный участок № 1 Пинежского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164600, Архангельская обл, с Карпогоры, ул Быстрова, д 19",
+    "legal_address": null,
+    "website": "http://1pnk.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0048",
+    "name": "Судебный участок № 1 Плесецкого судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164262, Архангельская обл, рп Плесецк, ул Партизанская, д 1",
+    "legal_address": null,
+    "website": "http://1pls.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0050",
+    "name": "Судебный участок № 1 Приморского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://1prm.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0052",
+    "name": "Судебный участок № 1 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://1svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0002",
+    "name": "Судебный участок № 2 Вельского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165150, Архангельская обл, г Вельск, ул Ломоносова, д 36 к а",
+    "legal_address": null,
+    "website": "http://2vel.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0004",
+    "name": "Судебный участок № 2 Красноборского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165500, Архангельская обл, с Верхняя Тойма, ул Набережная, д 1",
+    "legal_address": null,
+    "website": "http://vht.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0003",
+    "name": "Судебный участок № 3 Вельского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165150, Архангельская обл, г Вельск, ул Ломоносова, д 36 к а",
+    "legal_address": null,
+    "website": "http://3vel.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0007",
+    "name": "Судебный участок № 5 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163062, г Архангельск, ул Никитова, д 3",
+    "legal_address": null,
+    "website": "http://1vf.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0008",
+    "name": "Судебный участок № 6 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163062, г Архангельск, ул Никитова, д 3",
+    "legal_address": null,
+    "website": "http://2vf.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0010",
+    "name": "Судебный участок № 2 Исакогорского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://2ic.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0013",
+    "name": "Судебный участок № 2 Коношского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164010, Архангельская обл, рп Коноша, ул Коллективизации, д 10",
+    "legal_address": null,
+    "website": "http://2kon.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0015",
+    "name": "Судебный участок № 2 Котласского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165300, Архангельская обл, г Котлас, ул Ленина, д 74",
+    "legal_address": null,
+    "website": "http://2ktl.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0016",
+    "name": "Судебный участок № 3 Котласского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165300, Архангельская обл, г Котлас, ул Ленина, д 74",
+    "legal_address": null,
+    "website": "http://3ktl.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0011",
+    "name": "Судебный участок № 3 Няндомского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164110, Архангельская обл, г Каргополь, ул Чапаева, д 11",
+    "legal_address": null,
+    "website": "http://krg.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0017",
+    "name": "Судебный участок № 4 Котласского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165340, Архангельская обл, г Котлас, рп Вычегодский, ул Энгельса, д 63",
+    "legal_address": null,
+    "website": "http://4ktl.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0018",
+    "name": "Судебный участок № 5 Котласского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165300, Архангельская обл, г Котлас, ул Ленина, д 74",
+    "legal_address": null,
+    "website": "http://ktr.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0022",
+    "name": "Судебный участок № 2 Вилегодского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165780, Архангельская обл, с Яренск, ул Братьев Покровских, зд 4/1",
+    "legal_address": null,
+    "website": "http://lnk.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0020",
+    "name": "Судебный участок № 2 Коряжемского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165654, Архангельская обл, г Коряжма, ул имени Дыбцына, д 1",
+    "legal_address": null,
+    "website": "http://2kor.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0028",
+    "name": "Судебный участок № 2 Лешуконского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164750, Архангельская обл, г Мезень, пр-кт Советский, д 70А",
+    "legal_address": null,
+    "website": "http://mez.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0025",
+    "name": "Судебный участок № 2 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://2lmn.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0026",
+    "name": "Судебный участок № 3 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163002, г Архангельск, пр-кт Ломоносова, д 30",
+    "legal_address": null,
+    "website": "http://3lmn.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0027",
+    "name": "Судебный участок № 4 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163002, г Архангельск, пр-кт Ломоносова, д 30",
+    "legal_address": null,
+    "website": "http://4lmn.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0030",
+    "name": "Судебный участок № 2 Мирнинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164170, Архангельская обл, г Мирный, ул Ленина, д 33",
+    "legal_address": null,
+    "website": "http://2mir.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0035",
+    "name": "Судебный участок № 2 Новодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164900, Архангельская обл, г Новодвинск, ул Фронтовых бригад, д 8 к 1",
+    "legal_address": null,
+    "website": "http://2ndv.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0037",
+    "name": "Судебный участок № 2 Няндомского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164200, Архангельская обл, г Няндома, ул Леваневского, зд 60",
+    "legal_address": null,
+    "website": "http://2ndm.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0039",
+    "name": "Судебный участок № 2 Октябрьского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://2okt.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0031",
+    "name": "Судебный участок № 4 Соломбальского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163020, г Архангельск, наб Георгия Седова, д 17",
+    "legal_address": null,
+    "website": "http://mao.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0032",
+    "name": "Судебный участок № 7 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163002, г Архангельск, пр-кт Ломоносова, д 30",
+    "legal_address": null,
+    "website": "http://1mg.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0033",
+    "name": "Судебный участок № 8 Ломоносовского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163002, г Архангельск, пр-кт Ломоносова, д 30",
+    "legal_address": null,
+    "website": "http://2mg.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0045",
+    "name": "Судебный участок № 2 Онежского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164840, Архангельская обл, г Онега, пр-кт Октябрьский, д 129",
+    "legal_address": null,
+    "website": "http://2onk.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0047",
+    "name": "Судебный участок № 2 Пинежского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164600, Архангельская обл, с Карпогоры, ул Быстрова, д 19",
+    "legal_address": null,
+    "website": "http://2pnk.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0049",
+    "name": "Судебный участок № 2 Плесецкого судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164262, Архангельская обл, рп Плесецк, ул Партизанская, д 1",
+    "legal_address": null,
+    "website": "http://2pls.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0040",
+    "name": "Судебный участок № 3 Октябрьского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163001, г Архангельск, ул Суворова, д 11",
+    "legal_address": null,
+    "website": "http://3okt.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0041",
+    "name": "Судебный участок № 4 Октябрьского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://4okt.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0042",
+    "name": "Судебный участок № 5 Октябрьского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163001, г Архангельск, ул Суворова, д 11",
+    "legal_address": null,
+    "website": "http://5okt.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0051",
+    "name": "Судебный участок № 2 Приморского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163000, г Архангельск, ул Свободы, д 29",
+    "legal_address": null,
+    "website": "http://2prm.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0053",
+    "name": "Судебный участок № 2 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://2svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0054",
+    "name": "Судебный участок № 3 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://3svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0055",
+    "name": "Судебный участок № 4 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://4svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0056",
+    "name": "Судебный участок № 5 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164501, Архангельская обл, г Северодвинск, ул Бойчука, д 3",
+    "legal_address": null,
+    "website": "http://5svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0057",
+    "name": "Судебный участок № 6 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://6svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0058",
+    "name": "Судебный участок № 7 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://7svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0059",
+    "name": "Судебный участок № 8 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164501, Архангельская обл, г Северодвинск, ул Бойчука, д 3",
+    "legal_address": null,
+    "website": "http://8svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0062",
+    "name": "Судебный участок № 1 Соломбальского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163020, г Архангельск, наб Георгия Седова, д 17",
+    "legal_address": null,
+    "website": "http://1sol.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0065",
+    "name": "Судебный участок № 1 Устьянского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165210, Архангельская обл, рп Октябрьский, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://1ust.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0067",
+    "name": "Судебный участок № 1 Холмогорского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164530, Архангельская обл, с Холмогоры, ул Октябрьская, д 10",
+    "legal_address": null,
+    "website": "http://1hlm.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0069",
+    "name": "Судебный участок № 2 Виноградовского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165160, Архангельская обл, г Шенкурск, ул Г.Иванова, д 2",
+    "legal_address": null,
+    "website": "http://shr.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0063",
+    "name": "Судебный участок № 2 Соломбальского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163020, г Архангельск, наб Георгия Седова, д 17",
+    "legal_address": null,
+    "website": "http://2sol.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0066",
+    "name": "Судебный участок № 2 Устьянского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "165210, Архангельская обл, рп Октябрьский, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://2ust.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0068",
+    "name": "Судебный участок № 2 Холмогорского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164537, Архангельская обл, Холмогорский р-н, с Емецк, ул Горончаровского, д 39",
+    "legal_address": null,
+    "website": "http://2hlm.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0064",
+    "name": "Судебный участок № 3 Соломбальского судебного района г. Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163020, г Архангельск, наб Георгия Седова, д 17",
+    "legal_address": null,
+    "website": "http://sev.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0060",
+    "name": "Судебный участок № 9 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://9svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0061",
+    "name": "Судебный участок № 10 Северодвинского судебного района Архангельской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "164520, Архангельская обл, г Северодвинск, ул Пионерская, д 12",
+    "legal_address": null,
+    "website": "http://10svd.arh.msudrf.ru"
+  },
+  {
+    "code": "29MS0071",
+    "name": "Судебный участок № 2 Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "166000, г Нарьян-Мар, ул им.В.И.Ленина, д 35А",
+    "legal_address": null,
+    "website": "http://2nao.arh.msudrf.ru/"
+  },
+  {
+    "code": "29MS0072",
+    "name": "Судебный участок № 3 Ненецкого автономного округа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "166000, г Нарьян-Мар, ул им.В.И.Ленина, д 35А",
+    "legal_address": null,
+    "website": "http://3nao.arh.msudrf.ru/"
+  },
+  {
+    "code": "29MS0073",
+    "name": "Судебный участок № 9 Ломоносовского судебного района города Архангельска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "163001, г Архангельск, ул Суворова, д 11",
+    "legal_address": null,
+    "website": "http://9lmn.arh.msudrf.ru"
+  }
+]

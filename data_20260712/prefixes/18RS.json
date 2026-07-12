@@ -1,0 +1,212 @@
+[
+  {
+    "code": "18RS0007",
+    "name": "Балезинский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427552, Респ Удмуртская, Балезинский р-н, п Балезино, ул Красноармейская, стр 9",
+    "legal_address": null,
+    "website": "http://balezinskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0009",
+    "name": "Воткинский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427431, Респ Удмуртская, г Воткинск, ул Советская, д 64",
+    "legal_address": null,
+    "website": "http://votkinskiygor.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0011",
+    "name": "Глазовский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427626, Респ Удмуртская, г Глазов, ул Пряженникова, д 29",
+    "legal_address": null,
+    "website": "http://glazovskiygor.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0013",
+    "name": "Завьяловский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427000, Респ Удмуртская, с Завьялово, ул Речная, зд 17",
+    "legal_address": null,
+    "website": "http://zavyalovskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0014",
+    "name": "Игринский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427145, Респ Удмуртская, п Игра, ул Советская, зд 39",
+    "legal_address": null,
+    "website": "http://igrinskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0004",
+    "name": "Индустриальный районный суд г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "426039, г Ижевск, ш Воткинское, д 140",
+    "legal_address": null,
+    "website": "http://industrialnyy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0015",
+    "name": "Камбарский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427950, Респ Удмуртская, г Камбарка, ул Ленина, зд 52",
+    "legal_address": null,
+    "website": "http://kambarskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0016",
+    "name": "Кезский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427580, Респ Удмуртская, Кезский р-н, п Кез, ул Ленина, зд 18",
+    "legal_address": null,
+    "website": "http://kezskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0017",
+    "name": "Кизнерский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427710, Респ Удмуртская, Кизнерский р-н, п Кизнер, ул Красная, зд 18А",
+    "legal_address": null,
+    "website": "http://kiznerskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0001",
+    "name": "Ленинский районный суд г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "426021, г Ижевск, ул Городок Машиностроителей, д 116 к 1",
+    "legal_address": null,
+    "website": "http://leninskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0022",
+    "name": "Малопургинский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427820, Респ Удмуртская, с Малая Пурга, ул Садовая, д 12",
+    "legal_address": null,
+    "website": "http://malopurginskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0021",
+    "name": "Можгинский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427790, Респ Удмуртская, г Можга, ул Интернациональная, д 71",
+    "legal_address": null,
+    "website": "http://mozhginskiygor.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0003",
+    "name": "Октябрьский районный суд г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "426011, г Ижевск, ул Родниковая, д 60",
+    "legal_address": null,
+    "website": "http://oktyabrskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0002",
+    "name": "Первомайский районный суд г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "426004, г Ижевск, ул Ленина, д 37",
+    "legal_address": null,
+    "website": "http://pervomayskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0023",
+    "name": "Сарапульский городской суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Красная Площадь, д 6",
+    "legal_address": null,
+    "website": "http://sarapulskiygor.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0024",
+    "name": "Сарапульский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 28",
+    "legal_address": null,
+    "website": "http://sarapulskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0026",
+    "name": "Сюмсинский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427370, Респ Удмуртская, с Сюмси, ул Базарная, стр 7",
+    "legal_address": null,
+    "website": "http://sumsinsky.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0027",
+    "name": "Увинский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427260, Респ Удмуртская, п Ува, ул Энгельса, зд 16",
+    "legal_address": null,
+    "website": "http://uvinskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0005",
+    "name": "Устиновский районный суд г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "426076, г Ижевск, ул Свободы, д 139",
+    "legal_address": null,
+    "website": "http://ustinovskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0029",
+    "name": "Юкаменский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427680, Респ Удмуртская, с Юкаменское, ул Первомайская, стр 22",
+    "legal_address": null,
+    "website": "http://yukamenskiy.udm.sudrf.ru"
+  },
+  {
+    "code": "18RS0031",
+    "name": "Якшур-Бодьинский районный суд Удмуртской Республики",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "427100, Респ Удмуртская, с Якшур-Бодья, ул Центральная, д 7",
+    "legal_address": null,
+    "website": "http://yakshur-bodinskiy.udm.sudrf.ru"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "code": "76MS0033",
+    "name": "Судебный участок № 1 Большесельского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152360, Ярославская обл, с Большое Село, ул Сурикова, д 14",
+    "legal_address": null,
+    "website": "http://1bls.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0035",
+    "name": "Судебный участок № 1 Брейтовского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152760, Ярославская обл, с Брейтово, ул Республиканская, д 7",
+    "legal_address": null,
+    "website": "http://1bryt.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0036",
+    "name": "Судебный участок № 1 Гаврилов-Ямского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152240, Ярославская обл, г Гаврилов-Ям, ул Победы, д 66А",
+    "legal_address": null,
+    "website": "http://1gyam.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0038",
+    "name": "Судебный участок № 1 Даниловского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152072, Ярославская обл, г Данилов, ул Ленина, зд 19А",
+    "legal_address": null,
+    "website": "http://1dan.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0001",
+    "name": "Судебный участок № 1 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150063, г Ярославль, ул Громова, д 52 к 2",
+    "legal_address": null,
+    "website": "http://1dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0009",
+    "name": "Судебный участок № 1 Заволжского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150034, г Ярославль, ул 50 лет ВЛКСМ, д 12/2",
+    "legal_address": null,
+    "website": "http://1zav.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0014",
+    "name": "Судебный участок № 1 Кировского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150040, г Ярославль, ул Володарского, д 63/29",
+    "legal_address": null,
+    "website": "http://1kir.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0018",
+    "name": "Судебный участок № 1 Красноперекопского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150023, г Ярославль, пр-кт Московский, д 82",
+    "legal_address": null,
+    "website": "http://1krp.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0021",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150043, г Ярославль, ул Карла Либкнехта, д 41",
+    "legal_address": null,
+    "website": "http://1len.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0040",
+    "name": "Судебный участок № 1 Любимского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152470, Ярославская обл, г Любим, ул Октябрьская, д 5/13А",
+    "legal_address": null,
+    "website": "http://1lyb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0041",
+    "name": "Судебный участок № 1 Мышкинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152830, Ярославская обл, г Мышкин, ул Карла Либкнехта, д 19",
+    "legal_address": null,
+    "website": "http://1mysh.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0042",
+    "name": "Судебный участок № 1 Некоузского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152730, Ярославская обл, с Новый Некоуз, ул Лесная, д 12",
+    "legal_address": null,
+    "website": "http://1nekz.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0043",
+    "name": "Судебный участок № 1 Некрасовского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152260, Ярославская обл, Некрасовский р-н, рп Некрасовское, ул Кооперативная, д 13",
+    "legal_address": null,
+    "website": "http://1nekr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0044",
+    "name": "Судебный участок № 1 Первомайского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152430, Ярославская обл, рп Пречистое, ул Вологодская, д 41",
+    "legal_address": null,
+    "website": "http://1prv.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0045",
+    "name": "Судебный участок № 1 Переславского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152020, Ярославская обл, г Переславль-Залесский, ул Плещеевская, д 12",
+    "legal_address": null,
+    "website": "http://1prs.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0048",
+    "name": "Судебный участок № 1 Пошехонского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152850, Ярославская обл, г Пошехонье, ул Рыбинская, д 1",
+    "legal_address": null,
+    "website": "http://1psh.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0049",
+    "name": "Судебный участок № 1 Ростовского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152150, Ярославская обл, г Ростов Великий, мкр N1, д 36",
+    "legal_address": null,
+    "website": "http://1rst.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0052",
+    "name": "Судебный участок № 1 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152930, Ярославская обл, г Рыбинск, пр-кт Революции, д 48А",
+    "legal_address": null,
+    "website": "http://1ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0065",
+    "name": "Судебный участок № 1 Тутаевского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152300, Ярославская обл, г Тутаев, ул Ярославская, зд 93",
+    "legal_address": null,
+    "website": "http://1ttv.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0068",
+    "name": "Судебный участок № 1 Угличского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152613, Ярославская обл, г Углич, ул Никонова, д 17",
+    "legal_address": null,
+    "website": "http://1ugl.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0002",
+    "name": "Судебный участок № 2 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150063, г Ярославль, ул Громова, д 52 к 2",
+    "legal_address": null,
+    "website": "http://2dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0003",
+    "name": "Судебный участок № 3 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150063, г Ярославль, ул Громова, д 52 к 2",
+    "legal_address": null,
+    "website": "http://3dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0004",
+    "name": "Судебный участок № 4 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150033, г Ярославль, ш Тутаевское, д 64 к 2",
+    "legal_address": null,
+    "website": "http://4dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0005",
+    "name": "Судебный участок № 5 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150033, г Ярославль, ш Тутаевское, д 64 к 2",
+    "legal_address": null,
+    "website": "http://5dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0006",
+    "name": "Судебный участок № 6 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150033, г Ярославль, ш Тутаевское, д 64 к 2",
+    "legal_address": null,
+    "website": "http://6dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0007",
+    "name": "Судебный участок № 7 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150063, г Ярославль, ул Громова, д 52 к 2",
+    "legal_address": null,
+    "website": "http://7dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0008",
+    "name": "Судебный участок № 8 Дзержинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150063, г Ярославль, ул Громова, д 52 к 2",
+    "legal_address": null,
+    "website": "http://8dzr.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0010",
+    "name": "Судебный участок № 2 Заволжского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150055, г Ярославль, ул Красноборская, д 9А",
+    "legal_address": null,
+    "website": "http://2zav.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0015",
+    "name": "Судебный участок № 2 Кировского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150000, г Ярославль, ул Некрасова, д 1/2",
+    "legal_address": null,
+    "website": "http://2kir.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0019",
+    "name": "Судебный участок № 2 Красноперекопского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150023, г Ярославль, пр-кт Московский, д 82",
+    "legal_address": null,
+    "website": "http://2krp.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0011",
+    "name": "Судебный участок № 3 Заволжского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150055, г Ярославль, ул Ляпидевского, д 11",
+    "legal_address": null,
+    "website": "http://3zav.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0016",
+    "name": "Судебный участок № 3 Кировского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150040, г Ярославль, ул Володарского, д 63/29",
+    "legal_address": null,
+    "website": "http://3kir.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0012",
+    "name": "Судебный участок № 4 Заволжского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150055, г Ярославль, пр-кт Авиаторов, д 76",
+    "legal_address": null,
+    "website": "http://4zav.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0017",
+    "name": "Судебный участок № 4 Кировского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150003, г Ярославль, проезд Республиканский, д 11",
+    "legal_address": null,
+    "website": "http://4kir.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0013",
+    "name": "Судебный участок № 5 Заволжского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150034, г Ярославль, ул 50 лет ВЛКСМ, д 12/2",
+    "legal_address": null,
+    "website": "http://5zav.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0025",
+    "name": "Судебный участок № 1 Фрунзенского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150022, г Ярославль, ул 4-я Портовая, д 13",
+    "legal_address": null,
+    "website": "http://1frn.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0022",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150043, г Ярославль, ул Карла Либкнехта, д 41",
+    "legal_address": null,
+    "website": "http://2len.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0026",
+    "name": "Судебный участок № 2 Фрунзенского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150048, г Ярославль, ул Писемского, д 56",
+    "legal_address": null,
+    "website": "http://2frn.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0020",
+    "name": "Судебный участок № 3 Красноперекопского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150002, г Ярославль, ул Красноперекопская, д 1",
+    "legal_address": null,
+    "website": "http://3krp.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0023",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150047, г Ярославль, ул Лермонтова, д 15",
+    "legal_address": null,
+    "website": "http://3len.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0027",
+    "name": "Судебный участок № 3 Фрунзенского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150035, г Ярославль, ул Калинина, д 31",
+    "legal_address": null,
+    "website": "http://3frn.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0024",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150047, г Ярославль, ул Лермонтова, д 15",
+    "legal_address": null,
+    "website": "http://4len.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0028",
+    "name": "Судебный участок № 4 Фрунзенского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150035, г Ярославль, ул Калинина, д 31",
+    "legal_address": null,
+    "website": "http://4frn.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0029",
+    "name": "Судебный участок № 5 Фрунзенского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150035, г Ярославль, ул Калинина, д 31",
+    "legal_address": null,
+    "website": "http://5frn.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0030",
+    "name": "Судебный участок № 1 Ярославского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150031, г Ярославль, ул Добрынина, д 18Б",
+    "legal_address": null,
+    "website": "http://1yar.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0037",
+    "name": "Судебный участок № 2 Гаврилов-Ямского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152240, Ярославская обл, г Гаврилов-Ям, ул Победы, д 66А",
+    "legal_address": null,
+    "website": "http://2gyam.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0039",
+    "name": "Судебный участок № 2 Даниловского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152072, Ярославская обл, г Данилов, ул Ленина, зд 19А",
+    "legal_address": null,
+    "website": "http://2dan.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0031",
+    "name": "Судебный участок № 2 Ярославского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150046, г Ярославль, ул Нефтяников, д 32 к 2",
+    "legal_address": null,
+    "website": "http://2yar.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0032",
+    "name": "Судебный участок № 3 Ярославского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150055, г Ярославль, ул Красноборская, д 9А",
+    "legal_address": null,
+    "website": "http://3yar.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0046",
+    "name": "Судебный участок № 2 Переславского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152020, Ярославская обл, г Переславль-Залесский, ул Плещеевская, д 12",
+    "legal_address": null,
+    "website": "http://2prs.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0047",
+    "name": "Судебный участок № 3 Переславского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152020, Ярославская обл, г Переславль-Залесский, ул Плещеевская, д 12",
+    "legal_address": null,
+    "website": "http://3prs.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0050",
+    "name": "Судебный участок № 2 Ростовского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152150, Ярославская обл, г Ростов Великий, мкр N1, д 36",
+    "legal_address": null,
+    "website": "http://2rst.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0053",
+    "name": "Судебный участок № 2 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152930, Ярославская обл, г Рыбинск, пр-кт Революции, д 48А",
+    "legal_address": null,
+    "website": "http://2ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0051",
+    "name": "Судебный участок № 3 Ростовского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152150, Ярославская обл, г Ростов Великий, мкр N1, д 36",
+    "legal_address": null,
+    "website": "http://3rst.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0054",
+    "name": "Судебный участок № 3 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Баженова, д 1",
+    "legal_address": null,
+    "website": "http://3ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0055",
+    "name": "Судебный участок № 4 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Баженова, д 1",
+    "legal_address": null,
+    "website": "http://4ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0056",
+    "name": "Судебный участок № 5 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Баженова, д 1",
+    "legal_address": null,
+    "website": "http://5ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0057",
+    "name": "Судебный участок № 6 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Баженова, д 1",
+    "legal_address": null,
+    "website": "http://6ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0058",
+    "name": "Судебный участок № 7 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Молодежная, д 16",
+    "legal_address": null,
+    "website": "http://7ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0059",
+    "name": "Судебный участок № 8 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Молодежная, д 16",
+    "legal_address": null,
+    "website": "http://8ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0066",
+    "name": "Судебный участок № 2 Тутаевского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152300, Ярославская обл, г Тутаев, ул Ярославская, зд 93",
+    "legal_address": null,
+    "website": "http://2ttv.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0069",
+    "name": "Судебный участок № 2 Угличского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152613, Ярославская обл, г Углич, ул Никонова, д 17",
+    "legal_address": null,
+    "website": "http://2ugl.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0067",
+    "name": "Судебный участок № 3 Тутаевского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152300, Ярославская обл, г Тутаев, ул Ярославская, зд 93",
+    "legal_address": null,
+    "website": "http://3ttv.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0060",
+    "name": "Судебный участок № 9 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Баженова, д 1",
+    "legal_address": null,
+    "website": "http://9ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0061",
+    "name": "Судебный участок № 10 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Молодежная, д 16",
+    "legal_address": null,
+    "website": "http://10ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0062",
+    "name": "Судебный участок № 11 Рыбинского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152912, Ярославская обл, г Рыбинск, ул Баженова, д 1",
+    "legal_address": null,
+    "website": "http://11ryb.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0070",
+    "name": "Судебный участок № 3 Угличского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152613, Ярославская обл, г Углич, ул Никонова, д 17",
+    "legal_address": null,
+    "website": "http://3ugl.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0073",
+    "name": "Судебный участок № 4 Ростовского судебного района Ярославской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "152170, Ярославская обл, рп Борисоглебский, ул Транспортная, д 3",
+    "legal_address": null,
+    "website": "http://4rst.jrs.msudrf.ru/"
+  },
+  {
+    "code": "76MS0071",
+    "name": "Судебный участок № 6 Заволжского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150062, г Ярославль, проезд Доброхотова, д 5",
+    "legal_address": null,
+    "website": "http://6zav.jrs.msudrf.ru"
+  },
+  {
+    "code": "76MS0072",
+    "name": "Судебный участок № 6 Фрунзенского судебного района г. Ярославля",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "150048, г Ярославль, ул Писемского, д 56",
+    "legal_address": null,
+    "website": "http://6frn.jrs.msudrf.ru"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "code": "44MS0001",
+    "name": "Судебный участок № 1 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://1.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0002",
+    "name": "Судебный участок № 2 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://2.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0003",
+    "name": "Судебный участок № 3 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://3.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0004",
+    "name": "Судебный участок № 4 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Привокзальная, д 16А",
+    "legal_address": null,
+    "website": "http://4.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0005",
+    "name": "Судебный участок № 5 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://5.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0006",
+    "name": "Судебный участок № 6 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://6.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0007",
+    "name": "Судебный участок № 7 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://7.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0008",
+    "name": "Судебный участок № 8 Ленинского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://8.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0009",
+    "name": "Судебный участок № 9 Ленинского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://9.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0010",
+    "name": "Судебный участок № 10 Ленинского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://10.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0011",
+    "name": "Судебный участок № 11 Ленинского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://11.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0012",
+    "name": "Судебный участок № 12 Ленинского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://12.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0013",
+    "name": "Судебный участок № 13 Димитровского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156010, г Кострома, ул Южная, д 8",
+    "legal_address": null,
+    "website": "http://13.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0014",
+    "name": "Судебный участок № 14 Димитровского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156010, г Кострома, ул Южная, д 8",
+    "legal_address": null,
+    "website": "http://14.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0015",
+    "name": "Судебный участок № 15 Димитровского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156010, г Кострома, ул Южная, д 8",
+    "legal_address": null,
+    "website": "http://15.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0016",
+    "name": "Судебный участок № 16 Нерехтского судебного района города Волгореченска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156901, Костромская обл, г Волгореченск, ул Имени 50-летия Ленинского Комсомола, д 58",
+    "legal_address": null,
+    "website": "http://16.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0017",
+    "name": "Судебный участок № 17 Костромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Привокзальная, д 16А",
+    "legal_address": null,
+    "website": "http://17.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0018",
+    "name": "Судебный участок № 18 Костромского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Привокзальная, д 16А",
+    "legal_address": null,
+    "website": "http://18.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0019",
+    "name": "Судебный участок № 19 Нерехтского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157800, Костромская обл, г Нерехта, ул Красноармейская, д 19",
+    "legal_address": null,
+    "website": "http://19.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0020",
+    "name": "Судебный участок № 20 Нерехтского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157800, Костромская обл, г Нерехта, ул Красноармейская, д 19",
+    "legal_address": null,
+    "website": "http://20.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0021",
+    "name": "Судебный участок № 21 Буйского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157006, Костромская обл, г Буй, ул 10 годовщины Октября, д 5",
+    "legal_address": null,
+    "website": "http://21.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0022",
+    "name": "Судебный участок № 22 Буйского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157006, Костромская обл, г Буй, ул 10 годовщины Октября, д 5",
+    "legal_address": null,
+    "website": "http://22.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0023",
+    "name": "Судебный участок № 23 Шарьинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157510, Костромская обл, г Шарья, пгт Ветлужский, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://23.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0024",
+    "name": "Судебный участок № 24 Шарьинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157510, Костромская обл, г Шарья, пгт Ветлужский, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://24.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0025",
+    "name": "Судебный участок № 25 Шарьинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157510, Костромская обл, г Шарья, пгт Ветлужский, ул Центральная, д 4",
+    "legal_address": null,
+    "website": "http://25.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0026",
+    "name": "Судебный участок № 26 Мантуровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157300, Костромская обл, г Мантурово, ул Центральная, д 5А",
+    "legal_address": null,
+    "website": "http://26.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0027",
+    "name": "Судебный участок № 27 Мантуровского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157300, Костромская обл, г Мантурово, ул Центральная, д 5А",
+    "legal_address": null,
+    "website": "http://27.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0028",
+    "name": "Судебный участок № 28 Галичского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157202, Костромская обл, г Галич, ул Гладышева, д 122Б",
+    "legal_address": null,
+    "website": "http://28.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0029",
+    "name": "Судебный участок № 29 Галичского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157202, Костромская обл, г Галич, ул Гладышева, д 122Б",
+    "legal_address": null,
+    "website": "http://29.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0030",
+    "name": "Судебный участок № 30 Красносельского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157940, Костромская обл, пгт Красное-на-Волге, пл Красная, д 11",
+    "legal_address": null,
+    "website": "http://30.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0031",
+    "name": "Судебный участок № 31 Островского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157860, Костромская обл, пгт Судиславль, ул Невского, д 5",
+    "legal_address": null,
+    "website": "http://31.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0032",
+    "name": "Судебный участок № 32 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Советская, д 120",
+    "legal_address": null,
+    "website": "http://32.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0033",
+    "name": "Судебный участок № 33 Нейского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157330, Костромская обл, г Нея, ул Советская, д 42",
+    "legal_address": null,
+    "website": "http://33.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0034",
+    "name": "Судебный участок № 34 Вохомского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157760, Костромская обл, п Вохма, ул Советская, д 51",
+    "legal_address": null,
+    "website": "http://34.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0035",
+    "name": "Судебный участок № 35 Чухломского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157170, Костромская обл, г Солигалич, ул Вылузгина, д 4",
+    "legal_address": null,
+    "website": "http://35.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0036",
+    "name": "Судебный участок № 36 Свердловского судебного района города Костромы",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "156026, г Кострома, ул Привокзальная, д 16А",
+    "legal_address": null,
+    "website": "http://36.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0037",
+    "name": "Судебный участок № 37 Галичского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157260, Костромская обл, п Антропово, ул Октябрьская, д 23",
+    "legal_address": null,
+    "website": "http://37.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0038",
+    "name": "Судебный участок № 38 Макарьевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157980, Костромская обл, пгт Кадый, ул Больничная, д 6",
+    "legal_address": null,
+    "website": "http://38.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0039",
+    "name": "Судебный участок № 39 Кологривского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157440, Костромская обл, г Кологрив, ул Центральная, д 1",
+    "legal_address": null,
+    "website": "http://39.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0040",
+    "name": "Судебный участок № 40 Макарьевского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157460, Костромская обл, г Макарьев, пл Революции, д 34",
+    "legal_address": null,
+    "website": "http://40.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0041",
+    "name": "Судебный участок № 41 Кологривского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157420, Костромская обл, с Георгиевское, ул Октябрьская, д 70",
+    "legal_address": null,
+    "website": "http://41.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0042",
+    "name": "Судебный участок № 42 Вохомского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157780, Костромская обл, с Боговарово, ул Победы, стр 47",
+    "legal_address": null,
+    "website": "http://42.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0043",
+    "name": "Судебный участок № 43 Островского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157900, Костромская обл, п Островское, ул Советская, д 99",
+    "legal_address": null,
+    "website": "http://43.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0044",
+    "name": "Судебный участок № 44 Павинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157650, Костромская обл, с Павино, ул Елькина, д 3",
+    "legal_address": null,
+    "website": "http://44.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0045",
+    "name": "Судебный участок № 45 Нейского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157270, Костромская обл, с Парфеньево, ул Ленина, д 58",
+    "legal_address": null,
+    "website": "http://45.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0046",
+    "name": "Судебный участок № 46 Шарьинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157580, Костромская обл, пгт Поназырево, ул Вокзальная, д 29",
+    "legal_address": null,
+    "website": "http://46.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0047",
+    "name": "Судебный участок № 47 Павинского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157630, Костромская обл, с Пыщуг, ул Чкалова, д 7",
+    "legal_address": null,
+    "website": "http://47.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0048",
+    "name": "Судебный участок № 48 Буйского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157080, Костромская обл, пгт Сусанино, ул Октябрьская, д 2",
+    "legal_address": null,
+    "website": "http://48.kst.msudrf.ru"
+  },
+  {
+    "code": "44MS0049",
+    "name": "Судебный участок № 49 Чухломского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "157130, Костромская обл, г Чухлома, ул Калинина, д 1",
+    "legal_address": null,
+    "website": "http://49.kst.msudrf.ru"
+  }
+]

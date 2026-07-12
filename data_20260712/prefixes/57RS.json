@@ -1,0 +1,212 @@
+[
+  {
+    "code": "57RS0001",
+    "name": "Болховский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303140, Орловская обл, г Болхов, ул Ленина, влд 55",
+    "legal_address": null,
+    "website": "http://bolhovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0002",
+    "name": "Верховский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303720, Орловская обл, пгт Верховье, ул 7 Ноября, д 10",
+    "legal_address": null,
+    "website": "http://verhovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0003",
+    "name": "Глазуновский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303340, Орловская обл, пгт Глазуновка, ул Ленина, д 116",
+    "legal_address": null,
+    "website": "http://glazunovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0004",
+    "name": "Дмитровский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303240, Орловская обл, г Дмитровск, ул Советская, влд 61",
+    "legal_address": null,
+    "website": "http://dmitrovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0024",
+    "name": "Железнодорожный районный суд г. Орла",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "302030, г Орёл, ул Пушкина, д 54А",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0022",
+    "name": "Заводской районный суд г. Орла",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "302001, г Орёл, ул Карачевская, д 42",
+    "legal_address": null,
+    "website": "http://zavodskoy.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0006",
+    "name": "Залегощенский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303560, Орловская обл, пгт Залегощь, ул М.Горького, д 18А",
+    "legal_address": null,
+    "website": "http://zalegoshensky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0009",
+    "name": "Колпнянский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303410, Орловская обл, пгт Колпна, ул Луговая, д 3",
+    "legal_address": null,
+    "website": "http://kolpniansky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0010",
+    "name": "Кромской районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303200, Орловская обл, пгт Кромы, пер Ленинский, влд 10",
+    "legal_address": null,
+    "website": "http://kromskoy.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0012",
+    "name": "Ливенский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303852, Орловская обл, г Ливны, ул Октябрьская, д 5А",
+    "legal_address": null,
+    "website": "http://livensky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0013",
+    "name": "Малоархангельский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303370, Орловская обл, г Малоархангельск, ул Карла Маркса, д 73",
+    "legal_address": null,
+    "website": "http://maloarhangelsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0014",
+    "name": "Мценский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303030, Орловская обл, г Мценск, ул Мира, д 21",
+    "legal_address": null,
+    "website": "http://mcensky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0015",
+    "name": "Новодеревеньковский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303620, Орловская обл, пгт Хомутово, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://novoderevenkovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0025",
+    "name": "Новосильский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303500, Орловская обл, г Новосиль, ул Карла Маркса, д 26",
+    "legal_address": null,
+    "website": "http://novosilsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0026",
+    "name": "Орловский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "302040, г Орёл, ул Полярная, д 9",
+    "legal_address": null,
+    "website": "http://orlovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0016",
+    "name": "Покровский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303170, Орловская обл, пгт Покровское, ул 50 лет Октября, д 4",
+    "legal_address": null,
+    "website": "http://pokrovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0017",
+    "name": "Свердловский районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303320, Орловская обл, пгт Змиёвка, ул Ленина, д 41",
+    "legal_address": null,
+    "website": "http://sverdlovsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0027",
+    "name": "Северный районный суд г. Орла",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "302031, г Орёл, ш Новосильское, д 11",
+    "legal_address": null,
+    "website": "http://severny.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0023",
+    "name": "Советский районный суд г. Орла",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "302040, г Орёл, ул Максима Горького, зд 45А",
+    "legal_address": null,
+    "website": "http://sovetsky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0019",
+    "name": "Урицкий районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303900, Орловская обл, пгт Нарышкино, ул Ленина, д 98",
+    "legal_address": null,
+    "website": "http://uricky.orl.sudrf.ru"
+  },
+  {
+    "code": "57RS0020",
+    "name": "Хотынецкий районный суд Орловcкой области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "303930, Орловская обл, пгт Хотынец, ул Комсомольская, д 6А",
+    "legal_address": null,
+    "website": "http://hotynecky.orl.sudrf.ru"
+  }
+]

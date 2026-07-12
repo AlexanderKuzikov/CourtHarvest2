@@ -1,0 +1,852 @@
+[
+  {
+    "code": "18MS0033",
+    "name": "Судебный участок Алнашского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427880, Респ Удмуртская, с Алнаши, ул Комсомольская, д 9А",
+    "legal_address": null,
+    "website": "http://alnashmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0042",
+    "name": "Судебный участок Вавожского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427310, Респ Удмуртская, с Вавож, ул Интернациональная, стр 44",
+    "legal_address": null,
+    "website": "http://vavozhmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0048",
+    "name": "Судебный участок Глазовского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427621, Респ Удмуртская, г Глазов, пл Свободы, д 7",
+    "legal_address": null,
+    "website": "http://glazmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0049",
+    "name": "Судебный участок Граховского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427730, Респ Удмуртская, с Грахово, ул Колпакова, д 18",
+    "legal_address": null,
+    "website": "http://grahmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0050",
+    "name": "Судебный участок Дебесского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427060, Респ Удмуртская, с Дебёсы, ул Советская, д 98",
+    "legal_address": null,
+    "website": "http://debmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0057",
+    "name": "Судебный участок Камбарского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427950, Респ Удмуртская, г Камбарка, ул Первомайская, зд 120",
+    "legal_address": null,
+    "website": "http://kambmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0062",
+    "name": "Судебный участок Каракулинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427920, Респ Удмуртская, с Каракулино, ул Кирьянова, д 27",
+    "legal_address": null,
+    "website": "http://karakmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0058",
+    "name": "Судебный участок Кезского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427580, Респ Удмуртская, Кезский р-н, п Кез, ул Кооперативная, зд 16",
+    "legal_address": null,
+    "website": "http://kezmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0059",
+    "name": "Судебный участок Кизнерского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427710, Респ Удмуртская, Кизнерский р-н, п Кизнер, ул Карла Маркса, д 13",
+    "legal_address": null,
+    "website": "http://kiznermir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0060",
+    "name": "Судебный участок Киясовского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427840, Респ Удмуртская, с Киясово, ул М.Горького, д 4",
+    "legal_address": null,
+    "website": "http://kiyasmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0061",
+    "name": "Судебный участок Красногорского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427650, Респ Удмуртская, с Красногорское, ул Ленина, зд 64",
+    "legal_address": null,
+    "website": "http://krasmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0074",
+    "name": "Судебный участок Селтинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427270, Респ Удмуртская, с Селты, ул Юбилейная, д 4",
+    "legal_address": null,
+    "website": "http://seltinmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0075",
+    "name": "Судебный участок Сюмсинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427370, Респ Удмуртская, с Сюмси, ул Базарная, стр 7",
+    "legal_address": null,
+    "website": "http://sumsimir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0078",
+    "name": "Судебный участок Шарканского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427070, Респ Удмуртская, с Шаркан, ул Советская, д 17",
+    "legal_address": null,
+    "website": "http://sharmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0079",
+    "name": "Судебный участок Юкаменского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427680, Респ Удмуртская, с Юкаменское, ул Первомайская, стр 22",
+    "legal_address": null,
+    "website": "http://yukammir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0081",
+    "name": "Судебный участок Якшур-Бодьинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427100, Респ Удмуртская, с Якшур-Бодья, ул Пушиной, д 78",
+    "legal_address": null,
+    "website": "http://yak-mir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0080",
+    "name": "Судебный участок Ярского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427500, Респ Удмуртская, Ярский р-н, п Яр, ул Советская, зд 53",
+    "legal_address": null,
+    "website": "http://yarsmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0034",
+    "name": "Судебный участок № 1 Балезинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427550, Респ Удмуртская, Балезинский р-н, п Балезино, ул Советская, зд 16А",
+    "legal_address": null,
+    "website": "http://balezmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0041",
+    "name": "Судебный участок № 1 Воткинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427430, Респ Удмуртская, г Воткинск, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://votmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0036",
+    "name": "Судебный участок № 1 города Воткинска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427430, Респ Удмуртская, г Воткинск, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://votmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0001",
+    "name": "Судебный участок № 1 Индустриального района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426039, г Ижевск, ш Воткинское, д 140",
+    "legal_address": null,
+    "website": "http://indmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0007",
+    "name": "Судебный участок № 1 Первомайского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426004, г Ижевск, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://pervomir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0002",
+    "name": "Судебный участок № 2 Индустриального района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426039, г Ижевск, ш Воткинское, д 140",
+    "legal_address": null,
+    "website": "http://indmir2.udm.msudrf.ru/"
+  },
+  {
+    "code": "18MS0008",
+    "name": "Судебный участок № 2 Первомайского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426004, г Ижевск, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://pervomir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0003",
+    "name": "Судебный участок № 3 Индустриального района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426039, г Ижевск, ш Воткинское, д 140",
+    "legal_address": null,
+    "website": "http://indmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0009",
+    "name": "Судебный участок № 3 Первомайского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426004, г Ижевск, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://pervomir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0004",
+    "name": "Судебный участок № 4 Индустриального района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426039, Удмуртская Республика, г. Ижевск, ул. Воткинское Шоссе, д. 140 каб.",
+    "legal_address": null,
+    "website": "http://indmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0005",
+    "name": "Судебный участок № 5 Индустриального района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426039, г Ижевск, ш Воткинское, д 140, офис 108",
+    "legal_address": null,
+    "website": "http://indmir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0006",
+    "name": "Судебный участок № 6 Индустриального района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426039, г Ижевск, ш Воткинское, д 140",
+    "legal_address": null,
+    "website": "http://indmir6.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0014",
+    "name": "Судебный участок № 1 Ленинского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426006, г Ижевск, ул Клубная, д 70 к 5",
+    "legal_address": null,
+    "website": "http://lenmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0015",
+    "name": "Судебный участок № 2 Ленинского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426006, г Ижевск, ул Клубная, д 70 к 5",
+    "legal_address": null,
+    "website": "http://lenmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0016",
+    "name": "Судебный участок № 3 Ленинского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426006, г Ижевск, ул Клубная, д 70 к 5",
+    "legal_address": null,
+    "website": "http://lenmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0017",
+    "name": "Судебный участок № 4 Ленинского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426006, г Ижевск, ул Клубная, д 70 к 5",
+    "legal_address": null,
+    "website": "http://lenmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0010",
+    "name": "Судебный участок № 4 Первомайского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426004, г Ижевск, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://pervomir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0018",
+    "name": "Судебный участок № 5 Ленинского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426006, г Ижевск, ул Клубная, д 70 к 5",
+    "legal_address": null,
+    "website": "http://lenmir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0011",
+    "name": "Судебный участок № 5 Первомайского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426004, г Ижевск, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://pervomir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0019",
+    "name": "Судебный участок № 6 Ленинского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426006, г Ижевск, ул Клубная, д 70 к 5",
+    "legal_address": null,
+    "website": "http://lenmir6.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0012",
+    "name": "Судебный участок № 6 Первомайского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426004, г Ижевск, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://pervomir6.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0013",
+    "name": "Судебный участок № 7 Первомайского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426004, г Ижевск, ул Советская, д 49",
+    "legal_address": null,
+    "website": "http://pervomir7.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0020",
+    "name": "Судебный участок № 1 Октябрьского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426034, г Ижевск, ул Удмуртская, д 249В",
+    "legal_address": null,
+    "website": "http://octmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0027",
+    "name": "Судебный участок № 1 Устиновского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426076, г Ижевск, ул Свободы, д 139",
+    "legal_address": null,
+    "website": "http://ustmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0021",
+    "name": "Судебный участок № 2 Октябрьского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426034, г Ижевск, ул Удмуртская, д 249В",
+    "legal_address": null,
+    "website": "http://octmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0028",
+    "name": "Судебный участок № 2 Устиновского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426076, г Ижевск, ул Свободы, д 139",
+    "legal_address": null,
+    "website": "http://ustmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0022",
+    "name": "Судебный участок № 3 Октябрьского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426034, г Ижевск, ул Удмуртская, д 249В",
+    "legal_address": null,
+    "website": "http://octmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0029",
+    "name": "Судебный участок № 3 Устиновского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426076, г Ижевск, ул Свободы, д 139",
+    "legal_address": null,
+    "website": "http://ustmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0023",
+    "name": "Судебный участок № 4 Октябрьского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426034, г Ижевск, ул Удмуртская, д 249В",
+    "legal_address": null,
+    "website": "http://octmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0024",
+    "name": "Судебный участок № 5 Октябрьского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426034, г Ижевск, ул Удмуртская, д 249В",
+    "legal_address": null,
+    "website": "http://octmir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0025",
+    "name": "Судебный участок № 6 Октябрьского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426034, г Ижевск, ул Удмуртская, д 249В",
+    "legal_address": null,
+    "website": "http://octmir6.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0026",
+    "name": "Судебный участок № 7 Октябрьского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426034, г Ижевск, ул Удмуртская, д 249В",
+    "legal_address": null,
+    "website": "http://octmir7.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0035",
+    "name": "Судебный участок № 2 Балезинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427550, Респ Удмуртская, Балезинский р-н, п Балезино, ул Советская, зд 16А",
+    "legal_address": null,
+    "website": "http://balezmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0037",
+    "name": "Судебный участок № 2 города Воткинска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427430, Респ Удмуртская, г Воткинск, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://votmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0038",
+    "name": "Судебный участок № 3 города Воткинска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427430, Респ Удмуртская, г Воткинск, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://votmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0039",
+    "name": "Судебный участок № 4 города Воткинска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427430, Респ Удмуртская, г Воткинск, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://votmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0030",
+    "name": "Судебный участок № 4 Устиновского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426076, г Ижевск, ул Свободы, д 139",
+    "legal_address": null,
+    "website": "http://ustmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0031",
+    "name": "Судебный участок № 5 Устиновского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426076, г Ижевск, ул Свободы, д 139",
+    "legal_address": null,
+    "website": "http://ustmir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0032",
+    "name": "Судебный участок № 6 Устиновского района г. Ижевска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "426076, г Ижевск, ул Свободы, д 139",
+    "legal_address": null,
+    "website": "http://ustmir6.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0043",
+    "name": "Судебный участок № 1 города Глазова Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427621, Респ Удмуртская, г Глазов, пл Свободы, д 7",
+    "legal_address": null,
+    "website": "http://glazmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0044",
+    "name": "Судебный участок № 2 города Глазова Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427621, Респ Удмуртская, г Глазов, пл Свободы, д 7",
+    "legal_address": null,
+    "website": "http://glazmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0045",
+    "name": "Судебный участок № 3 города Глазова Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427621, Респ Удмуртская, г Глазов, пл Свободы, д 7",
+    "legal_address": null,
+    "website": "http://glazmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0046",
+    "name": "Судебный участок № 4 города Глазова Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427621, Респ Удмуртская, г Глазов, пл Свободы, д 7",
+    "legal_address": null,
+    "website": "http://glazmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0040",
+    "name": "Судебный участок № 5 города Воткинска Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427430, Респ Удмуртская, г Воткинск, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://votmir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0047",
+    "name": "Судебный участок № 5 города Глазова Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427621, Респ Удмуртская, г Глазов, пл Свободы, д 7",
+    "legal_address": null,
+    "website": "http://glazmir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0051",
+    "name": "Судебный участок № 1 Завьяловского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427000, Респ Удмуртская, с Завьялово, ул Чкалова, зд 16",
+    "legal_address": null,
+    "website": "http://zavmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0055",
+    "name": "Судебный участок № 1 Игринского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427145, Респ Удмуртская, п Игра, ул Советская, д 27",
+    "legal_address": null,
+    "website": "http://igramir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0052",
+    "name": "Судебный участок № 2 Завьяловского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427000, Респ Удмуртская, с Завьялово, ул Калинина, д 64",
+    "legal_address": null,
+    "website": "http://zavmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0056",
+    "name": "Судебный участок № 2 Игринского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427145, Респ Удмуртская, п Игра, ул Советская, д 27",
+    "legal_address": null,
+    "website": "http://igramir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0053",
+    "name": "Судебный участок № 3 Завьяловского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427000, Респ Удмуртская, с Завьялово, ул Чкалова, зд 16",
+    "legal_address": null,
+    "website": "http://zavmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0054",
+    "name": "Судебный участок № 4 Завьяловского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427000, Респ Удмуртская, с Завьялово, ул Калинина, д 64",
+    "legal_address": null,
+    "website": "http://zavmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0064",
+    "name": "Судебный участок № 1 города Можги Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427790, Респ Удмуртская, г Можга, ул Наговицына, д 29",
+    "legal_address": null,
+    "website": "http://mozhgamir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0068",
+    "name": "Судебный участок № 1 города Сарапула Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 1",
+    "legal_address": null,
+    "website": "http://sarmir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0063",
+    "name": "Судебный участок № 1 Малопургинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427820, Респ Удмуртская, с Малая Пурга, ул Пионерская, соор 43",
+    "legal_address": null,
+    "website": "http://purgamir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0067",
+    "name": "Судебный участок № 1 Можгинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427790, Респ Удмуртская, г Можга, ул Наговицына, д 29",
+    "legal_address": null,
+    "website": "http://mozhgamir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0065",
+    "name": "Судебный участок № 2 города Можги Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427790, Респ Удмуртская, г Можга, ул Наговицына, д 29",
+    "legal_address": null,
+    "website": "http://mozhgamir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0069",
+    "name": "Судебный участок № 2 города Сарапула Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 1",
+    "legal_address": null,
+    "website": "http://sarmir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0066",
+    "name": "Судебный участок № 3 города Можги Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427790, Респ Удмуртская, г Можга, ул Наговицына, д 29",
+    "legal_address": null,
+    "website": "http://mozhgamir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0073",
+    "name": "Судебный участок № 1 Сарапульского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 4",
+    "legal_address": null,
+    "website": "http://sarapmir.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0076",
+    "name": "Судебный участок № 1 Увинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427260, Респ Удмуртская, п Ува, ул Энгельса, зд 8",
+    "legal_address": null,
+    "website": "http://uvamir1.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0077",
+    "name": "Судебный участок № 2 Увинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427260, Респ Удмуртская, п Ува, ул Энгельса, зд 8",
+    "legal_address": null,
+    "website": "http://uvamir2.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0070",
+    "name": "Судебный участок № 3 города Сарапула Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 1",
+    "legal_address": null,
+    "website": "http://sarmir3.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0071",
+    "name": "Судебный участок № 4 города Сарапула Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 1",
+    "legal_address": null,
+    "website": "http://sarmir4.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0072",
+    "name": "Судебный участок № 5 города Сарапула Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 1",
+    "legal_address": null,
+    "website": "http://sarmir5.udm.msudrf.ru"
+  },
+  {
+    "code": "18MS0082",
+    "name": "Судебный участок № 2 Воткинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427430, Респ Удмуртская, г Воткинск, ул Ленина, д 55",
+    "legal_address": null,
+    "website": "http://votkmir2.udm.msudrf.ru/"
+  },
+  {
+    "code": "18MS0083",
+    "name": "Судебный участок № 2 Малопургинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427820, Респ Удмуртская, с Малая Пурга, ул Пионерская, соор 43",
+    "legal_address": null,
+    "website": "http://purgamir2.udm.msudrf.ru/"
+  },
+  {
+    "code": "18MS0084",
+    "name": "Судебный участок № 2 Можгинского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427790, Респ Удмуртская, г Можга, ул Наговицына, д 29",
+    "legal_address": null,
+    "website": "http://mozhgmir2.udm.msudrf.ru/"
+  },
+  {
+    "code": "18MS0085",
+    "name": "Судебный участок № 2 Сарапульского района Удмуртской Республики",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "427960, Респ Удмуртская, г Сарапул, ул Горького, д 4",
+    "legal_address": null,
+    "website": "http://sarapmir2.udm.msudrf.ru/"
+  }
+]

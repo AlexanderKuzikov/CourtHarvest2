@@ -1,0 +1,1832 @@
+[
+  {
+    "code": "74MS0065",
+    "name": "Судебный участок № 1 Агаповского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457400, Челябинская обл, с Агаповка, ул Дорожная, зд 53/1",
+    "legal_address": null,
+    "website": "http://agapchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0063",
+    "name": "Судебный участок № 1 Аргаяшского округа Челябинского области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456880, Челябинская обл, с Аргаяш, ул Комсомольская, д 2А",
+    "legal_address": null,
+    "website": "http://argchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0067",
+    "name": "Судебный участок № 1 Брединского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457310, Челябинская обл, п Бреды, ул 1 Мая, д 28",
+    "legal_address": null,
+    "website": "http://bredchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0069",
+    "name": "Судебный участок № 1 Варненского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457200, Челябинская обл, с Варна, ул Пролетарская, д 98",
+    "legal_address": null,
+    "website": "http://varnachel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0070",
+    "name": "Судебный участок № 1 Верхнеуральского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457670, Челябинская обл, г Верхнеуральск, ул Мира, д 85",
+    "legal_address": null,
+    "website": "http://verhurchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0059",
+    "name": "Судебный участок № 1 г. Аши и Ашинского округа Челябинского области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456010, Челябинская обл, г Аша, ул 22 Партсъезда, д 3",
+    "legal_address": null,
+    "website": "http://ashachel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0072",
+    "name": "Судебный участок № 1 г. Верхний Уфалей Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456800, Челябинская обл, г Верхний Уфалей, ул Якушева, д 66",
+    "legal_address": null,
+    "website": "http://verhufchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0077",
+    "name": "Судебный участок № 1 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул Таганайская, д 12",
+    "legal_address": null,
+    "website": "http://zlatoustchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0086",
+    "name": "Судебный участок № 1 г. Карабаш Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456143, Челябинская обл, г Карабаш, ул Комсомольская, д 27",
+    "legal_address": null,
+    "website": "http://karabashchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0074",
+    "name": "Судебный участок № 1 Еманжелинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456584, Челябинская обл, г Еманжелинск, ул Ленина, д 19А",
+    "legal_address": null,
+    "website": "http://emanchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0076",
+    "name": "Судебный участок № 1 Еткульского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456560, Челябинская обл, с Еткуль, ул Октябрьская, д 40",
+    "legal_address": null,
+    "website": "http://etkulchel.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0039",
+    "name": "Судебный участок № 1 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454018, г Челябинск, ул Косарева, д 50А",
+    "legal_address": null,
+    "website": "http://kalininchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0093",
+    "name": "Судебный участок № 1 Карталинского округа, рабочего посёлка Локомотивный Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457351, Челябинская обл, г Карталы, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://kartchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0088",
+    "name": "Судебный участок № 1 Каслинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456830, Челябинская обл, г Касли, ул Ломоносова, д 24А",
+    "legal_address": null,
+    "website": "http://kaslichel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0090",
+    "name": "Судебный участок № 1 Катав-Ивановского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456110, Челябинская обл, г Катав-Ивановск, ул Степана Разина, д 53",
+    "legal_address": null,
+    "website": "http://katavivchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0095",
+    "name": "Судебный участок № 1 Кизильского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457610, Челябинская обл, с Кизильское, ул Колхозная, д 50",
+    "legal_address": null,
+    "website": "http://kizilchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0096",
+    "name": "Судебный участок № 1 Кизильского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457610, Челябинская обл, с Кизильское, ул Колхозная, д 50",
+    "legal_address": null,
+    "website": "http://kizilchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0097",
+    "name": "Судебный участок № 1 Коркинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456550, Челябинская обл, г Коркино, ул 9 Января, д 8",
+    "legal_address": null,
+    "website": "http://korkinochel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0050",
+    "name": "Судебный участок № 1 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454008, г Челябинск, пр-кт Свердловский, д 24Б",
+    "legal_address": null,
+    "website": "http://kurchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0024",
+    "name": "Судебный участок № 1 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454010, г Челябинск, ул Гагарина, д 21",
+    "legal_address": null,
+    "website": "http://leninchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0001",
+    "name": "Судебный участок № 1 Советского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454092, г Челябинск, ул Крупской, д 30",
+    "legal_address": null,
+    "website": "http://sovchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0008",
+    "name": "Судебный участок № 1 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, ул Либкнехта, д 20",
+    "legal_address": null,
+    "website": "http://centrchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0002",
+    "name": "Судебный участок № 2 Советского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454092, г Челябинск, ул Крупской, д 30",
+    "legal_address": null,
+    "website": "http://sovchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0009",
+    "name": "Судебный участок № 2 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, пр-кт Ленина, д 61А",
+    "legal_address": null,
+    "website": "http://centrchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0003",
+    "name": "Судебный участок № 3 Советского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454092, г Челябинск, ул Крупской, д 30",
+    "legal_address": null,
+    "website": "http://sovchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0004",
+    "name": "Судебный участок № 4 Советского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454091, г Челябинск, ул Свободы, д 74",
+    "legal_address": null,
+    "website": "http://sovchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0005",
+    "name": "Судебный участок № 5 Советского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454091, г Челябинск, ул Свободы, д 74",
+    "legal_address": null,
+    "website": "http://sovchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0006",
+    "name": "Судебный участок № 6 Советского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454090, г Челябинск, ул Плеханова, д 16",
+    "legal_address": null,
+    "website": "http://sovchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0007",
+    "name": "Судебный участок № 7 Советского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454090, г Челябинск, ул Плеханова, д 16",
+    "legal_address": null,
+    "website": "http://sovchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0017",
+    "name": "Судебный участок № 1 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454071, г Челябинск, ул Героев Танкограда, д 35",
+    "legal_address": null,
+    "website": "http://tzrchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0018",
+    "name": "Судебный участок № 2 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454071, г Челябинск, ул Героев Танкограда, д 35",
+    "legal_address": null,
+    "website": "http://tzrchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0019",
+    "name": "Судебный участок № 3 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454071, г Челябинск, ул Героев Танкограда, д 35",
+    "legal_address": null,
+    "website": "http://tzrchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0010",
+    "name": "Судебный участок № 3 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, ул Либкнехта, д 20",
+    "legal_address": null,
+    "website": "http://centrchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0011",
+    "name": "Судебный участок № 4 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, пр-кт Ленина, д 61А",
+    "legal_address": null,
+    "website": "http://centrchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0012",
+    "name": "Судебный участок № 5 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, ул Либкнехта, д 20, офис 10",
+    "legal_address": null,
+    "website": "http://centrchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0013",
+    "name": "Судебный участок № 6 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, пр-кт Ленина, д 61А",
+    "legal_address": null,
+    "website": "http://centrchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0014",
+    "name": "Судебный участок № 7 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, пр-кт Ленина, д 61А",
+    "legal_address": null,
+    "website": "http://centrchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0015",
+    "name": "Судебный участок № 8 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, пр-кт Ленина, д 61А",
+    "legal_address": null,
+    "website": "http://centrchel8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0016",
+    "name": "Судебный участок № 9 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454080, г Челябинск, пр-кт Ленина, д 61А",
+    "legal_address": null,
+    "website": "http://centrchel9.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0025",
+    "name": "Судебный участок № 2 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454119, г Челябинск, ул Энергетиков, д 15",
+    "legal_address": null,
+    "website": "http://leninchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0026",
+    "name": "Судебный участок № 3 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454119, г Челябинск, ул Энергетиков, д 15",
+    "legal_address": null,
+    "website": "http://leninchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0027",
+    "name": "Судебный участок № 4 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454010, г Челябинск, ул Гагарина, д 21",
+    "legal_address": null,
+    "website": "http://leninchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0020",
+    "name": "Судебный участок № 4 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454071, г Челябинск, ул Героев Танкограда, д 35",
+    "legal_address": null,
+    "website": "http://tzrchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0028",
+    "name": "Судебный участок № 5 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454119, г Челябинск, ул Энергетиков, д 15",
+    "legal_address": null,
+    "website": "http://leninchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0021",
+    "name": "Судебный участок № 5 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454085, г Челябинск, ул Танкистов, д 179",
+    "legal_address": null,
+    "website": "http://tzrchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0029",
+    "name": "Судебный участок № 6 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454119, г Челябинск, ул Энергетиков, д 15",
+    "legal_address": null,
+    "website": "http://leninchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0022",
+    "name": "Судебный участок № 6 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454085, г Челябинск, ул Танкистов, д 179",
+    "legal_address": null,
+    "website": "http://tzrchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0023",
+    "name": "Судебный участок № 7 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454071, г Челябинск, ул Героев Танкограда, д 35",
+    "legal_address": null,
+    "website": "http://tzrchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0033",
+    "name": "Судебный участок № 1 Металлургического района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454031, г Челябинск, ш Металлургов, д 38",
+    "legal_address": null,
+    "website": "http://metallurgchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0034",
+    "name": "Судебный участок № 2 Металлургического района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454031, г Челябинск, ш Металлургов, д 38",
+    "legal_address": null,
+    "website": "http://metallurgchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0035",
+    "name": "Судебный участок № 3 Металлургического района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454031, г Челябинск, ш Металлургов, д 38",
+    "legal_address": null,
+    "website": "http://metallurgchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0036",
+    "name": "Судебный участок № 4 Металлургического района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454031, г Челябинск, ш Металлургов, д 38",
+    "legal_address": null,
+    "website": "http://metallurgchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0037",
+    "name": "Судебный участок № 5 Металлургического района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454031, г Челябинск, ул Дегтярева, д 65",
+    "legal_address": null,
+    "website": "http://metallurgchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0038",
+    "name": "Судебный участок № 6 Металлургического района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454031, г Челябинск, ул Дегтярева, д 65",
+    "legal_address": null,
+    "website": "http://metallurgchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0030",
+    "name": "Судебный участок № 7 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454119, г Челябинск, ул Энергетиков, д 15",
+    "legal_address": null,
+    "website": "http://leninchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0031",
+    "name": "Судебный участок № 8 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454010, г Челябинск, ул Гагарина, д 21",
+    "legal_address": null,
+    "website": "http://leninchel8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0032",
+    "name": "Судебный участок № 9 Ленинского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454010, г Челябинск, ул Гагарина, д 21",
+    "legal_address": null,
+    "website": "http://leninchel9.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0040",
+    "name": "Судебный участок № 2 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454018, г Челябинск, ул Косарева, д 50А",
+    "legal_address": null,
+    "website": "http://kalininchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0041",
+    "name": "Судебный участок № 3 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454008, г Челябинск, ул Каслинская, д 42",
+    "legal_address": null,
+    "website": "http://kalininchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0042",
+    "name": "Судебный участок № 4 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454018, г Челябинск, ул Косарева, д 50А",
+    "legal_address": null,
+    "website": "http://kalininchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0043",
+    "name": "Судебный участок № 5 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454008, г Челябинск, ул Каслинская, д 42",
+    "legal_address": null,
+    "website": "http://kalininchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0044",
+    "name": "Судебный участок № 6 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454018, г Челябинск, ул Косарева, д 50А",
+    "legal_address": null,
+    "website": "http://kalininchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0045",
+    "name": "Судебный участок № 7 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454018, г Челябинск, ул Косарева, д 50А",
+    "legal_address": null,
+    "website": "http://kalininchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0046",
+    "name": "Судебный участок № 8 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454081, г Челябинск, ул Потемкина, д 10",
+    "legal_address": null,
+    "website": "http://kalininchel8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0047",
+    "name": "Судебный участок № 9 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454081, г Челябинск, ул Потемкина, д 10",
+    "legal_address": null,
+    "website": "http://kalininchel9.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0048",
+    "name": "Судебный участок № 10 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454081, г Челябинск, ул Потемкина, д 10",
+    "legal_address": null,
+    "website": "http://kalininchel10.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0049",
+    "name": "Судебный участок № 11 Калининского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454081, г Челябинск, ул Потемкина, д 10",
+    "legal_address": null,
+    "website": "http://kalininchel11.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0051",
+    "name": "Судебный участок № 2 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454112, г Челябинск, пр-кт Победы, д 292А",
+    "legal_address": null,
+    "website": "http://kurchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0052",
+    "name": "Судебный участок № 3 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454112, г Челябинск, ул Пионерская, д 16",
+    "legal_address": null,
+    "website": "http://kurchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0053",
+    "name": "Судебный участок № 4 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454021, г Челябинск, пр-кт Комсомольский, д 99Г",
+    "legal_address": null,
+    "website": "http://kurchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0054",
+    "name": "Судебный участок № 5 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454021, г Челябинск, пр-кт Комсомольский, д 99Г",
+    "legal_address": null,
+    "website": "http://kurchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0055",
+    "name": "Судебный участок № 6 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454021, г Челябинск, пр-кт Комсомольский, д 99Г",
+    "legal_address": null,
+    "website": "http://kurchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0056",
+    "name": "Судебный участок № 7 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454021, г Челябинск, пр-кт Комсомольский, д 99Г",
+    "legal_address": null,
+    "website": "http://kurchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0057",
+    "name": "Судебный участок № 8 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454008, г Челябинск, пр-кт Свердловский, д 24Б",
+    "legal_address": null,
+    "website": "http://kurchel8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0058",
+    "name": "Судебный участок № 9 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454112, г Челябинск, пр-кт Победы, д 292А",
+    "legal_address": null,
+    "website": "http://kurchel9.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0066",
+    "name": "Судебный участок № 2 Агаповского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457400, Челябинская обл, с Агаповка, ул Дорожная, зд 53/1",
+    "legal_address": null,
+    "website": "http://agapchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0064",
+    "name": "Судебный участок № 2 Аргаяшского округа Челябинского области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456880, Челябинская обл, с Аргаяш, ул Комсомольская, д 2А",
+    "legal_address": null,
+    "website": "http://argchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0060",
+    "name": "Судебный участок № 2 Ашинского округа Челябинского области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456020, Челябинская обл, Ашинский р-н, г Сим, ул Пушкина, д 11А",
+    "legal_address": null,
+    "website": "http://ashachel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0068",
+    "name": "Судебный участок № 2 Брединского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457310, Челябинская обл, п Бреды, ул 1 Мая, д 28",
+    "legal_address": null,
+    "website": "http://bredchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0061",
+    "name": "Судебный участок № 3 Ашинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456007, Челябинская обл, Ашинский р-н, г Миньяр, ул Горького, д 110",
+    "legal_address": null,
+    "website": "http://ashachel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0062",
+    "name": "Судебный участок № 4 г. Аши и Ашинского округа Челябинского области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456010, Челябинская обл, г Аша, ул 22 Партсъезда, д 3",
+    "legal_address": null,
+    "website": "http://ashachel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0071",
+    "name": "Судебный участок № 2 Верхнеуральского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457670, Челябинская обл, г Верхнеуральск, ул Мира, д 85",
+    "legal_address": null,
+    "website": "http://verhurchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0073",
+    "name": "Судебный участок № 2 г. Верхний Уфалей Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456800, Челябинская обл, г Верхний Уфалей, ул Якушева, д 66",
+    "legal_address": null,
+    "website": "http://verhufchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0078",
+    "name": "Судебный участок № 2 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул Таганайская, д 12",
+    "legal_address": null,
+    "website": "http://zlatoustchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0075",
+    "name": "Судебный участок № 2 Еманжелинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456584, Челябинская обл, г Еманжелинск, ул Ленина, д 19А",
+    "legal_address": null,
+    "website": "http://emanchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0079",
+    "name": "Судебный участок № 3 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул им И.Н.Бушуева, д 4",
+    "legal_address": null,
+    "website": "http://zlatoustchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0089",
+    "name": "Судебный участок № 2 Каслинского района Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456830, Челябинская обл, г Касли, ул Ломоносова, д 24А",
+    "legal_address": null,
+    "website": "http://kaslichel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0080",
+    "name": "Судебный участок № 4 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул им И.Н.Бушуева, д 4",
+    "legal_address": null,
+    "website": "http://zlatoustchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0081",
+    "name": "Судебный участок № 5 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул им И.Н.Бушуева, д 4",
+    "legal_address": null,
+    "website": "http://zlatoustchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0082",
+    "name": "Судебный участок № 6 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул им И.Н.Бушуева, д 4",
+    "legal_address": null,
+    "website": "http://zlatoustchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0083",
+    "name": "Судебный участок № 7 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул им И.Н.Бушуева, д 4",
+    "legal_address": null,
+    "website": "http://zlatoustchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0084",
+    "name": "Судебный участок № 8 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456200, Челябинская обл, г Златоуст, ул им И.Н.Бушуева, д 4",
+    "legal_address": null,
+    "website": "http://zlatoustchel8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0085",
+    "name": "Судебный участок № 9 г. Златоуст Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456205, Челябинская обл, г Златоуст, ул им Я.М.Свердлова, д 23",
+    "legal_address": null,
+    "website": "http://zlatoustchel9.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0094",
+    "name": "Судебный участок № 2 Карталинского округа, рабочего посёлка Локомотивный Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457351, Челябинская обл, г Карталы, ул Ленина, д 5",
+    "legal_address": null,
+    "website": "http://kartchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0091",
+    "name": "Судебный участок № 2 Катав-Ивановского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456120, Челябинская обл, Катав-Ивановский р-н, г Юрюзань, ул Советская, д 90",
+    "legal_address": null,
+    "website": "http://katavivchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0098",
+    "name": "Судебный участок № 2 Коркинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456550, Челябинская обл, г Коркино, ул 9 Января, д 8",
+    "legal_address": null,
+    "website": "http://korkinochel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0099",
+    "name": "Судебный участок № 3 Коркинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456550, Челябинская обл, г Коркино, ул 9 Января, д 8",
+    "legal_address": null,
+    "website": "http://korkinochel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0109",
+    "name": "Судебный участок № 1 г. Копейск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456654, Челябинская область, п. Ст. Камышинск, ул. Комсомольская, д. 12",
+    "legal_address": null,
+    "website": "http://kopeyskchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0106",
+    "name": "Судебный участок № 1 г. Кыштым Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456870, Челябинская обл, г Кыштым, ул Ветеранов, д 10",
+    "legal_address": null,
+    "website": "http://kyshtymchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0134",
+    "name": "Судебный участок № 1 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456300, Челябинская обл, г Миасс, ул Романенко, д 50",
+    "legal_address": null,
+    "website": "http://miass1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0145",
+    "name": "Судебный участок № 1 г. Озёрска Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456784, Челябинская обл, г Озерск, ул Комсомольская, д 4А",
+    "legal_address": null,
+    "website": "http://ozerskchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0156",
+    "name": "Судебный участок № 1 г. Снежинск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456770, Челябинская обл, г Снежинск, ул Дзержинского, д 24",
+    "legal_address": null,
+    "website": "http://snezhinskchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0162",
+    "name": "Судебный участок № 1 г. Трёхгорный Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456080, Челябинская обл, г Трехгорный, ул Володина, д 12",
+    "legal_address": null,
+    "website": "http://trehgchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0164",
+    "name": "Судебный участок № 1 г. Троицка Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457103, Челябинская обл, г Троицк, ул им. Ю.А. Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://troitskchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0173",
+    "name": "Судебный участок № 1 г. Усть-Катав Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456043, Челябинская обл, г Усть-Катав, ул Революционная, д 4",
+    "legal_address": null,
+    "website": "http://ustkatavchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0175",
+    "name": "Судебный участок № 1 г. Чебаркуля, Чебаркульского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456440, Челябинская обл, г Чебаркуль, ул Электростальская, д 5Б",
+    "legal_address": null,
+    "website": "http://chebarkul1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0180",
+    "name": "Судебный участок № 1 г. Южноуральск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457040, Челябинская обл, г Южноуральск, ул Спортивная, д 13",
+    "legal_address": null,
+    "website": "http://yuzhchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0102",
+    "name": "Судебный участок № 1 Красноармейского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456660, Челябинская обл, с Миасское, ул Советская, д 6",
+    "legal_address": null,
+    "website": "http://krasnoarmchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0104",
+    "name": "Судебный участок № 1 Кунашакского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456730, Челябинская обл, с Кунашак, ул Ленина, д 107А",
+    "legal_address": null,
+    "website": "http://kunashakchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0100",
+    "name": "Судебный участок № 1 Кусинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456940, Челябинская обл, г Куса, ул Декабристов, д 2А",
+    "legal_address": null,
+    "website": "http://kusachel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0116",
+    "name": "Судебный участок № 1 Ленинского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://lininskmag1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0143",
+    "name": "Судебный участок № 1 Нагайбакского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457650, Челябинская обл, с Фершампенуаз, ул Механизаторов, д 28/3",
+    "legal_address": null,
+    "website": "http://nagchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0144",
+    "name": "Судебный участок № 1 Нязепетровскиого округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456970, Челябинская обл, г Нязепетровск, ул Ленина, д 14",
+    "legal_address": null,
+    "website": "http://nyazchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0149",
+    "name": "Судебный участок № 1 Октябрьского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457170, Челябинская обл, с Октябрьское, ул Восточная, д 50",
+    "legal_address": null,
+    "website": "http://oktchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0126",
+    "name": "Судебный участок № 1 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0150",
+    "name": "Судебный участок № 1 Пластовского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457020, Челябинская обл, г Пласт, ул Октябрьская, д 60",
+    "legal_address": null,
+    "website": "http://plastchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0121",
+    "name": "Судебный участок № 1 Правобережного района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://pravmag1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0107",
+    "name": "Судебный участок № 2 г. Кыштым Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456870, Челябинская обл, г Кыштым, ул Ветеранов, д 10",
+    "legal_address": null,
+    "website": "http://kyshtymchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0103",
+    "name": "Судебный участок № 2 Красноармейского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456660, Челябинская обл, с Миасское, ул Советская, д 6",
+    "legal_address": null,
+    "website": "http://krasnoarmchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0105",
+    "name": "Судебный участок № 2 Кунашакского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456730, Челябинская обл, с Кунашак, ул Ленина, д 107А",
+    "legal_address": null,
+    "website": "http://kunashakchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0101",
+    "name": "Судебный участок № 2 Кусинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456940, Челябинская обл, г Куса, ул Декабристов, д 2А",
+    "legal_address": null,
+    "website": "http://kusachel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0108",
+    "name": "Судебный участок № 3 г. Кыштым Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456870, Челябинская обл, г Кыштым, ул Ветеранов, д 10",
+    "legal_address": null,
+    "website": "http://kyshtymchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0110",
+    "name": "Судебный участок № 2 г. Копейск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456653, Челябинская обл, г Копейск, ул Урицкого, д 121",
+    "legal_address": null,
+    "website": "http://kopeyskchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0117",
+    "name": "Судебный участок № 2 Ленинского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://lininskmag2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0111",
+    "name": "Судебный участок № 3 г. Копейск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456655, Челябинская обл, г Копейск, ул Чернышевского, д 17А",
+    "legal_address": null,
+    "website": "http://kopeyskchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0118",
+    "name": "Судебный участок № 3 Ленинского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://lininskmag3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0112",
+    "name": "Судебный участок № 4 г. Копейск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456618, Челябинская обл, г Копейск, ул Ленина, д 56",
+    "legal_address": null,
+    "website": "http://kopeyskchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0119",
+    "name": "Судебный участок № 4 Ленинского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://lininskmag4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0113",
+    "name": "Судебный участок № 5 г. Копейск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456618, Челябинская обл, г Копейск, ул Ленина, д 56",
+    "legal_address": null,
+    "website": "http://kopeyskchel5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0114",
+    "name": "Судебный участок № 6 г. Копейск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456618, Челябинская обл, г Копейск, ул Ленина, д 56",
+    "legal_address": null,
+    "website": "http://kopeyskchel6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0115",
+    "name": "Судебный участок № 7 г. Копейск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456623, Челябинская обл, г Копейск, ул Майская, д 7",
+    "legal_address": null,
+    "website": "http://kopeyskchel7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0127",
+    "name": "Судебный участок № 2 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0122",
+    "name": "Судебный участок № 2 Правобережного района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://pravmag2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0128",
+    "name": "Судебный участок № 3 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0123",
+    "name": "Судебный участок № 3 Правобережного района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://pravmag3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0129",
+    "name": "Судебный участок № 4 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0124",
+    "name": "Судебный участок № 4 Правобережного района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://pravmag4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0120",
+    "name": "Судебный участок № 5 Ленинского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://lininskmag5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0125",
+    "name": "Судебный участок № 5 Правобережного района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://pravmag5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0135",
+    "name": "Судебный участок № 2 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456300, Челябинская обл, г Миасс, ул Романенко, д 50",
+    "legal_address": null,
+    "website": "http://miass2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0136",
+    "name": "Судебный участок № 3 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456300, Челябинская обл, г Миасс, ул Романенко, д 50",
+    "legal_address": null,
+    "website": "http://miass3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0137",
+    "name": "Судебный участок № 4 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456306, Челябинская обл, г Миасс, ул Готвальда, д 12",
+    "legal_address": null,
+    "website": "http://miass4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0138",
+    "name": "Судебный участок № 5 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456304, Челябинская обл, г Миасс, ул Романенко, д 22",
+    "legal_address": null,
+    "website": "http://miass5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0130",
+    "name": "Судебный участок № 5 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag5.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0139",
+    "name": "Судебный участок № 6 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456304, Челябинская обл, г Миасс, ул Романенко, д 22",
+    "legal_address": null,
+    "website": "http://miass6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0131",
+    "name": "Судебный участок № 6 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag6.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0132",
+    "name": "Судебный участок № 7 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0133",
+    "name": "Судебный участок № 8 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0146",
+    "name": "Судебный участок № 2 г. Озёрска Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456784, Челябинская обл, г Озерск, ул Комсомольская, д 4А",
+    "legal_address": null,
+    "website": "http://ozerskchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0147",
+    "name": "Судебный участок № 3 г. Озёрска Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456784, Челябинская обл, г Озерск, ул Комсомольская, д 4А",
+    "legal_address": null,
+    "website": "http://ozerskchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0148",
+    "name": "Судебный участок № 4 г. Озёрска Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456784, Челябинская обл, г Озерск, ул Комсомольская, д 4А",
+    "legal_address": null,
+    "website": "http://ozerskchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0140",
+    "name": "Судебный участок № 7 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456304, Челябинская обл, г Миасс, ул Калинина, д 26",
+    "legal_address": null,
+    "website": "http://miass7.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0141",
+    "name": "Судебный участок № 8 г. Миасс Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456304, Челябинская обл, г Миасс, ул Калинина, д 26",
+    "legal_address": null,
+    "website": "http://miass8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0152",
+    "name": "Судебный участок № 1 Саткинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456912, Челябинская обл, г Сатка, ул 50 лет ВЛКСМ, д 6",
+    "legal_address": null,
+    "website": "http://satkachel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0159",
+    "name": "Судебный участок № 1 Сосновского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456510, Челябинская обл, с Долгодеревенское, ул Набережная, д 1",
+    "legal_address": null,
+    "website": "http://sosnchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0157",
+    "name": "Судебный участок № 2 г. Снежинска Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456770, Челябинская обл, г Снежинск, ул Дзержинского, д 24",
+    "legal_address": null,
+    "website": "http://snezhinskchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0151",
+    "name": "Судебный участок № 2 Пластовского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457024, Челябинская обл, г Пласт, ул Кирова, д 2",
+    "legal_address": null,
+    "website": "http://plastchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0153",
+    "name": "Судебный участок № 2 Саткинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456912, Челябинская обл, г Сатка, ул 50 лет ВЛКСМ, д 6",
+    "legal_address": null,
+    "website": "http://satkachel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0158",
+    "name": "Судебный участок № 3 г. Снежинска Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456770, Челябинская обл, г Снежинск, ул 40 лет Октября, д 1",
+    "legal_address": null,
+    "website": "http://snezhinskchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0154",
+    "name": "Судебный участок № 3 Саткинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456913, Челябинская область, г. Сатка, Западный микрорайон - 1 , д.16",
+    "legal_address": null,
+    "website": "http://satkachel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0155",
+    "name": "Судебный участок № 4 Саткинского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456900, Челябинская обл, Саткинский р-н, г Бакал, ул Ленина, д 27",
+    "legal_address": null,
+    "website": "http://satkachel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0168",
+    "name": "Судебный участок № 1 Троицкого округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457103, Челябинская обл, г Троицк, ул им. Ю.А. Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://troitskrayonchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0163",
+    "name": "Судебный участок № 2 г. Трёхгорного Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456080, Челябинская обл, г Трехгорный, ул Володина, д 12",
+    "legal_address": null,
+    "website": "http://trehgchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0165",
+    "name": "Судебный участок № 2 г. Троицка Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457103, Челябинская обл, г Троицк, ул им. Ю.А. Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://troitskchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0160",
+    "name": "Судебный участок № 2 Сосновского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456520, Челябинская обл, Сосновский р-н, п Полетаево, ул Пионерская, д 8",
+    "legal_address": null,
+    "website": "http://sosnchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0169",
+    "name": "Судебный участок № 2 Троицкого округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457103, Челябинская обл, г Троицк, ул им. Ю.А. Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://troitskrayonchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0166",
+    "name": "Судебный участок № 3 г. Троицка Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457103, Челябинская обл, г Троицк, ул им. Ю.А. Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://troitskchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0161",
+    "name": "Судебный участок № 3 Сосновского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456510, Челябинская обл, с Долгодеревенское, ул Свердловская, д 14",
+    "legal_address": null,
+    "website": "http://sosnchel3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0167",
+    "name": "Судебный участок № 4 г. Троицка Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457103, Челябинская обл, г Троицк, ул им. Ю.А. Гагарина, д 1",
+    "legal_address": null,
+    "website": "http://troitskchel4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0171",
+    "name": "Судебный участок № 1 Увельского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457000, Челябинская обл, п Увельский, ул 30 лет ВЛКСМ, д 3",
+    "legal_address": null,
+    "website": "http://uvelchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0170",
+    "name": "Судебный участок № 1 Уйского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456470, Челябинская обл, с Уйское, ул Балмасова, д 3",
+    "legal_address": null,
+    "website": "http://uyskchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0179",
+    "name": "Судебный участок № 1 Чесменского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457220, Челябинская обл, с Чесма, ул Советская, д 50",
+    "legal_address": null,
+    "website": "http://chesmchel1.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0174",
+    "name": "Судебный участок № 2 г. Усть-Катав Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456043, Челябинская обл, г Усть-Катав, ул Революционная, д 4",
+    "legal_address": null,
+    "website": "http://ustkatavchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0176",
+    "name": "Судебный участок № 2 г. Чебаркуля, Чебаркульского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456440, Челябинская обл, г Чебаркуль, ул Электростальская, д 5Б",
+    "legal_address": null,
+    "website": "http://chebarkul2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0172",
+    "name": "Судебный участок № 2 Увельского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457000, Челябинская обл, п Увельский, ул 30 лет ВЛКСМ, д 3",
+    "legal_address": null,
+    "website": "http://uvelchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0177",
+    "name": "Судебный участок № 3 г. Чебаркуля, Чебаркульского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456440, Челябинская обл, г Чебаркуль, ул Электростальская, д 5Б",
+    "legal_address": null,
+    "website": "http://chebarkul3.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0178",
+    "name": "Судебный участок № 4 г. Чебаркуля, Чебаркульского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456440, Челябинская обл, г Чебаркуль, ул Электростальская, д 5Б",
+    "legal_address": null,
+    "website": "http://chebarkul4.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0181",
+    "name": "Судебный участок № 2 г. Южноуральск Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "457040, Челябинская обл, г Южноуральск, ул Спортивная, д 13",
+    "legal_address": null,
+    "website": "http://yuzhchel2.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0183",
+    "name": "Судебный участок № 4 Сосновского округа Челябинской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "456512, Челябинская обл, Сосновский р-н, п Красное Поле, ул Цветочная, д 3",
+    "legal_address": null,
+    "website": "http://sosnchel4.chel.msudrf.ru/"
+  },
+  {
+    "code": "74MS0184",
+    "name": "Судебный участок № 8 Тракторозаводского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454071, г Челябинск, ул Героев Танкограда, д 35",
+    "legal_address": null,
+    "website": "http://tzrchel8.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0185",
+    "name": "Судебный участок № 9 Орджоникидзевского района г. Магнитогорска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "455000, Челябинская обл, г Магнитогорск, ул Николая Шишка, д 10",
+    "legal_address": null,
+    "website": "http://ordjomag9.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0182",
+    "name": "Судебный участок № 10 Курчатовского района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454021, г Челябинск, пр-кт Комсомольский, д 99Г",
+    "legal_address": null,
+    "website": "http://kurchel10.chel.msudrf.ru"
+  },
+  {
+    "code": "74MS0186",
+    "name": "Судебный участок № 10 Центрального района г. Челябинска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "454004, г Челябинск, ул 250-летия Челябинска, д 69",
+    "legal_address": null,
+    "website": "https://centrchel10.chel.msudrf.ru/"
+  }
+]

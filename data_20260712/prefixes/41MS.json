@@ -1,0 +1,372 @@
+[
+  {
+    "code": "41MS0001",
+    "name": "Судебный участок № 1 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://1.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0002",
+    "name": "Судебный участок № 2 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://2.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0003",
+    "name": "Судебный участок № 3 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://3.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0004",
+    "name": "Судебный участок № 4 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://4.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0005",
+    "name": "Судебный участок № 5 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://5.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0006",
+    "name": "Судебный участок № 6 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://6.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0007",
+    "name": "Судебный участок № 7 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://7.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0008",
+    "name": "Судебный участок № 8 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://8.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0009",
+    "name": "Судебный участок № 9 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://9.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0010",
+    "name": "Судебный участок № 10 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://10.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0011",
+    "name": "Судебный участок № 11 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://11.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0012",
+    "name": "Судебный участок № 12 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://12.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0013",
+    "name": "Судебный участок № 13 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://13.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0014",
+    "name": "Судебный участок № 14 Петропавловск-Камчатского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683017, г Петропавловск-Камчатский, ул Зеркальная, д 50",
+    "legal_address": null,
+    "website": "http://14.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0015",
+    "name": "Судебный участок № 15 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://15.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0016",
+    "name": "Судебный участок № 16 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://16.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0017",
+    "name": "Судебный участок № 17 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://17.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0018",
+    "name": "Судебный участок № 18 г. Петропавловск-Камчатский",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "683031, г Петропавловск-Камчатский, пр-кт Карла Маркса, д 29/1",
+    "legal_address": null,
+    "website": "http://18.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0019",
+    "name": "Судебный участок № 19 г. Елизово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684000, Камчатский край, г Елизово, ул 40 лет Октября, д 7А",
+    "legal_address": null,
+    "website": "http://19.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0020",
+    "name": "Судебный участок № 20 г. Елизово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684000, Камчатский край, г Елизово, ул 40 лет Октября, д 7А",
+    "legal_address": null,
+    "website": "http://20.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0021",
+    "name": "Судебный участок № 21 г. Елизово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684000, Камчатский край, г Елизово, ул 40 лет Октября, д 7А",
+    "legal_address": null,
+    "website": "http://21.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0022",
+    "name": "Судебный участок № 22 г. Елизово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684000, Камчатский край, г Елизово, ул 40 лет Октября, д 7А",
+    "legal_address": null,
+    "website": "http://22.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0023",
+    "name": "Судебный участок № 23 г. Елизово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684000, Камчатский край, г Елизово, ул 40 лет Октября, д 7А",
+    "legal_address": null,
+    "website": "http://23.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0024",
+    "name": "Судебный участок № 24 г. Елизово",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684000, Камчатский край, г Елизово, ул 40 лет Октября, д 7А",
+    "legal_address": null,
+    "website": "http://24.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0025",
+    "name": "Судебный участок № 25 г. Вилючинск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684090, Камчатский край, г Вилючинск, ул Спортивная, д 8",
+    "legal_address": null,
+    "website": "http://25.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0026",
+    "name": "Судебный участок № 26 г. Вилючинск",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684090, Камчатский край, г Вилючинск, ул Спортивная, д 8",
+    "legal_address": null,
+    "website": "http://26.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0027",
+    "name": "Судебный участок № 27 Усть-Большерецкий район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684100, Камчатский край, с Усть-Большерецк, ул Калининская, д 19",
+    "legal_address": null,
+    "website": "http://27.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0028",
+    "name": "Судебный участок № 28 Усть-Большерецкий район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684100, Камчатский край, с Усть-Большерецк, ул Калининская, д 19",
+    "legal_address": null,
+    "website": "http://28.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0029",
+    "name": "Судебный участок № 29 Мильковский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684300, Камчатский край, с Мильково, ул Партизанская, д 46",
+    "legal_address": null,
+    "website": "http://29.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0030",
+    "name": "Судебный участок № 30 Мильковский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684300, Камчатский край, с Мильково, пр-кт Космонавтов, д 3",
+    "legal_address": null,
+    "website": "http://30.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0031",
+    "name": "Судебный участок № 31 Усть-Камчатский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684415, Камчатский край, п Усть-Камчатск, ул 60 лет Октября, д 24",
+    "legal_address": null,
+    "website": "http://31.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0032",
+    "name": "Судебный участок № 32 Усть-Камчатский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684400, Камчатский край, Усть-Камчатский р-н, п Ключи, ул Кирова, д 122",
+    "legal_address": null,
+    "website": "http://32.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0033",
+    "name": "Судебный участок № 33 Соболевский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "684200, Камчатский край, с Соболево, ул Комсомольская, д 15",
+    "legal_address": null,
+    "website": "http://33.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0034",
+    "name": "Судебный участок № 34 Тигильский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "688600, Камчатский край, с Тигиль, пер Строительный, д 19",
+    "legal_address": null,
+    "website": "http://34.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0035",
+    "name": "Судебный участок № 35 Карагинский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "688700, Камчатский край, п Оссора, ул Советская, стр 72",
+    "legal_address": null,
+    "website": "http://35.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0036",
+    "name": "Судебный участок № 36 Олюторский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "688800, Камчатский край, с Тиличики, ул Молодежная, зд 12",
+    "legal_address": null,
+    "website": "http://36.kmch.msudrf.ru"
+  },
+  {
+    "code": "41MS0037",
+    "name": "Судебный участок № 37 Олюторский район",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "688850, Камчатский край, с Каменское, ул Речная, зд 5",
+    "legal_address": null,
+    "website": "http://37.kmch.msudrf.ru/"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "66GV0008",
+    "name": "109 гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "734067, Республика Таджикистан, г. Душанбе, ул. Павла Ханжина, д.128",
+    "legal_address": null,
+    "website": "http://109gvs.svd.sudrf.ru/"
+  },
+  {
+    "code": "66GV0001",
+    "name": "Екатеринбургский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "620062, г Екатеринбург, ул Мира, д 26",
+    "legal_address": null,
+    "website": "http://egvs.svd.sudrf.ru"
+  },
+  {
+    "code": "66GV0006",
+    "name": "Магнитогорский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "456444, Челябинская обл., г. Чебаркуль, Военный городок №1",
+    "legal_address": null,
+    "website": "http://mgvs.chel.sudrf.ru"
+  },
+  {
+    "code": "66GV0003",
+    "name": "Нижнетагильский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "622016, Свердловская обл, г Нижний Тагил, ул Космонавтов, д 31В",
+    "legal_address": null,
+    "website": "http://ntagvs.svd.sudrf.ru"
+  },
+  {
+    "code": "66GV0002",
+    "name": "Челябинский гарнизонный военный суд",
+    "inn": null,
+    "court_type": "GV",
+    "court_type_name": "Гарнизонный военный суд",
+    "address": "454091, г Челябинск, ул Маркса, д 101",
+    "legal_address": null,
+    "website": "http://chgvs.chel.sudrf.ru"
+  }
+]

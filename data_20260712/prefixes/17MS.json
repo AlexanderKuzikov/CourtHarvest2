@@ -1,0 +1,262 @@
+[
+  {
+    "code": "17MS0009",
+    "name": "Судебный участок Бай-Тайгинского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668010, Респ Тыва, с Тээли, ул Комсомольская, д 19",
+    "legal_address": null,
+    "website": "http://b-t.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0010",
+    "name": "Судебный участок Барун-Хемчикского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668040, Респ Тыва, с Кызыл-Мажалык, ул Чадамба, д 20",
+    "legal_address": null,
+    "website": "http://b-h.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0026",
+    "name": "Судебный участок г. Ак-Довурака Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668051, Респ Тыва, г Ак-Довурак, ул Юбилейная, д 3",
+    "legal_address": null,
+    "website": "http://a-g.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0011",
+    "name": "Судебный участок Дзун-Хемчикского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668111, Респ Тыва, г Чадан, ул Ленина, д 42",
+    "legal_address": null,
+    "website": "http://d-h.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0012",
+    "name": "Судебный участок Каа-Хемского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668400, Респ Тыва, с Сарыг-Сеп, ул Енисейская, д 198",
+    "legal_address": null,
+    "website": "http://k-h.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0001",
+    "name": "Судебный участок мирового судьи № 1 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil1.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0002",
+    "name": "Судебный участок мирового судьи № 2 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil2.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0003",
+    "name": "Судебный участок мирового судьи № 3 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil3.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0004",
+    "name": "Судебный участок мирового судьи № 4 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil4.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0005",
+    "name": "Судебный участок мирового судьи № 5 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil5.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0006",
+    "name": "Судебный участок мирового судьи № 6 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil6.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0007",
+    "name": "Судебный участок мирового судьи № 7 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil7.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0008",
+    "name": "Судебный участок мирового судьи № 8 г. Кызыла Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667011, г Кызыл, ул Калинина, д 1Б",
+    "legal_address": null,
+    "website": "http://kizil8.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0017",
+    "name": "Судебный участок Овюрского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668130, Респ Тыва, с Хандагайты, ул Ленина, зд 2",
+    "legal_address": null,
+    "website": "http://ovjurskiy.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0014",
+    "name": "Судебный участок Пии-Хемского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668510, Респ Тыва, г Туран, ул Щетинкина, д 12А",
+    "legal_address": null,
+    "website": "http://p-h.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0018",
+    "name": "Судебный участок Сут-Хольского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668150, Респ Тыва, с Суг-Аксы, ул Бурбу, д 18",
+    "legal_address": null,
+    "website": "http://s-h.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0015",
+    "name": "Судебный участок Тандинского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668311, Респ Тыва, с Бай-Хаак, ул Данчай Оюна, д 45, офис 2",
+    "legal_address": null,
+    "website": "http://tandinsky.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0019",
+    "name": "Судебный участок Тес-Хемского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668360, Респ Тыва, с Самагалтай, ул А.Ч.Кунаа, д 58",
+    "legal_address": null,
+    "website": "http://t-h.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0020",
+    "name": "Судебный участок Тоджинского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668530, Респ Тыва, с Тоора-Хем, ул Октябрьская, д 18",
+    "legal_address": null,
+    "website": "http://todzhinskiy.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0021",
+    "name": "Судебный участок Чаа-Хольского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668221, Респ Тыва, с Чаа-Холь, ул Ленина, д 8",
+    "legal_address": null,
+    "website": "http://c-h.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0013",
+    "name": "Судебный участок № 1 Кызылского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667901, Респ Тыва, пгт Каа-Хем, ул Таежная, д 20",
+    "legal_address": null,
+    "website": "http://kizilsky.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0016",
+    "name": "Судебный участок № 1 Улуг-Хемского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668210, Респ Тыва, г Шагонар, ул Дружбы, д 55А",
+    "legal_address": null,
+    "website": "http://u-g.tuva.msudrf.ru"
+  },
+  {
+    "code": "17MS0022",
+    "name": "Судебный участок Чеди-Хольского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668330, Респ Тыва, с Хову-Аксы, ул Мира, д 4А",
+    "legal_address": null,
+    "website": "http://ch-h.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0023",
+    "name": "Судебный участок Эрзинского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668380, Респ Тыва, с Эрзин, ул Комсомольская, д 29, офис 109",
+    "legal_address": null,
+    "website": "http://jerzinskiy.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0025",
+    "name": "Судебный участок № 2 Кызылского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "667901, Респ Тыва, пгт Каа-Хем, ул Таежная, д 20",
+    "legal_address": null,
+    "website": "http://kizilsky2.tuva.msudrf.ru/"
+  },
+  {
+    "code": "17MS0024",
+    "name": "Судебный участок № 2 Улуг-Хемского кожууна Республики Тыва",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "668210, Респ Тыва, г Шагонар, ул Дружбы, д 55А",
+    "legal_address": null,
+    "website": "http://u-g2.tuva.msudrf.ru/"
+  }
+]

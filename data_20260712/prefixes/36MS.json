@@ -1,0 +1,1172 @@
+[
+  {
+    "code": "36MS0046",
+    "name": "Судебный участок № 1 в Аннинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396250, Воронежская обл, пгт Анна, ул Коммунальная, д 80",
+    "legal_address": null,
+    "website": "http://anna1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0053",
+    "name": "Судебный участок № 1 в Бобровском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397700, Воронежская обл, г Бобров, ул 3 Интернационала, д 37",
+    "legal_address": null,
+    "website": "http://bobrov1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0056",
+    "name": "Судебный участок № 1 в Богучарском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396790, Воронежская обл, г Богучар, ул Радченко, д 16",
+    "legal_address": null,
+    "website": "http://boguchar1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0049",
+    "name": "Судебный участок № 1 в Борисоглебском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397160, Воронежская обл, г Борисоглебск, ул Советская, зд 18 стр 1",
+    "legal_address": null,
+    "website": "http://borisogl1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0058",
+    "name": "Судебный участок № 1 в Бутурлиновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397500, Воронежская обл, г Бутурлиновка, ул Блинова, д 99",
+    "legal_address": null,
+    "website": "http://buturlin1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0064",
+    "name": "Судебный участок № 1 в Грибановском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397240, Воронежская обл, пгт Грибановский, ул Комарова, д 56",
+    "legal_address": null,
+    "website": "http://gribanovsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0001",
+    "name": "Судебный участок № 1 в Железнодорожном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394007, г Воронеж, пр-кт Ленинский, д 99",
+    "legal_address": null,
+    "website": "http://zhelezn1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0066",
+    "name": "Судебный участок № 1 в Калачеевском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397600, Воронежская обл, г Калач, ул Пугачева, д 7",
+    "legal_address": null,
+    "website": "http://kalach1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0070",
+    "name": "Судебный участок № 1 в Кантемировском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396731, Воронежская обл, рп Кантемировка, ул Владимира Завадского, д 98",
+    "legal_address": null,
+    "website": "http://kantemir1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0072",
+    "name": "Судебный участок № 1 в Каширском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396350, Воронежская обл, с Каширское, ул Олимпийская, зд 2А",
+    "legal_address": null,
+    "website": "http://kashira1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0006",
+    "name": "Судебный участок № 1 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0018",
+    "name": "Судебный участок № 1 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394028, г Воронеж, ул Волгоградская, д 30",
+    "legal_address": null,
+    "website": "http://levober1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0073",
+    "name": "Судебный участок № 1 в Лискинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397907, Воронежская обл, г Лиски, ул 40 лет Октября, д 73",
+    "legal_address": null,
+    "website": "http://liski1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0078",
+    "name": "Судебный участок № 1 в Нижнедевицком судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396870, Воронежская обл, с Нижнедевицк, ул Революционная, д 18",
+    "legal_address": null,
+    "website": "http://ndevitsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0079",
+    "name": "Судебный участок № 1 в Нововоронежском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396070, Воронежская обл, г Нововоронеж, ул Октябрьская, д 16",
+    "legal_address": null,
+    "website": "http://nvoronezh1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0081",
+    "name": "Судебный участок № 1 в Новоусманском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396310, Воронежская обл, с Новая Усмань, ул Авдеева, д 35",
+    "legal_address": null,
+    "website": "http://nusman1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0084",
+    "name": "Судебный участок № 1 в Новохоперском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397400, Воронежская обл, г Новохопёрск, ул 25 Октября, зд 25",
+    "legal_address": null,
+    "website": "http://nhopersk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0087",
+    "name": "Судебный участок № 1 в Острогожском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397855, Воронежская обл, г Острогожск, ул Пушкина, зд 31А",
+    "legal_address": null,
+    "website": "http://ostrogozhsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0092",
+    "name": "Судебный участок № 1 в Павловском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396422, Воронежская обл, г Павловск, пр-кт Революции, д 6",
+    "legal_address": null,
+    "website": "http://pavlovsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0090",
+    "name": "Судебный участок № 1 в Панинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396140, Воронежская обл, рп Панино, ул Советская, д 37",
+    "legal_address": null,
+    "website": "http://panino1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0002",
+    "name": "Судебный участок № 2 в Железнодорожном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394029, г Воронеж, пр-кт Ленинский, д 22 к 1",
+    "legal_address": null,
+    "website": "http://zhelezn2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0007",
+    "name": "Судебный участок № 2 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0003",
+    "name": "Судебный участок № 3 в Железнодорожном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394033, г Воронеж, пр-кт Ленинский, д 174",
+    "legal_address": null,
+    "website": "http://zhelezn3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0008",
+    "name": "Судебный участок № 3 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0004",
+    "name": "Судебный участок № 4 в Железнодорожном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394033, г Воронеж, пр-кт Ленинский, д 174",
+    "legal_address": null,
+    "website": "http://zhelezn4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0009",
+    "name": "Судебный участок № 4 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0005",
+    "name": "Судебный участок № 5 в Железнодорожном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394029, г Воронеж, пр-кт Ленинский, д 22 к 1",
+    "legal_address": null,
+    "website": "http://zhelezn5.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0019",
+    "name": "Судебный участок № 2 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394028, г Воронеж, ул Волгоградская, д 30",
+    "legal_address": null,
+    "website": "http://levober2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0010",
+    "name": "Судебный участок № 5 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern5.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0011",
+    "name": "Судебный участок № 6 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://komintern6.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0012",
+    "name": "Судебный участок № 7 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://komintern7.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0013",
+    "name": "Судебный участок № 8 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern8.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0014",
+    "name": "Судебный участок № 9 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://komintern9.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0015",
+    "name": "Судебный участок № 10 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern10.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0016",
+    "name": "Судебный участок № 11 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://komintern11.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0017",
+    "name": "Судебный участок № 12 в Коминтерновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, проезд Ясный, д 2",
+    "legal_address": null,
+    "website": "http://komintern12.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0026",
+    "name": "Судебный участок № 1 мирового судьи Ленинского района г. Воронежа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://leninsky1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0027",
+    "name": "Судебный участок № 2 мирового судьи Ленинского района г. Воронежа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://leninsky2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0020",
+    "name": "Судебный участок № 3 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394028, г Воронеж, ул Волгоградская, д 30",
+    "legal_address": null,
+    "website": "http://levober3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0028",
+    "name": "Судебный участок № 3 в Ленинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://leninsky3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0021",
+    "name": "Судебный участок № 4 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394007, г Воронеж, ул Серова, д 1",
+    "legal_address": null,
+    "website": "http://levober4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0029",
+    "name": "Судебный участок № 4 в Ленинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://leninsky4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0022",
+    "name": "Судебный участок № 5 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394007, г Воронеж, ул Серова, д 1",
+    "legal_address": null,
+    "website": "http://levober5.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0023",
+    "name": "Судебный участок № 6 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394028, г Воронеж, ул Волгоградская, д 30",
+    "legal_address": null,
+    "website": "http://levober6.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0024",
+    "name": "Судебный участок № 7 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394007, г Воронеж, ул Серова, д 1",
+    "legal_address": null,
+    "website": "http://levober7.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0025",
+    "name": "Судебный участок № 8 в Левобережном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394028, г Воронеж, ул Волгоградская, д 30",
+    "legal_address": null,
+    "website": "http://levober8.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0033",
+    "name": "Судебный участок № 1 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0034",
+    "name": "Судебный участок № 2 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0035",
+    "name": "Судебный участок № 3 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0036",
+    "name": "Судебный участок № 4 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0030",
+    "name": "Судебный участок № 5 в Ленинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://leninsky5.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0037",
+    "name": "Судебный участок № 5 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk5.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0031",
+    "name": "Судебный участок № 6 в Ленинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://leninsky6.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0038",
+    "name": "Судебный участок № 6 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk6.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0032",
+    "name": "Судебный участок № 7 в Ленинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://leninsky7.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0039",
+    "name": "Судебный участок № 7 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk7.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0041",
+    "name": "Судебный участок № 1 в Центральном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://centr1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0047",
+    "name": "Судебный участок № 2 в Аннинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396250, Воронежская обл, пгт Анна, ул Коммунальная, д 80",
+    "legal_address": null,
+    "website": "http://anna2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0042",
+    "name": "Судебный участок № 2 в Центральном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://centr2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0048",
+    "name": "Судебный участок № 3 в Аннинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396250, Воронежская обл, пгт Анна, ул Коммунальная, д 80",
+    "legal_address": null,
+    "website": "http://anna3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0043",
+    "name": "Судебный участок № 3 в Центральном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://centr3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0044",
+    "name": "Судебный участок № 4 в Центральном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://centr4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0045",
+    "name": "Судебный участок № 5 в Центральном судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://centr5.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0040",
+    "name": "Судебный участок № 8 в Советском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "394026, г Воронеж, ул Плехановская, д 53",
+    "legal_address": null,
+    "website": "http://sovetsk8.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0054",
+    "name": "Судебный участок № 2 в Бобровском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397700, Воронежская обл, г Бобров, ул 3 Интернационала, д 37",
+    "legal_address": null,
+    "website": "http://bobrov2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0057",
+    "name": "Судебный участок № 2 в Богучарском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396790, Воронежская обл, г Богучар, ул Радченко, д 16",
+    "legal_address": null,
+    "website": "http://boguchar2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0050",
+    "name": "Судебный участок № 2 в Борисоглебском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397160, Воронежская обл, г Борисоглебск, ул Советская, зд 18 стр 1",
+    "legal_address": null,
+    "website": "http://borisogl2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0059",
+    "name": "Судебный участок № 2 в Бутурлиновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397500, Воронежская обл, г Бутурлиновка, ул Блинова, д 99",
+    "legal_address": null,
+    "website": "http://buturlin2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0055",
+    "name": "Судебный участок № 3 в Бобровском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397700, Воронежская обл, г Бобров, ул 3 Интернационала, д 37",
+    "legal_address": null,
+    "website": "http://bobrov3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0051",
+    "name": "Судебный участок № 3 в Борисоглебском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397160, Воронежская обл, г Борисоглебск, ул Советская, зд 18 стр 1",
+    "legal_address": null,
+    "website": "http://borisogl3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0052",
+    "name": "Судебный участок № 4 в Борисоглебском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397160, Воронежская обл, г Борисоглебск, ул Советская, зд 18 стр 1",
+    "legal_address": null,
+    "website": "http://borisogl4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0065",
+    "name": "Судебный участок № 2 в Грибановском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397240, Воронежская обл, пгт Грибановский, ул Комарова, д 56",
+    "legal_address": null,
+    "website": "http://gribanovsk2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0067",
+    "name": "Судебный участок № 2 в Калачеевском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397600, Воронежская обл, г Калач, ул Пугачева, д 7",
+    "legal_address": null,
+    "website": "http://kalach2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0060",
+    "name": "Судебный участок № 3 в Бутурлиновском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397500, Воронежская обл, г Бутурлиновка, ул Блинова, д 99",
+    "legal_address": null,
+    "website": "http://buturlin3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0068",
+    "name": "Судебный участок № 3 в Калачеевском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397600, Воронежская обл, г Калач, ул Пугачева, д 7",
+    "legal_address": null,
+    "website": "http://kalach3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0063",
+    "name": "Судебный участок № 4 в Калачеевском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397570, Воронежская обл, с Воробьёвка, пл Свободы, д 2",
+    "legal_address": null,
+    "website": "http://vorobievsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0062",
+    "name": "Судебный участок № 4 в Новоусманском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396110, Воронежская обл, с Верхняя Хава, ул Георгиева, д 22Б",
+    "legal_address": null,
+    "website": "http://vhava1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0061",
+    "name": "Судебный участок № 4 в Павловском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396460, Воронежская обл, с Верхний Мамон, ул 60 лет Октября, д 16",
+    "legal_address": null,
+    "website": "http://vmamon1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0069",
+    "name": "Судебный участок № 6 в Лискинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396510, Воронежская обл, пгт Каменка, ул Советская, д 40",
+    "legal_address": null,
+    "website": "http://kamenka1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0071",
+    "name": "Судебный участок № 2 в Кантемировском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396731, Воронежская обл, рп Кантемировка, ул Владимира Завадского, д 98",
+    "legal_address": null,
+    "website": "http://kantemir2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0074",
+    "name": "Судебный участок № 2 в Лискинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397907, Воронежская обл, г Лиски, ул 40 лет Октября, д 73",
+    "legal_address": null,
+    "website": "http://liski2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0075",
+    "name": "Судебный участок № 3 в Лискинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397907, Воронежская обл, г Лиски, ул 40 лет Октября, д 73",
+    "legal_address": null,
+    "website": "http://liski3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0076",
+    "name": "Судебный участок № 4 в Лискинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397907, Воронежская обл, г Лиски, ул 40 лет Октября, д 73",
+    "legal_address": null,
+    "website": "http://liski4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0077",
+    "name": "Судебный участок № 5 в Лискинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397907, Воронежская обл, г Лиски, ул 40 лет Октября, д 73",
+    "legal_address": null,
+    "website": "http://liski5.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0080",
+    "name": "Судебный участок № 2 в Нововоронежском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396070, Воронежская обл, г Нововоронеж, ул Октябрьская, д 16",
+    "legal_address": null,
+    "website": "http://nvoronezh2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0082",
+    "name": "Судебный участок № 2 в Новоусманском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396310, Воронежская обл, с Новая Усмань, ул Авдеева, д 35",
+    "legal_address": null,
+    "website": "http://nusman2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0085",
+    "name": "Судебный участок № 2 в Новохоперском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397400, Воронежская обл, г Новохопёрск, ул 25 Октября, зд 25",
+    "legal_address": null,
+    "website": "http://nhopersk2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0088",
+    "name": "Судебный участок № 2 в Острогожском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397855, Воронежская обл, г Острогожск, ул Пушкина, д 3, кв 1А",
+    "legal_address": null,
+    "website": "http://ostrogozhsk2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0083",
+    "name": "Судебный участок № 3 в Новоусманском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396310, Воронежская обл, с Новая Усмань, ул Авдеева, д 35",
+    "legal_address": null,
+    "website": "http://nusman3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0089",
+    "name": "Судебный участок № 3 в Острогожском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397855, Воронежская обл, г Острогожск, ул Пушкина, д 3, кв 1А",
+    "legal_address": null,
+    "website": "http://ostrogozhsk3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0086",
+    "name": "Судебный участок № 6 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396691, Воронежская обл, Ольховатский р-н, п Заболотовка, ул Новаторов, д 8",
+    "legal_address": null,
+    "website": "http://olhovatsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0096",
+    "name": "Судебный участок № 1 в Поворинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397350, Воронежская обл, г Поворино, ул Советская, зд 28А",
+    "legal_address": null,
+    "website": "http://povorino1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0093",
+    "name": "Судебный участок № 2 в Павловском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396422, Воронежская обл, г Павловск, пр-кт Революции, д 6",
+    "legal_address": null,
+    "website": "http://pavlovsk2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0091",
+    "name": "Судебный участок № 2 в Панинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396140, Воронежская обл, рп Панино, ул Советская, д 37",
+    "legal_address": null,
+    "website": "http://panino2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0097",
+    "name": "Судебный участок № 2 в Поворинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397350, Воронежская обл, г Поворино, ул Советская, зд 28А",
+    "legal_address": null,
+    "website": "http://povorino2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0095",
+    "name": "Судебный участок № 3 в Богучарском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397670, Воронежская обл, с Петропавловка, ул Победы, зд 54И",
+    "legal_address": null,
+    "website": "http://petropavl1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0094",
+    "name": "Судебный участок № 3 в Павловском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396422, Воронежская обл, г Павловск, пр-кт Революции, д 6",
+    "legal_address": null,
+    "website": "http://pavlovsk3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0098",
+    "name": "Судебный участок № 7 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396560, Воронежская обл, пгт Подгоренский, ул Первомайская, д 177",
+    "legal_address": null,
+    "website": "http://podgorn1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0099",
+    "name": "Судебный участок № 8 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396560, Воронежская обл, пгт Подгоренский, ул Первомайская, д 177",
+    "legal_address": null,
+    "website": "http://podgorn2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0100",
+    "name": "Судебный участок № 1 в Рамонском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396020, Воронежская обл, рп Рамонь, ул Советская, д 4А",
+    "legal_address": null,
+    "website": "http://ramon1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0103",
+    "name": "Судебный участок № 1 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396650, Воронежская обл, г Россошь, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://rossosh1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0108",
+    "name": "Судебный участок № 1 в Семилукском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396901, Воронежская обл, г Семилуки, ул Мурзы, д 2А",
+    "legal_address": null,
+    "website": "http://semiluk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0111",
+    "name": "Судебный участок № 1 в Таловском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397480, Воронежская обл, рп Таловая, ул Советская, д 126",
+    "legal_address": null,
+    "website": "http://talovsk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0114",
+    "name": "Судебный участок № 1 в Хохольском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396840, Воронежская обл, рп Хохольский, ул Заводская, д 88",
+    "legal_address": null,
+    "website": "http://hohol1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0101",
+    "name": "Судебный участок № 2 в Рамонском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396020, Воронежская обл, рп Рамонь, ул Советская, д 4А",
+    "legal_address": null,
+    "website": "http://ramon2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0104",
+    "name": "Судебный участок № 2 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396650, Воронежская обл, г Россошь, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://rossosh2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0109",
+    "name": "Судебный участок № 2 в Семилукском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396901, Воронежская обл, г Семилуки, ул Мурзы, д 2А",
+    "legal_address": null,
+    "website": "http://semiluk2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0112",
+    "name": "Судебный участок № 2 в Таловском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397480, Воронежская обл, рп Таловая, ул Советская, д 126",
+    "legal_address": null,
+    "website": "http://talovsk2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0115",
+    "name": "Судебный участок № 2 в Хохольском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396840, Воронежская обл, рп Хохольский, ул Заводская, д 88",
+    "legal_address": null,
+    "website": "http://hohol2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0113",
+    "name": "Судебный участок № 3 в Грибановском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397110, Воронежская обл, с Терновка, ул Советская, д 37",
+    "legal_address": null,
+    "website": "http://ternovk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0116",
+    "name": "Судебный участок № 3 в Панинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397030, Воронежская обл, г Эртиль, ул Фридриха Энгельса, д 22",
+    "legal_address": null,
+    "website": "http://ertil1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0105",
+    "name": "Судебный участок № 3 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396650, Воронежская обл, г Россошь, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://rossosh3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0110",
+    "name": "Судебный участок № 3 в Семилукском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396901, Воронежская обл, г Семилуки, ул Мурзы, д 2А",
+    "legal_address": null,
+    "website": "http://semiluk3.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0102",
+    "name": "Судебный участок № 4 в Острогожском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396370, Воронежская обл, с Репьёвка, ул Ушанева, д 3",
+    "legal_address": null,
+    "website": "http://repievk1.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0117",
+    "name": "Судебный участок № 4 в Панинском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "397030, Воронежская обл, г Эртиль, ул Фридриха Энгельса, д 22",
+    "legal_address": null,
+    "website": "http://ertil2.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0106",
+    "name": "Судебный участок № 4 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396650, Воронежская обл, г Россошь, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://rossosh4.vrn.msudrf.ru"
+  },
+  {
+    "code": "36MS0107",
+    "name": "Судебный участок № 5 в Россошанском судебном районе Воронежской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "396650, Воронежская обл, г Россошь, пл Ленина, д 2",
+    "legal_address": null,
+    "website": "http://rossosh5.vrn.msudrf.ru"
+  }
+]

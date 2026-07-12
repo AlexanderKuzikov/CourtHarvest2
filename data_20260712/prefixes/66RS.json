@@ -1,0 +1,522 @@
+[
+  {
+    "code": "66RS0062",
+    "name": "Академический районный суд города Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620105, г Екатеринбург, ул Вильгельма де Геннина, д 46/1",
+    "legal_address": null,
+    "website": "https://akademicheskiy.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0014",
+    "name": "Алапаевский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624600, Свердловская обл, г Алапаевск, ул Братьев Серебряковых, д 16",
+    "legal_address": null,
+    "website": "http://alapaevsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0016",
+    "name": "Артемовский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623780, Свердловская обл, г Артемовский, ул Гагарина, д 21",
+    "legal_address": null,
+    "website": "http://artemovsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0017",
+    "name": "Артинский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623340, Свердловская обл, пгт Арти, ул Ленина, стр 98",
+    "legal_address": null,
+    "website": "http://artinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0015",
+    "name": "Асбестовский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624272, Свердловская обл, г Асбест, ул имени Александра Королева, стр 24",
+    "legal_address": null,
+    "website": "http://asbestovsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0020",
+    "name": "Белоярский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624030, Свердловская обл, пгт Белоярский, ул Милицейская, д 14",
+    "legal_address": null,
+    "website": "http://beloyarsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0022",
+    "name": "Березовский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623700, Свердловская обл, г Березовский, ул Загвозкина, стр 8",
+    "legal_address": null,
+    "website": "http://berezovsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0021",
+    "name": "Богдановичский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623530, Свердловская обл, Богдановичский р-н, г Богданович, ул Партизанская, д 15А",
+    "legal_address": null,
+    "website": "http://bogdanovichsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0001",
+    "name": "Верх-Исетский районный суд г. Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620014, г Екатеринбург, ул Малышева, д 2Б",
+    "legal_address": null,
+    "website": "http://verhisetsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0024",
+    "name": "Верхнепышминский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624096, Свердловская обл, г Верхняя Пышма, пр-кт Успенский, д 50",
+    "legal_address": null,
+    "website": "http://verhnepyshminsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0025",
+    "name": "Верхнесалдинский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624761, Свердловская обл, Верхнесалдинский р-н, г Верхняя Салда, ул Спортивная, д 2 к 4",
+    "legal_address": null,
+    "website": "http://verhnesaldinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0023",
+    "name": "Верхотурский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624380, Свердловская обл, г Верхотурье, ул Карла Маркса, д 1",
+    "legal_address": null,
+    "website": "http://verhotursky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0037",
+    "name": "Городской суд г. Лесного Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624200, Свердловская обл, г Лесной, ул Белинского, д 27",
+    "legal_address": null,
+    "website": "http://lesnoy.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0008",
+    "name": "Дзержинский районный суд г. Нижний Тагил Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "622018, Свердловская обл, г Нижний Тагил, ул Окунева, д 40",
+    "legal_address": null,
+    "website": "http://dzerzhinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0002",
+    "name": "Железнодорожный районный суд г. Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620141, г Екатеринбург, ул Пехотинцев, д 23",
+    "legal_address": null,
+    "website": "http://zheleznodorozhny.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0027",
+    "name": "Ивдельский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624590, Свердловская обл, г Ивдель, ул Механошина, д 46",
+    "legal_address": null,
+    "website": "http://ivdelsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0028",
+    "name": "Ирбитский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623856, Свердловская обл, г Ирбит, ул 50 лет Октября, д 27",
+    "legal_address": null,
+    "website": "http://irbitsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0013",
+    "name": "Каменский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623400, Свердловская обл, г Каменск-Уральский, ул Рябова, д 2",
+    "legal_address": null,
+    "website": "http://kamensky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0029",
+    "name": "Камышловский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624860, Свердловская обл, г Камышлов, ул Ленина, зд 13",
+    "legal_address": null,
+    "website": "http://kamyshlovsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0030",
+    "name": "Карпинский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624930, Свердловская обл, г Карпинск, ул Мира, зд 60",
+    "legal_address": null,
+    "website": "http://karpinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0003",
+    "name": "Кировский районный суд г. Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620075, г Екатеринбург, ул Бажова, д 31А",
+    "legal_address": null,
+    "website": "http://kirovsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0004",
+    "name": "Ленинский районный суд г. Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620142, г Екатеринбург, ул Щорса, стр 68",
+    "legal_address": null,
+    "website": "http://leninskyeka.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0009",
+    "name": "Ленинский районный суд г. Нижний Тагил Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "622001, Свердловская обл, г Нижний Тагил, ул Ломоносова, д 2",
+    "legal_address": null,
+    "website": "http://leninskytag.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0005",
+    "name": "Октябрьский районный суд г. Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620026, г Екатеринбург, ул Народной воли, стр 81",
+    "legal_address": null,
+    "website": "http://oktiabrsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0006",
+    "name": "Орджоникидзевский районный суд г. Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620012, г Екатеринбург, пл 1-й Пятилетки, стр 64",
+    "legal_address": null,
+    "website": "http://ordzhonikidzevsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0007",
+    "name": "Чкаловский районный суд г. Екатеринбурга Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "620130, г Екатеринбург, ул Авиационная, стр 65А",
+    "legal_address": null,
+    "website": "http://chkalovsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0011",
+    "name": "Красногорский районный суд г. Каменск-Уральского Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623400, Свердловская обл, г Каменск-Уральский, ул Тевосяна, зд 3",
+    "legal_address": null,
+    "website": "http://krasnogorsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0012",
+    "name": "Синарский районный суд г. Каменск-Уральского Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623400, Свердловская обл, г Каменск-Уральский, ул Тевосяна, зд 1",
+    "legal_address": null,
+    "website": "http://sinarsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0010",
+    "name": "Тагилстроевский районный суд г. Нижний Тагил Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "622005, Свердловская обл, г Нижний Тагил, ул Металлургов, д 40",
+    "legal_address": null,
+    "website": "http://tagilstroevsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0031",
+    "name": "Качканарский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624350, Свердловская обл, г Качканар, ул Октябрьская, д 2В",
+    "legal_address": null,
+    "website": "http://kachkanarsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0032",
+    "name": "Кировградский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624142, Свердловская обл, г Кировград, ул Гагарина, зд 1",
+    "legal_address": null,
+    "website": "http://kirovgradsky.cvd.sudrf.ru"
+  },
+  {
+    "code": "66RS0033",
+    "name": "Краснотурьинский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624440, Свердловская обл, г Краснотурьинск, ул Фрунзе, д 51А",
+    "legal_address": null,
+    "website": "http://krasnoturinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0034",
+    "name": "Красноуральский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624330, Свердловская обл, г Красноуральск, ул Железнодорожная, зд 15",
+    "legal_address": null,
+    "website": "http://krasnouralsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0035",
+    "name": "Красноуфимский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623300, Свердловская обл, г Красноуфимск, ул Советская, д 24Б",
+    "legal_address": null,
+    "website": "http://krasnoufimsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0036",
+    "name": "Кушвинский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624300, Свердловская обл, г Кушва, ул Строителей, зд 11",
+    "legal_address": null,
+    "website": "http://kushvinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0038",
+    "name": "Невьянский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624192, Свердловская обл, г Невьянск, ул Вайнера, д 2А",
+    "legal_address": null,
+    "website": "http://neviansky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0039",
+    "name": "Нижнесергинский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623090, Свердловская обл, г Нижние Серги, ул Титова, д 81",
+    "legal_address": null,
+    "website": "http://nizhneserginsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0040",
+    "name": "Нижнетуринский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624223, Свердловская обл, г Нижняя Тура, ул Малышева, д 11",
+    "legal_address": null,
+    "website": "http://nizhneturinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0043",
+    "name": "Новоуральский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624130, Свердловская обл, г Новоуральск, ул Ленина, зд 39",
+    "legal_address": null,
+    "website": "http://novouralsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0044",
+    "name": "Первоуральский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623101, Свердловская обл, г Первоуральск, ул Ватутина, д 61А",
+    "legal_address": null,
+    "website": "http://pervouralsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0045",
+    "name": "Полевской городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623384, Свердловская обл, г Полевской, ул Декабристов, стр 24А",
+    "legal_address": null,
+    "website": "http://polevskoy.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0046",
+    "name": "Пригородный районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "622001, Свердловская обл, г Нижний Тагил, ул Карла Маркса, д 3А",
+    "legal_address": null,
+    "website": "http://prigorodny.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0048",
+    "name": "Ревдинский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623280, Свердловская обл, г Ревда, ул Мира, зд 48",
+    "legal_address": null,
+    "website": "http://revdinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0049",
+    "name": "Режевской городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623750, Свердловская обл, г Реж, ул Пушкина, д 6",
+    "legal_address": null,
+    "website": "http://rezhevskoy.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0050",
+    "name": "Североуральский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624480, Свердловская обл, г Североуральск, ул Каржавина, стр 9",
+    "legal_address": null,
+    "website": "http://severouralsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0051",
+    "name": "Серовский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624992, Свердловская обл, г Серов, ул Кирова, стр 1",
+    "legal_address": null,
+    "website": "http://serovsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0052",
+    "name": "Сухоложский городской суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624800, Свердловская обл, Сухоложский р-н, г Сухой Лог, ул Победы, д 3",
+    "legal_address": null,
+    "website": "http://suholozhsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0053",
+    "name": "Сысертский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "624022, Свердловская обл, г Сысерть, ул Карла Маркса, зд 86",
+    "legal_address": null,
+    "website": "http://sysertsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0056",
+    "name": "Тавдинский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623950, Свердловская обл, Тавдинский р-н, г Тавда, ул Кирова, д 122",
+    "legal_address": null,
+    "website": "http://tavdinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0057",
+    "name": "Талицкий районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623640, Свердловская обл, г Талица, ул Луначарского, д 82",
+    "legal_address": null,
+    "website": "http://talicky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0059",
+    "name": "Туринский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623900, Свердловская обл, г Туринск, ул Свердлова, зд 46",
+    "legal_address": null,
+    "website": "http://turinsky.svd.sudrf.ru"
+  },
+  {
+    "code": "66RS0060",
+    "name": "Шалинский районный суд Свердловской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "623030, Свердловская обл, пгт Шаля, ул Кирова, зд 37А",
+    "legal_address": null,
+    "website": "http://shalinsky.svd.sudrf.ru"
+  }
+]

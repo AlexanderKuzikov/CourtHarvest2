@@ -1,0 +1,242 @@
+[
+  {
+    "code": "72RS0001",
+    "name": "Абатский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627540, Тюменская обл, с Абатское, ул 1 Мая, зд 5",
+    "legal_address": null,
+    "website": "http://abatsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0002",
+    "name": "Армизонский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627220, Тюменская обл, с Армизонское, ул Дзержинского, зд 3",
+    "legal_address": null,
+    "website": "http://armizonsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0004",
+    "name": "Бердюжский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627440, Тюменская обл, с Бердюжье, ул Ленина, д 37",
+    "legal_address": null,
+    "website": "http://berduzhsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0005",
+    "name": "Вагайский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "626240, Тюменская обл, с Вагай, ул Семакова, зд 21",
+    "legal_address": null,
+    "website": "http://vagaysky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0006",
+    "name": "Викуловский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627570, Тюменская обл, с Викулово, ул Ленина, д 13",
+    "legal_address": null,
+    "website": "http://vikulovsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0007",
+    "name": "Голышмановский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627300, Тюменская обл, рп Голышманово, ул Садовая, зд 84",
+    "legal_address": null,
+    "website": "http://golyshmanovsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0008",
+    "name": "Заводоуковский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627140, Тюменская обл, г Заводоуковск, ул Маяковского, д 2",
+    "legal_address": null,
+    "website": "http://zavodoukovsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0009",
+    "name": "Исетский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "626380, Тюменская обл, с Исетское, ул Горького, зд 8, помещ 3",
+    "legal_address": null,
+    "website": "http://isetsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0010",
+    "name": "Ишимский городской суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627750, Тюменская обл, г Ишим, ул Приозерная, д 84",
+    "legal_address": null,
+    "website": "http://ishimskygor.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0011",
+    "name": "Ишимский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627750, Тюменская обл, г Ишим, ул Приозерная, д 84",
+    "legal_address": null,
+    "website": "http://ishimsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0012",
+    "name": "Казанский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627420, Тюменская обл, с Казанское, ул Ленина, д 4",
+    "legal_address": null,
+    "website": "http://kazansky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0013",
+    "name": "Калининский районный суд г. Тюмени",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "625000, г Тюмень, ул 8 Марта, д 1",
+    "legal_address": null,
+    "website": "http://kalininsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0014",
+    "name": "Ленинский районный суд г. Тюмени",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "625048, г Тюмень, ул 50 лет Октября, д 12 к 1",
+    "legal_address": null,
+    "website": "http://leninsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0015",
+    "name": "Нижнетавдинский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "626020, Тюменская обл, с Нижняя Тавда, ул Ульянова, зд 8",
+    "legal_address": null,
+    "website": "http://nizhnetavdinsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0016",
+    "name": "Омутинский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627070, Тюменская обл, с Омутинское, ул Первомайская, зд 78",
+    "legal_address": null,
+    "website": "http://omutinsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0017",
+    "name": "Сладковский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627610, Тюменская обл, с Сладково, ул Рабочая, зд 17",
+    "legal_address": null,
+    "website": "http://sladkovsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0018",
+    "name": "Сорокинский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627500, Тюменская обл, с Большое Сорокино, ул 40 лет Октября, зд 10",
+    "legal_address": null,
+    "website": "http://sorokinsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0019",
+    "name": "Тобольский городской суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "626150, Тюменская обл, г Тобольск, мкр 6, д 120А",
+    "legal_address": null,
+    "website": "http://tobolskygor.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0020",
+    "name": "Тобольский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "626150, Тюменская обл, г Тобольск, мкр 6, д 120А",
+    "legal_address": null,
+    "website": "http://tobolsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0021",
+    "name": "Тюменский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "625018, г Тюмень, ул Московский тракт, д 175 к 1",
+    "legal_address": null,
+    "website": "http://tumensky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0022",
+    "name": "Уватский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "626170, Тюменская обл, с Уват, ул Ленина, д 3",
+    "legal_address": null,
+    "website": "http://uvatsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0025",
+    "name": "Центральный районный суд г. Тюмени",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "625000, г Тюмень, ул 8 Марта, д 1",
+    "legal_address": null,
+    "website": "http://centralny.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0028",
+    "name": "Ялуторовский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "627010, Тюменская обл, г Ялуторовск, ул Революции, д 67",
+    "legal_address": null,
+    "website": "http://yalutorovsky.tum.sudrf.ru"
+  },
+  {
+    "code": "72RS0026",
+    "name": "Ярковский районный суд Тюменской области",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "626050, Тюменская обл, с Ярково, ул Пионерская, д 92А",
+    "legal_address": null,
+    "website": "http://yarkovsky.tum.sudrf.ru"
+  }
+]

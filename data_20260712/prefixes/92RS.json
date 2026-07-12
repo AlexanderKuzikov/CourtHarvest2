@@ -1,0 +1,42 @@
+[
+  {
+    "code": "92RS0001",
+    "name": "Балаклавский районный суд города Севастополя",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "299042, г Севастополь, ул Калича, д 25",
+    "legal_address": null,
+    "website": "http://balaklavskiy.sev.sudrf.ru"
+  },
+  {
+    "code": "92RS0002",
+    "name": "Гагаринский районный суд города Севастополя",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "299045, г Севастополь, ул Вакуленчука, д 3",
+    "legal_address": null,
+    "website": "http://gagarinskiy.sev.sudrf.ru"
+  },
+  {
+    "code": "92RS0003",
+    "name": "Ленинский районный суд города Севастополя",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "299011, г Севастополь, ул Ленина, д 31",
+    "legal_address": null,
+    "website": "http://leninskiy.sev.sudrf.ru"
+  },
+  {
+    "code": "92RS0004",
+    "name": "Нахимовский районный суд города Севастополя",
+    "inn": null,
+    "court_type": "RS",
+    "court_type_name": "Районный, городской, межрайонный суд",
+    "address": "299004, г Севастополь, ул Адмирала Макарова, зд 9",
+    "legal_address": null,
+    "website": "http://nakhimovskiy.sev.sudrf.ru"
+  }
+]

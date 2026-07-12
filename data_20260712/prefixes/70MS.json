@@ -1,0 +1,562 @@
+[
+  {
+    "code": "70MS0001",
+    "name": "Судебный участок Александровского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636760, Томская обл, с Александровское, ул Советская, д 18",
+    "legal_address": null,
+    "website": "http://al.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0005",
+    "name": "Судебный участок Бакчарского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636200, Томская обл, с Бакчар, ул Ленина, д 52",
+    "legal_address": null,
+    "website": "http://bak.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0006",
+    "name": "Судебный участок Верхнекетского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636500, Томская обл, рп Белый Яр, ул Котовского, д 1 стр 1",
+    "legal_address": null,
+    "website": "http://verh.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0007",
+    "name": "Судебный участок Зырянского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636850, Томская обл, с Зырянское, ул Советская, д 111",
+    "legal_address": null,
+    "website": "http://zyr.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0008",
+    "name": "Судебный участок Каргасокского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636700, Томская обл, с Каргасок, ул Учебная, зд 10",
+    "legal_address": null,
+    "website": "http://karg.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0009",
+    "name": "Судебный участок Кедровского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636615, Томская обл, г Кедровый, мкр 1-й, д 41",
+    "legal_address": null,
+    "website": "http://kedr.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0015",
+    "name": "Судебный участок Кожевниковского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636161, Томская обл, с Кожевниково, ул Ленина, д 6",
+    "legal_address": null,
+    "website": "http://kozh.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0019",
+    "name": "Судебный участок Кривошеинского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636300, Томская обл, с Кривошеино, ул Октябрьская, зд 35",
+    "legal_address": null,
+    "website": "http://kriv.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0025",
+    "name": "Судебный участок Молчановского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636330, Томская обл, с Молчаново, ул Димитрова, д 72",
+    "legal_address": null,
+    "website": "http://mol.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0033",
+    "name": "Судебный участок Парабельского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636600, Томская обл, с Парабель, ул Свердлова, д 5",
+    "legal_address": null,
+    "website": "http://par.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0034",
+    "name": "Судебный участок Первомайского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636930, Томская обл, с Первомайское, ул Больничная, д 32",
+    "legal_address": null,
+    "website": "http://per.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0049",
+    "name": "Судебный участок Тегульдетского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636900, Томская обл, с Тегульдет, ул Ленина, д 85",
+    "legal_address": null,
+    "website": "http://teg.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0054",
+    "name": "Судебный участок Чаинского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636400, Томская обл, с Подгорное, ул Подгорная, д 29",
+    "legal_address": null,
+    "website": "http://podg.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0055",
+    "name": "Судебный участок Шегарского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636130, Томская обл, с Мельниково, ул Московская, д 24",
+    "legal_address": null,
+    "website": "http://mel.tms.msudrf.ru/"
+  },
+  {
+    "code": "70MS0002",
+    "name": "Судебный участок № 1 Асиновского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636840, Томская обл, г Асино, ул Советская, д 26",
+    "legal_address": null,
+    "website": "http://asi1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0010",
+    "name": "Судебный участок № 1 Кировского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 212",
+    "legal_address": null,
+    "website": "http://kir1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0016",
+    "name": "Судебный участок № 1 Колпашевского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636460, Томская обл, г Колпашево, ул Комсомольская, д 7",
+    "legal_address": null,
+    "website": "http://kol1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0020",
+    "name": "Судебный участок № 1 Ленинского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 312",
+    "legal_address": null,
+    "website": "http://len1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0026",
+    "name": "Судебный участок № 1 Октябрьского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 115",
+    "legal_address": null,
+    "website": "http://okt1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0035",
+    "name": "Судебный участок № 1 Северского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636035, Томская обл, г Северск, ул Мира, д 6",
+    "legal_address": null,
+    "website": "http://sev1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0003",
+    "name": "Судебный участок № 2 Асиновского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636840, Томская обл, г Асино, ул Советская, д 26",
+    "legal_address": null,
+    "website": "http://asi2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0011",
+    "name": "Судебный участок № 2 Кировского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 211",
+    "legal_address": null,
+    "website": "http://kir2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0017",
+    "name": "Судебный участок № 2 Колпашевского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636460, Томская обл, г Колпашево, ул Комсомольская, д 7",
+    "legal_address": null,
+    "website": "http://kol2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0012",
+    "name": "Судебный участок № 3 Кировского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 214",
+    "legal_address": null,
+    "website": "http://kir3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0018",
+    "name": "Судебный участок № 3 Колпашевского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636460, Томская обл, г Колпашево, ул Комсомольская, д 7",
+    "legal_address": null,
+    "website": "http://kol3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0013",
+    "name": "Судебный участок № 4 Кировского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 210",
+    "legal_address": null,
+    "website": "http://kir4.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0014",
+    "name": "Судебный участок № 5 Кировского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 217",
+    "legal_address": null,
+    "website": "http://kir5.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0021",
+    "name": "Судебный участок № 2 Ленинского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 310",
+    "legal_address": null,
+    "website": "http://len2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0027",
+    "name": "Судебный участок № 2 Октябрьского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 111",
+    "legal_address": null,
+    "website": "http://okt2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0022",
+    "name": "Судебный участок № 3 Ленинского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 311",
+    "legal_address": null,
+    "website": "http://len3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0028",
+    "name": "Судебный участок № 3 Октябрьского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 113",
+    "legal_address": null,
+    "website": "http://okt3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0023",
+    "name": "Судебный участок № 4 Ленинского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 308",
+    "legal_address": null,
+    "website": "http://len4.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0029",
+    "name": "Судебный участок № 4 Октябрьского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 116",
+    "legal_address": null,
+    "website": "http://okt4.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0024",
+    "name": "Судебный участок № 5 Ленинского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 306",
+    "legal_address": null,
+    "website": "http://len5.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0036",
+    "name": "Судебный участок № 2 Северского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636035, Томская обл, г Северск, ул Мира, д 6",
+    "legal_address": null,
+    "website": "http://sev2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0037",
+    "name": "Судебный участок № 3 Северского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636035, Томская обл, г Северск, ул Мира, д 6",
+    "legal_address": null,
+    "website": "http://sev3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0038",
+    "name": "Судебный участок № 4 Северского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636035, Томская обл, г Северск, ул Мира, д 6",
+    "legal_address": null,
+    "website": "http://sev4.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0030",
+    "name": "Судебный участок № 5 Октябрьского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 110",
+    "legal_address": null,
+    "website": "http://okt5.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0039",
+    "name": "Судебный участок № 5 Северского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636035, Томская обл, г Северск, ул Мира, д 6",
+    "legal_address": null,
+    "website": "http://sev5.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0031",
+    "name": "Судебный участок № 6 Октябрьского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 119",
+    "legal_address": null,
+    "website": "http://okt6.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0032",
+    "name": "Судебный участок № 7 Октябрьского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 105",
+    "legal_address": null,
+    "website": "http://okt7.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0040",
+    "name": "Судебный участок № 1 Советского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 412",
+    "legal_address": null,
+    "website": "http://sov1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0046",
+    "name": "Судебный участок № 1 Стрежевского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636780, Томская обл, г Стрежевой, ул Буровиков, д 18",
+    "legal_address": null,
+    "website": "http://str1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0041",
+    "name": "Судебный участок № 2 Советского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 410",
+    "legal_address": null,
+    "website": "http://sov2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0047",
+    "name": "Судебный участок № 2 Стрежевского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636780, Томская обл, г Стрежевой, ул Буровиков, д 18",
+    "legal_address": null,
+    "website": "http://str2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0042",
+    "name": "Судебный участок № 3 Советского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 408",
+    "legal_address": null,
+    "website": "http://sov3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0048",
+    "name": "Судебный участок № 3 Стрежевского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "636780, Томская обл, г Стрежевой, ул Буровиков, д 18",
+    "legal_address": null,
+    "website": "http://str3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0043",
+    "name": "Судебный участок № 4 Советского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 411",
+    "legal_address": null,
+    "website": "http://sov4.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0044",
+    "name": "Судебный участок № 5 Советского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 407",
+    "legal_address": null,
+    "website": "http://sov5.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0045",
+    "name": "Судебный участок № 6 Советского судебного района г. Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 406",
+    "legal_address": null,
+    "website": "http://sov6.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0050",
+    "name": "Судебный участок № 1 Томского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 304",
+    "legal_address": null,
+    "website": "http://tom1.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0051",
+    "name": "Судебный участок № 2 Томского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 402",
+    "legal_address": null,
+    "website": "http://tom2.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0052",
+    "name": "Судебный участок № 3 Томского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 302",
+    "legal_address": null,
+    "website": "http://tom3.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0053",
+    "name": "Судебный участок № 4 Томского судебного района Томской области",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 404",
+    "legal_address": null,
+    "website": "http://tom4.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0057",
+    "name": "Судебный участок № 6 Ленинского судебного района города Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634027, г Томск, ул Смирнова, д 9, кв 221",
+    "legal_address": null,
+    "website": "http://len6.tms.msudrf.ru"
+  },
+  {
+    "code": "70MS0058",
+    "name": "Судебный участок № 8 Октябрьского судебного района города Томска",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "634049, г Томск, ул Рабочая, д 21А к 114",
+    "legal_address": null,
+    "website": "http://okt8.tms.msudrf.ru"
+  }
+]

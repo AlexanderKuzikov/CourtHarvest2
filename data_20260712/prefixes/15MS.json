@@ -1,0 +1,352 @@
+[
+  {
+    "code": "15MS0001",
+    "name": "Судебный участок № 1 Алагирского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363246, Респ Северная Осетия - Алания, г Алагир, ул Терешковой, зд 4",
+    "legal_address": null,
+    "website": "http://1.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0002",
+    "name": "Судебный участок № 2 Алагирского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363246, Респ Северная Осетия - Алания, г Алагир, ул Терешковой, зд 4",
+    "legal_address": null,
+    "website": "http://2.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0003",
+    "name": "Судебный участок № 3 Ардонского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363334, Респ Северная Осетия - Алания, г Ардон, ул Пролетарская, д 49З",
+    "legal_address": null,
+    "website": "http://3.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0005",
+    "name": "Судебный участок № 4 Дигорского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363410, Респ Северная Осетия - Алания, г Дигора, ул Сталина, д 13",
+    "legal_address": null,
+    "website": "http://4.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0006",
+    "name": "Судебный участок № 5 Ирафского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363246, РСО-Алания, Ирафский район , ул.А. Макоева, д. 22 А",
+    "legal_address": null,
+    "website": "http://5.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0007",
+    "name": "Судебный участок № 6 Кировского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363600, Респ Северная Осетия - Алания, с Эльхотово, ул Ленина, д 131/1",
+    "legal_address": null,
+    "website": "http://6.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0008",
+    "name": "Судебный участок № 7 Моздокского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363753, Респ Северная Осетия - Алания, г Моздок, ул Октябрьская, влд 35А",
+    "legal_address": null,
+    "website": "http://7.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0009",
+    "name": "Судебный участок № 8 Моздокского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363753, Респ Северная Осетия - Алания, г Моздок, ул Октябрьская, влд 35А",
+    "legal_address": null,
+    "website": "http://8.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0010",
+    "name": "Судебный участок № 9 Моздокского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363753, Респ Северная Осетия - Алания, г Моздок, ул Октябрьская, влд 35А",
+    "legal_address": null,
+    "website": "http://9.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0011",
+    "name": "Судебный участок № 10 Моздокского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363753, Респ Северная Осетия - Алания, г Моздок, ул Октябрьская, влд 35А",
+    "legal_address": null,
+    "website": "http://10.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0012",
+    "name": "Судебный участок № 11 Правобережного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363029, Респ Северная Осетия - Алания, г Беслан, ул Мира, стр 9",
+    "legal_address": null,
+    "website": "http://11.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0013",
+    "name": "Судебный участок № 12 Правобережного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363029, Респ Северная Осетия - Алания, г Беслан, ул Мира, стр 9",
+    "legal_address": null,
+    "website": "http://12.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0015",
+    "name": "Судебный участок № 13 Пригородного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363131, Респ Северная Осетия - Алания, с Октябрьское, ул Павла Тедеева, зд 74",
+    "legal_address": null,
+    "website": "http://13.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0016",
+    "name": "Судебный участок № 14 Пригородного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363131, Респ Северная Осетия - Алания, с Октябрьское, ул Павла Тедеева, зд 74",
+    "legal_address": null,
+    "website": "http://14.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0017",
+    "name": "Судебный участок № 15 Пригородного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363131, Респ Северная Осетия - Алания, с Октябрьское, ул Павла Тедеева, зд 74",
+    "legal_address": null,
+    "website": "http://15.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0020",
+    "name": "Судебный участок № 16 Ленинского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362040, РСО-Алания, г. Владикавказ, ул. Баллаева/пер. Театральный, 6/1",
+    "legal_address": null,
+    "website": "http://16.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0021",
+    "name": "Судебный участок № 17 Ленинского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362040, РСО-Алания, г. Владикавказ, ул. Баллаева/пер. Театральный, 6/1",
+    "legal_address": null,
+    "website": "http://17.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0022",
+    "name": "Судебный участок № 18 Ленинского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362040, РСО-Алания, г. Владикавказ, ул. Баллаева/пер. Театральный, 6/1",
+    "legal_address": null,
+    "website": "http://18.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0023",
+    "name": "Судебный участок № 19 Ленинского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362040, РСО-Алания, г. Владикавказ, ул. Баллаева/пер. Театральный, 6/1",
+    "legal_address": null,
+    "website": "http://19.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0024",
+    "name": "Судебный участок № 20 Промышленного судебного района г.Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362002, РСО-Алания, г.Владикавказ , ул.Красноармейская / ул.Л.Толстого , д. 2/17",
+    "legal_address": null,
+    "website": "http://20.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0004",
+    "name": "Судебный участок № 35 Ардонского судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363334, Респ Северная Осетия - Алания, г Ардон, ул Пролетарская, д 49З",
+    "legal_address": null,
+    "website": "http://35.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0018",
+    "name": "Судебный участок № 32 Пригородного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363131, Респ Северная Осетия - Алания, с Октябрьское, ул Павла Тедеева, зд 74",
+    "legal_address": null,
+    "website": "http://32.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0019",
+    "name": "Судебный участок № 33 Пригородного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363131, Респ Северная Осетия - Алания, с Октябрьское, ул Павла Тедеева, зд 74",
+    "legal_address": null,
+    "website": "http://33.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0014",
+    "name": "Судебный участок № 34 Правобережного судебного района",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "363029, Респ Северная Осетия - Алания, г Беслан, ул Мира, стр 9",
+    "legal_address": null,
+    "website": "http://34.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0025",
+    "name": "Судебный участок № 21 Промышленного судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362002, г.Владикавказ , ул.Красноармейская / ул.Л.Толстого , д. 2/17",
+    "legal_address": null,
+    "website": "http://21.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0026",
+    "name": "Судебный участок № 22 Промышленного судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362002, г.Владикавказ , ул.Красноармейская / ул.Л.Толстого , д. 2/17",
+    "legal_address": null,
+    "website": "http://22.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0027",
+    "name": "Судебный участок № 23 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://23.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0028",
+    "name": "Судебный участок № 24 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://24.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0029",
+    "name": "Судебный участок № 25 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://25.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0031",
+    "name": "Судебный участок № 26 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://26.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0032",
+    "name": "Судебный участок № 27 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://27.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0033",
+    "name": "Судебный участок № 28 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://28.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0034",
+    "name": "Судебный участок № 29 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://29.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0030",
+    "name": "Судебный участок № 30 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://30.rso.msudrf.ru"
+  },
+  {
+    "code": "15MS0035",
+    "name": "Судебный участок № 31 Советского судебного района г. Владикавказа",
+    "inn": null,
+    "court_type": "MS",
+    "court_type_name": "Мировой суд",
+    "address": "362031, г Владикавказ, ул Московская, д 4",
+    "legal_address": null,
+    "website": "http://31.rso.msudrf.ru"
+  }
+]
