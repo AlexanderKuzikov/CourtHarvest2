@@ -46,19 +46,20 @@ export async function runSuperHard(opts: SuperHardOptions): Promise<SuperHardRes
 
   for (let i = 0; i < heavyPrefixes.length; i++) {
     const prefix = heavyPrefixes[i];
-    const client = opts.keyManager.getClient();
 
     console.log(`\n[${i + 1}/${heavyPrefixes.length}]`);
 
-    const result = await scanPrefix(client, opts.registry, prefix, {
+    const getClient = () => opts.keyManager.getClient();
+    const trackRequest = () => opts.keyManager.trackRequest();
+
+    const result = await scanPrefix(getClient, opts.registry, prefix, {
       dataDir: opts.dataDir,
+      trackRequest,
     });
 
     totalRequests += result.requests;
     totalCourts += result.found;
     results.push(result);
-
-    await opts.keyManager.trackRequest(); // запросы уже засчитаны внутри scanPrefix
   }
 
   console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');

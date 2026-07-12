@@ -34,47 +34,42 @@ program
     const registry = new Registry(DATA_DIR);
 
     // Фаза 0: RRTT-инвентаризация
-    await runInventory(km.getClient(), registry);
+    const trackReq = () => km.trackRequest();
+    await runInventory(km.getClient(), registry, trackReq);
     const invStats = registry.getStats();
     console.log(`   → known: ${invStats.known}, empty: ${invStats.empty}, courts: ${invStats.totalCourts}`);
 
     // Фаза 1: SuperHard для MS/RS
     console.log('\n📦 Фаза 1: SuperHard для MS/RS');
-    const shResult = await runSuperHard({ dataDir: DATA_DIR, keyManager: km, registry });
-    console.log(`   → scanned: ${shResult.prefixesScanned} prefixes, ${shResult.totalCourts} courts`);
-    await km.getClient().shutdown();
+    await runSuperHard({ dataDir: DATA_DIR, keyManager: km, registry });
 
-    // Фаза 2: Одиночные типы (OS, AS, GV, …)
-    console.log('\n📦 Фаза 2: Одиночные типы');
+    // Продолжаем той же сессией ключей
+    console.log('\n📦 Фаза 2: Одиночные типы (OS, AS, GV, …)');
     const singlePrefixes = Object.keys(registry.known).filter(p => {
       const type = p.slice(2, 4);
       return SINGLE_TYPES.includes(type as any);
     });
 
-    // Создаём новый менеджер для фазы 2 (если ключи кончились)
-    const km2 = new KeyManager();
-    try {
-      await km2.init(KEYS_DIR);
-    } catch {
-      console.log('⚠️  Нет доступных ключей для фазы 2. Можно запустить superhard позже.');
-      return;
-    }
-
     for (const prefix of singlePrefixes) {
-      const client = km2.getClient();
-      console.log(`  ${prefix}: запрос 1 суда`);
-      const resp = await client.suggestCourt(`${prefix}0000`, { count: 1 });
-      if (resp.suggestions.length > 0) {
-        const court = resp.suggestions[0].data;
-        registry.updateMeta(prefix, {
-          count: 1, min: 0, max: 0, scanned: true,
-        });
-        console.log(`    ✅ ${court.code}: ${court.name}`);
+      try {
+        const client = km.getClient();
+        console.log(`  ${prefix}: запрос 1 суда`);
+        const resp = await client.suggestCourt(`${prefix}0000`, { count: 1 });
+        if (resp.suggestions.length > 0) {
+          const court = resp.suggestions[0].data;
+          registry.updateMeta(prefix, {
+            count: 1, min: 0, max: 0, scanned: true,
+          });
+          console.log(`    ✅ ${court.code}: ${court.name}`);
+        }
+        await km.trackRequest();
+      } catch (e: any) {
+        console.log(`    ⚠️  Нет доступа к API для ${prefix}: ${e.message}`);
+        break;
       }
-      await km2.trackRequest();
     }
 
-    await km2.shutdown();
+    await km.shutdown();
 
     const stats = registry.getStats();
     console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');

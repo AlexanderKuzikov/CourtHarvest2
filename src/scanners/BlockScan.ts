@@ -24,10 +24,11 @@ const BLOCKS = Array.from({ length: 100 }, (_, i) => String(i).padStart(2, '0'))
 export interface BlockScanOptions {
   dataDir: string;
   onProgress?: (prefix: string, block: number, total: number) => void;
+  trackRequest?: () => Promise<boolean>;
 }
 
 export async function scanPrefix(
-  client: ApiClient,
+  getClient: () => ApiClient,
   registry: Registry,
   prefix: string,
   options: BlockScanOptions,
@@ -45,6 +46,8 @@ export async function scanPrefix(
     options.onProgress?.(prefix, bi + 1, BLOCKS.length);
 
     totalRequests++;
+    if (options.trackRequest) await options.trackRequest();
+    const client = getClient();
     const resp = await client.suggestCourt(query, { count: 20 });
     const results = resp.suggestions.map(s => s.data);
     const added = addNewCourts(courts, results);
@@ -52,7 +55,7 @@ export async function scanPrefix(
 
     // Если блок «горячий» (ровно 20) — углубляемся до 3 цифр
     if (results.length === 20) {
-      const deepened = await deepenBlock(client, prefix, block, courts);
+      const deepened = await deepenBlock(getClient, prefix, block, courts, options.trackRequest);
       totalFound += deepened.added;
       totalRequests += deepened.requests;
     }
@@ -89,10 +92,11 @@ export async function scanPrefix(
  * Углубление горячего блока: RRTTAB → RRTTAB0 … RRTTAB9.
  */
 async function deepenBlock(
-  client: ApiClient,
+  getClient: () => ApiClient,
   prefix: string,
   block: string,
   courts: CourtData[],
+  trackRequest?: () => Promise<boolean>,
 ): Promise<{ added: number; requests: number }> {
   let added = 0;
   let requests = 0;
@@ -100,6 +104,8 @@ async function deepenBlock(
   for (let d = 0; d <= 9; d++) {
     const query = prefix + block + d; // RRTTAB0 … RRTTAB9
     requests++;
+    if (trackRequest) await trackRequest();
+    const client = getClient();
     const resp = await client.suggestCourt(query, { count: 20 });
     const results = resp.suggestions.map(s => s.data);
     added += addNewCourts(courts, results);

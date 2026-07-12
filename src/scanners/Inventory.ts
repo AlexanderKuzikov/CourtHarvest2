@@ -17,7 +17,11 @@ export interface InventoryResult {
  * Каждый существующий префикс заносится в registry.known,
  * каждый пустой — в registry.empty.
  */
-export async function runInventory(client: ApiClient, registry: Registry): Promise<InventoryResult> {
+export async function runInventory(
+  client: ApiClient,
+  registry: Registry,
+  trackRequest?: () => Promise<boolean>,
+): Promise<InventoryResult> {
   console.log('\n🔍 Фаза 0: RRTT-инвентаризация\n');
 
   let found = 0;
@@ -37,6 +41,7 @@ export async function runInventory(client: ApiClient, registry: Registry): Promi
 
       // Probe: запрос RRTT (без номера) — если есть хоть 1 suggestion, префикс существует
       requests++;
+      if (trackRequest) await trackRequest();
       const resp = await client.suggestCourt(prefix, { count: 1 });
 
       if (resp.suggestions.length > 0) {
