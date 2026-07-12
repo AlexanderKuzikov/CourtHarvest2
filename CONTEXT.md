@@ -19,11 +19,13 @@
 ### 1. Кодовое пространство конечно и известно
 
 Все коды судов имеют формат `RRTTNNNN`:
-- `RR` = регион (01–99)
+- `RR` = регион (**00–99**, 100 регионов)
 - `TT` = тип суда (14 вариантов: RS, MS, OS, AS, GV, OV, KV, AV, KJ, AJ, AA, AO, VS, AI)
 - `NNNN` = номер (0000–9999)
 
-**1 386** возможных комбинаций RRTT. Из них ~396 существуют, остальные гарантированно пусты.
+**1 400** возможных комбинаций RRTT (100 × 14). Из них ~478 существуют, остальные гарантированно пусты.
+
+> **История:** В первоначальной версии было 99 регионов (01–99). Регион 00 был пропущен — из-за этого Верховный Суд (`00VS0000`) не попадал в инвентаризацию. Исправлено в коммите `4fb1f00`.
 
 ### 2. Полнота через простой перебор, не через умные эвристики
 
@@ -40,10 +42,10 @@
 | MS | 5 526 | 80 | 10–150 |
 | RS | 1 937 | 85 | 5–50 |
 | OS | 68 | 68 | 0 (один на регион) |
-| AS | 81 | 81 | 0 |
+| AS | 81 | 81 | ~1 |
 | Остальные | ~300 | ~80 | 0–5 |
 
-OS, AS, VS, GV и прочие — **1 суд на префикс**, номер = 0000. Их не нужно перебирать блоками, достаточно одного запроса `RRTT0000`.
+OS, AS, VS, GV и прочие — **1 или несколько судов на префикс**. Их проще всего сканировать одним запросом `suggestCourt(RRTT, count=20)` вместо блочного перебора.
 
 ### 4. SuperHard — единственный режим с гарантией
 
@@ -60,11 +62,12 @@ OS, AS, VS, GV и прочие — **1 суд на префикс**, номер 
 Трёхфазный процесс в одной сессии KeyManager:
 
 ```
-Фаза 0: RRTT-инвентаризация     →  1 386 запросов
-Фаза 1: SuperHard MS/RS         → 20 000 запросов
+Фаза 0: RRTT-инвентаризация     →  1 400 запросов (100 × 14)
+Фаза 1: SuperHard MS/RS         → 16 000–18 000 запросов
 Фаза 2: Одиночные типы (ост.)   →   ~300 запросов
+Фаза 3: Сборка courts.json      →   локально
                                   ─────────────────────
-                             ≈ 22 000 запросов (2–3 ключа)
+                             ≈ 18 000–20 000 запросов (2 ключа)
 ```
 
 ### superhard — тотальное сканирование
@@ -85,94 +88,13 @@ OS, AS, VS, GV и прочие — **1 суд на префикс**, номер 
 
 ---
 
-## 🐛 Баги, найденные и исправленные при code review
-
-### Баг 1: Нет трекинга запросов в сканерах
-
-**Симптом:** Inventory и BlockScan делали запросы к DaData через `client.suggestCourt()`, но не сообщали KeyManager о том, что запрос сделан. KeyManager думал, что запросов нет, и никогда не переключал ключ. При превышении дневного лимита ApiClient выбрасывал `QuotaExceededError` (403), который не обрабатывался.
-
-**Где:** `Inventory.ts:40`, `BlockScan.ts:48`, `BlockScan.ts:103`
-
-**Фикс:** Внедрён `trackRequest`-колбэк, передаваемый из KeyManager. Вызов `await trackRequest()` — перед каждым `client.suggestCourt()`:
-
-```ts
-// Inventory.ts
-if (trackRequest) await trackRequest();
-const resp = await client.suggestCourt(prefix, { count: 1 });
-```
-
-```ts
-// BlockScan.ts — scanPrefix и deepenBlock
-totalRequests++;
-if (options.trackRequest) await options.trackRequest();
-const client = getClient();
-const resp = await client.suggestCourt(query, { count: 20 });
-```
-
-### Баг 2: Старый ApiClient после ротации ключа
-
-**Симптом:** При ротации ключа KeyManager.shutdown() вызывал stop() на текущем ApiClient и создавал новый. Но scanPrefix держал ссылку на старый `client: ApiClient` и продолжал делать запросы через убитый экземпляр.
-
-**Где:** `SuperHard.ts → BlockScan.ts`
-
-**Фикс:** Вместо готового `client: ApiClient` передаётся фабрика `getClient: () => ApiClient`. Перед каждым suggestCourt вызывается `getClient()`, который возвращает актуальный (возможно, только что созданный после ротации) экземпляр:
-
-```ts
-// SuperHard.ts
-const getClient = () => opts.keyManager.getClient();
-const trackRequest = () => opts.keyManager.trackRequest();
-
-const result = await scanPrefix(getClient, opts.registry, prefix, {
-  dataDir: opts.dataDir,
-  trackRequest,
-});
-```
-
-```ts
-// BlockScan.ts
-export async function scanPrefix(
-  getClient: () => ApiClient,  // фабрика вместо готового экземпляра
-  ...
-) {
-  ...
-  const client = getClient();  // свежий под каждый запрос
-  const resp = await client.suggestCourt(query, { count: 20 });
-```
-
-### Баг 3: Новый KeyManager для фазы 2 начинал с уже сожжённого ключа
-
-**Симптом:** После завершения Phase 1 (SuperHard) код создавал `km2 = new KeyManager()`, который инициализировался с тех же ключей, но с нулевыми счётчиками. Ключ, который уже израсходовал 9 500 запросов в Phase 1, получал ещё ~500 запросов в Phase 2 (до лимита DaData 10 000), после чего падал с 403.
-
-**Где:** `index.ts` — переход между фазами
-
-**Фикс:** Фаза 2 работает на том же KeyManager (km), что и фаза 1. KeyManager помнит, сколько запросов сделано на каждом ключе, и корректно ротирует. Добавлен try/catch на случай, если все ключи исчерпаны:
-
-```ts
-// index.ts
-await runSuperHard({ dataDir: DATA_DIR, keyManager: km, registry });
-
-// Продолжаем той же сессией ключей
-for (const prefix of singlePrefixes) {
-  try {
-    const client = km.getClient();
-    ...
-    await km.trackRequest();
-  } catch (e: any) {
-    break;  // ключи кончились — выходим
-  }
-}
-await km.shutdown();  // безопасно — optional chaining
-```
-
----
-
 ## 🧠 Известные уроки из v1
 
 ### Проблема OS0000
 
 В v1 `getPrefixStats` возвращал `max = 0` для областных судов (код кончается на 0000). Tails начинали с MAX+1 = 1, а единственный существующий код — 0000. Результат: хвосты и дырки не работали для всего префикса.
 
-**Решение v2:** инвентаризация находит префикс через probe. Для типов с max=0 не требуется tails — префикс закрыт одним запросом.
+**Решение v2:** инвентаризация находит префикс через probe. Одиночные типы сканируются одним запросом, без блоков.
 
 ### Проблема 20 пустых подряд
 
@@ -188,25 +110,74 @@ v1 имела 7 почти идентичных скриптов phase4–phase9
 
 ---
 
+## 🐛 Баги, найденные и исправленные
+
+### Баг 1: Нет трекинга запросов в сканерах
+
+**Симптом:** Inventory и BlockScan не сообщали KeyManager о запросах. Ключ не ротировался. При превышении 10 000 — 403.
+
+**Фикс:** Внедрён `trackRequest`-колбэк, вызов перед каждым `suggestCourt()`.
+
+### Баг 2: Старый ApiClient после ротации ключа
+
+**Симптом:** scanPrefix держал ссылку на shutdown-нутый ApiClient.
+
+**Фикс:** Фабрика `getClient: () => ApiClient` вместо готового экземпляра.
+
+### Баг 3: Новый KeyManager для фазы 2 начинал с уже сожжённого ключа
+
+**Симптом:** km2 инициализировался с ключа, который уже сжёг 9 500 запросов. Первый же запрос мог упасть с 403.
+
+**Фикс:** Фаза 2 работает на том же KeyManager. try/catch на случай исчерпания.
+
+### Баг 4: Регион 00 не учтён
+
+**Симптом:** Верховный Суд (`00VS0000`) не находился. Итоговый счёт: 10 123 против 10 206 в v1.
+
+**Источник:** `Array.from({ length: 99 })` — не включал регион 00. Реальный массив: 100 регионов, 00–99.
+
+**Фикс:** `Array.from({ length: 100 })` + `String(i).padStart(2, '0')`.
+
+> **Временный скрипт `src/fill-unscanned.ts`** — дособрал 231 суд за 16 секунд. Будет удалён после успешного clean-run с исправленным регионом 00.
+
+### Баг 5: ProgressTracker — визуальный шум
+
+**Симптомы:**
+- `⏱ 258386` — сырые миллисекунды вместо форматированного времени
+- Дублирование строк (✅ + autoLog с той же информацией)
+- AutoLog по таймеру в SuperHard, где каждый префикс уже логируется
+- `📊 0 судов` всю фазу 0 (нет `addFound`)
+- SuperHard создавал свой tracker (терялась связь с глобальным)
+
+**Фикс:**
+- `statusLine()` обёрнут в `this.fmt(this.elapsed())`
+- AutoLog полностью удалён из `tick()`
+- `addFound()` вызывается после каждого найденного префикса
+- SuperHard использует глобальный tracker из index, suppressAutoLog
+
+---
+
 ## 📁 Структура проекта
 
 ```
 CourtHarvest2/
 ├── src/
-│   ├── index.ts              CLI точка входа (harvest | superhard | stats)
-│   ├── env.ts                Загрузка .env (0 зависимостей)
+│   ├── index.ts              CLI (harvest | superhard | stats)
+│   ├── env.ts                Загрузка .env
+│   ├── fill-unscanned.ts     🗑️ ВРЕМЕННЫЙ — удалить после clean-run
 │   ├── core/
-│   │   ├── ApiClient.ts      HTTP + rate limiter + retry + ошибки
-│   │   ├── KeyManager.ts     Ротация ключей с трекингом запросов
-│   │   └── Registry.ts       known/empty/scanned/timestamps
+│   │   ├── ApiClient.ts      HTTP + rate limiter + retry
+│   │   ├── KeyManager.ts     Ротация ключей
+│   │   ├── Registry.ts       known/empty/scanned
+│   │   └── ProgressTracker.ts Время, ETA, ключи, суды
 │   ├── scanners/
-│   │   ├── Inventory.ts      RRTT-инвентаризация (99×14)
-│   │   ├── BlockScan.ts      Блочный перебор (RRTT00–99) + углубление
-│   │   └── SuperHard.ts      Оркестратор для MS/RS
+│   │   ├── Inventory.ts      RRTT-инвентаризация (100×14)
+│   │   ├── BlockScan.ts      Блочный перебор (RRTT00–99)
+│   │   └── SuperHard.ts      Оркестратор MS/RS
 │   └── types/
 │       └── dadata.ts         Типы DaData API
 ├── keys/                     API-ключи (.env)
-├── data/                     registry.json + prefixes/*.json
+├── data/                     registry.json + prefixes/*.json + courts.json
 ├── package.json
 ├── tsconfig.json
 ├── README.md
@@ -220,41 +191,84 @@ CourtHarvest2/
 
 ### Паттерн getClient / trackRequest
 
-Ключевой архитектурный паттерн v2:
-
 ```
 Перед каждым API-вызовом:
-  1. trackRequest() — увеличить счётчик, при лимите → rotate (shutdown старого, create нового)
-  2. getClient()    — получить актуальный (возможно, только что созданный) ApiClient
-  3. suggestCourt() — выполнить HTTP-запрос к DaData
+  1. trackRequest() — увеличить счётчик, при лимите → rotate
+  2. getClient()    — получить актуальный (возможно, новый) ApiClient
+  3. suggestCourt() — HTTP-запрос к DaData
 ```
 
-Это гарантирует, что:
-- Ротация ключа происходит строго при исчерпании лимита, а не постфактум
-- После ротации используется свежий клиент, а не shutdown-нутый старый
-- При исчерпании всех ключей — исключение `getClient()` ловится try/catch
+### ProgressTracker
+
+Центральный класс для отображения хода работ:
+- `begin(name, total)` — старт фазы
+- `tick()` — одна единица работы (тихо)
+- `log(msg)` — явный лог с таймстампом `[HH:MM:SS]`
+- `statusLine()` — `⏱ 5м 14с · 💳 2.env (3125/9500) · 📊 1089 суд. · 📡 3190 запр.`
+- `progressLine()` — как statusLine + `15/179 (8.4%) · ETA: 1ч 20м`
+- `fmt(ms)` — форматирование ms в `Xч Yм Zс`
+- Пробрасывает `trackRequest()` и `getClient()` в KeyManager
+
+### Режимы сбора одиночных типов (фаза 2)
+
+Одиночные типы (AS, OS, GV, AA, AO, AJ, KJ, OV, KV, AV, VS) — **не MS/RS**.
+Стратегия: один запрос `suggestCourt(RRTT, count=20)` на префикс.
+- Большинство префиксов содержит ≤ 5 судов (часто 1)
+- 20 результатов с запасом
+- Если DaData по префиксу `00VS` возвращает суд — он ловится
+- Если вернул ровно 20 — теоретически могло обрезаться, но на практике для одиночных типов >20 не бывает
+
+### Сборка courts.json (фаза 3)
+
+После всех фаз собирает `data/prefixes/*.json` в единый `data/courts.json`.
+Формат — как в v1: `{ meta: { totalCourts, timestamp, phase }, courts: [...] }`.
+Сортировка по `code`.
 
 ### Замена dotenv
 
-Вместо `dotenv` — собственный загрузчик `src/env.ts` (~15 строк). Читает `.env` из рабочей директории, парсит key=value, устанавливает в `process.env`. Нуль зависимостей.
-
-Node.js ≥ 24 также поддерживает флаг `--env-file` — можно запускать без env.ts совсем.
+Собственный загрузчик `src/env.ts` (~15 строк). Читает `.env`, парсит key=value, устанавливает в `process.env`. Нуль зависимостей.
 
 ### Module Resolution: bundler
 
-`tsconfig.json` использует `"moduleResolution": "bundler"` — оптимально для tsx. Не требует `.js`-суффиксов в импортах (но они оставлены для совместимости с ESM), корректно работает с ESM.
+`"moduleResolution": "bundler"` — оптимально для tsx. Без `.js`-суффиксов.
 
 ### TypeScript 7 + erasableSyntaxOnly
 
-Флаг `erasableSyntaxOnly` запрещает декораторы и enum (они требуют трансформации, не поддерживаются tsx). Для CLI-утилиты ограничение несущественное.
+`erasableSyntaxOnly` запрещает декораторы, enum и **parameter properties** (`constructor(private x: T)` — писать нельзя, нужно явное поле + присваивание). Для CLI-утилиты ограничение несущественное.
 
 ### Нет eslint
 
-`strict: true` + `noUnusedLocals` + `noUnusedParameters` + `noImplicitReturns` в tsconfig покрывают типичные проверки. Prettier — форматирование. eslint не нужен до появления стабильного `@typescript-eslint` под TS 7.
+`strict: true` + `noUnusedLocals` + `noUnusedParameters` + `noImplicitReturns` в tsconfig покрывают типичные проверки. Prettier — форматирование.
 
 ### Ключи на Windows
 
 Проект работает на Windows через git-bash. `path.join`, `dirname`, `mkdirSync` корректно обрабатывают `\`-разделители. `readFileSync` читает `.env` файлы без BOM-заголовков.
+
+---
+
+## 🧹 План чистки после clean-run
+
+| Файл | Действие | Причина |
+|------|----------|---------|
+| `src/fill-unscanned.ts` | 🗑️ Удалить | Временный скрипт для досбора |
+| `data/` | 🗑️ Перезаписать | Будут свежие данные |
+| `README.md` | Обновить | Актуальные цифры после clean-run |
+
+---
+
+## 📊 Результаты первого запуска (12.07.2026)
+
+| Показатель | Значение |
+|-----------|:--------:|
+| Судей собрано (v2) | **10 123** |
+| Судей в v1 | 10 206 |
+| Разница | –83 (из них регион 00 + новые суды) |
+| Время | ~45 мин |
+| Ключей использовано | 2,5 (2.env: 9500, 3.env: 9500, 4.env: ~2 185) |
+| Префиксов known | 478 |
+| Префиксов empty | 908 |
+
+После досбора `fill-unscanned.ts` (+231 суд) покрытие стало 478/478 scanned, но без региона 00.
 
 ---
 
