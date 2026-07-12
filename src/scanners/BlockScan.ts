@@ -4,14 +4,15 @@ import { ProgressTracker } from '../core/ProgressTracker.js';
 import { CourtData } from '../types/dadata.js';
 
 export interface ScanResult {
-  prefix: string; knownBefore: number; found: number; requests: number;
+  prefix: string; found: number; requests: number;
 }
 
 const BLOCKS = Array.from({ length: 100 }, (_, i) => String(i).padStart(2, '0'));
 
 /**
  * Блочный перебор префикса RRTT.
- * 100 блоков (RRTT00–RRTT99) + углубление горячих.
+ * 100 блоков (RRTT00–RRTT99) + углубление горячих (ровно 20).
+ * Вывод: одна строка с баром.
  */
 export async function scanPrefix(
   tracker: ProgressTracker,
@@ -20,12 +21,10 @@ export async function scanPrefix(
 ): Promise<ScanResult> {
   const courts: CourtData[] = [];
   let totalRequests = 0;
-  let barBlock = 0;
   let bar = '';
 
   for (let bi = 0; bi < BLOCKS.length; bi++) {
-    const block = BLOCKS[bi];
-    const query = prefix + block;
+    const query = prefix + BLOCKS[bi];
 
     totalRequests++;
     await tracker.trackRequest();
@@ -35,25 +34,18 @@ export async function scanPrefix(
     addNewCourts(courts, results);
 
     if (results.length === 20) {
-      const deepened = await deepenBlock(tracker, prefix, block, courts);
-      totalRequests += deepened.requests;
+      const deepened = await deepenBlock(tracker, prefix, BLOCKS[bi], courts);
+      totalRequests += deepened;
     }
 
     bar += results.length > 0 ? '█' : '·';
-    barBlock++;
-
-    if (barBlock % 25 === 0 || bi === BLOCKS.length - 1) {
-      console.log(`   ${bar} ${bi + 1}/100`);
-      bar = '';
-    }
   }
 
-  // Сохраняем в файл
+  // Сохраняем
   savePrefixData(dataDir, prefix, courts);
-
   tracker.addFound(courts.length);
 
-  return { prefix, knownBefore: 0, found: courts.length, requests: totalRequests };
+  return { prefix, found: courts.length, requests: totalRequests };
 }
 
 async function deepenBlock(
@@ -61,17 +53,16 @@ async function deepenBlock(
   prefix: string,
   block: string,
   courts: CourtData[],
-): Promise<{ requests: number }> {
+): Promise<number> {
   let requests = 0;
   for (let d = 0; d <= 9; d++) {
-    const query = prefix + block + d;
     requests++;
     await tracker.trackRequest();
     const client = tracker.getClient();
-    const resp = await client.suggestCourt(query, { count: 20 });
+    const resp = await client.suggestCourt(prefix + block + d, { count: 20 });
     addNewCourts(courts, resp.suggestions.map(s => s.data));
   }
-  return { requests };
+  return requests;
 }
 
 function addNewCourts(storage: CourtData[], candidates: CourtData[]): void {

@@ -2,9 +2,8 @@ import { Registry } from '../core/Registry.js';
 import { ProgressTracker } from '../core/ProgressTracker.js';
 import { ALL_COURT_TYPES } from '../types/dadata.js';
 
-const REGIONS = Array.from({ length: 99 }, (_, i) => String(i + 1).padStart(2, '0'));
-
-const TOTAL = REGIONS.length * ALL_COURT_TYPES.length; // 1 386
+const REGIONS = Array.from({ length: 100 }, (_, i) => String(i).padStart(2, '0'));
+const TOTAL = REGIONS.length * ALL_COURT_TYPES.length; // 1 400
 
 export interface InventoryResult {
   total: number; found: number; empty: number; requests: number;
@@ -12,7 +11,7 @@ export interface InventoryResult {
 
 /**
  * Фаза 0: RRTT-инвентаризация.
- * Проверяет все 99×14 = 1 386 комбинаций регион+тип.
+ * Проверяет все 100×14 = 1 400 комбинаций регион+тип.
  */
 export async function runInventory(
   tracker: ProgressTracker,
@@ -50,6 +49,7 @@ export async function runInventory(
           updated: new Date().toISOString(),
         });
         found++;
+        tracker.addFound(1);
         bar += '📌';
       } else {
         registry.markEmpty(prefix);
@@ -63,7 +63,7 @@ export async function runInventory(
         bar = '';
       }
 
-      tracker.tick(1, undefined);
+      tracker.tick();
     }
   }
 

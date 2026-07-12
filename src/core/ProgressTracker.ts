@@ -4,6 +4,13 @@ import { KeyManager } from './KeyManager.js';
 /**
  * Прогресс-трекер: время, запросы, ключи, ETA.
  * Пробрасывается через всю цепочку — Inventory → SuperHard → BlockScan.
+ *
+ * Использование:
+ *   tracker.begin('Фаза', total)  — старт
+ *   tracker.tick()                 — одна единица работы (тихо)
+ *   tracker.log(msg)               — явный лог с таймстампом
+ *   tracker.end()                  — финиш
+ *   tracker.statusLine()           — компактная строка состояния
  */
 export class ProgressTracker {
   private km: KeyManager;
@@ -12,8 +19,6 @@ export class ProgressTracker {
   private phaseName = '';
   private phaseTotal = 0;
   private phaseDone = 0;
-  private lastLogTime = 0;
-  private logInterval = 5000;
   private globalRequests = 0;
   private globalFound = 0;
 
@@ -30,8 +35,7 @@ export class ProgressTracker {
     this.phaseTotal = total;
     this.phaseDone = 0;
     this.phaseStartTime = Date.now();
-    this.lastLogTime = 0;
-    this.log(`🚀 ${name}  ${total} items`);
+    this.log(`🚀 ${name} (${total})`);
   }
 
   end(): void {
@@ -39,16 +43,9 @@ export class ProgressTracker {
     this.log(`✅ ${this.phaseName} · ${this.phaseDone}/${this.phaseTotal} · ${elapsed}`);
   }
 
-  /** Одна единица работы */
-  tick(n = 1, itemName?: string): void {
+  /** Одна единица работы — тихо, без вывода */
+  tick(n = 1): void {
     this.phaseDone += n;
-    const now = Date.now();
-    if (itemName) {
-      this.log(itemName);
-    } else if (now - this.lastLogTime >= this.logInterval) {
-      this.autoLog();
-      this.lastLogTime = now;
-    }
   }
 
   // ── Проброс в KeyManager ─────────────────────────────────────
@@ -81,33 +78,38 @@ export class ProgressTracker {
 
   // ── Форматирование ───────────────────────────────────────────
 
-  /** Текущее состояние одной строкой */
+  /** Компактная строка: ⏱ время · 💳 ключ · 📊 суды · 📡 запросы */
   statusLine(): string {
-    const parts = [
-      `⏱ ${this.elapsed()}`,
-      this.phaseTotal > 0 ? `${this.phaseDone}/${this.phaseTotal}` : '',
+    return [
+      `⏱ ${this.fmt(this.elapsed())}`,
       `💳 ${this.keyInfo()}`,
-      `📊 ${this.globalFound} судов`,
+      `📊 ${this.globalFound} суд.`,
       `📡 ${this.globalRequests} запр.`,
-    ].filter(Boolean);
-    return parts.join(' · ');
+    ].join(' · ');
+  }
+
+  /** Строка прогресса фазы */
+  progressLine(): string {
+    if (this.phaseTotal === 0) return this.statusLine();
+    const pct = ((this.phaseDone / this.phaseTotal) * 100).toFixed(1);
+    const eta = this.eta() ? ` · ETA: ${this.eta()}` : '';
+    return `${this.phaseDone}/${this.phaseTotal} (${pct}%)${eta} · ${this.statusLine()}`;
   }
 
   /** ETA относительно текущей фазы */
   eta(): string | null {
     if (this.phaseDone === 0 || this.phaseTotal === 0) return null;
-    const elapsed = this.phaseElapsed();
-    const perItem = elapsed / this.phaseDone;
+    const perItem = this.phaseElapsed() / this.phaseDone;
     const remaining = Math.round(perItem * (this.phaseTotal - this.phaseDone));
     return this.fmt(remaining);
   }
 
-  /** Общее время от старта */
+  /** Общее время от старта (ms) */
   elapsed(): number {
     return Date.now() - this.startTime;
   }
 
-  /** Время текущей фазы */
+  /** Время текущей фазы (ms) */
   phaseElapsed(): number {
     return Date.now() - this.phaseStartTime;
   }
@@ -115,27 +117,20 @@ export class ProgressTracker {
   /** Информация о ключе */
   keyInfo(): string {
     const s = this.km.getStats();
-    const limit = this.km['limitPerKey'] ?? 9500;
+    const limit = (this.km as any)['limitPerKey'] ?? 9500;
     return `${s.currentKey} (${s.currentKeyRequests}/${limit})`;
   }
 
-  /** Лог с таймстампом */
+  /** Лог с таймстампом [HH:MM:SS] */
   log(msg: string): void {
-    const ts = new Date().toLocaleTimeString('ru-RU', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+    const ts = new Date().toLocaleTimeString('ru-RU', {
+      hour: '2-digit', minute: '2-digit', second: '2-digit',
+    });
     console.log(`[${ts}] ${msg}`);
   }
 
-  // ── Приватное ────────────────────────────────────────────────
-
-  private autoLog(): void {
-    if (this.phaseTotal > 0) {
-      const pct = ((this.phaseDone / this.phaseTotal) * 100).toFixed(1);
-      const eta = this.eta() ? `· ETA: ${this.eta()}` : '';
-      console.log(`   ${this.phaseDone}/${this.phaseTotal} (${pct}%) · ${this.statusLine()} ${eta}`);
-    }
-  }
-
-  private fmt(ms: number): string {
+  /** Форматирование ms в человекопонятный вид */
+  fmt(ms: number): string {
     const sec = Math.floor(ms / 1000);
     const min = Math.floor(sec / 60);
     const hr = Math.floor(min / 60);
