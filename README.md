@@ -3,8 +3,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-7.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-24-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![DaData API](https://img.shields.io/badge/DaData-API-F5692A)][dadata]
-[![CLI](https://img.shields.io/badge/CLI-commander-525252)][commander]
+[![DaData API](https://img.shields.io/badge/DaData-API-F5692A)](https://dadata.ru/api/suggest/court/)
+[![CLI](https://img.shields.io/badge/CLI-commander-525252)](https://github.com/tj/commander.js)
 [![GitHub last commit](https://img.shields.io/github/last-commit/AlexanderKuzikov/CourtHarvest2)](https://github.com/AlexanderKuzikov/CourtHarvest2)
 
 > **Эталонный справочник судов Российской Федерации.**  
@@ -35,7 +35,7 @@
 |-------------|----------|
 | 🔍 **Harvest** | Первичный сбор с нуля: RRTT-инвентаризация + блочный перебор MS/RS + одиночные типы |
 | 🚀 **SuperHard** | Тотальный перебор MS/RS по 100 блоков — гарантированная полнота |
-| 🔄 **Refresh** | 🧭 В режиме обсуждения |
+| 🔄 **Refresh** | Обновление registry: пересканирование known-префиксов, поиск новых и изменившихся записей |
 | 🔑 **Авто-ротация ключей** | До 4 API-ключей с автоматическим переключением при исчерпании лимита |
 | ⏱ **Rate limiting** | Bottleneck (20 req/s) + axios-retry (3 попытки, только сеть/5xx) |
 | 🛡 **Корректная ротация** | getClient-фабрика перед каждым запросом — ключ ротируется без потери запросов |
@@ -107,7 +107,7 @@ npm install
 
 ```bash
 keys/
-├── 1.env     # Резервный (не используется скриптами)
+├── 1.env     # Legacy (не используется, для совместимости)
 ├── 2.env     # Рабочий ключ
 ├── 3.env     # Дополнительный
 └── 4.env     # Дополнительный
@@ -130,9 +130,9 @@ DADATA_SECRET_KEY=ваш_secret_ключ
 
 ```
 Фаза 0: RRTT-инвентаризация
-  → probe(region + type) для всех 99×14 = 1 386 комбинаций
+  → probe(region + type) для всех 100×14 = 1 400 комбинаций
   → результат: known = [01RS, 01MS, …], empty = [01AI, …]
-  → ~1 386 запросов
+  → ~1 400 запросов
 
 Фаза 1: SuperHard MS/RS
   → для каждого known-префикса MS/RS: 100 блоков RRTT00–RRTT99
@@ -161,7 +161,7 @@ npm run superhard
 ```
 
 ```
-99 регионов × 2 типа × 100 блоков ≈ 20 000 запросов (2 ключа)
+100 регионов × 2 типа × 100 блоков ≈ 20 000 запросов (2 ключа)
 Раз в квартал — гарантированная полнота.
 ```
 
@@ -190,9 +190,9 @@ npx tsx src/index.ts stats
 ```
 01 RS 0001
 │  │   │
-│  │   └── Порядковый номер (0000–9999)
+│  │   └── Порядковый номер (0000–9999; для OS/GV/VS — всегда 0000)
 │  └────── Тип суда (RS, MS, AS, …)
-└───────── Код региона (01–99)
+└───────── Код региона (00–99)
 ```
 
 ### Типы судов

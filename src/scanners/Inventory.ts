@@ -22,7 +22,7 @@ export async function runInventory(
   let found = 0;
   let empty = 0;
   let requests = 0;
-  let bar = '';
+  const lastPrint = { done: 0 };
 
   for (const region of REGIONS) {
     for (const type of ALL_COURT_TYPES) {
@@ -32,6 +32,7 @@ export async function runInventory(
         if (registry.isKnown(prefix)) found++;
         else empty++;
         tracker.tick();
+        printProgress(found, empty, TOTAL, lastPrint);
         continue;
       }
 
@@ -50,28 +51,32 @@ export async function runInventory(
         });
         found++;
         tracker.addFound(1);
-        bar += '📌';
       } else {
         registry.markEmpty(prefix);
         empty++;
-        bar += '·';
-      }
-
-      const done = found + empty;
-      if (done % 50 === 0) {
-        console.log(`   ${bar}  ${done}/${TOTAL}`);
-        bar = '';
       }
 
       tracker.tick();
+      printProgress(found, empty, TOTAL, lastPrint);
     }
   }
 
-  if (bar) console.log(`   ${bar}  ${TOTAL}/${TOTAL}`);
-
+  // Финальная строка прогресса
+  const elapsed = tracker.fmt(tracker.phaseElapsed());
   tracker.end();
-  console.log(`   📊 known: ${found}, empty: ${empty}, запросов: ${requests}`);
-  console.log(`   ${tracker.statusLine()}\n`);
+  process.stdout.write(`\r   [${String(TOTAL).padStart(4)}/${TOTAL}] known: ${found}, empty: ${empty} · ${elapsed}\n`);
+  console.log(`   💳 ${tracker.keyInfo()}\n`);
 
   return { total: TOTAL, found, empty, requests };
+}
+
+/** Вывод прогресса одной строкой с \r (перезапись) */
+function printProgress(found: number, empty: number, total: number, last: { done: number }): void {
+  const done = found + empty;
+  // Печатаем каждые 50 или на последнем
+  if (done === total || done - last.done >= 50) {
+    const pct = ((done / total) * 100).toFixed(0);
+    process.stdout.write(`\r   [${String(done).padStart(4)}/${total}] known: ${found}, empty: ${empty} · ${pct}%`);
+    last.done = done;
+  }
 }

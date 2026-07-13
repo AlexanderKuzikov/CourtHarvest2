@@ -48,9 +48,6 @@ export async function runSuperHard(opts: SuperHardOptions): Promise<SuperHardRes
     const prefix = heavyPrefixes[i];
     const t0 = Date.now();
 
-    // Показываем бар сканирования
-    process.stdout.write(`[${i + 1}/${heavyPrefixes.length}] ${prefix}  `);
-
     const result = await scanPrefix(opts.tracker, prefix, opts.dataDir);
 
     // Обновляем registry
@@ -64,9 +61,9 @@ export async function runSuperHard(opts: SuperHardOptions): Promise<SuperHardRes
     results.push(result);
 
     const elapsed = ((Date.now() - t0) / 1000).toFixed(0);
-    opts.tracker.log(
-      `${prefix}: ${result.found} суд. · ${result.requests} запр. · ${elapsed}с · всего: ${totalCourts} суд. · ${opts.tracker.progressLine()}`
-    );
+    const idx = `[${String(i + 1).padStart(3)}/${String(heavyPrefixes.length).padStart(3)}]`;
+    const eta = opts.tracker.eta() ? ` · ETA: ${opts.tracker.eta()}` : '';
+    console.log(`   ${idx} ${prefix}  →  ${String(result.found).padStart(4)} суд.  ·  ${String(result.requests).padStart(3)} запр.  ·  ${elapsed}с${eta}`);
 
     opts.tracker.tick();
   }

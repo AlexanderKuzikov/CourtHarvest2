@@ -2,7 +2,7 @@
 import './env.js';
 import { Command } from 'commander';
 import { join } from 'path';
-import { writeFileSync, readFileSync, existsSync } from 'fs';
+import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
 import { KeyManager } from './core/KeyManager.js';
 import { Registry } from './core/Registry.js';
 import { ProgressTracker } from './core/ProgressTracker.js';
@@ -56,44 +56,47 @@ program
     if (singlePrefixes.length > 0) {
       tracker.begin('Фаза 2: одиночные типы', singlePrefixes.length);
 
+      const foundByType: Record<string, number> = {};
+
       for (const prefix of singlePrefixes) {
-        process.stdout.write(`   ${prefix}: `);
         try {
+          await tracker.trackRequest();
           const client = tracker.getClient();
           const resp = await client.suggestCourt(prefix, { count: 20 });
 
-          let found = 0;
-          for (const s of resp.suggestions) {
-            const court = s.data;
-            if (court.code && court.code.startsWith(prefix)) {
-              found++;
-            }
-          }
+          const courts = resp.suggestions
+            .map((s: any) => s.data)
+            .filter((d: any) => d.code && d.code.startsWith(prefix));
 
-          if (found > 0) {
-            registry.updateMeta(prefix, {
-              count: found,
-              scanned: true,
-            });
-            const codes = resp.suggestions
-              .filter((s: any) => s.data.code?.startsWith(prefix))
-              .map((s: any) => s.data.code)
-              .join(', ');
-            tracker.addFound(found);
-            console.log(`✅ ${found} суд. (${codes})`);
-          } else {
-            console.log(`· пусто`);
-          }
+          const found = courts.length;
+          tracker.addFound(found);
 
-          await tracker.trackRequest();
+          // Сохраняем prefix-файл (даже пустой — чтобы courts.json знал, что проверено)
+          const pDir = join(DATA_DIR, 'prefixes');
+          mkdirSync(pDir, { recursive: true });
+          writeFileSync(join(pDir, `${prefix}.json`), JSON.stringify(courts, null, 2));
+
+          registry.updateMeta(prefix, {
+            count: found,
+            scanned: true,
+          });
+
+          const type = prefix.slice(2, 4);
+          foundByType[type] = (foundByType[type] || 0) + found;
         } catch (e: any) {
-          console.log(`⚠️  ${e.message}`);
+          tracker.log(`⚠️  ${prefix}: ${e.message}`);
           break;
         }
         tracker.tick();
       }
 
       tracker.end();
+      // Итоговая строка по типам
+      const byTypeStr = Object.entries(foundByType)
+        .sort(([a], [b]) => a.localeCompare(b))
+        .map(([t, n]) => `${t}: ${n}`)
+        .join(', ');
+      tracker.log(`📋 Одиночные типы: ${byTypeStr}`);
     }
 
     // ── Фаза 3: Сборка courts.json ───────────────────────────
@@ -129,17 +132,50 @@ program
     const final = registry.getStats();
     const totalTime = tracker.fmt(tracker.elapsed());
 
-    console.log('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-    console.log('📊 ИТОГИ HARVEST');
-    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-    console.log(`   ⏱  Время:               ${totalTime}`);
-    console.log(`   🏛  Судей в courts.json:  ${allCourts.length}`);
-    console.log(`   📋  Префиксов known:     ${final.known}`);
-    console.log(`   🔳  Префиксов empty:     ${final.empty}`);
-    console.log(`   ✅  Отсканировано:       ${final.scanned}/${final.known}`);
-    console.log(`   💳  ${tracker.statusLine()}`);
-    console.log(`   📁  ${ASSEMBLED_PATH}`);
-    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+    // Считаем суды по типам
+    const byType: Record<string, number> = {};
+    for (const c of allCourts) {
+      const t = c.court_type || '?';
+      byType[t] = (byType[t] || 0) + 1;
+    }
+    const typeEntries = Object.entries(byType).sort(([a], [b]) => a.localeCompare(b));
+    const maxTypeCol = Math.max(...typeEntries.map(([t]) => t.length), 2) + 2;
+
+    // Формируем блок вывода (и для консоли, и для лога)
+    const reportLines: string[] = [];
+
+    function rl(line = '') { reportLines.push(line); }
+
+    rl('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+    rl('📊  ИТОГИ HARVEST');
+    rl('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+    rl(`  ⏱  Общее время:         ${totalTime}`);
+    rl('');
+    rl('  📋  Префиксы');
+    rl(`       known:  ${String(final.known).padStart(4)}   empty:  ${String(final.empty).padStart(4)}`);
+    const scanPct = final.known > 0 ? ((final.scanned / final.known) * 100).toFixed(1) : '0.0';
+    rl(`       scanned: ${final.scanned}/${final.known} (${scanPct}%)`);
+    rl('');
+    rl('  🏛  Судей по типам');
+    for (const [type, count] of typeEntries) {
+      rl(`       ${type.padEnd(maxTypeCol)} ${String(count).padStart(6)}`);
+    }
+    rl(`       ${''.padEnd(maxTypeCol)} ───────`);
+    rl(`       ${'ВСЕГО'.padEnd(maxTypeCol)} ${String(allCourts.length).padStart(6)}`);
+    rl('');
+    rl(`  💳  Ключи: ${tracker.keyInfo()}`);
+    rl(`  📁  ${ASSEMBLED_PATH}`);
+    rl('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+
+    // Вывод в консоль
+    console.log('\n' + reportLines.join('\n') + '\n');
+
+    // Сохранение в лог-файл
+    const logDir = join(process.cwd(), 'data', 'logs');
+    mkdirSync(logDir, { recursive: true });
+    const logFile = join(logDir, `${new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19)}.log`);
+    writeFileSync(logFile, reportLines.join('\n'), 'utf-8');
+    console.log(`   📄 Лог: ${logFile}\n`);
   });
 
 // ── superhard ────────────────────────────────────────────────
